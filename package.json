@@ -1,0 +1,19 @@
+{
+  "name": "hamdata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aussiegeek/hamdata.git",
+  "author": "Alan Harper <475+aussiegeek@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "ts-node": "^10.3.0"
+  },
+  "dependencies": {
+    "@types/node": "^16.0.0",
+    "@types/papaparse": "^5.3.0",
+    "node-stream-zip": "^1.15.0",
+    "papaparse": "^5.3.1",
+    "typescript": "^4.5.0"
+  }
+}
