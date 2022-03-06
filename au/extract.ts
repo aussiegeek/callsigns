@@ -21,7 +21,7 @@ const headers = [
 ];
 
 async function extract() {
-  const zip = new StreamZip.async({ file: "au/spectra_rrl.zip" });
+  const zip = new StreamZip.async({ file: "spectra_rrl.zip" });
 
   const licence_by_client: Record<
     string,
@@ -109,7 +109,7 @@ async function extract() {
     return 0;
   });
 
-  fs.writeFileSync("au/callsigns.json", JSON.stringify(devices, null, 2));
+  fs.writeFileSync("callsigns.json", JSON.stringify(devices, null, 2));
 }
 
 extract();
