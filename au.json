@@ -8738,9 +8738,9 @@
   {
     "category": "Advanced",
     "name": "AJ Greig",
-    "suburb": "MIRANDA",
+    "suburb": "HELENSBURGH",
     "state": "NSW",
-    "postcode": "2228",
+    "postcode": "2508",
     "callsign": "VK2BTU"
   },
   {
@@ -40793,14 +40793,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Sandeep Purushan",
-    "suburb": "TARINGA",
-    "state": "QLD",
-    "postcode": "4068",
-    "callsign": "VK2WXW"
-  },
-  {
-    "category": "Advanced",
     "name": "Lindsay Murphy",
     "suburb": "TAMWORTH",
     "state": "NSW",
@@ -45230,6 +45222,14 @@
     "state": "VIC",
     "postcode": "3146",
     "callsign": "VK3ADG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Martin Griffin",
+    "suburb": "CROYDON",
+    "state": "VIC",
+    "postcode": "3136",
+    "callsign": "VK3ADH"
   },
   {
     "category": "Foundation",
@@ -50150,6 +50150,14 @@
     "state": "VIC",
     "postcode": "3815",
     "callsign": "VK3CL"
+  },
+  {
+    "category": "Advanced",
+    "name": "Craig Dumesny",
+    "suburb": "Heywood",
+    "state": "VIC",
+    "postcode": "3304",
+    "callsign": "VK3CLD"
   },
   {
     "category": "Advanced",
@@ -62566,6 +62574,14 @@
     "state": "VIC",
     "postcode": "3568",
     "callsign": "VK3KDU"
+  },
+  {
+    "category": "Standard",
+    "name": "James Marsh",
+    "suburb": "Peterson Lakes",
+    "state": "VIC",
+    "postcode": "3197",
+    "callsign": "VK3KDX"
   },
   {
     "category": "Advanced",
@@ -96682,9 +96698,9 @@
   {
     "category": "Advanced",
     "name": "Peter J Richens",
-    "suburb": "ALGESTER",
+    "suburb": "NEW BEITH",
     "state": "QLD",
-    "postcode": "4115",
+    "postcode": "4124",
     "callsign": "VK4FSD"
   },
   {
@@ -144208,14 +144224,6 @@
     "callsign": "VK7FLED"
   },
   {
-    "category": "Advanced",
-    "name": "Alvin de Quincey",
-    "suburb": "LAUNCESTON",
-    "state": "TAS",
-    "postcode": "7250",
-    "callsign": "VK7FLI"
-  },
-  {
     "category": "Foundation",
     "name": "Leon Russell",
     "suburb": "HIGHCLERE",
@@ -147265,7 +147273,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
@@ -147273,7 +147281,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
@@ -147281,7 +147289,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
@@ -147289,7 +147297,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
@@ -147297,7 +147305,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
@@ -147305,7 +147313,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
@@ -149329,7 +149337,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Clayton John Reading",
+    "name": "Clayton Reading",
     "suburb": "LENAH VALLEY",
     "state": "TAS",
     "postcode": "7008",
