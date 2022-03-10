@@ -8608,14 +8608,6 @@
     "callsign": "VK2BSP"
   },
   {
-    "category": "Foundation",
-    "name": "Brian Keogh",
-    "suburb": "HENTY",
-    "state": "NSW",
-    "postcode": "2658",
-    "callsign": "VK2BSR"
-  },
-  {
     "category": "Advanced",
     "name": "William Stofmeel",
     "suburb": "PORT MACQUARIE",
@@ -10809,6 +10801,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Dianne Sharp",
+    "suburb": "TERRANORA",
+    "state": "NSW",
+    "postcode": "2486",
+    "callsign": "VK2DEA"
+  },
+  {
+    "category": "Foundation",
     "name": "Mark Sweet",
     "suburb": "QUEANBEYAN EAST",
     "state": "NSW",
@@ -11142,6 +11142,14 @@
     "state": "NSW",
     "postcode": "2325",
     "callsign": "VK2DJP"
+  },
+  {
+    "category": "Foundation",
+    "name": "Daniel Rae",
+    "suburb": "MILPERRA",
+    "state": "NSW",
+    "postcode": "2214",
+    "callsign": "VK2DJR"
   },
   {
     "category": "Advanced",
@@ -12142,6 +12150,14 @@
     "state": "NSW",
     "postcode": "2289",
     "callsign": "VK2EBA"
+  },
+  {
+    "category": "Standard",
+    "name": "Robert Hodkinson",
+    "suburb": "YANDERRA",
+    "state": "NSW",
+    "postcode": "2574",
+    "callsign": "VK2EBH"
   },
   {
     "category": "Advanced",
@@ -25736,6 +25752,14 @@
     "callsign": "VK2MLB"
   },
   {
+    "category": "Foundation",
+    "name": "Morgan Costello",
+    "suburb": "EDEN CREEK",
+    "state": "NSW",
+    "postcode": "2474",
+    "callsign": "VK2MLC"
+  },
+  {
     "category": "Standard",
     "name": "Michael Duggan",
     "suburb": "DAPTO",
@@ -36929,6 +36953,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Stefano Dassakis",
+    "suburb": "AMBARVALE",
+    "state": "NSW",
+    "postcode": "2560",
+    "callsign": "VK2SSD"
+  },
+  {
+    "category": "Foundation",
     "name": "Michael Farrell",
     "suburb": "Liverpool",
     "state": "NSW",
@@ -39984,14 +40016,6 @@
     "callsign": "VK2VXU"
   },
   {
-    "category": "Advanced",
-    "name": "J McDonagh",
-    "suburb": "PORT MACQUARIE",
-    "state": "NSW",
-    "postcode": "2444",
-    "callsign": "VK2VY"
-  },
-  {
     "category": "Standard",
     "name": "RD French",
     "suburb": "BLACKTOWN",
@@ -41126,6 +41150,14 @@
     "state": "NSW",
     "postcode": "2229",
     "callsign": "VK2XEY"
+  },
+  {
+    "category": "Advanced",
+    "name": "Gary Reeve",
+    "suburb": "COROWA",
+    "state": "NSW",
+    "postcode": "2646",
+    "callsign": "VK2XF"
   },
   {
     "category": "Advanced",
@@ -45014,14 +45046,6 @@
     "state": "VIC",
     "postcode": "3067",
     "callsign": "VK3ACH"
-  },
-  {
-    "category": "Foundation",
-    "name": "Daniel Cook",
-    "suburb": "YINNAR",
-    "state": "VIC",
-    "postcode": "3869",
-    "callsign": "VK3ACI"
   },
   {
     "category": "Advanced",
@@ -51680,6 +51704,14 @@
     "callsign": "VK3DKP"
   },
   {
+    "category": "Advanced",
+    "name": "Dean Lamson",
+    "suburb": "WAURN PONDS",
+    "state": "VIC",
+    "postcode": "3216",
+    "callsign": "VK3DL"
+  },
+  {
     "category": "Foundation",
     "name": "Matthew Jones",
     "suburb": "SURREY HILLS NORTH",
@@ -52488,7 +52520,7 @@
     "callsign": "VK3DZB"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "David Le Blanc",
     "suburb": "ASHBURTON",
     "state": "VIC",
@@ -56894,6 +56926,14 @@
     "state": "VIC",
     "postcode": "3850",
     "callsign": "VK3FOBG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Finbar OHANLAN",
+    "suburb": "PORT MELBOURNE",
+    "state": "VIC",
+    "postcode": "3207",
+    "callsign": "VK3FOH"
   },
   {
     "category": "Foundation",
@@ -65105,6 +65145,14 @@
   },
   {
     "category": "Standard",
+    "name": "Michael Elliott",
+    "suburb": "MINERS REST",
+    "state": "VIC",
+    "postcode": "3352",
+    "callsign": "VK3MKL"
+  },
+  {
+    "category": "Advanced",
     "name": "Michael Elliott",
     "suburb": "MINERS REST",
     "state": "VIC",
@@ -80912,6 +80960,14 @@
     "callsign": "VK3TKB"
   },
   {
+    "category": "Foundation",
+    "name": "Clementine Brown Dufour Lamartinle",
+    "suburb": "RESERVOIR",
+    "state": "VIC",
+    "postcode": "3073",
+    "callsign": "VK3TKD"
+  },
+  {
     "category": "Advanced",
     "name": "G Wyhoon",
     "suburb": "KORUMBURRA",
@@ -89152,6 +89208,14 @@
     "callsign": "VK4AI"
   },
   {
+    "category": "Foundation",
+    "name": "Justin Sawell",
+    "suburb": "BUNDABERG NORTH",
+    "state": "QLD",
+    "postcode": "4670",
+    "callsign": "VK4AIE"
+  },
+  {
     "category": "Advanced",
     "name": "Ivan Killalea",
     "suburb": "KEW",
@@ -89958,6 +90022,14 @@
     "state": "QLD",
     "postcode": "4171",
     "callsign": "VK4ARD"
+  },
+  {
+    "category": "Advanced",
+    "name": "Richard Egan",
+    "suburb": "DURACK",
+    "state": "QLD",
+    "postcode": "4077",
+    "callsign": "VK4ARE"
   },
   {
     "category": "Foundation",
@@ -93278,6 +93350,14 @@
     "state": "QLD",
     "postcode": "4562",
     "callsign": "VK4DO"
+  },
+  {
+    "category": "Foundation",
+    "name": "Danny Pearsall",
+    "suburb": "RUSSELL ISLAND",
+    "state": "QLD",
+    "postcode": "4184",
+    "callsign": "VK4DOA"
   },
   {
     "category": "Foundation",
@@ -102776,6 +102856,14 @@
     "callsign": "VK4MWL"
   },
   {
+    "category": "Advanced",
+    "name": "Michael Lanagan",
+    "suburb": "WISHART",
+    "state": "QLD",
+    "postcode": "4122",
+    "callsign": "VK4MWL"
+  },
+  {
     "category": "Foundation",
     "name": "Mark Wallace Rodgers",
     "suburb": "IMBIL",
@@ -104166,14 +104254,6 @@
     "state": "QLD",
     "postcode": "4818",
     "callsign": "VK4PJH"
-  },
-  {
-    "category": "Standard",
-    "name": "MJ Moore",
-    "suburb": "BUXTON",
-    "state": "QLD",
-    "postcode": "4660",
-    "callsign": "VK4PJS"
   },
   {
     "category": "Advanced",
@@ -112416,6 +112496,14 @@
     "callsign": "VK4TY"
   },
   {
+    "category": "Foundation",
+    "name": "John Tytherleigh",
+    "suburb": "BRIGHTON",
+    "state": "QLD",
+    "postcode": "4017",
+    "callsign": "VK4TYT"
+  },
+  {
     "category": "Advanced",
     "name": "Alan Connew",
     "suburb": "DALVEEN",
@@ -118392,6 +118480,14 @@
     "callsign": "VK5DC"
   },
   {
+    "category": "Foundation",
+    "name": "Debbie Rieger",
+    "suburb": "WHYALLA",
+    "state": "SA",
+    "postcode": "5600",
+    "callsign": "VK5DCR"
+  },
+  {
     "category": "Advanced",
     "name": "Duncan Campbell-Wilson",
     "suburb": "WOODCHESTER",
@@ -121782,6 +121878,14 @@
     "state": "SA",
     "postcode": "5290",
     "callsign": "VK5JR"
+  },
+  {
+    "category": "Foundation",
+    "name": "Joseph East",
+    "suburb": "KUDLA",
+    "state": "SA",
+    "postcode": "5115",
+    "callsign": "VK5JRE"
   },
   {
     "category": "Advanced",
@@ -137920,6 +138024,62 @@
     "callsign": "VK6RBS"
   },
   {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RBS"
+  },
+  {
     "category": "Amateur Repeater",
     "name": "South West Amateur Radio Group",
     "suburb": "BOYANUP",
@@ -139312,6 +139472,46 @@
     "callsign": "VK6RPH"
   },
   {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RPH"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RPH"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RPH"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RPH"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RPH"
+  },
+  {
     "category": "Amateur Repeater",
     "name": "Mark Lucas",
     "suburb": "SINAGRA",
@@ -139590,6 +139790,46 @@
     "state": "WA",
     "postcode": "6016",
     "callsign": "VK6RSH"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RSP"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RSP"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RSP"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RSP"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "West Australian VHF Group Inc",
+    "suburb": "APPLECROSS",
+    "state": "WA",
+    "postcode": "6953",
+    "callsign": "VK6RSP"
   },
   {
     "category": "Amateur Beacon",
@@ -149418,9 +149658,9 @@
   {
     "category": "Advanced",
     "name": "Geoffrey Charles Wickham",
-    "suburb": "WYNYARD",
+    "suburb": "SMITHTON",
     "state": "TAS",
-    "postcode": "7325",
+    "postcode": "7330",
     "callsign": "VK7ZGW"
   },
   {
@@ -149806,6 +150046,14 @@
     "state": "NT",
     "postcode": "0812",
     "callsign": "VK8CD"
+  },
+  {
+    "category": "Advanced",
+    "name": "David Jefferis Staples",
+    "suburb": "COOLALINGA",
+    "state": "NT",
+    "postcode": "0839",
+    "callsign": "VK8CQ"
   },
   {
     "category": "Advanced",
