@@ -2896,6 +2896,14 @@
     "callsign": "VK1NK"
   },
   {
+    "category": "Foundation",
+    "name": "Norman Sutton",
+    "suburb": "MONCRIEFF",
+    "state": "ACT",
+    "postcode": "2914",
+    "callsign": "VK1NLS"
+  },
+  {
     "category": "Advanced",
     "name": "Neil Malcolm Pickford",
     "suburb": "JAMISON CENTRE",
@@ -11216,6 +11224,14 @@
     "callsign": "VK2DL"
   },
   {
+    "category": "Standard",
+    "name": "Geoffrey William Gray",
+    "suburb": "BANORA POINT",
+    "state": "NSW",
+    "postcode": "2486",
+    "callsign": "VK2DLA"
+  },
+  {
     "category": "Foundation",
     "name": "Geoffrey William Gray",
     "suburb": "BANORA POINT",
@@ -19240,6 +19256,14 @@
     "callsign": "VK2GW"
   },
   {
+    "category": "Foundation",
+    "name": "Peter Smith",
+    "suburb": "MUDGEE",
+    "state": "NSW",
+    "postcode": "2850",
+    "callsign": "VK2GWB"
+  },
+  {
     "category": "Standard",
     "name": "Gregory Cole",
     "suburb": "CASINO",
@@ -22510,6 +22534,14 @@
     "state": "NSW",
     "postcode": "2620",
     "callsign": "VK2JRM"
+  },
+  {
+    "category": "Standard",
+    "name": "John Messner",
+    "suburb": "KIANGA",
+    "state": "NSW",
+    "postcode": "2546",
+    "callsign": "VK2JRO"
   },
   {
     "category": "Advanced",
@@ -25854,6 +25886,14 @@
     "state": "NSW",
     "postcode": "2325",
     "callsign": "VK2MOD"
+  },
+  {
+    "category": "Foundation",
+    "name": "Joel Moerkerk",
+    "suburb": "MUDGEE",
+    "state": "NSW",
+    "postcode": "2850",
+    "callsign": "VK2MOE"
   },
   {
     "category": "Standard",
@@ -43537,6 +43577,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Filip Zalio",
+    "suburb": "ROUSE HILL",
+    "state": "NSW",
+    "postcode": "2155",
+    "callsign": "VK2ZJ"
+  },
+  {
+    "category": "Advanced",
     "name": "Jesse Brain",
     "suburb": "PICTON",
     "state": "NSW",
@@ -44432,6 +44480,14 @@
     "callsign": "VK2ZZG"
   },
   {
+    "category": "Foundation",
+    "name": "Sam Aloschi",
+    "suburb": "CASTLE HILL",
+    "state": "NSW",
+    "postcode": "2154",
+    "callsign": "VK2ZZH"
+  },
+  {
     "category": "Advanced",
     "name": "Mark Ellis",
     "suburb": "MILLFIELD",
@@ -45278,6 +45334,14 @@
     "state": "VIC",
     "postcode": "3802",
     "callsign": "VK3ADM"
+  },
+  {
+    "category": "Foundation",
+    "name": "Ayden Linford",
+    "suburb": "MORWELL",
+    "state": "VIC",
+    "postcode": "3840",
+    "callsign": "VK3ADN"
   },
   {
     "category": "Foundation",
@@ -50048,6 +50112,14 @@
     "callsign": "VK3CJ"
   },
   {
+    "category": "Foundation",
+    "name": "Christopher Adlington",
+    "suburb": "DROMANA",
+    "state": "VIC",
+    "postcode": "3936",
+    "callsign": "VK3CJA"
+  },
+  {
     "category": "Advanced",
     "name": "Panagiotis Savvaidis",
     "suburb": "CLARINDA",
@@ -52310,6 +52382,14 @@
     "state": "VIC",
     "postcode": "3089",
     "callsign": "VK3DVA"
+  },
+  {
+    "category": "Foundation",
+    "name": "David Basset",
+    "suburb": "DRYSDALE",
+    "state": "VIC",
+    "postcode": "3222",
+    "callsign": "VK3DVB"
   },
   {
     "category": "Advanced",
@@ -59306,9 +59386,9 @@
   {
     "category": "Standard",
     "name": "Ashley Stephen Geelan",
-    "suburb": "RESERVOIR",
+    "suburb": "KINGLAKE",
     "state": "VIC",
-    "postcode": "3073",
+    "postcode": "3763",
     "callsign": "VK3HAG"
   },
   {
@@ -83248,6 +83328,14 @@
     "callsign": "VK3VPM"
   },
   {
+    "category": "Foundation",
+    "name": "James Mutch",
+    "suburb": "HORSHAM",
+    "state": "VIC",
+    "postcode": "3400",
+    "callsign": "VK3VPN"
+  },
+  {
     "category": "Standard",
     "name": "Kelvin J West",
     "suburb": "KYABRAM",
@@ -99329,6 +99417,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Peter Stevens",
+    "suburb": "LOGAN CENTRAL",
+    "state": "QLD",
+    "postcode": "4114",
+    "callsign": "VK4IO"
+  },
+  {
+    "category": "Advanced",
     "name": "Reinhold Hans Schmidt",
     "suburb": "BELMONT",
     "state": "QLD",
@@ -102462,6 +102558,14 @@
     "state": "QLD",
     "postcode": "4165",
     "callsign": "VK4MKE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Matthew Vaughan",
+    "suburb": "REDLYNCH",
+    "state": "QLD",
+    "postcode": "4870",
+    "callsign": "VK4MKV"
   },
   {
     "category": "Standard",
@@ -125040,54 +125144,6 @@
     "callsign": "VK5RBT"
   },
   {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
     "category": "Amateur Beacon",
     "name": "Barossa Amateur Radio Club Inc",
     "suburb": "ANGASTON",
@@ -125113,6 +125169,54 @@
   },
   {
     "category": "Amateur Beacon",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "Barossa Amateur Radio Club Inc",
     "suburb": "ANGASTON",
     "state": "SA",
@@ -133286,6 +133390,14 @@
     "state": "WA",
     "postcode": "6330",
     "callsign": "VK6GE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Garry McCahon",
+    "suburb": "CARNARVON",
+    "state": "WA",
+    "postcode": "6701",
+    "callsign": "VK6GEM"
   },
   {
     "category": "Advanced",
@@ -143288,6 +143400,14 @@
     "callsign": "VK7AJ"
   },
   {
+    "category": "Foundation",
+    "name": "Aiva Trask",
+    "suburb": "HUONVILLE",
+    "state": "TAS",
+    "postcode": "7109",
+    "callsign": "VK7AKT"
+  },
+  {
     "category": "Advanced",
     "name": "Andrew Lloyd Welch",
     "suburb": "KINGSTON",
@@ -144462,6 +144582,14 @@
     "state": "TAS",
     "postcode": "7215",
     "callsign": "VK7FLED"
+  },
+  {
+    "category": "Standard",
+    "name": "Gavin Barnes",
+    "suburb": "LADY BARRON",
+    "state": "TAS",
+    "postcode": "7255",
+    "callsign": "VK7FLI"
   },
   {
     "category": "Foundation",
