@@ -93658,9 +93658,9 @@
   {
     "category": "Advanced",
     "name": "David Selby",
-    "suburb": "TINANA",
-    "state": "QLD",
-    "postcode": "4650",
+    "suburb": "CRANBOURNE",
+    "state": "VIC",
+    "postcode": "3977",
     "callsign": "VK4DWS"
   },
   {
@@ -114058,9 +114058,9 @@
   {
     "category": "Advanced",
     "name": "David Selby",
-    "suburb": "TINANA",
-    "state": "QLD",
-    "postcode": "4650",
+    "suburb": "CRANBOURNE",
+    "state": "VIC",
+    "postcode": "3977",
     "callsign": "VK4WP"
   },
   {
@@ -136472,14 +136472,6 @@
     "callsign": "VK6NRT"
   },
   {
-    "category": "Advanced",
-    "name": "Noel Brian Sanders",
-    "suburb": "Kalgoorlie",
-    "state": "WA",
-    "postcode": "6430",
-    "callsign": "VK6NS"
-  },
-  {
     "category": "Standard",
     "name": "Daryl Tanner",
     "suburb": "COLLIE",
@@ -143065,7 +143057,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Johan Francois De Kock",
+    "name": "Johan Francois de Kock",
     "suburb": "GREENFIELDS",
     "state": "WA",
     "postcode": "6210",
@@ -145094,14 +145086,6 @@
     "state": "TAS",
     "postcode": "7310",
     "callsign": "VK7HCK"
-  },
-  {
-    "category": "Advanced",
-    "name": "Helene Mary Dowd",
-    "suburb": "Kings Meadows",
-    "state": "TAS",
-    "postcode": "7249",
-    "callsign": "VK7HD"
   },
   {
     "category": "Standard",
