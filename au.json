@@ -11224,7 +11224,7 @@
     "callsign": "VK2DL"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Geoffrey William Gray",
     "suburb": "BANORA POINT",
     "state": "NSW",
@@ -11232,7 +11232,7 @@
     "callsign": "VK2DLA"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Geoffrey William Gray",
     "suburb": "BANORA POINT",
     "state": "NSW",
@@ -52064,7 +52064,7 @@
     "callsign": "VK3DPG"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -52072,7 +52072,7 @@
     "callsign": "VK3DPH"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -65216,7 +65216,7 @@
     "callsign": "VK3MKE"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Michael Elliott",
     "suburb": "MINERS REST",
     "state": "VIC",
@@ -65224,7 +65224,7 @@
     "callsign": "VK3MKL"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Michael Elliott",
     "suburb": "MINERS REST",
     "state": "VIC",
@@ -125136,6 +125136,54 @@
     "callsign": "VK5RBT"
   },
   {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Barossa Amateur Radio Club Inc",
+    "suburb": "ANGASTON",
+    "state": "SA",
+    "postcode": "5353",
+    "callsign": "VK5RBV"
+  },
+  {
     "category": "Amateur Beacon",
     "name": "Barossa Amateur Radio Club Inc",
     "suburb": "ANGASTON",
@@ -125161,54 +125209,6 @@
   },
   {
     "category": "Amateur Beacon",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Barossa Amateur Radio Club Inc",
-    "suburb": "ANGASTON",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK5RBV"
-  },
-  {
-    "category": "Amateur Repeater",
     "name": "Barossa Amateur Radio Club Inc",
     "suburb": "ANGASTON",
     "state": "SA",
@@ -141720,7 +141720,7 @@
     "callsign": "VK6WJ"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
@@ -141728,7 +141728,7 @@
     "callsign": "VK6WJH"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
