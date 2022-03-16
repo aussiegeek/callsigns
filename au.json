@@ -4353,14 +4353,6 @@
   },
   {
     "category": "Advanced",
-    "name": "The Wireless Institute of Australia",
-    "suburb": "BAYSWATER",
-    "state": "VIC",
-    "postcode": "3153",
-    "callsign": "VK20HOME"
-  },
-  {
-    "category": "Advanced",
     "name": "Thomas Upton",
     "suburb": "DUBBO EAST",
     "state": "NSW",
@@ -73000,102 +72992,6 @@
     "callsign": "VK3RMG"
   },
   {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
     "category": "Amateur Beacon",
     "name": "North East Radio Group Inc",
     "suburb": "GREENSBOROUGH",
@@ -73121,6 +73017,102 @@
   },
   {
     "category": "Amateur Beacon",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "North East Radio Group Inc",
     "suburb": "GREENSBOROUGH",
     "state": "VIC",
@@ -79194,17 +79186,17 @@
   {
     "category": "Amateur Repeater",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3RWV"
   },
   {
     "category": "Amateur Repeater",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3RWV"
   },
   {
@@ -79850,25 +79842,25 @@
   {
     "category": "Advanced",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3SIR"
   },
   {
     "category": "Advanced",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3SIR"
   },
   {
     "category": "Advanced",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3SIR"
   },
   {
@@ -83170,17 +83162,17 @@
   {
     "category": "Advanced",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3VM"
   },
   {
     "category": "Advanced",
     "name": "Stephen Ireland",
-    "suburb": "WARRNAMBOOL",
+    "suburb": "HUGHESDALE",
     "state": "VIC",
-    "postcode": "3280",
+    "postcode": "3166",
     "callsign": "VK3VM"
   },
   {
