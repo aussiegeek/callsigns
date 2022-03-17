@@ -4888,6 +4888,14 @@
     "callsign": "VK2ACK"
   },
   {
+    "category": "Foundation",
+    "name": "John Wildy",
+    "suburb": "HAZELBROOK",
+    "state": "NSW",
+    "postcode": "2779",
+    "callsign": "VK2ACL"
+  },
+  {
     "category": "Advanced",
     "name": "Clinton Maile",
     "suburb": "MOOREBANK",
@@ -4942,6 +4950,14 @@
     "state": "NSW",
     "postcode": "2650",
     "callsign": "VK2ACT"
+  },
+  {
+    "category": "Foundation",
+    "name": "Sarah Zwajgenberg",
+    "suburb": "MENAI",
+    "state": "NSW",
+    "postcode": "2234",
+    "callsign": "VK2ACU"
   },
   {
     "category": "Advanced",
@@ -5914,7 +5930,7 @@
   {
     "category": "Advanced",
     "name": "Paul William Blackbourn",
-    "suburb": "NORTH KELLYVILLE",
+    "suburb": "Kellyville",
     "state": "NSW",
     "postcode": "2155",
     "callsign": "VK2AMG"
@@ -17809,14 +17825,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Rodney Freed",
-    "suburb": "MASCOT",
-    "state": "NSW",
-    "postcode": "2020",
-    "callsign": "VK2FUZY"
-  },
-  {
-    "category": "Foundation",
     "name": "Arthur Hacking",
     "suburb": "KURRAJONG",
     "state": "NSW",
@@ -21433,6 +21441,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Kevin Benson",
+    "suburb": "NORTH ROCKS",
+    "state": "NSW",
+    "postcode": "2151",
+    "callsign": "VK2ITM"
+  },
+  {
+    "category": "Advanced",
     "name": "Raffaele Buono",
     "suburb": "MAROUBRA",
     "state": "NSW",
@@ -24438,6 +24454,14 @@
     "state": "NSW",
     "postcode": "2777",
     "callsign": "VK2LCD"
+  },
+  {
+    "category": "Foundation",
+    "name": "Rocl Li",
+    "suburb": "KATOOMBA",
+    "state": "NSW",
+    "postcode": "2780",
+    "callsign": "VK2LCR"
   },
   {
     "category": "Standard",
@@ -45297,6 +45321,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Damien Crook",
+    "suburb": "DANDENONG NORTH",
+    "state": "VIC",
+    "postcode": "3175",
+    "callsign": "VK3ADI"
+  },
+  {
+    "category": "Foundation",
     "name": "Richard Coco",
     "suburb": "KALKALLO",
     "state": "VIC",
@@ -51910,6 +51942,14 @@
     "state": "VIC",
     "postcode": "3127",
     "callsign": "VK3DNA"
+  },
+  {
+    "category": "Standard",
+    "name": "Nicholas Egan",
+    "suburb": "WARRNAMBOOL",
+    "state": "VIC",
+    "postcode": "3280",
+    "callsign": "VK3DNB"
   },
   {
     "category": "Advanced",
@@ -63601,14 +63641,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michel Van Der Walle",
-    "suburb": "BONSHAW",
-    "state": "VIC",
-    "postcode": "3356",
-    "callsign": "VK3KVW"
-  },
-  {
-    "category": "Advanced",
     "name": "Mark Forsyth",
     "suburb": "MOE",
     "state": "VIC",
@@ -64310,6 +64342,14 @@
     "state": "VIC",
     "postcode": "3875",
     "callsign": "VK3LSN"
+  },
+  {
+    "category": "Foundation",
+    "name": "Sandy Lyon",
+    "suburb": "LOCH SPORT",
+    "state": "VIC",
+    "postcode": "3851",
+    "callsign": "VK3LSR"
   },
   {
     "category": "Standard",
@@ -82625,6 +82665,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Daniel Granieri",
+    "suburb": "TAYLORS LAKE",
+    "state": "VIC",
+    "postcode": "3038",
+    "callsign": "VK3VCT"
+  },
+  {
+    "category": "Foundation",
     "name": "Lloyd Stanway",
     "suburb": "BALLARAT",
     "state": "VIC",
@@ -93481,14 +93529,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Peter G Langeveld",
-    "suburb": "MALENY",
-    "state": "QLD",
-    "postcode": "4552",
-    "callsign": "VK4DPL"
-  },
-  {
-    "category": "Advanced",
     "name": "David Taylor",
     "suburb": "MARYBOROUGH",
     "state": "QLD",
@@ -94686,14 +94726,6 @@
     "state": "QLD",
     "postcode": "4650",
     "callsign": "VK4FAJB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Anthony Maher",
-    "suburb": "BARLOWS HILL",
-    "state": "QLD",
-    "postcode": "4703",
-    "callsign": "VK4FAJM"
   },
   {
     "category": "Foundation",
@@ -97784,6 +97816,14 @@
     "callsign": "VK4GN"
   },
   {
+    "category": "Foundation",
+    "name": "George Caldera",
+    "suburb": "THORNLANDS",
+    "state": "QLD",
+    "postcode": "4164",
+    "callsign": "VK4GNG"
+  },
+  {
     "category": "Advanced",
     "name": "George Wilson",
     "suburb": "HERVEY BAY",
@@ -99472,6 +99512,14 @@
     "callsign": "VK4IS"
   },
   {
+    "category": "Foundation",
+    "name": "Billy-Ray Rittson",
+    "suburb": "MORNINGTON",
+    "state": "QLD",
+    "postcode": "4825",
+    "callsign": "VK4ISA"
+  },
+  {
     "category": "Advanced",
     "name": "Shane Lynd",
     "suburb": "ANDERGROVE",
@@ -101094,6 +101142,14 @@
     "state": "QLD",
     "postcode": "4559",
     "callsign": "VK4KP"
+  },
+  {
+    "category": "Advanced",
+    "name": "Kevin Bloomfield",
+    "suburb": "MOUNTAIN CREEK",
+    "state": "QLD",
+    "postcode": "4557",
+    "callsign": "VK4KPB"
   },
   {
     "category": "Advanced",
@@ -121986,9 +122042,9 @@
   {
     "category": "Advanced",
     "name": "Debra Jayne Stewart",
-    "suburb": "NOARLUNGA DOWNS",
+    "suburb": "MILANG",
     "state": "SA",
-    "postcode": "5168",
+    "postcode": "5256",
     "callsign": "VK5JT"
   },
   {
@@ -124178,9 +124234,9 @@
   {
     "category": "Foundation",
     "name": "Robert Hasenohr",
-    "suburb": "Rose Park",
+    "suburb": "NORTH ADELAIDE",
     "state": "SA",
-    "postcode": "5067",
+    "postcode": "5006",
     "callsign": "VK5OHR"
   },
   {
@@ -124546,9 +124602,9 @@
   {
     "category": "Advanced",
     "name": "John F McRae",
-    "suburb": "TANUNDA",
+    "suburb": "MALLALA",
     "state": "SA",
-    "postcode": "5352",
+    "postcode": "5502",
     "callsign": "VK5PO"
   },
   {
@@ -130824,6 +130880,14 @@
     "callsign": "VK6BLS"
   },
   {
+    "category": "Foundation",
+    "name": "Johan Rosman",
+    "suburb": "FLOREAT",
+    "state": "WA",
+    "postcode": "6014",
+    "callsign": "VK6BLU"
+  },
+  {
     "category": "Advanced",
     "name": "Alan Plumtree",
     "suburb": "SCOTLAND",
@@ -134120,6 +134184,14 @@
     "callsign": "VK6IAN"
   },
   {
+    "category": "Foundation",
+    "name": "Juan Barrientos Torres",
+    "suburb": "WATTLE GROVE",
+    "state": "WA",
+    "postcode": "6107",
+    "callsign": "VK6IBT"
+  },
+  {
     "category": "Advanced",
     "name": "David Priestley",
     "suburb": "COLLIE",
@@ -135670,14 +135742,6 @@
     "state": "WA",
     "postcode": "6041",
     "callsign": "VK6MGH"
-  },
-  {
-    "category": "Standard",
-    "name": "Malcolm Flanagan",
-    "suburb": "COLLIE",
-    "state": "WA",
-    "postcode": "6225",
-    "callsign": "VK6MGR"
   },
   {
     "category": "Standard",
@@ -142510,6 +142574,14 @@
     "state": "WA",
     "postcode": "6208",
     "callsign": "VK6ZAL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Gabriel Kalepa",
+    "suburb": "WESTMINSTER",
+    "state": "WA",
+    "postcode": "6061",
+    "callsign": "VK6ZAM"
   },
   {
     "category": "Advanced",
