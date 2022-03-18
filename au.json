@@ -137,6 +137,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Warren Nicholas",
+    "suburb": "MARGATE",
+    "state": "TAS",
+    "postcode": "7054",
+    "callsign": "VK0WN"
+  },
+  {
+    "category": "Advanced",
     "name": "Nikola Hacko",
     "suburb": "SYDNEY",
     "state": "NSW",
@@ -4768,14 +4776,6 @@
     "callsign": "VK2ABW"
   },
   {
-    "category": "Foundation",
-    "name": "Vinit Nikam",
-    "suburb": "EDMONDSON PARK",
-    "state": "NSW",
-    "postcode": "2174",
-    "callsign": "VK2ABX"
-  },
-  {
     "category": "Advanced",
     "name": "RS Beckett",
     "suburb": "KINGSCLIFF",
@@ -4838,14 +4838,6 @@
     "state": "NSW",
     "postcode": "2221",
     "callsign": "VK2ACE"
-  },
-  {
-    "category": "Foundation",
-    "name": "Georgia Odlin",
-    "suburb": "Chippendale",
-    "state": "NSW",
-    "postcode": "2008",
-    "callsign": "VK2ACF"
   },
   {
     "category": "Advanced",
@@ -4918,6 +4910,14 @@
     "state": "NSW",
     "postcode": "2136",
     "callsign": "VK2ACO"
+  },
+  {
+    "category": "Foundation",
+    "name": "Vismay Bhadra",
+    "suburb": "QUAKERS HILL",
+    "state": "NSW",
+    "postcode": "2763",
+    "callsign": "VK2ACP"
   },
   {
     "category": "Advanced",
@@ -20950,6 +20950,14 @@
     "state": "NSW",
     "postcode": "2350",
     "callsign": "VK2ICR"
+  },
+  {
+    "category": "Foundation",
+    "name": "Joshua Beahan",
+    "suburb": "DUBBO",
+    "state": "NSW",
+    "postcode": "2830",
+    "callsign": "VK2ICT"
   },
   {
     "category": "Advanced",
@@ -39800,7 +39808,7 @@
     "callsign": "VK2VON"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Andrew Craker",
     "suburb": "MUSWELLBROOK",
     "state": "NSW",
@@ -39808,7 +39816,7 @@
     "callsign": "VK2VOO"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Andrew Craker",
     "suburb": "MUSWELLBROOK",
     "state": "NSW",
@@ -45112,6 +45120,14 @@
     "callsign": "VK3ACH"
   },
   {
+    "category": "Foundation",
+    "name": "Daniel Cook",
+    "suburb": "YINNAR",
+    "state": "VIC",
+    "postcode": "3869",
+    "callsign": "VK3ACI"
+  },
+  {
     "category": "Advanced",
     "name": "Peter J Doolan",
     "suburb": "STRATHFIELDSAYE",
@@ -49482,9 +49498,9 @@
   {
     "category": "Advanced",
     "name": "I Ketut Wiadnyana",
-    "suburb": "BRUNSWICK WEST",
+    "suburb": "KEILOR EAST",
     "state": "VIC",
-    "postcode": "3055",
+    "postcode": "3033",
     "callsign": "VK3BWN"
   },
   {
@@ -58825,6 +58841,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Gerald John Molenkamp",
+    "suburb": "STRATHMORE",
+    "state": "VIC",
+    "postcode": "3041",
+    "callsign": "VK3GM"
+  },
+  {
+    "category": "Advanced",
     "name": "GM Campbell",
     "suburb": "BURWOOD EAST",
     "state": "VIC",
@@ -61990,6 +62014,14 @@
     "state": "VIC",
     "postcode": "3139",
     "callsign": "VK3JOX"
+  },
+  {
+    "category": "Advanced",
+    "name": "David Selby",
+    "suburb": "CRANBOURNE",
+    "state": "VIC",
+    "postcode": "3977",
+    "callsign": "VK3JP"
   },
   {
     "category": "Advanced",
@@ -82474,9 +82506,9 @@
   {
     "category": "Standard",
     "name": "Anthony P Kost",
-    "suburb": "MITCHAM NORTH",
+    "suburb": "COLAC",
     "state": "VIC",
-    "postcode": "3122",
+    "postcode": "3250",
     "callsign": "VK3VAK"
   },
   {
@@ -86833,6 +86865,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Graeme Argall",
+    "suburb": "MOUNT DANDENONG",
+    "state": "VIC",
+    "postcode": "3767",
+    "callsign": "VK3ZGA"
+  },
+  {
+    "category": "Advanced",
     "name": "Gary L Cook",
     "suburb": "ROWVILLE",
     "state": "VIC",
@@ -88945,6 +88985,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Anthony John Green",
+    "suburb": "Ravenshoe",
+    "state": "QLD",
+    "postcode": "4888",
+    "callsign": "VK4AER"
+  },
+  {
+    "category": "Standard",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -124224,6 +124272,14 @@
     "callsign": "VK5OB"
   },
   {
+    "category": "Advanced",
+    "name": "Peter Messer",
+    "suburb": "BELAIR",
+    "state": "SA",
+    "postcode": "5052",
+    "callsign": "VK5OC"
+  },
+  {
     "category": "Foundation",
     "name": "Allan Doherty",
     "suburb": "HALLETT COVE",
@@ -136953,6 +137009,14 @@
   },
   {
     "category": "Standard",
+    "name": "Ham College Inc",
+    "suburb": "WILLETTON",
+    "state": "WA",
+    "postcode": "6955",
+    "callsign": "VK6PIG"
+  },
+  {
+    "category": "Advanced",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
@@ -151662,6 +151726,14 @@
     "state": "VIC",
     "postcode": "3930",
     "callsign": "VK9NA"
+  },
+  {
+    "category": "Advanced",
+    "name": "Paul Cope",
+    "suburb": "NORFOLK ISLAND",
+    "state": "NSW",
+    "postcode": "2899",
+    "callsign": "VK9NF"
   },
   {
     "category": "Advanced",
