@@ -169,6 +169,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Nathan Hare",
+    "suburb": "Richardson",
+    "state": "ACT",
+    "postcode": "2905",
+    "callsign": "VK1AAC"
+  },
+  {
+    "category": "Foundation",
     "name": "Stewart Caddy",
     "suburb": "DICKSON",
     "state": "ACT",
@@ -3808,6 +3816,14 @@
     "callsign": "VK1SS"
   },
   {
+    "category": "Standard",
+    "name": "Timothy Andrew Suess",
+    "suburb": "CALWELL",
+    "state": "ACT",
+    "postcode": "2905",
+    "callsign": "VK1SSS"
+  },
+  {
     "category": "Advanced",
     "name": "DR Steiner",
     "suburb": "MCKELLAR",
@@ -5904,6 +5920,14 @@
     "callsign": "VK2AMA"
   },
   {
+    "category": "Foundation",
+    "name": "Richard Condie",
+    "suburb": "RICHMOND",
+    "state": "NSW",
+    "postcode": "2753",
+    "callsign": "VK2AMB"
+  },
+  {
     "category": "Advanced",
     "name": "Alan Keith McPhail",
     "suburb": "NORTH EPPING",
@@ -6638,14 +6662,6 @@
     "state": "NSW",
     "postcode": "2154",
     "callsign": "VK2AT"
-  },
-  {
-    "category": "Advanced",
-    "name": "Rossano Filippi",
-    "suburb": "WENTWORTH FALLS",
-    "state": "NSW",
-    "postcode": "2782",
-    "callsign": "VK2ATA"
   },
   {
     "category": "Advanced",
@@ -17089,14 +17105,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Catherine Simpson",
-    "suburb": "TASCOTT",
-    "state": "NSW",
-    "postcode": "2250",
-    "callsign": "VK2FRD"
-  },
-  {
-    "category": "Foundation",
     "name": "Robert Davey",
     "suburb": "BOURKE",
     "state": "NSW",
@@ -22713,14 +22721,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Jeffrey Turner",
-    "suburb": "BATHURST NSW",
-    "state": "NSW",
-    "postcode": "2795",
-    "callsign": "VK2JWT"
-  },
-  {
-    "category": "Advanced",
     "name": "John Young",
     "suburb": "PALM BEACH",
     "state": "NSW",
@@ -24406,6 +24406,14 @@
     "state": "NSW",
     "postcode": "2112",
     "callsign": "VK2LB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Michael John Borthwick",
+    "suburb": "STOCKTON",
+    "state": "NSW",
+    "postcode": "2295",
+    "callsign": "VK2LBD"
   },
   {
     "category": "Standard",
@@ -55145,14 +55153,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Darren Walsh",
-    "suburb": "WATERWAYS",
-    "state": "VIC",
-    "postcode": "3195",
-    "callsign": "VK3FDWA"
-  },
-  {
-    "category": "Foundation",
     "name": "Daniel Zahra",
     "suburb": "IVANHOE EAST",
     "state": "VIC",
@@ -82488,6 +82488,14 @@
     "callsign": "VK3VAC"
   },
   {
+    "category": "Foundation",
+    "name": "John Norman",
+    "suburb": "CARAPOOK",
+    "state": "VIC",
+    "postcode": "3312",
+    "callsign": "VK3VAH"
+  },
+  {
     "category": "Standard",
     "name": "AM J Mudiyanselage",
     "suburb": "KEYSBOROUGH",
@@ -94409,14 +94417,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Anthony David Cross",
-    "suburb": "BUDERIM",
-    "state": "QLD",
-    "postcode": "4556",
-    "callsign": "VK4FAAA"
-  },
-  {
-    "category": "Foundation",
     "name": "Grahame Dudley",
     "suburb": "HOWARD",
     "state": "QLD",
@@ -102081,6 +102081,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Malcolm Brown",
+    "suburb": "WARNER",
+    "state": "QLD",
+    "postcode": "4500",
+    "callsign": "VK4MAL"
+  },
+  {
+    "category": "Foundation",
     "name": "Manfred Magerl",
     "suburb": "Malanda",
     "state": "QLD",
@@ -103472,6 +103480,14 @@
     "callsign": "VK4NJN"
   },
   {
+    "category": "Foundation",
+    "name": "Nathan Pawley",
+    "suburb": "Charleville",
+    "state": "QLD",
+    "postcode": "4470",
+    "callsign": "VK4NJP"
+  },
+  {
     "category": "Standard",
     "name": "Neil Ruthenberg",
     "suburb": "BOULDERCOMBE",
@@ -103774,14 +103790,6 @@
     "state": "QLD",
     "postcode": "4811",
     "callsign": "VK4NTH"
-  },
-  {
-    "category": "Standard",
-    "name": "Adam McLeod",
-    "suburb": "WANDAL",
-    "state": "QLD",
-    "postcode": "4700",
-    "callsign": "VK4NTP"
   },
   {
     "category": "Standard",
@@ -104982,6 +104990,14 @@
     "state": "QLD",
     "postcode": "4355",
     "callsign": "VK4QT"
+  },
+  {
+    "category": "Standard",
+    "name": "John Power",
+    "suburb": "TARRAGINDI",
+    "state": "QLD",
+    "postcode": "4121",
+    "callsign": "VK4QTX"
   },
   {
     "category": "Advanced",
@@ -111702,14 +111718,6 @@
     "state": "QLD",
     "postcode": "4814",
     "callsign": "VK4SPP"
-  },
-  {
-    "category": "Advanced",
-    "name": "Kelvin Grove Radio Enthusiasts Group",
-    "suburb": "KELVIN GROVE",
-    "state": "QLD",
-    "postcode": "4059",
-    "callsign": "VK4SPR"
   },
   {
     "category": "Advanced",
@@ -122920,6 +122928,14 @@
     "callsign": "VK5LBE"
   },
   {
+    "category": "Foundation",
+    "name": "Lindsay Marks",
+    "suburb": "CHRISTIE DOWNS",
+    "state": "SA",
+    "postcode": "5164",
+    "callsign": "VK5LBM"
+  },
+  {
     "category": "Standard",
     "name": "Robert West",
     "suburb": "SMITHFIELD",
@@ -129648,6 +129664,14 @@
     "callsign": "VK6AAG"
   },
   {
+    "category": "Foundation",
+    "name": "Charise Edmondson",
+    "suburb": "Wilson",
+    "state": "WA",
+    "postcode": "6107",
+    "callsign": "VK6AAH"
+  },
+  {
     "category": "Advanced",
     "name": "Mark Wayne Doubell",
     "suburb": "BATEMAN",
@@ -131176,6 +131200,14 @@
     "callsign": "VK6CA"
   },
   {
+    "category": "Foundation",
+    "name": "Camille Judith Ann Gibson",
+    "suburb": "COTTESLOE",
+    "state": "WA",
+    "postcode": "6011",
+    "callsign": "VK6CAM"
+  },
+  {
     "category": "Advanced",
     "name": "Michael Christie",
     "suburb": "MOUNT LAWLEY",
@@ -131830,14 +131862,6 @@
     "state": "WA",
     "postcode": "6107",
     "callsign": "VK6DU"
-  },
-  {
-    "category": "Advanced",
-    "name": "MP Dunn",
-    "suburb": "PARKWOOD",
-    "state": "WA",
-    "postcode": "6147",
-    "callsign": "VK6DUN"
   },
   {
     "category": "Advanced",
@@ -134226,9 +134250,9 @@
   {
     "category": "Advanced",
     "name": "Andrew Albinson",
-    "suburb": "BRABHAM",
+    "suburb": "ELLENBROOK",
     "state": "WA",
-    "postcode": "6055",
+    "postcode": "6069",
     "callsign": "VK6IA"
   },
   {
