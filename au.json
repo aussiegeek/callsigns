@@ -39816,7 +39816,7 @@
     "callsign": "VK2VON"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Andrew Craker",
     "suburb": "MUSWELLBROOK",
     "state": "NSW",
@@ -39824,7 +39824,7 @@
     "callsign": "VK2VOO"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Andrew Craker",
     "suburb": "MUSWELLBROOK",
     "state": "NSW",
@@ -50830,14 +50830,6 @@
     "state": "VIC",
     "postcode": "3044",
     "callsign": "VK3CUB"
-  },
-  {
-    "category": "Advanced",
-    "name": "Kenneth John Shields",
-    "suburb": "INGLEWOOD",
-    "state": "VIC",
-    "postcode": "3517",
-    "callsign": "VK3CUC"
   },
   {
     "category": "Advanced",
@@ -73064,6 +73056,102 @@
     "callsign": "VK3RMG"
   },
   {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH"
+  },
+  {
     "category": "Amateur Beacon",
     "name": "North East Radio Group Inc",
     "suburb": "GREENSBOROUGH",
@@ -73089,102 +73177,6 @@
   },
   {
     "category": "Amateur Beacon",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH"
-  },
-  {
-    "category": "Amateur Repeater",
     "name": "North East Radio Group Inc",
     "suburb": "GREENSBOROUGH",
     "state": "VIC",
@@ -88992,7 +88984,7 @@
     "callsign": "VK4AEQ"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -89000,7 +88992,7 @@
     "callsign": "VK4AER"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -95313,14 +95305,6 @@
   },
   {
     "category": "Foundation",
-    "name": "David Drummond",
-    "suburb": "NARANGBA",
-    "state": "QLD",
-    "postcode": "4504",
-    "callsign": "VK4FDJD"
-  },
-  {
-    "category": "Foundation",
     "name": "Douglas Fardell",
     "suburb": "YEPPOON",
     "state": "QLD",
@@ -95430,14 +95414,6 @@
     "state": "QLD",
     "postcode": "4551",
     "callsign": "VK4FEMB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Trevor Emerson",
-    "suburb": "GLEN EDEN",
-    "state": "QLD",
-    "postcode": "4680",
-    "callsign": "VK4FEMO"
   },
   {
     "category": "Foundation",
@@ -137016,7 +136992,7 @@
     "callsign": "VK6PH"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
@@ -137024,7 +137000,7 @@
     "callsign": "VK6PIG"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
