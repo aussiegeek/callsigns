@@ -290,9 +290,9 @@
   {
     "category": "Advanced",
     "name": "AD Proudfoot",
-    "suburb": "MANUKA",
-    "state": "ACT",
-    "postcode": "2603",
+    "suburb": "STRATHALBYN",
+    "state": "SA",
+    "postcode": "5255",
     "callsign": "VK1ADA"
   },
   {
@@ -5322,7 +5322,7 @@
   {
     "category": "Advanced",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2AFY"
@@ -8640,6 +8640,14 @@
     "callsign": "VK2BSP"
   },
   {
+    "category": "Foundation",
+    "name": "Brian Keogh",
+    "suburb": "HENTY",
+    "state": "NSW",
+    "postcode": "2658",
+    "callsign": "VK2BSR"
+  },
+  {
     "category": "Advanced",
     "name": "William Stofmeel",
     "suburb": "PORT MACQUARIE",
@@ -10489,10 +10497,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Masahiko Otokozawa",
-    "suburb": "SCARBOROUGH",
-    "state": "QLD",
-    "postcode": "4020",
+    "name": "Andrew Davis",
+    "suburb": "YASS",
+    "state": "NSW",
+    "postcode": "2582",
     "callsign": "VK2DA"
   },
   {
@@ -12638,14 +12646,6 @@
     "state": "NSW",
     "postcode": "2579",
     "callsign": "VK2ELB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Eleonor Logan-Cole",
-    "suburb": "BARKERS VALE",
-    "state": "NSW",
-    "postcode": "2474",
-    "callsign": "VK2ELC"
   },
   {
     "category": "Advanced",
@@ -29114,7 +29114,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29122,7 +29122,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29130,7 +29130,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29138,7 +29138,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29146,7 +29146,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29154,7 +29154,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29162,7 +29162,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29170,7 +29170,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29178,7 +29178,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29186,7 +29186,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29194,7 +29194,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29202,7 +29202,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29210,7 +29210,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29218,7 +29218,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29226,7 +29226,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29234,7 +29234,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29242,7 +29242,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29250,7 +29250,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29258,7 +29258,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29266,7 +29266,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29274,7 +29274,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29282,7 +29282,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29290,7 +29290,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29298,7 +29298,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29306,7 +29306,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29314,7 +29314,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29322,7 +29322,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29330,7 +29330,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29338,7 +29338,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29346,7 +29346,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29354,7 +29354,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29362,7 +29362,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29370,7 +29370,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29378,7 +29378,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29386,7 +29386,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29394,7 +29394,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29402,7 +29402,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29410,7 +29410,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29418,7 +29418,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29426,7 +29426,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29434,7 +29434,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29442,7 +29442,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29450,7 +29450,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29458,7 +29458,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29466,7 +29466,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29474,7 +29474,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29482,7 +29482,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29490,7 +29490,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29498,7 +29498,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29506,7 +29506,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29514,7 +29514,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29522,7 +29522,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29530,7 +29530,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -29538,7 +29538,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RAG"
@@ -34314,7 +34314,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -34322,7 +34322,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -34330,7 +34330,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -34338,7 +34338,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -34346,7 +34346,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -34354,7 +34354,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -34362,7 +34362,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2RTG"
@@ -40306,7 +40306,7 @@
   {
     "category": "Advanced",
     "name": "Central Coast Amateur Radio Club Inc",
-    "suburb": "GOSFORD",
+    "suburb": "KARIONG",
     "state": "NSW",
     "postcode": "2250",
     "callsign": "VK2WFD"
@@ -40834,9 +40834,9 @@
   {
     "category": "Advanced",
     "name": "David White",
-    "suburb": "CHERRYBROOK",
+    "suburb": "MIDDLE DURAL",
     "state": "NSW",
-    "postcode": "2126",
+    "postcode": "2158",
     "callsign": "VK2WTY"
   },
   {
@@ -42210,9 +42210,9 @@
   {
     "category": "Advanced",
     "name": "Yasuhide Adachi",
-    "suburb": "Chatswood",
+    "suburb": "ROSEVILLE",
     "state": "NSW",
-    "postcode": "2067",
+    "postcode": "2069",
     "callsign": "VK2YAS"
   },
   {
@@ -55890,7 +55890,7 @@
   {
     "category": "Foundation",
     "name": "Davor Skakic",
-    "suburb": "WEST BRUNSWICK",
+    "suburb": "BRUNSWICK WEST",
     "state": "VIC",
     "postcode": "3055",
     "callsign": "VK3FIXI"
@@ -56166,14 +56166,6 @@
     "state": "VIC",
     "postcode": "3029",
     "callsign": "VK3FJSC"
-  },
-  {
-    "category": "Foundation",
-    "name": "John Norman",
-    "suburb": "CARAPOOK",
-    "state": "VIC",
-    "postcode": "3312",
-    "callsign": "VK3FJSN"
   },
   {
     "category": "Foundation",
@@ -58734,14 +58726,6 @@
     "state": "VIC",
     "postcode": "3910",
     "callsign": "VK3GJL"
-  },
-  {
-    "category": "Advanced",
-    "name": "Gerald John Molenkamp",
-    "suburb": "STRATHMORE",
-    "state": "VIC",
-    "postcode": "3041",
-    "callsign": "VK3GJM"
   },
   {
     "category": "Advanced",
@@ -68158,14 +68142,6 @@
     "state": "QLD",
     "postcode": "4703",
     "callsign": "VK3QG"
-  },
-  {
-    "category": "Advanced",
-    "name": "FE Hobson",
-    "suburb": "DEVON NORTH",
-    "state": "VIC",
-    "postcode": "3971",
-    "callsign": "VK3QH"
   },
   {
     "category": "Advanced",
@@ -79929,7 +79905,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Adam Matthew Birch",
+    "name": "Adam Birch",
     "suburb": "MCCRAE",
     "state": "VIC",
     "postcode": "3938",
@@ -81089,7 +81065,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Clementine Brown Dufour Lamartinle",
+    "name": "Clementine Brown Dufour-Lamartinie",
     "suburb": "RESERVOIR",
     "state": "VIC",
     "postcode": "3073",
@@ -88984,7 +88960,7 @@
     "callsign": "VK4AEQ"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -88992,7 +88968,7 @@
     "callsign": "VK4AER"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -108186,9 +108162,9 @@
   {
     "category": "Advanced",
     "name": "Glenn Rickard",
-    "suburb": "UPPER COOMERA",
+    "suburb": "MOUNT WARREN PARK",
     "state": "QLD",
-    "postcode": "4209",
+    "postcode": "4207",
     "callsign": "VK4RL"
   },
   {
@@ -109473,7 +109449,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Stuart D Dunk",
+    "name": "Stuart Dunk",
     "suburb": "MALANDA",
     "state": "QLD",
     "postcode": "4885",
@@ -109481,7 +109457,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Stuart D Dunk",
+    "name": "Stuart Dunk",
     "suburb": "MALANDA",
     "state": "QLD",
     "postcode": "4885",
@@ -109489,7 +109465,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Stuart D Dunk",
+    "name": "Stuart Dunk",
     "suburb": "MALANDA",
     "state": "QLD",
     "postcode": "4885",
@@ -109497,7 +109473,7 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Stuart D Dunk",
+    "name": "Stuart Dunk",
     "suburb": "MALANDA",
     "state": "QLD",
     "postcode": "4885",
@@ -111297,7 +111273,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Stuart D Dunk",
+    "name": "Stuart Dunk",
     "suburb": "MALANDA",
     "state": "QLD",
     "postcode": "4885",
@@ -111433,7 +111409,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Stuart D Dunk",
+    "name": "Stuart Dunk",
     "suburb": "MALANDA",
     "state": "QLD",
     "postcode": "4885",
@@ -131017,7 +130993,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Colin Robert Burton",
+    "name": "Colin Burton",
     "suburb": "ORANGE GROVE",
     "state": "WA",
     "postcode": "6109",
@@ -136992,7 +136968,7 @@
     "callsign": "VK6PH"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
@@ -137000,7 +136976,7 @@
     "callsign": "VK6PIG"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
@@ -142721,7 +142697,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Anthony David Jenkinson",
+    "name": "Anthony Jenkinson",
     "suburb": "OCEAN REEF",
     "state": "WA",
     "postcode": "6027",
