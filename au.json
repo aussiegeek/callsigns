@@ -11256,14 +11256,6 @@
     "callsign": "VK2DL"
   },
   {
-    "category": "Foundation",
-    "name": "Geoffrey William Gray",
-    "suburb": "BANORA POINT",
-    "state": "NSW",
-    "postcode": "2486",
-    "callsign": "VK2DLA"
-  },
-  {
     "category": "Standard",
     "name": "Geoffrey William Gray",
     "suburb": "BANORA POINT",
@@ -38186,9 +38178,9 @@
   {
     "category": "Advanced",
     "name": "Thomas Jackson",
-    "suburb": "TERRY HILLS",
+    "suburb": "GORDON",
     "state": "NSW",
-    "postcode": "2084",
+    "postcode": "2072",
     "callsign": "VK2TPJ"
   },
   {
@@ -49402,7 +49394,7 @@
   {
     "category": "Advanced",
     "name": "Lionel Ferris",
-    "suburb": "NHILL",
+    "suburb": "BROUGHTON",
     "state": "VIC",
     "postcode": "3418",
     "callsign": "VK3BUN"
@@ -100577,7 +100569,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Keith Eric De Serio",
+    "name": "Keith DeSerio",
     "suburb": "BUNDABERG",
     "state": "QLD",
     "postcode": "4670",
@@ -117001,7 +116993,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Anthony John Chalinor",
+    "name": "Anthony Chalinor",
     "suburb": "MOUNT GAMBIER",
     "state": "SA",
     "postcode": "5290",
@@ -117558,6 +117550,14 @@
     "state": "SA",
     "postcode": "5163",
     "callsign": "VK5AT"
+  },
+  {
+    "category": "Foundation",
+    "name": "Ahmed Aripen",
+    "suburb": "BROOKLYN PARK",
+    "state": "SA",
+    "postcode": "5032",
+    "callsign": "VK5ATA"
   },
   {
     "category": "Advanced",
@@ -130758,14 +130758,6 @@
     "state": "WA",
     "postcode": "6107",
     "callsign": "VK6BER"
-  },
-  {
-    "category": "Advanced",
-    "name": "Norman Rasmussen Groves",
-    "suburb": "PORT KENNEDY",
-    "state": "WA",
-    "postcode": "6172",
-    "callsign": "VK6BF"
   },
   {
     "category": "Advanced",
