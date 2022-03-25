@@ -3817,7 +3817,7 @@
   },
   {
     "category": "Standard",
-    "name": "Timothy Andrew Suess",
+    "name": "Timothy Suess",
     "suburb": "CALWELL",
     "state": "ACT",
     "postcode": "2905",
@@ -4854,6 +4854,14 @@
     "state": "NSW",
     "postcode": "2221",
     "callsign": "VK2ACE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Georgia Odlin",
+    "suburb": "Chippendale",
+    "state": "NSW",
+    "postcode": "2008",
+    "callsign": "VK2ACF"
   },
   {
     "category": "Advanced",
@@ -12640,6 +12648,14 @@
     "callsign": "VK2ELB"
   },
   {
+    "category": "Foundation",
+    "name": "Eleonor Logan-Cole",
+    "suburb": "BARKERS VALE",
+    "state": "NSW",
+    "postcode": "2474",
+    "callsign": "VK2ELC"
+  },
+  {
     "category": "Advanced",
     "name": "RA Gallagher",
     "suburb": "HOGRATH",
@@ -13342,14 +13358,6 @@
     "state": "NSW",
     "postcode": "2335",
     "callsign": "VK2FABI"
-  },
-  {
-    "category": "Foundation",
-    "name": "Brian Keogh",
-    "suburb": "HENTY",
-    "state": "NSW",
-    "postcode": "2658",
-    "callsign": "VK2FABK"
   },
   {
     "category": "Foundation",
@@ -23590,14 +23598,6 @@
     "state": "NSW",
     "postcode": "2135",
     "callsign": "VK2KMC"
-  },
-  {
-    "category": "Advanced",
-    "name": "BE McDowell",
-    "suburb": "BLACKTOWN",
-    "state": "NSW",
-    "postcode": "2148",
-    "callsign": "VK2KME"
   },
   {
     "category": "Advanced",
@@ -42666,9 +42666,9 @@
   {
     "category": "Advanced",
     "name": "Gary James Peters",
-    "suburb": "DOONSIDE",
+    "suburb": "GLENDENNING",
     "state": "NSW",
-    "postcode": "2767",
+    "postcode": "2761",
     "callsign": "VK2YME"
   },
   {
@@ -66624,14 +66624,6 @@
     "callsign": "VK3NWH"
   },
   {
-    "category": "Standard",
-    "name": "GM Flannigan",
-    "suburb": "HURSTBRIDGE",
-    "state": "VIC",
-    "postcode": "3099",
-    "callsign": "VK3NWZ"
-  },
-  {
     "category": "Advanced",
     "name": "Charles Joseph Kahwagi",
     "suburb": "CERES",
@@ -80592,6 +80584,14 @@
     "callsign": "VK3TCP"
   },
   {
+    "category": "Standard",
+    "name": "Alan Harper",
+    "suburb": "HOPPERS CROSSING",
+    "state": "VIC",
+    "postcode": "3029",
+    "callsign": "VK3TCP"
+  },
+  {
     "category": "Advanced",
     "name": "Bernard Gregory",
     "suburb": "FRANKSTON",
@@ -80766,6 +80766,14 @@
     "state": "VIC",
     "postcode": "3044",
     "callsign": "VK3TER"
+  },
+  {
+    "category": "Advanced",
+    "name": "Joe Kriger",
+    "suburb": "TOORAK",
+    "state": "VIC",
+    "postcode": "3142",
+    "callsign": "VK3TET"
   },
   {
     "category": "Advanced",
@@ -85386,9 +85394,9 @@
   {
     "category": "Foundation",
     "name": "Leanne Lamont",
-    "suburb": "NEWBOROUGH",
+    "suburb": "Trafalgar",
     "state": "VIC",
-    "postcode": "3825",
+    "postcode": "3824",
     "callsign": "VK3XYL"
   },
   {
@@ -87914,9 +87922,9 @@
   {
     "category": "Advanced",
     "name": "Mark Phillips",
-    "suburb": "MELBOURNE",
-    "state": "VIC",
-    "postcode": "3000",
+    "suburb": "YAMBA",
+    "state": "NSW",
+    "postcode": "2464",
     "callsign": "VK3ZYY"
   },
   {
@@ -88926,14 +88934,6 @@
     "state": "QLD",
     "postcode": "4886",
     "callsign": "VK4AEM"
-  },
-  {
-    "category": "Advanced",
-    "name": "EC Osmond",
-    "suburb": "LAWNTON",
-    "state": "QLD",
-    "postcode": "4501",
-    "callsign": "VK4AEO"
   },
   {
     "category": "Advanced",
@@ -94082,9 +94082,9 @@
   {
     "category": "Advanced",
     "name": "Mervyn Yong",
-    "suburb": "CALAMVALE",
+    "suburb": "HERITAGE PARK",
     "state": "QLD",
-    "postcode": "4116",
+    "postcode": "4118",
     "callsign": "VK4EMT"
   },
   {
@@ -105394,65 +105394,65 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RAS"
   },
   {
@@ -105810,97 +105810,97 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RBD"
   },
   {
@@ -107042,49 +107042,49 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4REP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4REP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4REP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4REP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4REP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4REP"
   },
   {
@@ -107650,97 +107650,97 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RHR"
   },
   {
@@ -109570,49 +109570,49 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RSP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RSP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RSP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RSP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RSP"
   },
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4RSP"
   },
   {
@@ -113738,9 +113738,9 @@
   {
     "category": "Advanced",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "LONGREACH",
+    "suburb": "EMERALD",
     "state": "QLD",
-    "postcode": "4730",
+    "postcode": "4720",
     "callsign": "VK4WCH"
   },
   {
@@ -130794,9 +130794,9 @@
   {
     "category": "Advanced",
     "name": "Gerard Vial",
-    "suburb": "Jalbarragup",
+    "suburb": "ARMADALE",
     "state": "WA",
-    "postcode": "6275",
+    "postcode": "6112",
     "callsign": "VK6BH"
   },
   {
@@ -131450,9 +131450,9 @@
   {
     "category": "Advanced",
     "name": "Dennis O Hardie",
-    "suburb": "COLLIE",
+    "suburb": "SOUTH KALGOORLIE",
     "state": "WA",
-    "postcode": "6225",
+    "postcode": "6430",
     "callsign": "VK6CZ"
   },
   {
@@ -137250,9 +137250,9 @@
   {
     "category": "Advanced",
     "name": "Gerard Vial",
-    "suburb": "Jalbarragup",
+    "suburb": "ARMADALE",
     "state": "WA",
-    "postcode": "6275",
+    "postcode": "6112",
     "callsign": "VK6QM"
   },
   {
@@ -142494,14 +142494,6 @@
     "state": "WA",
     "postcode": "6401",
     "callsign": "VK6YSF"
-  },
-  {
-    "category": "Advanced",
-    "name": "RJ Bradshaw",
-    "suburb": "PORT KENNEDY",
-    "state": "WA",
-    "postcode": "6172",
-    "callsign": "VK6YT"
   },
   {
     "category": "Advanced",
