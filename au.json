@@ -54073,14 +54073,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Daniel Philips",
-    "suburb": "WINDERMERE",
-    "state": "VIC",
-    "postcode": "3352",
-    "callsign": "VK3FAEG"
-  },
-  {
-    "category": "Foundation",
     "name": "Philip Costigan",
     "suburb": "MOOROOLBARK",
     "state": "VIC",
@@ -120177,14 +120169,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Gerry Neumeister",
-    "suburb": "KINGSTON PARK",
-    "state": "SA",
-    "postcode": "5042",
-    "callsign": "VK5FMAX"
-  },
-  {
-    "category": "Foundation",
     "name": "Michael Baxter Ford",
     "suburb": "MORPHETT VALE",
     "state": "SA",
@@ -133489,14 +133473,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Geoffrey Beauclerk Hart-Davies",
-    "suburb": "ERSKINE",
-    "state": "WA",
-    "postcode": "6210",
-    "callsign": "VK6GHD"
-  },
-  {
-    "category": "Advanced",
     "name": "Duncan David Watkinson",
     "suburb": "ATWELL",
     "state": "WA",
@@ -143264,14 +143240,6 @@
     "callsign": "VK7AAB"
   },
   {
-    "category": "Advanced",
-    "name": "Harry James Eleftheriou",
-    "suburb": "KAROOLA",
-    "state": "TAS",
-    "postcode": "7267",
-    "callsign": "VK7AAC"
-  },
-  {
     "category": "Foundation",
     "name": "Peter Sweetlove",
     "suburb": "NEW NORFOLK",
@@ -146490,7 +146458,7 @@
   {
     "category": "Standard",
     "name": "John Doolan",
-    "suburb": "TREVALLYN",
+    "suburb": "RIVERSIDE",
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7NJD"
@@ -146598,14 +146566,6 @@
     "state": "TAS",
     "postcode": "7109",
     "callsign": "VK7NTE"
-  },
-  {
-    "category": "Standard",
-    "name": "Thomas Karpiniec",
-    "suburb": "LENAH VALLEY",
-    "state": "TAS",
-    "postcode": "7008",
-    "callsign": "VK7NTK"
   },
   {
     "category": "Foundation",
