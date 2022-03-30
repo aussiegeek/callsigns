@@ -4808,6 +4808,14 @@
     "callsign": "VK2ABW"
   },
   {
+    "category": "Foundation",
+    "name": "Vinit Nikam",
+    "suburb": "EDMONDSON PARK",
+    "state": "NSW",
+    "postcode": "2174",
+    "callsign": "VK2ABX"
+  },
+  {
     "category": "Advanced",
     "name": "RS Beckett",
     "suburb": "KINGSCLIFF",
@@ -11952,6 +11960,14 @@
     "callsign": "VK2DWB"
   },
   {
+    "category": "Foundation",
+    "name": "Daniel Dixon",
+    "suburb": "GALAMBINE",
+    "state": "NSW",
+    "postcode": "2850",
+    "callsign": "VK2DWD"
+  },
+  {
     "category": "Advanced",
     "name": "David Grove",
     "suburb": "GLENWOOD",
@@ -14590,14 +14606,6 @@
     "state": "NSW",
     "postcode": "2145",
     "callsign": "VK2FCJD"
-  },
-  {
-    "category": "Foundation",
-    "name": "Christopher John Howarth",
-    "suburb": "GYMEA",
-    "state": "NSW",
-    "postcode": "2227",
-    "callsign": "VK2FCJH"
   },
   {
     "category": "Foundation",
@@ -22865,14 +22873,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ivan Kasunic",
-    "suburb": "CROYDON",
-    "state": "NSW",
-    "postcode": "2132",
-    "callsign": "VK2KAS"
-  },
-  {
-    "category": "Advanced",
     "name": "AJ Wheaton",
     "suburb": "WAGGA WAGGA",
     "state": "NSW",
@@ -24094,14 +24094,6 @@
     "state": "NSW",
     "postcode": "2773",
     "callsign": "VK2KVK"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ivan Kasunic",
-    "suburb": "CROYDON",
-    "state": "NSW",
-    "postcode": "2132",
-    "callsign": "VK2KVY"
   },
   {
     "category": "Advanced",
@@ -27606,14 +27598,6 @@
     "state": "NSW",
     "postcode": "2077",
     "callsign": "VK2OG"
-  },
-  {
-    "category": "Advanced",
-    "name": "Steven Sullivan",
-    "suburb": "TARALGA",
-    "state": "NSW",
-    "postcode": "2580",
-    "callsign": "VK2OH"
   },
   {
     "category": "Advanced",
@@ -34856,150 +34840,6 @@
     "callsign": "VK2RTZ"
   },
   {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Westlakes Amateur Radio Club Inc",
-    "suburb": "BOOLAROO",
-    "state": "NSW",
-    "postcode": "2284",
-    "callsign": "VK2RTZ"
-  },
-  {
     "category": "Advanced",
     "name": "John Dubbelaar",
     "suburb": "BARDON",
@@ -40120,6 +39960,14 @@
     "callsign": "VK2VXU"
   },
   {
+    "category": "Advanced",
+    "name": "Ivan Kasunic",
+    "suburb": "CROYDON",
+    "state": "NSW",
+    "postcode": "2132",
+    "callsign": "VK2VY"
+  },
+  {
     "category": "Standard",
     "name": "RD French",
     "suburb": "BLACKTOWN",
@@ -41538,9 +41386,9 @@
   {
     "category": "Advanced",
     "name": "Michael John Cornelius",
-    "suburb": "SUMMER HILL",
+    "suburb": "LEURA",
     "state": "NSW",
-    "postcode": "2130",
+    "postcode": "2780",
     "callsign": "VK2XMC"
   },
   {
@@ -95192,14 +95040,6 @@
     "callsign": "VK4FCOR"
   },
   {
-    "category": "Foundation",
-    "name": "Lee Groves",
-    "suburb": "MOSSMAN",
-    "state": "QLD",
-    "postcode": "4873",
-    "callsign": "VK4FCPO"
-  },
-  {
     "category": "Advanced",
     "name": "Barry Murray",
     "suburb": "BELMONT",
@@ -121064,6 +120904,14 @@
     "callsign": "VK5GO"
   },
   {
+    "category": "Foundation",
+    "name": "Darren Hewitt",
+    "suburb": "HAMLEY BRIDGE",
+    "state": "SA",
+    "postcode": "5401",
+    "callsign": "VK5GOD"
+  },
+  {
     "category": "Advanced",
     "name": "Gareth G Hughes",
     "suburb": "MURRAY BRIDGE",
@@ -122054,6 +121902,14 @@
     "state": "SA",
     "postcode": "5022",
     "callsign": "VK5JON"
+  },
+  {
+    "category": "Foundation",
+    "name": "Josephine Adam",
+    "suburb": "UPPER STURT",
+    "state": "SA",
+    "postcode": "5156",
+    "callsign": "VK5JOS"
   },
   {
     "category": "Advanced",
@@ -123358,6 +123214,14 @@
     "state": "SA",
     "postcode": "5540",
     "callsign": "VK5MCB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Michael Hope",
+    "suburb": "ELIZABETH PARK",
+    "state": "SA",
+    "postcode": "5113",
+    "callsign": "VK5MCH"
   },
   {
     "category": "Standard",
