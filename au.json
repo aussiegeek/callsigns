@@ -4888,6 +4888,14 @@
     "callsign": "VK2ACF"
   },
   {
+    "category": "Foundation",
+    "name": "Georgia Odlin",
+    "suburb": "Chippendale",
+    "state": "NSW",
+    "postcode": "2008",
+    "callsign": "VK2ACF"
+  },
+  {
     "category": "Advanced",
     "name": "Robert Michael Stockey",
     "suburb": "NORTH RICHMOND",
@@ -12704,6 +12712,14 @@
     "callsign": "VK2ELC"
   },
   {
+    "category": "Foundation",
+    "name": "Eleonor Logan-Cole",
+    "suburb": "BARKERS VALE",
+    "state": "NSW",
+    "postcode": "2474",
+    "callsign": "VK2ELC"
+  },
+  {
     "category": "Advanced",
     "name": "RA Gallagher",
     "suburb": "HOGRATH",
@@ -14761,14 +14777,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Dianne Sharp",
-    "suburb": "TERRANORA",
-    "state": "NSW",
-    "postcode": "2486",
-    "callsign": "VK2FDBS"
-  },
-  {
-    "category": "Foundation",
     "name": "David McMahon",
     "suburb": "HORNSBY HEIGHTS",
     "state": "NSW",
@@ -16286,14 +16294,6 @@
     "state": "NSW",
     "postcode": "2750",
     "callsign": "VK2FLRW"
-  },
-  {
-    "category": "Foundation",
-    "name": "James Cristofaro",
-    "suburb": "NEUTRAL BAY",
-    "state": "NSW",
-    "postcode": "2089",
-    "callsign": "VK2FLX"
   },
   {
     "category": "Advanced",
@@ -23990,14 +23990,6 @@
     "state": "NSW",
     "postcode": "2204",
     "callsign": "VK2KTJ"
-  },
-  {
-    "category": "Advanced",
-    "name": "Martin Kennedy Tait",
-    "suburb": "OATLANDS",
-    "state": "NSW",
-    "postcode": "2117",
-    "callsign": "VK2KTM"
   },
   {
     "category": "Advanced",
@@ -55766,14 +55758,6 @@
     "state": "VIC",
     "postcode": "3976",
     "callsign": "VK3FIX"
-  },
-  {
-    "category": "Foundation",
-    "name": "Davor Skakic",
-    "suburb": "BRUNSWICK WEST",
-    "state": "VIC",
-    "postcode": "3055",
-    "callsign": "VK3FIXI"
   },
   {
     "category": "Advanced",
@@ -104498,9 +104482,9 @@
   {
     "category": "Standard",
     "name": "Ian Scott Pollock",
-    "suburb": "STANTHORPE",
+    "suburb": "PINBARREN",
     "state": "QLD",
-    "postcode": "4380",
+    "postcode": "4568",
     "callsign": "VK4PSI"
   },
   {
@@ -117969,14 +117953,6 @@
   },
   {
     "category": "Advanced",
-    "name": "RH Whellum",
-    "suburb": "GOODWOOD",
-    "state": "SA",
-    "postcode": "5034",
-    "callsign": "VK5BRH"
-  },
-  {
-    "category": "Advanced",
     "name": "Riverland Radio Club Inc",
     "suburb": "RENMARK",
     "state": "SA",
@@ -127233,14 +127209,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Terrence Fredrick Neumann",
-    "suburb": "BALAKLAVA",
-    "state": "SA",
-    "postcode": "5461",
-    "callsign": "VK5TFN"
-  },
-  {
-    "category": "Advanced",
     "name": "Francis Timothy Ryan",
     "suburb": "ST AGNES",
     "state": "SA",
@@ -128174,6 +128142,14 @@
     "state": "SA",
     "postcode": "5501",
     "callsign": "VK5WW"
+  },
+  {
+    "category": "Foundation",
+    "name": "Emile Adam",
+    "suburb": "UPPER STURT",
+    "state": "SA",
+    "postcode": "5156",
+    "callsign": "VK5WWW"
   },
   {
     "category": "Advanced",
@@ -140488,6 +140464,14 @@
     "callsign": "VK6SI"
   },
   {
+    "category": "Foundation",
+    "name": "Oskar Kadala",
+    "suburb": "NEDLANDS",
+    "state": "WA",
+    "postcode": "6009",
+    "callsign": "VK6SIG"
+  },
+  {
     "category": "Standard",
     "name": "Samuel Reid",
     "suburb": "MIRA MAR",
@@ -145616,14 +145600,6 @@
     "callsign": "VK7JS"
   },
   {
-    "category": "Foundation",
-    "name": "Jacobus Du Preez",
-    "suburb": "BELLERIVE",
-    "state": "TAS",
-    "postcode": "7018",
-    "callsign": "VK7JSB"
-  },
-  {
     "category": "Advanced",
     "name": "Chris Holliday",
     "suburb": "DEEP BAY",
@@ -148846,14 +148822,6 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7SP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Renier Swart",
-    "suburb": "NEW NORFOLK",
-    "state": "TAS",
-    "postcode": "7140",
-    "callsign": "VK7SRD"
   },
   {
     "category": "Advanced",
