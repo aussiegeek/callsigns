@@ -34,9 +34,9 @@
   {
     "category": "Advanced",
     "name": "Pride Radio Group",
-    "suburb": "GLADSTONE",
-    "state": "QLD",
-    "postcode": "4680",
+    "suburb": "RICHMOND",
+    "state": "VIC",
+    "postcode": "3121",
     "callsign": "VI2022PRIDE"
   },
   {
@@ -1686,14 +1686,6 @@
     "state": "TAS",
     "postcode": "7155",
     "callsign": "VK1FMJP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Mitchell Noujaim",
-    "suburb": "HACKETT",
-    "state": "ACT",
-    "postcode": "2602",
-    "callsign": "VK1FMLN"
   },
   {
     "category": "Foundation",
@@ -9798,6 +9790,14 @@
     "state": "NSW",
     "postcode": "2795",
     "callsign": "VK2CJK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Christopher Rowland",
+    "suburb": "ASHQUITH",
+    "state": "NSW",
+    "postcode": "2077",
+    "callsign": "VK2CJR"
   },
   {
     "category": "Advanced",
@@ -18314,9 +18314,9 @@
   {
     "category": "Advanced",
     "name": "Graeme Frappell",
-    "suburb": "FORSTER",
+    "suburb": "PORT MACQUARIE",
     "state": "NSW",
-    "postcode": "2428",
+    "postcode": "2444",
     "callsign": "VK2GCF"
   },
   {
@@ -21794,9 +21794,9 @@
   {
     "category": "Advanced",
     "name": "Christopher Ian Barnes",
-    "suburb": "KURRAJONG HEIGHTS",
+    "suburb": "QUIRINDI",
     "state": "NSW",
-    "postcode": "2758",
+    "postcode": "2343",
     "callsign": "VK2JCB"
   },
   {
@@ -36553,14 +36553,6 @@
   },
   {
     "category": "Advanced",
-    "name": "SL Myers",
-    "suburb": "CASINO",
-    "state": "NSW",
-    "postcode": "2470",
-    "callsign": "VK2SLM"
-  },
-  {
-    "category": "Advanced",
     "name": "LP Robinson",
     "suburb": "ISABELLA PLAINS",
     "state": "ACT",
@@ -38673,10 +38665,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Andrew Davis",
-    "suburb": "YASS",
+    "name": "Scott Denton Mackenzie",
+    "suburb": "TANILBA BAY",
     "state": "NSW",
-    "postcode": "2582",
+    "postcode": "2319",
     "callsign": "VK2UH"
   },
   {
@@ -57882,9 +57874,9 @@
   {
     "category": "Advanced",
     "name": "Michaela Wheeler",
-    "suburb": "NEW AUCKLAND",
-    "state": "QLD",
-    "postcode": "4680",
+    "suburb": "RICHMOND",
+    "state": "VIC",
+    "postcode": "3121",
     "callsign": "VK3FUR"
   },
   {
@@ -64058,9 +64050,9 @@
   {
     "category": "Foundation",
     "name": "HAYDEN THORMAN",
-    "suburb": "RUTHERGLEN",
+    "suburb": "BUNDALONG",
     "state": "VIC",
-    "postcode": "3685",
+    "postcode": "3730",
     "callsign": "VK3LOC"
   },
   {
@@ -67666,9 +67658,9 @@
   {
     "category": "Advanced",
     "name": "Pride Radio Group",
-    "suburb": "GLADSTONE",
-    "state": "QLD",
-    "postcode": "4680",
+    "suburb": "RICHMOND",
+    "state": "VIC",
+    "postcode": "3121",
     "callsign": "VK3PRG"
   },
   {
@@ -114530,9 +114522,9 @@
   {
     "category": "Advanced",
     "name": "Michaela Wheeler",
-    "suburb": "NEW AUCKLAND",
-    "state": "QLD",
-    "postcode": "4680",
+    "suburb": "RICHMOND",
+    "state": "VIC",
+    "postcode": "3121",
     "callsign": "VK4XSS"
   },
   {
@@ -136649,7 +136641,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Simon James Hall",
+    "name": "Simon Hall",
     "suburb": "BALDIVIS",
     "state": "WA",
     "postcode": "6171",
@@ -143010,9 +143002,9 @@
   {
     "category": "Advanced",
     "name": "PR Eaton",
-    "suburb": "LESMURDIE",
-    "state": "WA",
-    "postcode": "6076",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
     "callsign": "VK6ZPE"
   },
   {
@@ -143206,14 +143198,6 @@
     "state": "TAS",
     "postcode": "7112",
     "callsign": "VK7AAA"
-  },
-  {
-    "category": "Foundation",
-    "name": "Martin Webb",
-    "suburb": "NEW NORFOLK",
-    "state": "TAS",
-    "postcode": "7140",
-    "callsign": "VK7AAB"
   },
   {
     "category": "Foundation",
@@ -149190,14 +149174,6 @@
     "state": "TAS",
     "postcode": "7050",
     "callsign": "VK7VTM"
-  },
-  {
-    "category": "Standard",
-    "name": "Gavin Barnes",
-    "suburb": "LADY BARRON",
-    "state": "TAS",
-    "postcode": "7255",
-    "callsign": "VK7VTX"
   },
   {
     "category": "Standard",
