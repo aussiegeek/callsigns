@@ -1793,14 +1793,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Gary Bradley",
-    "suburb": "CHAPMAN",
-    "state": "ACT",
-    "postcode": "2611",
-    "callsign": "VK1FTCB"
-  },
-  {
-    "category": "Foundation",
     "name": "Thomas Courtney",
     "suburb": "RIVETT",
     "state": "ACT",
@@ -79849,10 +79841,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Stephen J Berriman",
-    "suburb": "LEONGATHA",
+    "name": "Dennis K Haustorfer",
+    "suburb": "LARA",
     "state": "VIC",
-    "postcode": "3953",
+    "postcode": "3212",
     "callsign": "VK3SM"
   },
   {
@@ -96030,14 +96022,6 @@
     "state": "QLD",
     "postcode": "4123",
     "callsign": "VK4FMAD"
-  },
-  {
-    "category": "Foundation",
-    "name": "Malcolm Brown",
-    "suburb": "WARNER",
-    "state": "QLD",
-    "postcode": "4500",
-    "callsign": "VK4FMAL"
   },
   {
     "category": "Foundation",
@@ -131265,14 +131249,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Alan Cheshire",
-    "suburb": "WILLETTON",
-    "state": "WA",
-    "postcode": "6955",
-    "callsign": "VK6CQ"
-  },
-  {
-    "category": "Advanced",
     "name": "Ian B Eldred",
     "suburb": "LESMURDIE",
     "state": "WA",
@@ -149910,22 +149886,6 @@
     "state": "TAS",
     "postcode": "7155",
     "callsign": "VK7ZZ"
-  },
-  {
-    "category": "Advanced",
-    "name": "WA VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK80LAN"
-  },
-  {
-    "category": "Advanced",
-    "name": "WA VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK80LAN"
   },
   {
     "category": "Advanced",
