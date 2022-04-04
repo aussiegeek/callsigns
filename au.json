@@ -8504,7 +8504,7 @@
     "callsign": "VK2BR"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "David Brazier",
     "suburb": "WALLSEND",
     "state": "NSW",
@@ -8512,7 +8512,7 @@
     "callsign": "VK2BRA"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "David Brazier",
     "suburb": "WALLSEND",
     "state": "NSW",
@@ -88808,7 +88808,7 @@
     "callsign": "VK4AEQ"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -88816,7 +88816,7 @@
     "callsign": "VK4AER"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Anthony John Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -103953,14 +103953,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Bazley",
-    "suburb": "TOOWOOMBA",
-    "state": "QLD",
-    "postcode": "4350",
-    "callsign": "VK4OQ"
-  },
-  {
-    "category": "Advanced",
     "name": "AJ Jeffery",
     "suburb": "NAMBOUR",
     "state": "QLD",
@@ -118198,14 +118190,6 @@
     "state": "SA",
     "postcode": "5061",
     "callsign": "VK5CIA"
-  },
-  {
-    "category": "Advanced",
-    "name": "Charles HD Prime",
-    "suburb": "MOUNT GAMBIER EAST",
-    "state": "SA",
-    "postcode": "5291",
-    "callsign": "VK5CJ"
   },
   {
     "category": "Advanced",
@@ -136864,7 +136848,7 @@
     "callsign": "VK6PH"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
@@ -136872,7 +136856,7 @@
     "callsign": "VK6PIG"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Ham College Inc",
     "suburb": "WILLETTON",
     "state": "WA",
