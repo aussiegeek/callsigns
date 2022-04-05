@@ -8449,6 +8449,14 @@
   },
   {
     "category": "Advanced",
+    "name": "LP Albert",
+    "suburb": "WARNERS BAY",
+    "state": "NSW",
+    "postcode": "2282",
+    "callsign": "VK2BPR"
+  },
+  {
+    "category": "Advanced",
     "name": "Paul Suters",
     "suburb": "BAULKHAM HILLS",
     "state": "NSW",
@@ -28224,6 +28232,14 @@
     "callsign": "VK2PJA"
   },
   {
+    "category": "Foundation",
+    "name": "Pieter Berkel",
+    "suburb": "THE PONDS",
+    "state": "NSW",
+    "postcode": "2769",
+    "callsign": "VK2PJB"
+  },
+  {
     "category": "Standard",
     "name": "Peter Frawley",
     "suburb": "HELENSBURGH",
@@ -31462,6 +31478,102 @@
     "state": "NSW",
     "postcode": "2680",
     "callsign": "VK2RGF"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Great Lakes Radio Club Incorporated",
+    "suburb": "FORSTER",
+    "state": "NSW",
+    "postcode": "2428",
+    "callsign": "VK2RGL"
   },
   {
     "category": "Amateur Repeater",
@@ -39046,6 +39158,14 @@
     "state": "NSW",
     "postcode": "2782",
     "callsign": "VK2VAL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Peter Vambaris",
+    "suburb": "KINGSGROVE",
+    "state": "NSW",
+    "postcode": "2208",
+    "callsign": "VK2VAM"
   },
   {
     "category": "Standard",
@@ -61344,6 +61464,14 @@
     "callsign": "VK3JG"
   },
   {
+    "category": "Foundation",
+    "name": "John Bird",
+    "suburb": "NUNAWADING",
+    "state": "VIC",
+    "postcode": "3131",
+    "callsign": "VK3JGB"
+  },
+  {
     "category": "Advanced",
     "name": "Anthony Walter Collis",
     "suburb": "WALLINGTON",
@@ -65558,14 +65686,6 @@
     "state": "VIC",
     "postcode": "3163",
     "callsign": "VK3MV"
-  },
-  {
-    "category": "Standard",
-    "name": "George Leamey",
-    "suburb": "HEALESVILLE",
-    "state": "VIC",
-    "postcode": "3777",
-    "callsign": "VK3MVP"
   },
   {
     "category": "Standard",
@@ -89144,6 +89264,14 @@
     "callsign": "VK4AHG"
   },
   {
+    "category": "Standard",
+    "name": "Adrian Hope-Hodgetts",
+    "suburb": "NARANGBA",
+    "state": "QLD",
+    "postcode": "4504",
+    "callsign": "VK4AHH"
+  },
+  {
     "category": "Advanced",
     "name": "Zane Robert George Jessup",
     "suburb": "CALAMVALE",
@@ -90566,6 +90694,14 @@
     "state": "QLD",
     "postcode": "4020",
     "callsign": "VK4BAK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Stephen McGavin",
+    "suburb": "AVONDALE",
+    "state": "QLD",
+    "postcode": "4670",
+    "callsign": "VK4BAM"
   },
   {
     "category": "Advanced",
@@ -101760,14 +101896,6 @@
     "callsign": "VK4LTF"
   },
   {
-    "category": "Standard",
-    "name": "John Power",
-    "suburb": "TARRAGINDI",
-    "state": "QLD",
-    "postcode": "4121",
-    "callsign": "VK4LTX"
-  },
-  {
     "category": "Advanced",
     "name": "Raymond J Hinks",
     "suburb": "AITKENVALE",
@@ -102496,6 +102624,14 @@
     "callsign": "VK4ML"
   },
   {
+    "category": "Foundation",
+    "name": "Matthew McLeod",
+    "suburb": "COOROY",
+    "state": "QLD",
+    "postcode": "4563",
+    "callsign": "VK4MLM"
+  },
+  {
     "category": "Advanced",
     "name": "Queensland Maritime Museum Association",
     "suburb": "SOUTH BRISBANE",
@@ -103089,6 +103225,14 @@
   },
   {
     "category": "Standard",
+    "name": "Eric Henry Fittock",
+    "suburb": "MURARRIE",
+    "state": "QLD",
+    "postcode": "4172",
+    "callsign": "VK4NEF"
+  },
+  {
+    "category": "Advanced",
     "name": "Eric Henry Fittock",
     "suburb": "MURARRIE",
     "state": "QLD",
@@ -104347,7 +104491,7 @@
     "category": "Advanced",
     "name": "Neville Doncaster",
     "suburb": "BANGKOK",
-    "state": "QLD",
+    "state": "",
     "postcode": "10240",
     "callsign": "VK4PO"
   },
@@ -111627,7 +111771,7 @@
     "category": "Advanced",
     "name": "Neville Doncaster",
     "suburb": "BANGKOK",
-    "state": "QLD",
+    "state": "",
     "postcode": "10240",
     "callsign": "VK4SU"
   },
@@ -116134,14 +116278,6 @@
     "state": "QLD",
     "postcode": "4812",
     "callsign": "VK4ZT"
-  },
-  {
-    "category": "Advanced",
-    "name": "AJ Crane",
-    "suburb": "SHERWOOD",
-    "state": "QLD",
-    "postcode": "4075",
-    "callsign": "VK4ZTC"
   },
   {
     "category": "Advanced",
@@ -127888,6 +128024,14 @@
     "callsign": "VK5WA"
   },
   {
+    "category": "Foundation",
+    "name": "Walter Ciabattoni",
+    "suburb": "GLYNDE",
+    "state": "SA",
+    "postcode": "5070",
+    "callsign": "VK5WAL"
+  },
+  {
     "category": "Advanced",
     "name": "Alan John Mitchell",
     "suburb": "MOONTA",
@@ -130313,14 +130457,6 @@
   },
   {
     "category": "Advanced",
-    "name": "RS Raxworthy",
-    "suburb": "BELMONT",
-    "state": "WA",
-    "postcode": "6104",
-    "callsign": "VK6ASP"
-  },
-  {
-    "category": "Advanced",
     "name": "Geoff Wood",
     "suburb": "COODANUP",
     "state": "WA",
@@ -131030,6 +131166,14 @@
     "state": "WA",
     "postcode": "6011",
     "callsign": "VK6CAM"
+  },
+  {
+    "category": "Foundation",
+    "name": "Bradley Reeve",
+    "suburb": "CANNING VALE",
+    "state": "WA",
+    "postcode": "6155",
+    "callsign": "VK6CAR"
   },
   {
     "category": "Advanced",
@@ -131990,14 +132134,6 @@
     "state": "WA",
     "postcode": "6200",
     "callsign": "VK6FAAI"
-  },
-  {
-    "category": "Foundation",
-    "name": "Gordon Thompson",
-    "suburb": "Singleton",
-    "state": "WA",
-    "postcode": "6175",
-    "callsign": "VK6FAAJ"
   },
   {
     "category": "Foundation",
@@ -133406,6 +133542,14 @@
     "state": "WA",
     "postcode": "6375",
     "callsign": "VK6GJR"
+  },
+  {
+    "category": "Foundation",
+    "name": "Gordon Thompson",
+    "suburb": "Singleton",
+    "state": "WA",
+    "postcode": "6175",
+    "callsign": "VK6GJT"
   },
   {
     "category": "Advanced",
@@ -144790,6 +144934,14 @@
     "state": "TAS",
     "postcode": "7011",
     "callsign": "VK7FTWS"
+  },
+  {
+    "category": "Standard",
+    "name": "Rob Whyte",
+    "suburb": "SOUTH LAUNCESTON",
+    "state": "TAS",
+    "postcode": "7249",
+    "callsign": "VK7FUJ"
   },
   {
     "category": "Foundation",
