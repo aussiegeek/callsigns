@@ -6034,9 +6034,9 @@
   {
     "category": "Advanced",
     "name": "Maxwell Osmond",
-    "suburb": "Hornsby",
-    "state": "NSW",
-    "postcode": "2077",
+    "suburb": "MOUNT BARKER",
+    "state": "SA",
+    "postcode": "5251",
     "callsign": "VK2AMO"
   },
   {
@@ -15857,14 +15857,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Jayden Nawotka",
-    "suburb": "BEROWRA",
-    "state": "NSW",
-    "postcode": "2081",
-    "callsign": "VK2FJLN"
-  },
-  {
-    "category": "Foundation",
     "name": "Jamie Flood",
     "suburb": "RIVERSTONE",
     "state": "NSW",
@@ -17006,14 +16998,6 @@
     "state": "NSW",
     "postcode": "2148",
     "callsign": "VK2FPWA"
-  },
-  {
-    "category": "Foundation",
-    "name": "Pieter Berkel",
-    "suburb": "THE PONDS",
-    "state": "NSW",
-    "postcode": "2769",
-    "callsign": "VK2FPWL"
   },
   {
     "category": "Advanced",
@@ -58529,6 +58513,14 @@
   },
   {
     "category": "Advanced",
+    "name": "George Stahl",
+    "suburb": "EBDEN",
+    "state": "VIC",
+    "postcode": "3691",
+    "callsign": "VK3GEO"
+  },
+  {
+    "category": "Advanced",
     "name": "Gerard Joost Werner",
     "suburb": "SEAFORD",
     "state": "VIC",
@@ -64793,6 +64785,14 @@
   },
   {
     "category": "Standard",
+    "name": "David Brayshaw",
+    "suburb": "CASTLEMAINE",
+    "state": "VIC",
+    "postcode": "3450",
+    "callsign": "VK3MDB"
+  },
+  {
+    "category": "Standard",
     "name": "Mathew Craig",
     "suburb": "NYAH WEST",
     "state": "VIC",
@@ -66886,6 +66886,14 @@
     "state": "VIC",
     "postcode": "3088",
     "callsign": "VK3OP"
+  },
+  {
+    "category": "Foundation",
+    "name": "Mark Bui",
+    "suburb": "ROSANNA",
+    "state": "VIC",
+    "postcode": "3084",
+    "callsign": "VK3OPS"
   },
   {
     "category": "Advanced",
@@ -83096,14 +83104,6 @@
     "callsign": "VK3VKV"
   },
   {
-    "category": "Standard",
-    "name": "KW Whitlock",
-    "suburb": "SHEPPARTON",
-    "state": "VIC",
-    "postcode": "3630",
-    "callsign": "VK3VKW"
-  },
-  {
     "category": "Advanced",
     "name": "David John Harms",
     "suburb": "DANDENONG",
@@ -88354,9 +88354,9 @@
   {
     "category": "Foundation",
     "name": "Wayne Ryan",
-    "suburb": "MURGON",
+    "suburb": "HIVESVILLE",
     "state": "QLD",
-    "postcode": "4605",
+    "postcode": "4612",
     "callsign": "VK4ABR"
   },
   {
@@ -90582,14 +90582,6 @@
     "state": "QLD",
     "postcode": "4570",
     "callsign": "VK4AYM"
-  },
-  {
-    "category": "Advanced",
-    "name": "Mark Bennett",
-    "suburb": "AYR",
-    "state": "QLD",
-    "postcode": "4807",
-    "callsign": "VK4AYR"
   },
   {
     "category": "Advanced",
@@ -103072,6 +103064,14 @@
     "callsign": "VK4NAL"
   },
   {
+    "category": "Advanced",
+    "name": "Nalaka Mutukumarana",
+    "suburb": "HEMMANT",
+    "state": "QLD",
+    "postcode": "4174",
+    "callsign": "VK4NAL"
+  },
+  {
     "category": "Standard",
     "name": "Nigel Roden",
     "suburb": "DOUGLAS",
@@ -103918,6 +103918,14 @@
     "state": "QLD",
     "postcode": "4815",
     "callsign": "VK4OB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Jason Laskus",
+    "suburb": "ROCHEDALE SOUTH",
+    "state": "QLD",
+    "postcode": "4123",
+    "callsign": "VK4OBI"
   },
   {
     "category": "Advanced",
@@ -119458,9 +119466,9 @@
   {
     "category": "Foundation",
     "name": "Craig Huckstepp",
-    "suburb": "GOODWOOD",
+    "suburb": "STRATHALBYN",
     "state": "SA",
-    "postcode": "5034",
+    "postcode": "5255",
     "callsign": "VK5FCDH"
   },
   {
@@ -124598,6 +124606,14 @@
     "state": "SA",
     "postcode": "5000",
     "callsign": "VK5PKN"
+  },
+  {
+    "category": "Standard",
+    "name": "Shane Pankhurst",
+    "suburb": "GLOSSOP",
+    "state": "SA",
+    "postcode": "5344",
+    "callsign": "VK5PKY"
   },
   {
     "category": "Advanced",
@@ -132038,6 +132054,14 @@
     "state": "WA",
     "postcode": "6430",
     "callsign": "VK6ES"
+  },
+  {
+    "category": "Foundation",
+    "name": "Santiago Belaus",
+    "suburb": "HIGHGATE",
+    "state": "WA",
+    "postcode": "6003",
+    "callsign": "VK6ESB"
   },
   {
     "category": "Advanced",
