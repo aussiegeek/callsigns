@@ -24850,9 +24850,9 @@
   {
     "category": "Advanced",
     "name": "Walter Bagnarol",
-    "suburb": "FIGTREE",
+    "suburb": "BEXLEY",
     "state": "NSW",
-    "postcode": "2525",
+    "postcode": "2207",
     "callsign": "VK2LM"
   },
   {
@@ -51513,6 +51513,14 @@
   },
   {
     "category": "Advanced",
+    "name": "David Atkinson",
+    "suburb": "COLLINGWOOD",
+    "state": "VIC",
+    "postcode": "3066",
+    "callsign": "VK3DJA"
+  },
+  {
+    "category": "Advanced",
     "name": "David Coupe",
     "suburb": "PORTLAND WEST",
     "state": "VIC",
@@ -55346,7 +55354,7 @@
   {
     "category": "Foundation",
     "name": "Graham Galea",
-    "suburb": "CAIRNES",
+    "suburb": "White Rock",
     "state": "QLD",
     "postcode": "4868",
     "callsign": "VK3FGLG"
@@ -95418,7 +95426,7 @@
   {
     "category": "Foundation",
     "name": "Graham Galea",
-    "suburb": "CAIRNES",
+    "suburb": "White Rock",
     "state": "QLD",
     "postcode": "4868",
     "callsign": "VK4FGLG"
@@ -100142,6 +100150,14 @@
     "state": "QLD",
     "postcode": "4354",
     "callsign": "VK4JV"
+  },
+  {
+    "category": "Foundation",
+    "name": "Jeffery V Anders",
+    "suburb": "Kulangoor",
+    "state": "QLD",
+    "postcode": "4560",
+    "callsign": "VK4JVA"
   },
   {
     "category": "Advanced",
@@ -121314,9 +121330,9 @@
   {
     "category": "Standard",
     "name": "David John Holland",
-    "suburb": "COLONEL LIGHT GARDENS",
+    "suburb": "SEDAN",
     "state": "SA",
-    "postcode": "5041",
+    "postcode": "5353",
     "callsign": "VK5HOL"
   },
   {
@@ -131262,6 +131278,14 @@
     "state": "WA",
     "postcode": "6050",
     "callsign": "VK6CPU"
+  },
+  {
+    "category": "Advanced",
+    "name": "Alan Cheshire",
+    "suburb": "WILLETTON",
+    "state": "WA",
+    "postcode": "6955",
+    "callsign": "VK6CQ"
   },
   {
     "category": "Advanced",
