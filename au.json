@@ -17952,14 +17952,6 @@
     "callsign": "VK2FWB"
   },
   {
-    "category": "Foundation",
-    "name": "Panagiotis Romanos",
-    "suburb": "GREG GREG",
-    "state": "NSW",
-    "postcode": "2642",
-    "callsign": "VK2FWBF"
-  },
-  {
     "category": "Advanced",
     "name": "Michael Gardiner",
     "suburb": "WEST KEMPSEY",
@@ -37838,14 +37830,6 @@
     "state": "NSW",
     "postcode": "2773",
     "callsign": "VK2TM"
-  },
-  {
-    "category": "Advanced",
-    "name": "Timothy James Jopson",
-    "suburb": "SCONE",
-    "state": "NSW",
-    "postcode": "2337",
-    "callsign": "VK2TMA"
   },
   {
     "category": "Foundation",
@@ -67474,9 +67458,9 @@
   {
     "category": "Standard",
     "name": "Kheeran Dharmawardena",
-    "suburb": "CHADSTONE",
+    "suburb": "MOUNT WAVERLEY",
     "state": "VIC",
-    "postcode": "3148",
+    "postcode": "3149",
     "callsign": "VK3PKC"
   },
   {
@@ -68006,14 +67990,6 @@
     "state": "VIC",
     "postcode": "3135",
     "callsign": "VK3QC"
-  },
-  {
-    "category": "Advanced",
-    "name": "Christopher Chapman",
-    "suburb": "FOSTER",
-    "state": "VIC",
-    "postcode": "3960",
-    "callsign": "VK3QCW"
   },
   {
     "category": "Advanced",
@@ -141800,7 +141776,7 @@
     "callsign": "VK6WJ"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
@@ -141808,7 +141784,7 @@
     "callsign": "VK6WJH"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
@@ -141938,9 +141914,9 @@
   {
     "category": "Advanced",
     "name": "Adrian Murace",
-    "suburb": "BEECHBORO",
+    "suburb": "SWAN VIEW",
     "state": "WA",
-    "postcode": "6063",
+    "postcode": "6056",
     "callsign": "VK6XAM"
   },
   {
@@ -151670,6 +151646,14 @@
     "state": "NSW",
     "postcode": "2283",
     "callsign": "VK9NP"
+  },
+  {
+    "category": "Advanced",
+    "name": "Christopher Chapman",
+    "suburb": "FOSTER",
+    "state": "VIC",
+    "postcode": "3960",
+    "callsign": "VK9NT"
   },
   {
     "category": "Standard",
