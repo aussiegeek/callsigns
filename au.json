@@ -61529,14 +61529,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Maxwell Orwin",
-    "suburb": "MOUNT MARTHA",
-    "state": "VIC",
-    "postcode": "3934",
-    "callsign": "VK3JJO"
-  },
-  {
-    "category": "Advanced",
     "name": "Jason Roberts",
     "suburb": "NIDDRIE",
     "state": "VIC",
@@ -68022,6 +68014,14 @@
     "state": "QLD",
     "postcode": "4703",
     "callsign": "VK3QG"
+  },
+  {
+    "category": "Advanced",
+    "name": "Graeme Anderson",
+    "suburb": "CHELSEA",
+    "state": "VIC",
+    "postcode": "3196",
+    "callsign": "VK3QH"
   },
   {
     "category": "Advanced",
@@ -93366,6 +93366,14 @@
     "state": "QLD",
     "postcode": "4074",
     "callsign": "VK4DMP"
+  },
+  {
+    "category": "Standard",
+    "name": "Glenn Allemand",
+    "suburb": "Beerwah",
+    "state": "QLD",
+    "postcode": "4519",
+    "callsign": "VK4DMR"
   },
   {
     "category": "Advanced",
@@ -143257,6 +143265,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Martin Webb",
+    "suburb": "NEW NORFOLK",
+    "state": "TAS",
+    "postcode": "7140",
+    "callsign": "VK7AAB"
+  },
+  {
+    "category": "Foundation",
     "name": "Peter Sweetlove",
     "suburb": "NEW NORFOLK",
     "state": "TAS",
@@ -145646,6 +145662,14 @@
     "state": "TAS",
     "postcode": "7275",
     "callsign": "VK7JS"
+  },
+  {
+    "category": "Foundation",
+    "name": "Jacobus Du Preez",
+    "suburb": "BELLERIVE",
+    "state": "TAS",
+    "postcode": "7018",
+    "callsign": "VK7JSB"
   },
   {
     "category": "Advanced",
