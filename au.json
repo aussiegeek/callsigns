@@ -424,6 +424,14 @@
     "callsign": "VK1ANN"
   },
   {
+    "category": "Foundation",
+    "name": "Kieran McLaughlin",
+    "suburb": "LATHAM",
+    "state": "ACT",
+    "postcode": "2615",
+    "callsign": "VK1AOR"
+  },
+  {
     "category": "Advanced",
     "name": "AE Phemister",
     "suburb": "WANNIASSA",
@@ -470,6 +478,14 @@
     "state": "ACT",
     "postcode": "2905",
     "callsign": "VK1ARL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Richard Roy",
+    "suburb": "KAMBAH",
+    "state": "ACT",
+    "postcode": "2902",
+    "callsign": "VK1ARQ"
   },
   {
     "category": "Foundation",
@@ -968,6 +984,14 @@
     "callsign": "VK1DOC"
   },
   {
+    "category": "Foundation",
+    "name": "Don Kazias",
+    "suburb": "GORDON",
+    "state": "ACT",
+    "postcode": "2906",
+    "callsign": "VK1DON"
+  },
+  {
     "category": "Advanced",
     "name": "David Paul Brodrick",
     "suburb": "Giralang",
@@ -1014,6 +1038,14 @@
     "state": "ACT",
     "postcode": "2604",
     "callsign": "VK1DT"
+  },
+  {
+    "category": "Foundation",
+    "name": "Stephen Fry",
+    "suburb": "NICHOLLS",
+    "state": "ACT",
+    "postcode": "2913",
+    "callsign": "VK1DTH"
   },
   {
     "category": "Advanced",
@@ -4016,6 +4048,14 @@
     "callsign": "VK1VB"
   },
   {
+    "category": "Foundation",
+    "name": "Mitchell Mackenzie",
+    "suburb": "WATSON",
+    "state": "ACT",
+    "postcode": "2602",
+    "callsign": "VK1VDM"
+  },
+  {
     "category": "Standard",
     "name": "Anthony Vickers",
     "suburb": "BUNGENDORE",
@@ -4118,6 +4158,14 @@
     "state": "ACT",
     "postcode": "2617",
     "callsign": "VK1WPR"
+  },
+  {
+    "category": "Foundation",
+    "name": "Jo-Wai Wang",
+    "suburb": "WEETANGERA",
+    "state": "ACT",
+    "postcode": "2614",
+    "callsign": "VK1WRW"
   },
   {
     "category": "Foundation",
@@ -7945,6 +7993,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Blake Crawford",
+    "suburb": "KELLYVILLE RIDGE",
+    "state": "NSW",
+    "postcode": "2155",
+    "callsign": "VK2BKR"
+  },
+  {
+    "category": "Foundation",
     "name": "Bryce Keith Steep",
     "suburb": "WAUCHOPE",
     "state": "NSW",
@@ -8534,6 +8590,14 @@
     "state": "NSW",
     "postcode": "2783",
     "callsign": "VK2BRC"
+  },
+  {
+    "category": "Advanced",
+    "name": "Bridgette Murray",
+    "suburb": "NEWCASTLE",
+    "state": "NSW",
+    "postcode": "2300",
+    "callsign": "VK2BRE"
   },
   {
     "category": "Advanced",
@@ -10296,6 +10360,14 @@
     "callsign": "VK2CS"
   },
   {
+    "category": "Foundation",
+    "name": "Christopher Allen",
+    "suburb": "KENTHURST",
+    "state": "NSW",
+    "postcode": "2156",
+    "callsign": "VK2CSA"
+  },
+  {
     "category": "Advanced",
     "name": "Harry Day",
     "suburb": "SURRY HILLS",
@@ -10318,6 +10390,14 @@
     "state": "NSW",
     "postcode": "2446",
     "callsign": "VK2CSM"
+  },
+  {
+    "category": "Foundation",
+    "name": "Amir Rezghian",
+    "suburb": "BAULKHAM HILLS",
+    "state": "NSW",
+    "postcode": "2153",
+    "callsign": "VK2CSO"
   },
   {
     "category": "Foundation",
@@ -10392,6 +10472,14 @@
     "callsign": "VK2CTR"
   },
   {
+    "category": "Foundation",
+    "name": "Christopher Turner",
+    "suburb": "PEATS RIDGE",
+    "state": "NSW",
+    "postcode": "2250",
+    "callsign": "VK2CTT"
+  },
+  {
     "category": "Advanced",
     "name": "Justin Robert Lavery",
     "suburb": "GOWAN",
@@ -10446,6 +10534,14 @@
     "state": "NSW",
     "postcode": "2291",
     "callsign": "VK2CW"
+  },
+  {
+    "category": "Foundation",
+    "name": "Christopher Doble",
+    "suburb": "RANDWICK",
+    "state": "NSW",
+    "postcode": "2031",
+    "callsign": "VK2CWD"
   },
   {
     "category": "Foundation",
@@ -11864,6 +11960,14 @@
     "callsign": "VK2DT"
   },
   {
+    "category": "Foundation",
+    "name": "Daniel Thomas",
+    "suburb": "KINGSCLIFF",
+    "state": "NSW",
+    "postcode": "2487",
+    "callsign": "VK2DTF"
+  },
+  {
     "category": "Advanced",
     "name": "Richard Calder",
     "suburb": "ALBION PARK",
@@ -12094,6 +12198,14 @@
     "state": "NSW",
     "postcode": "2541",
     "callsign": "VK2DXU"
+  },
+  {
+    "category": "Foundation",
+    "name": "Glen Ford",
+    "suburb": "North Wahroonga",
+    "state": "NSW",
+    "postcode": "2076",
+    "callsign": "VK2DXW"
   },
   {
     "category": "Advanced",
@@ -16288,6 +16400,14 @@
     "callsign": "VK2FLRW"
   },
   {
+    "category": "Foundation",
+    "name": "James Cristofaro",
+    "suburb": "NEUTRAL BAY",
+    "state": "NSW",
+    "postcode": "2089",
+    "callsign": "VK2FLX"
+  },
+  {
     "category": "Advanced",
     "name": "Matthew Perkins",
     "suburb": "POTTS POINT",
@@ -18920,6 +19040,14 @@
     "callsign": "VK2GPT"
   },
   {
+    "category": "Foundation",
+    "name": "Rae Forbes-Richardson",
+    "suburb": "THORNLEIGH",
+    "state": "NSW",
+    "postcode": "2120",
+    "callsign": "VK2GPU"
+  },
+  {
     "category": "Advanced",
     "name": "Masahiro Tatatsuka",
     "suburb": "MARRICKVILLE SOUTH",
@@ -19049,6 +19177,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Eduard Grueninger",
+    "suburb": "PICNIC POINT",
+    "state": "NSW",
+    "postcode": "2213",
+    "callsign": "VK2GRU"
+  },
+  {
+    "category": "Standard",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -20265,6 +20401,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Daniel Singh Sidhu",
+    "suburb": "GREYSTANES",
+    "state": "NSW",
+    "postcode": "2145",
+    "callsign": "VK2HMC"
+  },
+  {
+    "category": "Foundation",
     "name": "Heath MacDonald",
     "suburb": "BELLA VISTA",
     "state": "NSW",
@@ -20598,6 +20742,14 @@
     "state": "NSW",
     "postcode": "2090",
     "callsign": "VK2HSL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Rodney Duckworth",
+    "suburb": "Frenchs Forest",
+    "state": "NSW",
+    "postcode": "2086",
+    "callsign": "VK2HSN"
   },
   {
     "category": "Standard",
@@ -22640,6 +22792,14 @@
     "callsign": "VK2JTH"
   },
   {
+    "category": "Foundation",
+    "name": "Ji Soo Mok",
+    "suburb": "MORTDALE",
+    "state": "NSW",
+    "postcode": "2223",
+    "callsign": "VK2JTM"
+  },
+  {
     "category": "Advanced",
     "name": "TW Page",
     "suburb": "DAVIDSON",
@@ -22694,6 +22854,14 @@
     "state": "NSW",
     "postcode": "2120",
     "callsign": "VK2JV"
+  },
+  {
+    "category": "Foundation",
+    "name": "James Cass",
+    "suburb": "BAULKHAM HILLS",
+    "state": "NSW",
+    "postcode": "2153",
+    "callsign": "VK2JVC"
   },
   {
     "category": "Advanced",
@@ -23230,6 +23398,14 @@
     "state": "NSW",
     "postcode": "2069",
     "callsign": "VK2KGG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Kathryn Hilder",
+    "suburb": "EAGLE VALE",
+    "state": "NSW",
+    "postcode": "2558",
+    "callsign": "VK2KGH"
   },
   {
     "category": "Advanced",
@@ -25494,6 +25670,14 @@
     "state": "NSW",
     "postcode": "2233",
     "callsign": "VK2MER"
+  },
+  {
+    "category": "Advanced",
+    "name": "Joshua Mesilane",
+    "suburb": "KELSO",
+    "state": "NSW",
+    "postcode": "2795",
+    "callsign": "VK2MES"
   },
   {
     "category": "Foundation",
@@ -28606,6 +28790,14 @@
     "state": "NSW",
     "postcode": "2084",
     "callsign": "VK2PTB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Keith Bayliss",
+    "suburb": "COOPERNOOK",
+    "state": "NSW",
+    "postcode": "2426",
+    "callsign": "VK2PTL"
   },
   {
     "category": "Advanced",
@@ -37152,6 +37344,14 @@
     "callsign": "VK2TA"
   },
   {
+    "category": "Foundation",
+    "name": "Ruben Fernandez",
+    "suburb": "Moruya",
+    "state": "NSW",
+    "postcode": "2537",
+    "callsign": "VK2TAC"
+  },
+  {
     "category": "Advanced",
     "name": "AK Dunn",
     "suburb": "COOMBA BAY",
@@ -37454,6 +37654,14 @@
     "state": "NSW",
     "postcode": "2176",
     "callsign": "VK2TF"
+  },
+  {
+    "category": "Foundation",
+    "name": "Matthew Sandow",
+    "suburb": "TIRRANNAVILLE",
+    "state": "NSW",
+    "postcode": "2580",
+    "callsign": "VK2TFE"
   },
   {
     "category": "Advanced",
@@ -39534,6 +39742,14 @@
     "state": "NSW",
     "postcode": "2770",
     "callsign": "VK2VKG"
+  },
+  {
+    "category": "Standard",
+    "name": "Rajesh Doolabh",
+    "suburb": "NORTH WILLOUGHBY",
+    "state": "NSW",
+    "postcode": "2068",
+    "callsign": "VK2VKP"
   },
   {
     "category": "Standard",
@@ -47270,6 +47486,14 @@
     "state": "VIC",
     "postcode": "3978",
     "callsign": "VK3AVE"
+  },
+  {
+    "category": "Advanced",
+    "name": "Douglas Schache",
+    "suburb": "Werribee",
+    "state": "VIC",
+    "postcode": "3030",
+    "callsign": "VK3AVG -"
   },
   {
     "category": "Advanced",
@@ -81634,9 +81858,9 @@
   {
     "category": "Advanced",
     "name": "Wayne Murphy",
-    "suburb": "CARRUM DOWNS",
+    "suburb": "CRANBOURNE EAST",
     "state": "VIC",
-    "postcode": "3201",
+    "postcode": "3977",
     "callsign": "VK3TWM"
   },
   {
@@ -94754,9 +94978,9 @@
   {
     "category": "Foundation",
     "name": "Anthony George Petersen",
-    "suburb": "MACLEAY ISLAND",
+    "suburb": "ZILZIE",
     "state": "QLD",
-    "postcode": "4184",
+    "postcode": "4710",
     "callsign": "VK4FAXA"
   },
   {
@@ -94770,9 +94994,9 @@
   {
     "category": "Foundation",
     "name": "Jake Wood",
-    "suburb": "KIRWAN",
+    "suburb": "DOUGLAS",
     "state": "QLD",
-    "postcode": "4817",
+    "postcode": "4814",
     "callsign": "VK4FAZD"
   },
   {
@@ -97921,6 +98145,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Guerino Galeazzi",
+    "suburb": "Carina",
+    "state": "QLD",
+    "postcode": "4152",
+    "callsign": "VK4GUE"
+  },
+  {
+    "category": "Advanced",
     "name": "Guerino Galeazzi",
     "suburb": "Carina",
     "state": "QLD",
@@ -104166,6 +104398,14 @@
     "state": "QLD",
     "postcode": "4021",
     "callsign": "VK4PB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Paul McGregor",
+    "suburb": "TARA",
+    "state": "QLD",
+    "postcode": "4421",
+    "callsign": "VK4PBM"
   },
   {
     "category": "Standard",
@@ -112096,6 +112336,14 @@
     "callsign": "VK4THC"
   },
   {
+    "category": "Foundation",
+    "name": "Jaybin Forrest",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "postcode": "4558",
+    "callsign": "VK4THV"
+  },
+  {
     "category": "Advanced",
     "name": "Barry Churton",
     "suburb": "BROWNS PLAINS",
@@ -118328,6 +118576,14 @@
     "callsign": "VK5CM"
   },
   {
+    "category": "Foundation",
+    "name": "Vincent Sanderson",
+    "suburb": "SEAFORD RISE",
+    "state": "SA",
+    "postcode": "5169",
+    "callsign": "VK5CMB"
+  },
+  {
     "category": "Advanced",
     "name": "Kevin Warren",
     "suburb": "MOUNT GAMBIER",
@@ -119126,14 +119382,6 @@
     "state": "SA",
     "postcode": "5034",
     "callsign": "VK5FAAW"
-  },
-  {
-    "category": "Foundation",
-    "name": "Mark Randell-Knight",
-    "suburb": "GOOLWA BEACH",
-    "state": "SA",
-    "postcode": "5214",
-    "callsign": "VK5FABB"
   },
   {
     "category": "Foundation",
@@ -121710,6 +121958,14 @@
     "state": "SA",
     "postcode": "5162",
     "callsign": "VK5JAA"
+  },
+  {
+    "category": "Foundation",
+    "name": "Justin Farr",
+    "suburb": "SALISBURY PARK",
+    "state": "SA",
+    "postcode": "5109",
+    "callsign": "VK5JAF"
   },
   {
     "category": "Standard",
@@ -128824,6 +129080,14 @@
     "callsign": "VK5ZEL"
   },
   {
+    "category": "Foundation",
+    "name": "Clive Roberts",
+    "suburb": "MORPHETT VALE",
+    "state": "SA",
+    "postcode": "5162",
+    "callsign": "VK5ZEN"
+  },
+  {
     "category": "Advanced",
     "name": "Steven John Cogzell",
     "suburb": "SELLICKS BEACH",
@@ -135426,7 +135690,7 @@
   {
     "category": "Standard",
     "name": "Lance Kemp",
-    "suburb": "BICKLEY",
+    "suburb": "WALLISTON",
     "state": "WA",
     "postcode": "6076",
     "callsign": "VK6LMK"
@@ -137153,6 +137417,14 @@
   },
   {
     "category": "Standard",
+    "name": "David McSweeney",
+    "suburb": "CHITTERING",
+    "state": "WA",
+    "postcode": "6084",
+    "callsign": "VK6PYN"
+  },
+  {
+    "category": "Advanced",
     "name": "David McSweeney",
     "suburb": "CHITTERING",
     "state": "WA",
@@ -142608,6 +142880,14 @@
     "callsign": "VK6ZAQ"
   },
   {
+    "category": "Foundation",
+    "name": "Zarik Maclean",
+    "suburb": "Mount Barker",
+    "state": "WA",
+    "postcode": "6324",
+    "callsign": "VK6ZAR"
+  },
+  {
     "category": "Advanced",
     "name": "A Edgar",
     "suburb": "ROSSMOYNE",
@@ -143270,6 +143550,14 @@
     "state": "TAS",
     "postcode": "7140",
     "callsign": "VK7AAB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Benjamin Tymms",
+    "suburb": "Hobart",
+    "state": "TAS",
+    "postcode": "7000",
+    "callsign": "VK7AAC"
   },
   {
     "category": "Foundation",
