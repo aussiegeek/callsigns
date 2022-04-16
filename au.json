@@ -13320,14 +13320,6 @@
     "callsign": "VK2EXA"
   },
   {
-    "category": "Foundation",
-    "name": "Indi Edwards",
-    "suburb": "Alexandria",
-    "state": "NSW",
-    "postcode": "2015",
-    "callsign": "VK2EXO"
-  },
-  {
     "category": "Advanced",
     "name": "JB CORBEN",
     "suburb": "OATLEY",
@@ -138448,62 +138440,6 @@
     "callsign": "VK6RBS"
   },
   {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "South West Amateur Radio Group",
     "suburb": "BOYANUP",
@@ -139896,46 +139832,6 @@
     "callsign": "VK6RPH"
   },
   {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "Mark Lucas",
     "suburb": "SINAGRA",
@@ -140214,46 +140110,6 @@
     "state": "WA",
     "postcode": "6016",
     "callsign": "VK6RSH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
   },
   {
     "category": "Amateur Beacon",
@@ -149400,14 +149256,6 @@
     "callsign": "VK7TY"
   },
   {
-    "category": "Advanced",
-    "name": "Jacques Sapir",
-    "suburb": "EAST DEVONPORT",
-    "state": "TAS",
-    "postcode": "7310",
-    "callsign": "VK7UT"
-  },
-  {
     "category": "Standard",
     "name": "Antony Cornwall",
     "suburb": "COLLINSVALE",
@@ -151910,14 +151758,6 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK9MR"
-  },
-  {
-    "category": "Advanced",
-    "name": "Michael Dennis Coleman",
-    "suburb": "MOUNT ELIZA",
-    "state": "VIC",
-    "postcode": "3930",
-    "callsign": "VK9NA"
   },
   {
     "category": "Advanced",
