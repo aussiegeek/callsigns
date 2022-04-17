@@ -21289,14 +21289,6 @@
   },
   {
     "category": "Advanced",
-    "name": "EJ Hryckiewicz",
-    "suburb": "RUTHERFORD",
-    "state": "NSW",
-    "postcode": "2320",
-    "callsign": "VK2IJN"
-  },
-  {
-    "category": "Advanced",
     "name": "Ivan Southwell",
     "suburb": "PORT MACQUARIE",
     "state": "NSW",
@@ -90145,14 +90137,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Peter J Garden",
-    "suburb": "EATONS HILL",
-    "state": "QLD",
-    "postcode": "4037",
-    "callsign": "VK4APG"
-  },
-  {
-    "category": "Advanced",
     "name": "Matthew McKague",
     "suburb": "TOOWONG",
     "state": "QLD",
@@ -123529,14 +123513,6 @@
   },
   {
     "category": "Standard",
-    "name": "Myles Gordon Fuller",
-    "suburb": "EVERARD PARK",
-    "state": "SA",
-    "postcode": "5035",
-    "callsign": "VK5MGF"
-  },
-  {
-    "category": "Standard",
     "name": "Manish Pillewar",
     "suburb": "LEABROOK",
     "state": "SA",
@@ -143536,14 +143512,6 @@
     "callsign": "VK7AE"
   },
   {
-    "category": "Foundation",
-    "name": "Stewart Young",
-    "suburb": "MORNINGTON",
-    "state": "TAS",
-    "postcode": "7018",
-    "callsign": "VK7AEZ"
-  },
-  {
     "category": "Advanced",
     "name": "Anthony Goggins",
     "suburb": "BLACKMANS BAY",
@@ -146310,14 +146278,6 @@
     "state": "TAS",
     "postcode": "7015",
     "callsign": "VK7LW"
-  },
-  {
-    "category": "Standard",
-    "name": "John Scott Bragg",
-    "suburb": "BUCKLAND",
-    "state": "TAS",
-    "postcode": "7190",
-    "callsign": "VK7LXX"
   },
   {
     "category": "Advanced",
