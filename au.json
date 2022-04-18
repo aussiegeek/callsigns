@@ -16040,14 +16040,6 @@
     "callsign": "VK2FJSB"
   },
   {
-    "category": "Foundation",
-    "name": "Julie Rodgers",
-    "suburb": "ARMIDALE",
-    "state": "NSW",
-    "postcode": "2350",
-    "callsign": "VK2FJUL"
-  },
-  {
     "category": "Advanced",
     "name": "Francis Weber",
     "suburb": "OXLEY PARK",
@@ -16174,14 +16166,6 @@
     "state": "NSW",
     "postcode": "2095",
     "callsign": "VK2FKPL"
-  },
-  {
-    "category": "Foundation",
-    "name": "Ken Wilson",
-    "suburb": "INGLESIDE",
-    "state": "NSW",
-    "postcode": "2101",
-    "callsign": "VK2FKTL"
   },
   {
     "category": "Advanced",
@@ -16934,14 +16918,6 @@
     "state": "NSW",
     "postcode": "1230",
     "callsign": "VK2FPAT"
-  },
-  {
-    "category": "Foundation",
-    "name": "Jeremy Wong",
-    "suburb": "ANNA BAY",
-    "state": "NSW",
-    "postcode": "2316",
-    "callsign": "VK2FPBJ"
   },
   {
     "category": "Advanced",
@@ -19168,7 +19144,7 @@
     "callsign": "VK2GRR"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -19176,7 +19152,7 @@
     "callsign": "VK2GRU"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -39494,14 +39470,6 @@
     "state": "NSW",
     "postcode": "2224",
     "callsign": "VK2VGB"
-  },
-  {
-    "category": "Standard",
-    "name": "Gregory Eastlake",
-    "suburb": "ASQUITH",
-    "state": "NSW",
-    "postcode": "2077",
-    "callsign": "VK2VGE"
   },
   {
     "category": "Standard",
@@ -64782,14 +64750,6 @@
     "state": "VIC",
     "postcode": "3212",
     "callsign": "VK3MBK"
-  },
-  {
-    "category": "Foundation",
-    "name": "Juan Laguna Runser",
-    "suburb": "SOUTH MORANG",
-    "state": "VIC",
-    "postcode": "3752",
-    "callsign": "VK3MBL"
   },
   {
     "category": "Standard",
@@ -141888,7 +141848,7 @@
     "callsign": "VK6WJ"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
@@ -141896,7 +141856,7 @@
     "callsign": "VK6WJH"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
