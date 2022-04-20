@@ -22216,6 +22216,14 @@
     "callsign": "VK2JIB"
   },
   {
+    "category": "Standard",
+    "name": "Joseph Benn",
+    "suburb": "FINLEY",
+    "state": "NSW",
+    "postcode": "2713",
+    "callsign": "VK2JIB"
+  },
+  {
     "category": "Advanced",
     "name": "James Atchison",
     "suburb": "ABERDEEN",
@@ -27713,6 +27721,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Ross Appleby",
+    "suburb": "AUBURN",
+    "state": "NSW",
+    "postcode": "2144",
+    "callsign": "VK2OH"
+  },
+  {
+    "category": "Advanced",
     "name": "Philip Garbode",
     "suburb": "BYWONG",
     "state": "NSW",
@@ -31110,22 +31126,6 @@
     "state": "NSW",
     "postcode": "2450",
     "callsign": "VK2RDO"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Lindsay Harvey",
-    "suburb": "Parkes",
-    "state": "NSW",
-    "postcode": "2870",
-    "callsign": "VK2RDP"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Lindsay Harvey",
-    "suburb": "Parkes",
-    "state": "NSW",
-    "postcode": "2870",
-    "callsign": "VK2RDP"
   },
   {
     "category": "Amateur Repeater",
@@ -43705,6 +43705,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Ross Appleby",
+    "suburb": "AUBURN",
+    "state": "NSW",
+    "postcode": "2144",
+    "callsign": "VK2ZK"
+  },
+  {
+    "category": "Advanced",
     "name": "MA Shenstone",
     "suburb": "KINGS LANGLEY",
     "state": "NSW",
@@ -55761,14 +55769,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Holly Celeste Andrewartha",
-    "suburb": "SEYMOUR",
-    "state": "VIC",
-    "postcode": "3660",
-    "callsign": "VK3FHUG"
-  },
-  {
-    "category": "Foundation",
     "name": "Howard Burvill",
     "suburb": "Woodend",
     "state": "VIC",
@@ -57054,14 +57054,6 @@
     "state": "VIC",
     "postcode": "3030",
     "callsign": "VK3FNOS"
-  },
-  {
-    "category": "Foundation",
-    "name": "Nicholas Egan",
-    "suburb": "WARRNAMBOOL",
-    "state": "VIC",
-    "postcode": "3280",
-    "callsign": "VK3FNWE"
   },
   {
     "category": "Foundation",
@@ -60640,6 +60632,14 @@
     "callsign": "VK3HU"
   },
   {
+    "category": "Foundation",
+    "name": "Hugo Steiner",
+    "suburb": "CLARKEFIELD",
+    "state": "VIC",
+    "postcode": "3430",
+    "callsign": "VK3HUG"
+  },
+  {
     "category": "Advanced",
     "name": "Alan Hall",
     "suburb": "WAVERLEY GARDENS",
@@ -64104,6 +64104,14 @@
     "callsign": "VK3LIJ"
   },
   {
+    "category": "Foundation",
+    "name": "Lily Keane",
+    "suburb": "Berwick",
+    "state": "VIC",
+    "postcode": "3806",
+    "callsign": "VK3LIL"
+  },
+  {
     "category": "Standard",
     "name": "Edward Seeto",
     "suburb": "WANTIRNA",
@@ -64489,14 +64497,6 @@
   },
   {
     "category": "Standard",
-    "name": "Lucinda Moodie",
-    "suburb": "PRESTON",
-    "state": "VIC",
-    "postcode": "3072",
-    "callsign": "VK3LUL"
-  },
-  {
-    "category": "Foundation",
     "name": "Lucinda Moodie",
     "suburb": "PRESTON",
     "state": "VIC",
@@ -80240,6 +80240,14 @@
     "callsign": "VK3SRS"
   },
   {
+    "category": "Foundation",
+    "name": "Edmund Veldhuizen",
+    "suburb": "RINGWOOD EAST",
+    "state": "VIC",
+    "postcode": "3135",
+    "callsign": "VK3SRT"
+  },
+  {
     "category": "Advanced",
     "name": "Paul Timothy McMahon",
     "suburb": "SALE",
@@ -88062,6 +88070,14 @@
     "state": "VIC",
     "postcode": "3818",
     "callsign": "VK3ZZY"
+  },
+  {
+    "category": "Foundation",
+    "name": "Thomas Mackey",
+    "suburb": "Clifton Hill",
+    "state": "VIC",
+    "postcode": "3068",
+    "callsign": "VK3ZZZ"
   },
   {
     "category": "Advanced",
@@ -118833,7 +118849,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Hendrik Willem Visscher",
+    "name": "Hendrik Visscher",
     "suburb": "WALL FLAT",
     "state": "SA",
     "postcode": "5254",
@@ -130190,6 +130206,14 @@
     "state": "WA",
     "postcode": "6062",
     "callsign": "VK6AIF"
+  },
+  {
+    "category": "Advanced",
+    "name": "Alfred Blackley",
+    "suburb": "LESCHENAULT",
+    "state": "WA",
+    "postcode": "6233",
+    "callsign": "VK6AJB"
   },
   {
     "category": "Advanced",
