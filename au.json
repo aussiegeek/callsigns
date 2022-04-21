@@ -242,7 +242,7 @@
   {
     "category": "Foundation",
     "name": "Christopher Hodge",
-    "suburb": "BEARD",
+    "suburb": "Fyshwick",
     "state": "ACT",
     "postcode": "2620",
     "callsign": "VK1AAU"
@@ -11961,7 +11961,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Daniel Thomas",
+    "name": "Daniel Forrest",
     "suburb": "KINGSCLIFF",
     "state": "NSW",
     "postcode": "2487",
@@ -17065,14 +17065,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Keith Bayliss",
-    "suburb": "COOPERNOOK",
-    "state": "NSW",
-    "postcode": "2426",
-    "callsign": "VK2FPTL"
-  },
-  {
-    "category": "Foundation",
     "name": "Peter Anderson",
     "suburb": "CEDAR POINT",
     "state": "NSW",
@@ -19144,7 +19136,7 @@
     "callsign": "VK2GRR"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -19152,7 +19144,7 @@
     "callsign": "VK2GRU"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -43506,9 +43498,9 @@
   {
     "category": "Advanced",
     "name": "Koendert Van Den Beld",
-    "suburb": "JORDAN SPRINGS",
+    "suburb": "CASTLE HILL",
     "state": "NSW",
-    "postcode": "2747",
+    "postcode": "2154",
     "callsign": "VK2ZHA"
   },
   {
@@ -67862,6 +67854,14 @@
     "state": "VIC",
     "postcode": "3121",
     "callsign": "VK3PRG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Michael Molloy",
+    "suburb": "West Heidelberg",
+    "state": "VIC",
+    "postcode": "3081",
+    "callsign": "VK3PRR"
   },
   {
     "category": "Standard",
@@ -93280,14 +93280,6 @@
     "callsign": "VK4DIY"
   },
   {
-    "category": "Advanced",
-    "name": "Robin Sinnott",
-    "suburb": "GLADSTONE",
-    "state": "QLD",
-    "postcode": "4680",
-    "callsign": "VK4DJ"
-  },
-  {
     "category": "Standard",
     "name": "Douglas Ahern",
     "suburb": "BELLBIRD PARK",
@@ -95170,9 +95162,9 @@
   {
     "category": "Foundation",
     "name": "Colin Maitland",
-    "suburb": "BRACKEN RIDGE",
+    "suburb": "LAWNTON",
     "state": "QLD",
-    "postcode": "4017",
+    "postcode": "4501",
     "callsign": "VK4FCDM"
   },
   {
@@ -100190,14 +100182,6 @@
     "state": "QLD",
     "postcode": "4817",
     "callsign": "VK4JPA"
-  },
-  {
-    "category": "Advanced",
-    "name": "Patrick Ernest Dransfield",
-    "suburb": "CLEVELAND",
-    "state": "QLD",
-    "postcode": "4163",
-    "callsign": "VK4JPD"
   },
   {
     "category": "Advanced",
@@ -121289,14 +121273,6 @@
   },
   {
     "category": "Standard",
-    "name": "Bernard Francis Rogers",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
-    "callsign": "VK5HAY"
-  },
-  {
-    "category": "Standard",
     "name": "Harrison Allington",
     "suburb": "NURIOOTPA",
     "state": "SA",
@@ -131722,9 +131698,9 @@
   {
     "category": "Advanced",
     "name": "Ronald Crawley",
-    "suburb": "LAKELANDS",
+    "suburb": "ORELIA",
     "state": "WA",
-    "postcode": "6180",
+    "postcode": "6167",
     "callsign": "VK6DEB"
   },
   {
