@@ -4968,14 +4968,6 @@
     "callsign": "VK2ACK"
   },
   {
-    "category": "Foundation",
-    "name": "John Wildy",
-    "suburb": "HAZELBROOK",
-    "state": "NSW",
-    "postcode": "2779",
-    "callsign": "VK2ACL"
-  },
-  {
     "category": "Advanced",
     "name": "Clinton Maile",
     "suburb": "MOOREBANK",
@@ -5038,14 +5030,6 @@
     "state": "NSW",
     "postcode": "2650",
     "callsign": "VK2ACT"
-  },
-  {
-    "category": "Foundation",
-    "name": "Sarah Zwajgenberg",
-    "suburb": "MENAI",
-    "state": "NSW",
-    "postcode": "2234",
-    "callsign": "VK2ACU"
   },
   {
     "category": "Advanced",
@@ -28718,14 +28702,6 @@
     "state": "NSW",
     "postcode": "2536",
     "callsign": "VK2PSH"
-  },
-  {
-    "category": "Standard",
-    "name": "Steven Olney",
-    "suburb": "NORTH RICHMOND",
-    "state": "NSW",
-    "postcode": "2754",
-    "callsign": "VK2PSR"
   },
   {
     "category": "Standard",
@@ -66104,6 +66080,14 @@
     "callsign": "VK3NED"
   },
   {
+    "category": "Foundation",
+    "name": "Richard Nelson",
+    "suburb": "Eltham",
+    "state": "VIC",
+    "postcode": "3095",
+    "callsign": "VK3NEL"
+  },
+  {
     "category": "Standard",
     "name": "Victor Nestorovic",
     "suburb": "ESSENDON",
@@ -67206,6 +67190,14 @@
     "state": "VIC",
     "postcode": "3187",
     "callsign": "VK3PCB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Peter Crawford",
+    "suburb": "DOREEN",
+    "state": "VIC",
+    "postcode": "3754",
+    "callsign": "VK3PCC"
   },
   {
     "category": "Standard",
@@ -83864,6 +83856,14 @@
     "callsign": "VK3WDC"
   },
   {
+    "category": "Foundation",
+    "name": "Winston Dickson",
+    "suburb": "SUNBURY",
+    "state": "VIC",
+    "postcode": "3429",
+    "callsign": "VK3WDO"
+  },
+  {
     "category": "Advanced",
     "name": "Ranko Lekic",
     "suburb": "NORLANE",
@@ -94421,14 +94421,6 @@
     "suburb": "EATONS HILL",
     "state": "QLD",
     "postcode": "4037",
-    "callsign": "VK4EZ"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ron D Sivyer",
-    "suburb": "MANLY WEST",
-    "state": "QLD",
-    "postcode": "4179",
     "callsign": "VK4EZ"
   },
   {
@@ -128865,14 +128857,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Graham Bishop",
-    "suburb": "HENLEY BEACH",
-    "state": "SA",
-    "postcode": "5022",
-    "callsign": "VK5ZCB"
-  },
-  {
-    "category": "Advanced",
     "name": "DR Donaldson",
     "suburb": "PORT PIRIE SOUTH",
     "state": "SA",
@@ -131457,7 +131441,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Ken J Taylor",
+    "name": "K. Taylor",
     "suburb": "BASSENDEAN",
     "state": "WA",
     "postcode": "6054",
@@ -135881,7 +135865,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Ken J Taylor",
+    "name": "K. Taylor",
     "suburb": "BASSENDEAN",
     "state": "WA",
     "postcode": "6054",
