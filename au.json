@@ -986,7 +986,7 @@
   {
     "category": "Foundation",
     "name": "Don Kazias",
-    "suburb": "GORDON",
+    "suburb": "Conder",
     "state": "ACT",
     "postcode": "2906",
     "callsign": "VK1DON"
@@ -12009,14 +12009,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ian Richard Lauder",
-    "suburb": "LINDFIELD",
-    "state": "NSW",
-    "postcode": "2070",
-    "callsign": "VK2DVK"
-  },
-  {
-    "category": "Advanced",
     "name": "David Moore",
     "suburb": "ST IVES",
     "state": "NSW",
@@ -15938,9 +15930,9 @@
   {
     "category": "Foundation",
     "name": "Jacob Kiely",
-    "suburb": "ARARAT",
-    "state": "VIC",
-    "postcode": "3377",
+    "suburb": "LAKELANDS",
+    "state": "NSW",
+    "postcode": "2282",
     "callsign": "VK2FJLJ"
   },
   {
@@ -21718,6 +21710,14 @@
     "state": "NSW",
     "postcode": "2116",
     "callsign": "VK2JA"
+  },
+  {
+    "category": "Foundation",
+    "name": "Joel Buckley",
+    "suburb": "NORTH ST MARYS",
+    "state": "NSW",
+    "postcode": "2760",
+    "callsign": "VK2JAB"
   },
   {
     "category": "Advanced",
@@ -46888,6 +46888,14 @@
     "callsign": "VK3ARC"
   },
   {
+    "category": "Foundation",
+    "name": "Matthew Davey",
+    "suburb": "DANDENONG",
+    "state": "VIC",
+    "postcode": "3175",
+    "callsign": "VK3ARD"
+  },
+  {
     "category": "Advanced",
     "name": "Sadanandhan Chemmundaparambil",
     "suburb": "ESSENDON NORTH",
@@ -48680,6 +48688,14 @@
     "callsign": "VK3BKI"
   },
   {
+    "category": "Foundation",
+    "name": "Brad Quayle",
+    "suburb": "Port Arlington",
+    "state": "VIC",
+    "postcode": "3223",
+    "callsign": "VK3BKQ"
+  },
+  {
     "category": "Advanced",
     "name": "Roger Baker",
     "suburb": "BLACKBURN SOUTH",
@@ -49486,6 +49502,14 @@
     "state": "QLD",
     "postcode": "4053",
     "callsign": "VK3BVI"
+  },
+  {
+    "category": "Foundation",
+    "name": "Blake Dobay",
+    "suburb": "VERMONT SOUTH",
+    "state": "VIC",
+    "postcode": "3133",
+    "callsign": "VK3BVO"
   },
   {
     "category": "Advanced",
@@ -51430,6 +51454,14 @@
     "state": "VIC",
     "postcode": "3377",
     "callsign": "VK3DEK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Peter Widgery",
+    "suburb": "CARRUM DOWNS",
+    "state": "VIC",
+    "postcode": "3201",
+    "callsign": "VK3DEL"
   },
   {
     "category": "Foundation",
@@ -53534,14 +53566,6 @@
     "state": "VIC",
     "postcode": "3198",
     "callsign": "VK3ERG"
-  },
-  {
-    "category": "Advanced",
-    "name": "William McBurney",
-    "suburb": "LEMON TREE PASSAGE",
-    "state": "NSW",
-    "postcode": "2319",
-    "callsign": "VK3ERH"
   },
   {
     "category": "Advanced",
@@ -57064,6 +57088,14 @@
     "callsign": "VK3FOH"
   },
   {
+    "category": "Advanced",
+    "name": "Finbar OHANLAN",
+    "suburb": "PORT MELBOURNE",
+    "state": "VIC",
+    "postcode": "3207",
+    "callsign": "VK3FOH"
+  },
+  {
     "category": "Foundation",
     "name": "Angela Slack",
     "suburb": "Black Rock",
@@ -60562,9 +60594,9 @@
   {
     "category": "Standard",
     "name": "Steven Hulcombe",
-    "suburb": "Burrumbeet",
+    "suburb": "Alfredton",
     "state": "VIC",
-    "postcode": "3352",
+    "postcode": "3350",
     "callsign": "VK3HSJ"
   },
   {
@@ -63584,6 +63616,14 @@
     "callsign": "VK3KTB"
   },
   {
+    "category": "Foundation",
+    "name": "Kate Young",
+    "suburb": "PASCOE VALE",
+    "state": "VIC",
+    "postcode": "3044",
+    "callsign": "VK3KTK"
+  },
+  {
     "category": "Advanced",
     "name": "Conrad Anthony Boerlage",
     "suburb": "HEALESVILLE",
@@ -64526,6 +64566,14 @@
     "state": "VIC",
     "postcode": "3418",
     "callsign": "VK3LY"
+  },
+  {
+    "category": "Foundation",
+    "name": "Lloyd Young",
+    "suburb": "Mount Waverley",
+    "state": "VIC",
+    "postcode": "3149",
+    "callsign": "VK3LYD"
   },
   {
     "category": "Advanced",
@@ -66634,9 +66682,9 @@
   {
     "category": "Standard",
     "name": "Michael Treacy",
-    "suburb": "WATSONIA",
+    "suburb": "WALLAN",
     "state": "VIC",
-    "postcode": "3087",
+    "postcode": "3756",
     "callsign": "VK3NVX"
   },
   {
@@ -80698,7 +80746,7 @@
   {
     "category": "Standard",
     "name": "Michael Pearton",
-    "suburb": "HALLAM",
+    "suburb": "Hallam",
     "state": "VIC",
     "postcode": "3803",
     "callsign": "VK3TDK"
@@ -81400,6 +81448,14 @@
     "callsign": "VK3TOQ"
   },
   {
+    "category": "Foundation",
+    "name": "Toby Scott",
+    "suburb": "Mount Waverley",
+    "state": "VIC",
+    "postcode": "3149",
+    "callsign": "VK3TOS"
+  },
+  {
     "category": "Advanced",
     "name": "Andrew Bainbridge",
     "suburb": "Gordon",
@@ -81646,6 +81702,14 @@
     "state": "VIC",
     "postcode": "3198",
     "callsign": "VK3TTE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Travis Lang",
+    "suburb": "LILYDALE",
+    "state": "VIC",
+    "postcode": "3140",
+    "callsign": "VK3TTL"
   },
   {
     "category": "Advanced",
@@ -84178,9 +84242,9 @@
   {
     "category": "Advanced",
     "name": "RT Ayton",
-    "suburb": "KEILOR EAST",
+    "suburb": "BANNOCKBURN",
     "state": "VIC",
-    "postcode": "3033",
+    "postcode": "3331",
     "callsign": "VK3WS"
   },
   {
@@ -89921,6 +89985,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Nigel Buchanan",
+    "suburb": "NERANG",
+    "state": "QLD",
+    "postcode": "4211",
+    "callsign": "VK4AMP"
+  },
+  {
+    "category": "Advanced",
     "name": "Andrew Mark Shepherd",
     "suburb": "CAMBOOYA",
     "state": "QLD",
@@ -94290,9 +94362,9 @@
   {
     "category": "Advanced",
     "name": "T.H Moller",
-    "suburb": "CAMBOOYA",
+    "suburb": "PITTSWORTH",
     "state": "QLD",
-    "postcode": "4358",
+    "postcode": "4356",
     "callsign": "VK4ESK"
   },
   {
@@ -97809,6 +97881,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Graham Galea",
+    "suburb": "White Rock",
+    "state": "QLD",
+    "postcode": "4868",
+    "callsign": "VK4GLG"
+  },
+  {
+    "category": "Foundation",
     "name": "Gregory Meyer",
     "suburb": "ROCHEDALE SOUTH",
     "state": "QLD",
@@ -98510,14 +98590,6 @@
     "state": "QLD",
     "postcode": "4352",
     "callsign": "VK4HCI"
-  },
-  {
-    "category": "Standard",
-    "name": "Wayne Anderson",
-    "suburb": "WITHCOTT",
-    "state": "QLD",
-    "postcode": "4352",
-    "callsign": "VK4HCP"
   },
   {
     "category": "Standard",
@@ -100062,6 +100134,14 @@
     "state": "QLD",
     "postcode": "4122",
     "callsign": "VK4JM"
+  },
+  {
+    "category": "Standard",
+    "name": "Janis Mary Brennan",
+    "suburb": "KARINGAL",
+    "state": "VIC",
+    "postcode": "3199",
+    "callsign": "VK4JMB"
   },
   {
     "category": "Foundation",
@@ -111750,6 +111830,14 @@
     "state": "QLD",
     "postcode": "4370",
     "callsign": "VK4SP"
+  },
+  {
+    "category": "Advanced",
+    "name": "Peter Brennan",
+    "suburb": "FRANKSTON",
+    "state": "VIC",
+    "postcode": "3199",
+    "callsign": "VK4SPB"
   },
   {
     "category": "Foundation",
@@ -127306,9 +127394,9 @@
   {
     "category": "Advanced",
     "name": "Linden May",
-    "suburb": "MITCHAM SHOPPING CENTRE",
+    "suburb": "Seacliff Park",
     "state": "SA",
-    "postcode": "5062",
+    "postcode": "5049",
     "callsign": "VK5SWR"
   },
   {
@@ -143394,9 +143482,9 @@
   {
     "category": "Advanced",
     "name": "Brett Victory",
-    "suburb": "LAUNCESTON",
+    "suburb": "Beaconsfield",
     "state": "TAS",
-    "postcode": "7250",
+    "postcode": "7270",
     "callsign": "VK7ABV"
   },
   {
