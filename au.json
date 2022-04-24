@@ -23265,14 +23265,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Matthew Markotany",
-    "suburb": "ASHCROFT",
-    "state": "NSW",
-    "postcode": "2168",
-    "callsign": "VK2KFM"
-  },
-  {
-    "category": "Advanced",
     "name": "Elizabeth Catherine Price",
     "suburb": "DENISTONE EAST",
     "state": "NSW",
@@ -89352,14 +89344,6 @@
     "callsign": "VK4AGN"
   },
   {
-    "category": "Advanced",
-    "name": "David Pennycuick",
-    "suburb": "TOOWOOMBA",
-    "state": "QLD",
-    "postcode": "4350",
-    "callsign": "VK4AGP"
-  },
-  {
     "category": "Foundation",
     "name": "Wayne Robertson",
     "suburb": "SOUTH NANANGO",
@@ -145294,14 +145278,6 @@
     "state": "TAS",
     "postcode": "7249",
     "callsign": "VK7HDX"
-  },
-  {
-    "category": "Foundation",
-    "name": "Richard Hewson",
-    "suburb": "LINDISFARNE",
-    "state": "TAS",
-    "postcode": "7015",
-    "callsign": "VK7HEW"
   },
   {
     "category": "Standard",
