@@ -52001,14 +52001,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David Patrick Roe",
-    "suburb": "PASCOE VALE",
-    "state": "VIC",
-    "postcode": "3044",
-    "callsign": "VK3DMR"
-  },
-  {
-    "category": "Advanced",
     "name": "RW Rudder",
     "suburb": "FERNTREE GULLY",
     "state": "VIC",
@@ -65358,14 +65350,6 @@
     "state": "VIC",
     "postcode": "3939",
     "callsign": "VK3MLD"
-  },
-  {
-    "category": "Standard",
-    "name": "Michael Hadley",
-    "suburb": "MELTON",
-    "state": "VIC",
-    "postcode": "3337",
-    "callsign": "VK3MLH"
   },
   {
     "category": "Standard",
@@ -103142,14 +103126,6 @@
     "state": "QLD",
     "postcode": "4122",
     "callsign": "VK4MWL"
-  },
-  {
-    "category": "Foundation",
-    "name": "Mark Wallace Rodgers",
-    "suburb": "IMBIL",
-    "state": "QLD",
-    "postcode": "4570",
-    "callsign": "VK4MWR"
   },
   {
     "category": "Standard",
