@@ -185,14 +185,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Nathan Hare",
-    "suburb": "Richardson",
-    "state": "ACT",
-    "postcode": "2905",
-    "callsign": "VK1AAC"
-  },
-  {
-    "category": "Foundation",
     "name": "Stewart Caddy",
     "suburb": "DICKSON",
     "state": "ACT",
@@ -4966,6 +4958,14 @@
     "state": "NSW",
     "postcode": "2580",
     "callsign": "VK2ACK"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Wildy",
+    "suburb": "HAZELBROOK",
+    "state": "NSW",
+    "postcode": "2779",
+    "callsign": "VK2ACL"
   },
   {
     "category": "Advanced",
@@ -13481,14 +13481,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Joel Buckley",
-    "suburb": "NORTH ST MARYS",
-    "state": "NSW",
-    "postcode": "2760",
-    "callsign": "VK2FABG"
-  },
-  {
-    "category": "Foundation",
     "name": "Ian MacGregor Clarke",
     "suburb": "BRANXTON",
     "state": "NSW",
@@ -19112,7 +19104,7 @@
     "callsign": "VK2GRR"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -19120,7 +19112,7 @@
     "callsign": "VK2GRU"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Eduard Grueninger",
     "suburb": "PICNIC POINT",
     "state": "NSW",
@@ -19702,14 +19694,6 @@
     "state": "NSW",
     "postcode": "2428",
     "callsign": "VK2HBI"
-  },
-  {
-    "category": "Standard",
-    "name": "Michael Dransfield",
-    "suburb": "MIDDLE COVE",
-    "state": "NSW",
-    "postcode": "2068",
-    "callsign": "VK2HBK"
   },
   {
     "category": "Standard",
@@ -21818,9 +21802,9 @@
   {
     "category": "Standard",
     "name": "Jarrod Ison",
-    "suburb": "WEST RYDE",
-    "state": "NSW",
-    "postcode": "1685",
+    "suburb": "SUMMERHILL",
+    "state": "TAS",
+    "postcode": "7250",
     "callsign": "VK2JBI"
   },
   {
@@ -22184,7 +22168,7 @@
     "callsign": "VK2JI"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Joseph Benn",
     "suburb": "FINLEY",
     "state": "NSW",
@@ -22192,7 +22176,7 @@
     "callsign": "VK2JIB"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Joseph Benn",
     "suburb": "FINLEY",
     "state": "NSW",
@@ -24398,14 +24382,6 @@
     "state": "NSW",
     "postcode": "2778",
     "callsign": "VK2KZO"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Mackie",
-    "suburb": "HILLSTON",
-    "state": "NSW",
-    "postcode": "2675",
-    "callsign": "VK2KZS"
   },
   {
     "category": "Advanced",
@@ -32414,14 +32390,6 @@
     "state": "NSW",
     "postcode": "2126",
     "callsign": "VK2RHT"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "Hunter Radio Group INC",
-    "suburb": "DUDLEY",
-    "state": "NSW",
-    "postcode": "2290",
-    "callsign": "VK2RHV"
   },
   {
     "category": "Amateur Beacon",
@@ -47057,7 +47025,7 @@
   },
   {
     "category": "Advanced",
-    "name": "DJ Stuart",
+    "name": "David J Stuart",
     "suburb": "CARNEGIE",
     "state": "VIC",
     "postcode": "3163",
@@ -103177,14 +103145,6 @@
   },
   {
     "category": "Standard",
-    "name": "Nalaka Mutukumarana",
-    "suburb": "HEMMANT",
-    "state": "QLD",
-    "postcode": "4174",
-    "callsign": "VK4NAL"
-  },
-  {
-    "category": "Standard",
     "name": "Nigel Roden",
     "suburb": "DOUGLAS",
     "state": "QLD",
@@ -114566,14 +114526,6 @@
     "state": "QLD",
     "postcode": "4350",
     "callsign": "VK4XJB"
-  },
-  {
-    "category": "Advanced",
-    "name": "Bernard L Wills",
-    "suburb": "Middle Ridge",
-    "state": "QLD",
-    "postcode": "4350",
-    "callsign": "VK4XK"
   },
   {
     "category": "Advanced",
@@ -145602,9 +145554,9 @@
   {
     "category": "Standard",
     "name": "Jarrod Ison",
-    "suburb": "WEST RYDE",
-    "state": "NSW",
-    "postcode": "1685",
+    "suburb": "SUMMERHILL",
+    "state": "TAS",
+    "postcode": "7250",
     "callsign": "VK7JBI"
   },
   {
