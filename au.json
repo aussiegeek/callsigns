@@ -52849,7 +52849,7 @@
   },
   {
     "category": "Advanced",
-    "name": "RJ Hudson",
+    "name": "Ray Hudson",
     "suburb": "MCCRAE",
     "state": "VIC",
     "postcode": "3938",
@@ -61742,14 +61742,6 @@
     "state": "VIC",
     "postcode": "3434",
     "callsign": "VK3JLS"
-  },
-  {
-    "category": "Advanced",
-    "name": "Frederick G. Storey",
-    "suburb": "WANTIRNA",
-    "state": "VIC",
-    "postcode": "3152",
-    "callsign": "VK3JM"
   },
   {
     "category": "Advanced",
@@ -95609,14 +95601,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Graham Galea",
-    "suburb": "White Rock",
-    "state": "QLD",
-    "postcode": "4868",
-    "callsign": "VK4FGLG"
-  },
-  {
-    "category": "Foundation",
     "name": "Gerald McShane",
     "suburb": "REDCLIFFE",
     "state": "QLD",
@@ -99918,14 +99902,6 @@
     "state": "QLD",
     "postcode": "4212",
     "callsign": "VK4JFP"
-  },
-  {
-    "category": "Advanced",
-    "name": "William J Grevett",
-    "suburb": "CAPALABA",
-    "state": "QLD",
-    "postcode": "4157",
-    "callsign": "VK4JG"
   },
   {
     "category": "Advanced",
@@ -105142,22 +105118,6 @@
     "state": "QLD",
     "postcode": "4805",
     "callsign": "VK4RAB"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Mount Isa and District Amateur Radio Group",
-    "suburb": "MOUNT ISA",
-    "state": "QLD",
-    "postcode": "4825",
-    "callsign": "VK4RAC"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Mount Isa and District Amateur Radio Group",
-    "suburb": "MOUNT ISA",
-    "state": "QLD",
-    "postcode": "4825",
-    "callsign": "VK4RAC"
   },
   {
     "category": "Amateur Repeater",
