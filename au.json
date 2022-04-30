@@ -4912,14 +4912,6 @@
     "callsign": "VK2ACF"
   },
   {
-    "category": "Foundation",
-    "name": "Georgia Odlin",
-    "suburb": "Chippendale",
-    "state": "NSW",
-    "postcode": "2008",
-    "callsign": "VK2ACF"
-  },
-  {
     "category": "Advanced",
     "name": "Robert Michael Stockey",
     "suburb": "NORTH RICHMOND",
@@ -12790,14 +12782,6 @@
     "state": "NSW",
     "postcode": "2579",
     "callsign": "VK2ELB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Eleonor Logan-Cole",
-    "suburb": "BARKERS VALE",
-    "state": "NSW",
-    "postcode": "2474",
-    "callsign": "VK2ELC"
   },
   {
     "category": "Foundation",
@@ -27758,14 +27742,6 @@
     "state": "NSW",
     "postcode": "2320",
     "callsign": "VK2ON"
-  },
-  {
-    "category": "Advanced",
-    "name": "Deon Rowley",
-    "suburb": "AVALON BEACH",
-    "state": "NSW",
-    "postcode": "2107",
-    "callsign": "VK2ONE"
   },
   {
     "category": "Advanced",
@@ -57986,9 +57962,9 @@
   {
     "category": "Foundation",
     "name": "Tracy Roberts",
-    "suburb": "BALWYN NORTH",
+    "suburb": "BAYSWATER NORTH",
     "state": "VIC",
-    "postcode": "3104",
+    "postcode": "3153",
     "callsign": "VK3FTSR"
   },
   {
@@ -81642,9 +81618,9 @@
   {
     "category": "Advanced",
     "name": "Tracy Roberts",
-    "suburb": "BALWYN NORTH",
+    "suburb": "BAYSWATER NORTH",
     "state": "VIC",
-    "postcode": "3104",
+    "postcode": "3153",
     "callsign": "VK3TTT"
   },
   {
@@ -97098,9 +97074,9 @@
   {
     "category": "Foundation",
     "name": "Terence Binyon",
-    "suburb": "BUNDABERG",
+    "suburb": "BOYNE ISLAND",
     "state": "QLD",
-    "postcode": "4670",
+    "postcode": "4680",
     "callsign": "VK4FTRJ"
   },
   {
@@ -99618,9 +99594,9 @@
   {
     "category": "Advanced",
     "name": "Ross K Mutzelburg",
-    "suburb": "NEWTOWN",
+    "suburb": "AUGUSTINE HEIGHTS",
     "state": "QLD",
-    "postcode": "4350",
+    "postcode": "4300",
     "callsign": "VK4IY"
   },
   {
