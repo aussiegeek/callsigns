@@ -2633,14 +2633,6 @@
   },
   {
     "category": "Standard",
-    "name": "Robert McKinney",
-    "suburb": "CIVIC SQUARE",
-    "state": "ACT",
-    "postcode": "2611",
-    "callsign": "VK1MCK"
-  },
-  {
-    "category": "Standard",
     "name": "William Kirkwood",
     "suburb": "CHISHOLM",
     "state": "ACT",
@@ -17206,14 +17198,6 @@
     "state": "NSW",
     "postcode": "2042",
     "callsign": "VK2FRFC"
-  },
-  {
-    "category": "Foundation",
-    "name": "Ross Gordon Wattus",
-    "suburb": "COOPERNOOK",
-    "state": "NSW",
-    "postcode": "2426",
-    "callsign": "VK2FRGW"
   },
   {
     "category": "Foundation",
@@ -116318,14 +116302,6 @@
     "state": "QLD",
     "postcode": "4270",
     "callsign": "VK4ZU"
-  },
-  {
-    "category": "Advanced",
-    "name": "Daniel Raymond Ainsworth",
-    "suburb": "EARVILLE",
-    "state": "QLD",
-    "postcode": "4870",
-    "callsign": "VK4ZUK"
   },
   {
     "category": "Advanced",
