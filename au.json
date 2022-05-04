@@ -10129,7 +10129,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Christopher Patrick McCarthy",
+    "name": "Christopher McCarthy",
     "suburb": "HURSTVILLE GROVE",
     "state": "NSW",
     "postcode": "2220",
@@ -12838,14 +12838,6 @@
     "state": "NSW",
     "postcode": "2873",
     "callsign": "VK2EMA"
-  },
-  {
-    "category": "Advanced",
-    "name": "MJ Creevey",
-    "suburb": "FORSTER",
-    "state": "NSW",
-    "postcode": "2428",
-    "callsign": "VK2EMC"
   },
   {
     "category": "Advanced",
@@ -44760,14 +44752,6 @@
     "callsign": "VK3AAV"
   },
   {
-    "category": "Foundation",
-    "name": "Peter Collie",
-    "suburb": "FRANKSTON",
-    "state": "VIC",
-    "postcode": "3199",
-    "callsign": "VK3AAV"
-  },
-  {
     "category": "Advanced",
     "name": "B Osborne",
     "suburb": "HIGHETT",
@@ -72278,6 +72262,22 @@
     "state": "VIC",
     "postcode": "3352",
     "callsign": "VK3RKK"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "MDRC Pty Ltd",
+    "suburb": "BRIGHTON",
+    "state": "VIC",
+    "postcode": "3186",
+    "callsign": "VK3RKM"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "MDRC Pty Ltd",
+    "suburb": "BRIGHTON",
+    "state": "VIC",
+    "postcode": "3186",
+    "callsign": "VK3RKM"
   },
   {
     "category": "Advanced",
