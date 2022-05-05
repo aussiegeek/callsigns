@@ -5016,6 +5016,22 @@
     "callsign": "VK2ACT"
   },
   {
+    "category": "Foundation",
+    "name": "Sarah Zwajgenberg",
+    "suburb": "MENAI",
+    "state": "NSW",
+    "postcode": "2234",
+    "callsign": "VK2ACU"
+  },
+  {
+    "category": "Foundation",
+    "name": "Murray Clarkson",
+    "suburb": "Ourimbah",
+    "state": "NSW",
+    "postcode": "2258",
+    "callsign": "VK2ACV"
+  },
+  {
     "category": "Advanced",
     "name": "Justin Robert Lavery",
     "suburb": "GOWAN",
@@ -5681,6 +5697,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Anthony James Howes",
+    "suburb": "TOWRADGI",
+    "state": "NSW",
+    "postcode": "2518",
+    "callsign": "VK2AJH"
+  },
+  {
+    "category": "Advanced",
     "name": "JF Regan",
     "suburb": "SYLVANIA",
     "state": "NSW",
@@ -6306,9 +6330,9 @@
   {
     "category": "Advanced",
     "name": "Antony Brinkhoff",
-    "suburb": "GYMPIE",
-    "state": "QLD",
-    "postcode": "4570",
+    "suburb": "BALLINA",
+    "state": "NSW",
+    "postcode": "2478",
     "callsign": "VK2APB"
   },
   {
@@ -10246,14 +10270,6 @@
     "state": "NSW",
     "postcode": "2759",
     "callsign": "VK2CRH"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Mouritsen",
-    "suburb": "SOUTH TURRAMURRA",
-    "state": "NSW",
-    "postcode": "2074",
-    "callsign": "VK2CRI"
   },
   {
     "category": "Advanced",
@@ -21040,6 +21056,14 @@
     "callsign": "VK2ID"
   },
   {
+    "category": "Foundation",
+    "name": "David James",
+    "suburb": "East Maitland",
+    "state": "NSW",
+    "postcode": "2323",
+    "callsign": "VK2IDA"
+  },
+  {
     "category": "Advanced",
     "name": "ID Lindquist",
     "suburb": "Port Macquarie",
@@ -21542,6 +21566,14 @@
     "state": "NSW",
     "postcode": "2620",
     "callsign": "VK2IVK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Ivan Zlatin",
+    "suburb": "KENTHURST",
+    "state": "NSW",
+    "postcode": "2156",
+    "callsign": "VK2IVN"
   },
   {
     "category": "Advanced",
@@ -24409,6 +24441,14 @@
   },
   {
     "category": "Standard",
+    "name": "Murray Smith",
+    "suburb": "RAINBOW FLAT",
+    "state": "NSW",
+    "postcode": "2430",
+    "callsign": "VK2LAT"
+  },
+  {
+    "category": "Advanced",
     "name": "Murray Smith",
     "suburb": "RAINBOW FLAT",
     "state": "NSW",
@@ -45353,6 +45393,14 @@
   },
   {
     "category": "Advanced",
+    "name": "John Gomez",
+    "suburb": "ROXBURGH PARK",
+    "state": "VIC",
+    "postcode": "3064",
+    "callsign": "VK3ADS"
+  },
+  {
+    "category": "Advanced",
     "name": "Frank George Chalifour",
     "suburb": "LARA",
     "state": "VIC",
@@ -45422,6 +45470,14 @@
     "state": "VIC",
     "postcode": "3204",
     "callsign": "VK3AEA"
+  },
+  {
+    "category": "Advanced",
+    "name": "Yash Chaudhary",
+    "suburb": "BALWYN NORTH",
+    "state": "VIC",
+    "postcode": "3104",
+    "callsign": "VK3AEB"
   },
   {
     "category": "Foundation",
@@ -49593,6 +49649,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Rodney Drysdale",
+    "suburb": "PORT FAIRY",
+    "state": "VIC",
+    "postcode": "3284",
+    "callsign": "VK3BYU"
+  },
+  {
+    "category": "Advanced",
     "name": "JM Harrison",
     "suburb": "WATSONIA",
     "state": "VIC",
@@ -52506,9 +52570,9 @@
   {
     "category": "Standard",
     "name": "Dale Lamont",
-    "suburb": "NEWBOROUGH",
+    "suburb": "TRAFALGAR",
     "state": "VIC",
-    "postcode": "3825",
+    "postcode": "3824",
     "callsign": "VK3DWL"
   },
   {
@@ -63254,6 +63318,14 @@
     "state": "VIC",
     "postcode": "3448",
     "callsign": "VK3KNH"
+  },
+  {
+    "category": "Advanced",
+    "name": "Ian Brace",
+    "suburb": "MORNINGTON",
+    "state": "VIC",
+    "postcode": "3931",
+    "callsign": "VK3KO"
   },
   {
     "category": "Advanced",
@@ -94224,6 +94296,14 @@
     "callsign": "VK4ESK"
   },
   {
+    "category": "Foundation",
+    "name": "Robert Hartley",
+    "suburb": "EVERTON PARK",
+    "state": "QLD",
+    "postcode": "4053",
+    "callsign": "VK4ESS"
+  },
+  {
     "category": "Advanced",
     "name": "AC Van Lysdonk",
     "suburb": "KILKIVAN",
@@ -104089,6 +104169,14 @@
   },
   {
     "category": "Advanced",
+    "name": "D Armstrong",
+    "suburb": "WODONGA",
+    "state": "VIC",
+    "postcode": "3690",
+    "callsign": "VK4OQ"
+  },
+  {
+    "category": "Advanced",
     "name": "AJ Jeffery",
     "suburb": "NAMBOUR",
     "state": "QLD",
@@ -111728,6 +111816,14 @@
     "callsign": "VK4SSB"
   },
   {
+    "category": "Foundation",
+    "name": "Robert Hartley",
+    "suburb": "EVERTON PARK",
+    "state": "QLD",
+    "postcode": "4053",
+    "callsign": "VK4SSE"
+  },
+  {
     "category": "Advanced",
     "name": "Gerald Byrne",
     "suburb": "MUNRUBEN",
@@ -114497,6 +114593,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Peter Denis Foster",
+    "suburb": "URANGAN",
+    "state": "QLD",
+    "postcode": "4655",
+    "callsign": "VK4XN"
+  },
+  {
+    "category": "Advanced",
     "name": "Peter Dawson",
     "suburb": "CABOOLTURE",
     "state": "QLD",
@@ -114513,7 +114617,7 @@
   },
   {
     "category": "Advanced",
-    "name": "William Thomas Scott",
+    "name": "William Scott",
     "suburb": "CLINTON",
     "state": "QLD",
     "postcode": "4680",
@@ -115857,14 +115961,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michael Cox",
-    "suburb": "NEWPORT",
-    "state": "QLD",
-    "postcode": "4020",
-    "callsign": "VK4ZIP"
-  },
-  {
-    "category": "Advanced",
     "name": "Rodney John Webb",
     "suburb": "MIDDLE RIDGE",
     "state": "QLD",
@@ -116784,6 +116880,14 @@
     "callsign": "VK5AET"
   },
   {
+    "category": "Foundation",
+    "name": "Michael Ophof",
+    "suburb": "O'SULLIVAN BEACH",
+    "state": "SA",
+    "postcode": "5166",
+    "callsign": "VK5AEZ"
+  },
+  {
     "category": "Advanced",
     "name": "Andrew Robert Phelps",
     "suburb": "GAWLER",
@@ -117198,6 +117302,14 @@
     "state": "SA",
     "postcode": "5268",
     "callsign": "VK5AMD"
+  },
+  {
+    "category": "Foundation",
+    "name": "Ross Gray",
+    "suburb": "LOXTON",
+    "state": "SA",
+    "postcode": "5333",
+    "callsign": "VK5AMH"
   },
   {
     "category": "Advanced",
@@ -117641,6 +117753,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Anthony Blight",
+    "suburb": "American River",
+    "state": "SA",
+    "postcode": "5221",
+    "callsign": "VK5AVB"
+  },
+  {
+    "category": "Advanced",
     "name": "Anthony Blight",
     "suburb": "American River",
     "state": "SA",
@@ -120016,6 +120136,14 @@
     "callsign": "VK5FKYM"
   },
   {
+    "category": "Advanced",
+    "name": "Dean Whitehorn",
+    "suburb": "STRATHALBYN",
+    "state": "SA",
+    "postcode": "5255",
+    "callsign": "VK5FL"
+  },
+  {
     "category": "Foundation",
     "name": "Leith Robson",
     "suburb": "MOUNT GAMBIER",
@@ -121792,6 +121920,14 @@
     "callsign": "VK5JD"
   },
   {
+    "category": "Foundation",
+    "name": "Joseph Mullins",
+    "suburb": "ELIZABETH EAST",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5JDE"
+  },
+  {
     "category": "Advanced",
     "name": "Darryl Sampson",
     "suburb": "SEATON",
@@ -122896,6 +123032,14 @@
     "callsign": "VK5LEA"
   },
   {
+    "category": "Foundation",
+    "name": "Leonard Finney",
+    "suburb": "CHITON",
+    "state": "SA",
+    "postcode": "5211",
+    "callsign": "VK5LEN"
+  },
+  {
     "category": "Standard",
     "name": "David Kearsley",
     "suburb": "MODBURY",
@@ -122910,6 +123054,14 @@
     "state": "SA",
     "postcode": "5232",
     "callsign": "VK5LG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Lama Chandrasena",
+    "suburb": "ROSTREVOR",
+    "state": "SA",
+    "postcode": "5073",
+    "callsign": "VK5LHC"
   },
   {
     "category": "Foundation",
@@ -127032,6 +127184,14 @@
     "callsign": "VK5SH"
   },
   {
+    "category": "Foundation",
+    "name": "Siobhan Finney",
+    "suburb": "Balhannah",
+    "state": "SA",
+    "postcode": "5242",
+    "callsign": "VK5SIO"
+  },
+  {
     "category": "Advanced",
     "name": "ST. JOHN AMBULANCE AUSTRALIA INCORPORATED",
     "suburb": "MOUNT WAVERLEY",
@@ -127158,6 +127318,14 @@
     "state": "SA",
     "postcode": "5540",
     "callsign": "VK5SU"
+  },
+  {
+    "category": "Foundation",
+    "name": "Mohd Umair Rizvi",
+    "suburb": "GLENELG NORTH",
+    "state": "SA",
+    "postcode": "5045",
+    "callsign": "VK5SUR"
   },
   {
     "category": "Advanced",
@@ -129154,9 +129322,9 @@
   {
     "category": "Advanced",
     "name": "Michael John Ritter",
-    "suburb": "NETLEY",
+    "suburb": "EXPORT PARK",
     "state": "SA",
-    "postcode": "5037",
+    "postcode": "5950",
     "callsign": "VK5ZMI"
   },
   {
@@ -129597,6 +129765,14 @@
     "suburb": "Wilson",
     "state": "WA",
     "postcode": "6107",
+    "callsign": "VK6AAH"
+  },
+  {
+    "category": "Foundation",
+    "name": "Dean Kitson",
+    "suburb": "Craigie",
+    "state": "WA",
+    "postcode": "6025",
     "callsign": "VK6AAH"
   },
   {
@@ -136825,6 +137001,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Christopher Desmond Hosken",
+    "suburb": "MAIDA VALE",
+    "state": "WA",
+    "postcode": "6057",
+    "callsign": "VK6OY"
+  },
+  {
+    "category": "Advanced",
     "name": "Stephen Hill",
     "suburb": "LEEMING",
     "state": "WA",
@@ -140710,6 +140894,14 @@
     "state": "QLD",
     "postcode": "4020",
     "callsign": "VK6TC"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Hannan",
+    "suburb": "KELLERBERRIN",
+    "state": "WA",
+    "postcode": "6410",
+    "callsign": "VK6TCP"
   },
   {
     "category": "Advanced",
@@ -145921,14 +146113,6 @@
   },
   {
     "category": "Standard",
-    "name": "Anthony Goggins",
-    "suburb": "BLACKMANS BAY",
-    "state": "TAS",
-    "postcode": "7052",
-    "callsign": "VK7LAG"
-  },
-  {
-    "category": "Standard",
     "name": "Larry Pridgen",
     "suburb": "ST HELENS",
     "state": "TAS",
@@ -146774,6 +146958,14 @@
     "state": "TAS",
     "postcode": "7015",
     "callsign": "VK7QF"
+  },
+  {
+    "category": "Foundation",
+    "name": "Mark Corlett",
+    "suburb": "NEW NORFOLK",
+    "state": "TAS",
+    "postcode": "7140",
+    "callsign": "VK7QOL"
   },
   {
     "category": "Advanced",
