@@ -1817,6 +1817,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Gary Bradley",
+    "suburb": "CHAPMAN",
+    "state": "ACT",
+    "postcode": "2611",
+    "callsign": "VK1FTCB"
+  },
+  {
+    "category": "Foundation",
     "name": "Thomas Courtney",
     "suburb": "RIVETT",
     "state": "ACT",
@@ -4896,14 +4904,6 @@
     "callsign": "VK2ACE"
   },
   {
-    "category": "Foundation",
-    "name": "Georgia Odlin",
-    "suburb": "Chippendale",
-    "state": "NSW",
-    "postcode": "2008",
-    "callsign": "VK2ACF"
-  },
-  {
     "category": "Advanced",
     "name": "Robert Michael Stockey",
     "suburb": "NORTH RICHMOND",
@@ -7881,14 +7881,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Kevin Blume",
-    "suburb": "TUMBI UMBI",
-    "state": "NSW",
-    "postcode": "2261",
-    "callsign": "VK2BJK"
-  },
-  {
-    "category": "Advanced",
     "name": "Michael Barker",
     "suburb": "QUIRINDI",
     "state": "NSW",
@@ -9366,6 +9358,14 @@
     "state": "NSW",
     "postcode": "2810",
     "callsign": "VK2CAF"
+  },
+  {
+    "category": "Foundation",
+    "name": "Craig Heathcote",
+    "suburb": "WAGGA WAGGA",
+    "state": "NSW",
+    "postcode": "2650",
+    "callsign": "VK2CAH"
   },
   {
     "category": "Advanced",
@@ -12790,14 +12790,6 @@
     "state": "NSW",
     "postcode": "2579",
     "callsign": "VK2ELB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Eleonor Logan-Cole",
-    "suburb": "BARKERS VALE",
-    "state": "NSW",
-    "postcode": "2474",
-    "callsign": "VK2ELC"
   },
   {
     "category": "Advanced",
@@ -45057,6 +45049,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Ze Kai Cheong",
+    "suburb": "WYNDHAM VALE",
+    "state": "VIC",
+    "postcode": "3024",
+    "callsign": "VK3ACB"
+  },
+  {
+    "category": "Advanced",
     "name": "Nicholas Scott",
     "suburb": "SUNBURY",
     "state": "VIC",
@@ -45326,6 +45326,14 @@
     "state": "VIC",
     "postcode": "3175",
     "callsign": "VK3ADI"
+  },
+  {
+    "category": "Advanced",
+    "name": "Antony Thomas",
+    "suburb": "Carlton",
+    "state": "VIC",
+    "postcode": "3053",
+    "callsign": "VK3ADJ"
   },
   {
     "category": "Foundation",
@@ -80624,7 +80632,7 @@
     "callsign": "VK3TCK"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Alan Harper",
     "suburb": "HOPPERS CROSSING",
     "state": "VIC",
@@ -80632,7 +80640,7 @@
     "callsign": "VK3TCP"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Alan Harper",
     "suburb": "HOPPERS CROSSING",
     "state": "VIC",
@@ -112272,6 +112280,14 @@
     "callsign": "VK4TIM"
   },
   {
+    "category": "Standard",
+    "name": "Tinh Truong",
+    "suburb": "DOOLANDELLA",
+    "state": "QLD",
+    "postcode": "4077",
+    "callsign": "VK4TIN"
+  },
+  {
     "category": "Advanced",
     "name": "John Kirk",
     "suburb": "MURPHYS CREEK",
@@ -116146,7 +116162,7 @@
   {
     "category": "Advanced",
     "name": "David Ian Ralph",
-    "suburb": "REDCLIFFE",
+    "suburb": "SCARBOROUGH",
     "state": "QLD",
     "postcode": "4020",
     "callsign": "VK4ZO"
@@ -118176,6 +118192,14 @@
     "callsign": "VK5BRT"
   },
   {
+    "category": "Foundation",
+    "name": "Michael Widomski",
+    "suburb": "PARK HOLME",
+    "state": "SA",
+    "postcode": "5043",
+    "callsign": "VK5BRU"
+  },
+  {
     "category": "Advanced",
     "name": "David Anthony Giersch",
     "suburb": "WOODVILLE",
@@ -118694,6 +118718,14 @@
     "state": "SA",
     "postcode": "5253",
     "callsign": "VK5DB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Darren Roebuck",
+    "suburb": "Mount Barker",
+    "state": "SA",
+    "postcode": "5251",
+    "callsign": "VK5DBR"
   },
   {
     "category": "Advanced",
@@ -121710,6 +121742,14 @@
     "state": "SA",
     "postcode": "5173",
     "callsign": "VK5IJ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Ian Whitehead",
+    "suburb": "Adelaide",
+    "state": "SA",
+    "postcode": "5001",
+    "callsign": "VK5IJW"
   },
   {
     "category": "Advanced",
@@ -131438,6 +131478,14 @@
     "state": "WA",
     "postcode": "6027",
     "callsign": "VK6CJW"
+  },
+  {
+    "category": "Advanced",
+    "name": "TJ Javens",
+    "suburb": "WONTHELLA",
+    "state": "WA",
+    "postcode": "6530",
+    "callsign": "VK6CK"
   },
   {
     "category": "Advanced",
