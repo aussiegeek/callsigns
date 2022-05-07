@@ -10537,14 +10537,6 @@
   },
   {
     "category": "Advanced",
-    "name": "KB Carey",
-    "suburb": "BROULEE",
-    "state": "NSW",
-    "postcode": "2537",
-    "callsign": "VK2CWI"
-  },
-  {
-    "category": "Advanced",
     "name": "Craig Lovett",
     "suburb": "RHYLL",
     "state": "VIC",
@@ -14094,14 +14086,6 @@
     "state": "NSW",
     "postcode": "2546",
     "callsign": "VK2FAM"
-  },
-  {
-    "category": "Foundation",
-    "name": "Ann Cairns",
-    "suburb": "PADDINGTON",
-    "state": "NSW",
-    "postcode": "2021",
-    "callsign": "VK2FAMC"
   },
   {
     "category": "Foundation",
@@ -62465,14 +62449,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Trevor Merton",
-    "suburb": "DROMANA",
-    "state": "VIC",
-    "postcode": "3936",
-    "callsign": "VK3KAP"
-  },
-  {
-    "category": "Advanced",
     "name": "Ray G Reaburn",
     "suburb": "MONT ALBERT NORTH",
     "state": "VIC",
@@ -80640,14 +80616,6 @@
     "callsign": "VK3TCP"
   },
   {
-    "category": "Foundation",
-    "name": "Alan Harper",
-    "suburb": "HOPPERS CROSSING",
-    "state": "VIC",
-    "postcode": "3029",
-    "callsign": "VK3TCP"
-  },
-  {
     "category": "Advanced",
     "name": "Bernard Gregory",
     "suburb": "FRANKSTON",
@@ -86566,14 +86534,6 @@
     "state": "VIC",
     "postcode": "3106",
     "callsign": "VK3YZ"
-  },
-  {
-    "category": "Advanced",
-    "name": "Trevor Merton",
-    "suburb": "DROMANA",
-    "state": "VIC",
-    "postcode": "3936",
-    "callsign": "VK3YZL"
   },
   {
     "category": "Advanced",
@@ -114609,7 +114569,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Peter Denis Foster",
+    "name": "Peter Foster",
     "suburb": "URANGAN",
     "state": "QLD",
     "postcode": "4655",
