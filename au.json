@@ -7209,14 +7209,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Demetrios Demetriou",
-    "suburb": "GLADESVILLE",
-    "state": "NSW",
-    "postcode": "2111",
-    "callsign": "VK2BAA"
-  },
-  {
-    "category": "Advanced",
     "name": "Hyoung Jeon",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -13934,14 +13926,6 @@
     "state": "QLD",
     "postcode": "4216",
     "callsign": "VK2FAHP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Ali Fard",
-    "suburb": "TERRIGAL",
-    "state": "NSW",
-    "postcode": "2260",
-    "callsign": "VK2FAIH"
   },
   {
     "category": "Foundation",
@@ -57016,7 +57000,7 @@
     "callsign": "VK3FOBG"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Finbar OHANLAN",
     "suburb": "PORT MELBOURNE",
     "state": "VIC",
@@ -57024,7 +57008,7 @@
     "callsign": "VK3FOH"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Finbar OHANLAN",
     "suburb": "PORT MELBOURNE",
     "state": "VIC",
@@ -61625,14 +61609,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Jason Roberts",
-    "suburb": "NIDDRIE",
-    "state": "VIC",
-    "postcode": "3042",
-    "callsign": "VK3JJR"
-  },
-  {
-    "category": "Advanced",
     "name": "CW Gliddon",
     "suburb": "DANDENONG NORTH",
     "state": "VIC",
@@ -64990,14 +64966,6 @@
     "state": "VIC",
     "postcode": "3222",
     "callsign": "VK3MGM"
-  },
-  {
-    "category": "Foundation",
-    "name": "Megan Death",
-    "suburb": "MULGRAVE",
-    "state": "VIC",
-    "postcode": "3170",
-    "callsign": "VK3MGN"
   },
   {
     "category": "Standard",
@@ -89872,7 +89840,7 @@
     "callsign": "VK4AMM"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Nigel Buchanan",
     "suburb": "NERANG",
     "state": "QLD",
@@ -89880,7 +89848,7 @@
     "callsign": "VK4AMP"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Nigel Buchanan",
     "suburb": "NERANG",
     "state": "QLD",
@@ -113593,14 +113561,6 @@
   },
   {
     "category": "Standard",
-    "name": "Stuart Ashdown",
-    "suburb": "KENMORE HILLS",
-    "state": "QLD",
-    "postcode": "4069",
-    "callsign": "VK4VSA"
-  },
-  {
-    "category": "Standard",
     "name": "Samual Emanual Heidenreich",
     "suburb": "MARYBOROUGH",
     "state": "QLD",
@@ -117720,7 +117680,7 @@
     "callsign": "VK5AV"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Anthony Blight",
     "suburb": "American River",
     "state": "SA",
@@ -117728,7 +117688,7 @@
     "callsign": "VK5AVB"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Anthony Blight",
     "suburb": "American River",
     "state": "SA",
