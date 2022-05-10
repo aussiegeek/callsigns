@@ -26185,7 +26185,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Anthony John Clancy",
+    "name": "Anthony Clancy",
     "suburb": "LABRADOR",
     "state": "QLD",
     "postcode": "4215",
@@ -65586,9 +65586,9 @@
   {
     "category": "Standard",
     "name": "John Arambulo",
-    "suburb": "HARKNESS",
+    "suburb": "TRUGANINA",
     "state": "VIC",
-    "postcode": "3337",
+    "postcode": "3029",
     "callsign": "VK3MTP"
   },
   {
@@ -68270,6 +68270,22 @@
     "state": "VIC",
     "postcode": "3437",
     "callsign": "VK3RA"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "RADIO AMATEUR SOCIETY OF AUSTRALIA INC",
+    "suburb": "DROUIN WEST",
+    "state": "VIC",
+    "postcode": "3818",
+    "callsign": "VK3RAA"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "RADIO AMATEUR SOCIETY OF AUSTRALIA INC",
+    "suburb": "DROUIN WEST",
+    "state": "VIC",
+    "postcode": "3818",
+    "callsign": "VK3RAA"
   },
   {
     "category": "Amateur Repeater",
@@ -79442,9 +79458,9 @@
   {
     "category": "Advanced",
     "name": "Michael James Ross",
-    "suburb": "BALWYN NORTH",
-    "state": "VIC",
-    "postcode": "3104",
+    "suburb": "DALLAS",
+    "state": "Texas",
+    "postcode": "75252",
     "callsign": "VK3RZ"
   },
   {
@@ -100330,7 +100346,7 @@
   {
     "category": "Foundation",
     "name": "Jeffery McLachlan",
-    "suburb": "GYMPIE",
+    "suburb": "MONKLAND",
     "state": "QLD",
     "postcode": "4570",
     "callsign": "VK4JXM"
@@ -103152,19 +103168,11 @@
     "callsign": "VK4NCQ"
   },
   {
-    "category": "Foundation",
-    "name": "Nicholas Russell",
-    "suburb": "TREVALLYN",
-    "state": "TAS",
-    "postcode": "7250",
-    "callsign": "VK4NCR"
-  },
-  {
     "category": "Standard",
     "name": "Daniel De Voss",
-    "suburb": "ZILLMERE",
+    "suburb": "KEPERRA",
     "state": "QLD",
-    "postcode": "4034",
+    "postcode": "4054",
     "callsign": "VK4NCW"
   },
   {
@@ -116282,9 +116290,9 @@
   {
     "category": "Advanced",
     "name": "Terry Griffiths",
-    "suburb": "MILES END",
+    "suburb": "LONGREACH",
     "state": "QLD",
-    "postcode": "4825",
+    "postcode": "4730",
     "callsign": "VK4ZTG"
   },
   {
@@ -132050,9 +132058,9 @@
   {
     "category": "Foundation",
     "name": "Onno Benschop",
-    "suburb": "BAYSWATER",
+    "suburb": "TUART HILL",
     "state": "WA",
-    "postcode": "6933",
+    "postcode": "6939",
     "callsign": "VK6EEN"
   },
   {
@@ -132074,9 +132082,9 @@
   {
     "category": "Foundation",
     "name": "Shane Burke",
-    "suburb": "VASSE",
+    "suburb": "BROOME",
     "state": "WA",
-    "postcode": "6280",
+    "postcode": "6725",
     "callsign": "VK6EIR"
   },
   {
@@ -132922,9 +132930,9 @@
   {
     "category": "Foundation",
     "name": "Onno Benschop",
-    "suburb": "BAYSWATER",
+    "suburb": "TUART HILL",
     "state": "WA",
-    "postcode": "6933",
+    "postcode": "6939",
     "callsign": "VK6FLAB"
   },
   {
@@ -135686,14 +135694,6 @@
     "state": "WA",
     "postcode": "6430",
     "callsign": "VK6LS"
-  },
-  {
-    "category": "Standard",
-    "name": "Stuart Bedford",
-    "suburb": "BALLAJURA",
-    "state": "WA",
-    "postcode": "6066",
-    "callsign": "VK6LSB"
   },
   {
     "category": "Advanced",
