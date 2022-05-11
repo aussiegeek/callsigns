@@ -41,14 +41,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Bendigo Amateur Radio and Electronics Club",
-    "suburb": "BENDIGO",
-    "state": "VIC",
-    "postcode": "3550",
-    "callsign": "VI3MILLS"
-  },
-  {
-    "category": "Advanced",
     "name": "Scout Association Of Aust Sa Branch",
     "suburb": "FULLARTON",
     "state": "SA",
@@ -13470,14 +13462,6 @@
     "state": "NSW",
     "postcode": "2560",
     "callsign": "VK2FABP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Matthew Collinson",
-    "suburb": "CHAIN VALLEY BAY",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK2FABR"
   },
   {
     "category": "Foundation",
@@ -45290,7 +45274,7 @@
   {
     "category": "Foundation",
     "name": "Damien Crook",
-    "suburb": "DANDENONG NORTH",
+    "suburb": "dandenong",
     "state": "VIC",
     "postcode": "3175",
     "callsign": "VK3ADI"
@@ -57302,14 +57286,6 @@
     "state": "VIC",
     "postcode": "3556",
     "callsign": "VK3FQ"
-  },
-  {
-    "category": "Advanced",
-    "name": "AJ Coman",
-    "suburb": "RIDDELLS CREEK",
-    "state": "VIC",
-    "postcode": "3431",
-    "callsign": "VK3FQF"
   },
   {
     "category": "Foundation",
@@ -102602,9 +102578,9 @@
   {
     "category": "Standard",
     "name": "Kevin Blanch",
-    "suburb": "BILOELA",
+    "suburb": "BAJOOL",
     "state": "QLD",
-    "postcode": "4715",
+    "postcode": "4699",
     "callsign": "VK4MKB"
   },
   {
@@ -130738,9 +130714,9 @@
   {
     "category": "Advanced",
     "name": "Anthony J Matthews",
-    "suburb": "TOM PRICE",
-    "state": "WA",
-    "postcode": "6751",
+    "suburb": "Lower Sandy Bay",
+    "state": "TAS",
+    "postcode": "7005",
     "callsign": "VK6BAJ"
   },
   {
@@ -136242,9 +136218,9 @@
   {
     "category": "Standard",
     "name": "Karl Brady",
-    "suburb": "BYFORD",
+    "suburb": "OAKFORD",
     "state": "WA",
-    "postcode": "6201",
+    "postcode": "6121",
     "callsign": "VK6MYS"
   },
   {
