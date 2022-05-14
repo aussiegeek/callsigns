@@ -18336,6 +18336,14 @@
     "callsign": "VK2GDD"
   },
   {
+    "category": "Standard",
+    "name": "Gregory Dean",
+    "suburb": "GLEN INNES",
+    "state": "NSW",
+    "postcode": "2370",
+    "callsign": "VK2GDD"
+  },
+  {
     "category": "Advanced",
     "name": "Graeme Frith",
     "suburb": "HAWKS NEST",
@@ -18350,6 +18358,14 @@
     "state": "NSW",
     "postcode": "2480",
     "callsign": "VK2GDG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Jayantha Wickramasinghe",
+    "suburb": "North Rothbury",
+    "state": "NSW",
+    "postcode": "2335",
+    "callsign": "VK2GDJ"
   },
   {
     "category": "Advanced",
@@ -19454,6 +19470,14 @@
     "state": "NSW",
     "postcode": "2283",
     "callsign": "VK2HAE"
+  },
+  {
+    "category": "Standard",
+    "name": "Stuart Warren",
+    "suburb": "NAREMBURN",
+    "state": "NSW",
+    "postcode": "2065",
+    "callsign": "VK2HAF"
   },
   {
     "category": "Standard",
@@ -47514,9 +47538,9 @@
   {
     "category": "Foundation",
     "name": "Simon Dyett",
-    "suburb": "MOUNT EVELYN",
+    "suburb": "WODONGA",
     "state": "VIC",
-    "postcode": "3796",
+    "postcode": "3690",
     "callsign": "VK3AWE"
   },
   {
@@ -61761,6 +61785,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Andrew Ross",
+    "suburb": "SOUTH YARRA",
+    "state": "VIC",
+    "postcode": "3141",
+    "callsign": "VK3JM"
+  },
+  {
+    "category": "Advanced",
     "name": "Mark Aitken",
     "suburb": "HAMPTON PARK",
     "state": "VIC",
@@ -65736,6 +65768,14 @@
     "callsign": "VK3MV"
   },
   {
+    "category": "Foundation",
+    "name": "Ninad Katyare",
+    "suburb": "KEILOR DOWNS",
+    "state": "VIC",
+    "postcode": "3038",
+    "callsign": "VK3MVK"
+  },
+  {
     "category": "Standard",
     "name": "Paul Stanley",
     "suburb": "WANTIRNA SOUTH",
@@ -66058,9 +66098,9 @@
   {
     "category": "Foundation",
     "name": "Benjamin Hudson",
-    "suburb": "BENTLEIGH EAST",
-    "state": "VIC",
-    "postcode": "3165",
+    "suburb": "HIGHBURY",
+    "state": "SA",
+    "postcode": "5089",
     "callsign": "VK3NEB"
   },
   {
@@ -67078,14 +67118,6 @@
     "state": "VIC",
     "postcode": "3980",
     "callsign": "VK3OZ"
-  },
-  {
-    "category": "Foundation",
-    "name": "Grant Mahoney",
-    "suburb": "SKYE",
-    "state": "VIC",
-    "postcode": "3977",
-    "callsign": "VK3OZY"
   },
   {
     "category": "Advanced",
@@ -128921,14 +128953,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michael Adnams",
-    "suburb": "ATHELSTONE",
-    "state": "SA",
-    "postcode": "5076",
-    "callsign": "VK5ZBH"
-  },
-  {
-    "category": "Advanced",
     "name": "Ian Bedson",
     "suburb": "PARK HOLME",
     "state": "SA",
@@ -135470,6 +135494,14 @@
     "state": "WA",
     "postcode": "6010",
     "callsign": "VK6KTU"
+  },
+  {
+    "category": "Advanced",
+    "name": "David Emrich",
+    "suburb": "SOUTHERN RIVER",
+    "state": "WA",
+    "postcode": "6110",
+    "callsign": "VK6KV"
   },
   {
     "category": "Advanced",
@@ -150440,6 +150472,14 @@
     "callsign": "VK8DN"
   },
   {
+    "category": "Foundation",
+    "name": "Jeffrey Reece",
+    "suburb": "WINNELLIE",
+    "state": "NT",
+    "postcode": "0821",
+    "callsign": "VK8DNT"
+  },
+  {
     "category": "Advanced",
     "name": "D G D'Abrera",
     "suburb": "BUTE",
@@ -150454,6 +150494,14 @@
     "state": "QLD",
     "postcode": "4221",
     "callsign": "VK8DP"
+  },
+  {
+    "category": "Foundation",
+    "name": "Dominic Schmidt",
+    "suburb": "RAPID CREEK",
+    "state": "NT",
+    "postcode": "0810",
+    "callsign": "VK8DSZ"
   },
   {
     "category": "Advanced",
