@@ -39809,14 +39809,6 @@
   },
   {
     "category": "Standard",
-    "name": "Malcolm Fletcher",
-    "suburb": "HAMLYN TERRACE",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK2VON"
-  },
-  {
-    "category": "Standard",
     "name": "Andrew Craker",
     "suburb": "MUSWELLBROOK",
     "state": "NSW",
@@ -50185,14 +50177,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Christopher Hall",
-    "suburb": "ROWVILLE",
-    "state": "VIC",
-    "postcode": "3178",
-    "callsign": "VK3CHR"
-  },
-  {
-    "category": "Advanced",
     "name": "Ian Robert Ward",
     "suburb": "BROADFORD",
     "state": "VIC",
@@ -60550,14 +60534,6 @@
     "state": "VIC",
     "postcode": "3015",
     "callsign": "VK3HRL"
-  },
-  {
-    "category": "Standard",
-    "name": "Roger Anthony Schembri",
-    "suburb": "FRANKSTON",
-    "state": "VIC",
-    "postcode": "3199",
-    "callsign": "VK3HRS"
   },
   {
     "category": "Standard",
@@ -122414,14 +122390,6 @@
     "state": "SA",
     "postcode": "5112",
     "callsign": "VK5KCE"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ian Edward Coulter",
-    "suburb": "BEVERLEY",
-    "state": "SA",
-    "postcode": "5009",
-    "callsign": "VK5KCI"
   },
   {
     "category": "Advanced",
