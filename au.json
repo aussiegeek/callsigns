@@ -12960,14 +12960,6 @@
     "callsign": "VK2ENA"
   },
   {
-    "category": "Foundation",
-    "name": "Raymund Wietschorke",
-    "suburb": "SANCTUARY POINT",
-    "state": "NSW",
-    "postcode": "2540",
-    "callsign": "VK2ENG"
-  },
-  {
     "category": "Advanced",
     "name": "Robert Demkiw",
     "suburb": "WOODBINE",
@@ -18328,7 +18320,7 @@
     "callsign": "VK2GD"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Gregory Dean",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -18336,7 +18328,7 @@
     "callsign": "VK2GDD"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Gregory Dean",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -57318,14 +57310,6 @@
     "state": "VIC",
     "postcode": "3340",
     "callsign": "VK3FPOM"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ian James Risk",
-    "suburb": "WODONGA",
-    "state": "VIC",
-    "postcode": "3690",
-    "callsign": "VK3FPR"
   },
   {
     "category": "Foundation",
@@ -112784,14 +112768,6 @@
     "callsign": "VK4TX"
   },
   {
-    "category": "Advanced",
-    "name": "Thomas Yapp",
-    "suburb": "MT CROSBY",
-    "state": "QLD",
-    "postcode": "4306",
-    "callsign": "VK4TY"
-  },
-  {
     "category": "Foundation",
     "name": "John Tytherleigh",
     "suburb": "BRIGHTON",
@@ -121936,7 +121912,7 @@
     "callsign": "VK5JAF"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "John Tudor",
     "suburb": "LITTLEHAMPTON",
     "state": "SA",
@@ -121944,7 +121920,7 @@
     "callsign": "VK5JAK"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "John Tudor",
     "suburb": "LITTLEHAMPTON",
     "state": "SA",
