@@ -7745,14 +7745,6 @@
   },
   {
     "category": "Advanced",
-    "name": "G Voron",
-    "suburb": "ROSEVILLE CHASE",
-    "state": "NSW",
-    "postcode": "2069",
-    "callsign": "VK2BGV"
-  },
-  {
-    "category": "Advanced",
     "name": "M Robbins",
     "suburb": "NANA GLEN",
     "state": "NSW",
@@ -10554,9 +10546,9 @@
   {
     "category": "Foundation",
     "name": "Craig Frohreich",
-    "suburb": "SPRING FARM",
+    "suburb": "JORDAN SPRINGS",
     "state": "NSW",
-    "postcode": "2570",
+    "postcode": "2747",
     "callsign": "VK2CWF"
   },
   {
@@ -14402,9 +14394,9 @@
   {
     "category": "Foundation",
     "name": "Edwin Manalac",
-    "suburb": "MOUNT DRUITT",
+    "suburb": "SCHOFIELDS",
     "state": "NSW",
-    "postcode": "2770",
+    "postcode": "2762",
     "callsign": "VK2FBGO"
   },
   {
@@ -18320,7 +18312,7 @@
     "callsign": "VK2GD"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Gregory Dean",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -18328,7 +18320,7 @@
     "callsign": "VK2GDD"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Gregory Dean",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -22006,6 +21998,14 @@
     "state": "NSW",
     "postcode": "2830",
     "callsign": "VK2JEF"
+  },
+  {
+    "category": "Foundation",
+    "name": "James Edward Gordon",
+    "suburb": "JILLIBY",
+    "state": "NSW",
+    "postcode": "2259",
+    "callsign": "VK2JEG"
   },
   {
     "category": "Standard",
@@ -53937,14 +53937,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Setu Pelz",
-    "suburb": "HEATHMONT",
-    "state": "VIC",
-    "postcode": "3135",
-    "callsign": "VK3FABQ"
-  },
-  {
-    "category": "Foundation",
     "name": "Donald Rakers",
     "suburb": "BOX HILL",
     "state": "VIC",
@@ -61562,9 +61554,9 @@
   {
     "category": "Advanced",
     "name": "J Horvath",
-    "suburb": "OAK PARK",
+    "suburb": "LEOPOLD",
     "state": "VIC",
-    "postcode": "3046",
+    "postcode": "3224",
     "callsign": "VK3JHO"
   },
   {
@@ -62958,6 +62950,22 @@
     "state": "VIC",
     "postcode": "3136",
     "callsign": "VK3KHZ"
+  },
+  {
+    "category": "Advanced",
+    "name": "Jennifer Owen",
+    "suburb": "NORTH BALWYN",
+    "state": "VIC",
+    "postcode": "3104",
+    "callsign": "VK3KI"
+  },
+  {
+    "category": "Advanced",
+    "name": "Jennifer Owen",
+    "suburb": "NORTH BALWYN",
+    "state": "VIC",
+    "postcode": "3104",
+    "callsign": "VK3KI"
   },
   {
     "category": "Advanced",
@@ -76641,50 +76649,50 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "SOUTH EAST RADIO GROUP INC",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
     "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
-    "name": "SOUTH EAST RADIO GROUP INC",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
     "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
-    "name": "SOUTH EAST RADIO GROUP INC",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
     "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
-    "name": "SOUTH EAST RADIO GROUP INC",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
     "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
-    "name": "SOUTH EAST RADIO GROUP INC",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
     "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
-    "name": "SOUTH EAST RADIO GROUP INC",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
     "callsign": "VK3RSW"
   },
   {
@@ -96609,14 +96617,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Jeffery V Anders",
-    "suburb": "Kulangoor",
-    "state": "QLD",
-    "postcode": "4560",
-    "callsign": "VK4FOXS"
-  },
-  {
-    "category": "Foundation",
     "name": "Warren Townsend",
     "suburb": "DURONG",
     "state": "QLD",
@@ -98638,14 +98638,6 @@
     "state": "QLD",
     "postcode": "4305",
     "callsign": "VK4HDO"
-  },
-  {
-    "category": "Standard",
-    "name": "Donald Robert Plevey",
-    "suburb": "VICTORIA POINT",
-    "state": "QLD",
-    "postcode": "4165",
-    "callsign": "VK4HDP"
   },
   {
     "category": "Standard",
@@ -102454,14 +102446,6 @@
     "state": "QLD",
     "postcode": "4128",
     "callsign": "VK4MG"
-  },
-  {
-    "category": "Standard",
-    "name": "Ralf Finke",
-    "suburb": "NERANG",
-    "state": "QLD",
-    "postcode": "4211",
-    "callsign": "VK4MGC"
   },
   {
     "category": "Standard",
@@ -127441,14 +127425,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Allan Dickson",
-    "suburb": "FULLARTON",
-    "state": "SA",
-    "postcode": "5063",
-    "callsign": "VK5TC"
-  },
-  {
-    "category": "Advanced",
     "name": "Derek Grocke",
     "suburb": "UNLEY",
     "state": "SA",
@@ -136008,6 +135984,14 @@
     "callsign": "VK6ME"
   },
   {
+    "category": "Standard",
+    "name": "Mel Ebstein",
+    "suburb": "CANNING VALE",
+    "state": "WA",
+    "postcode": "6155",
+    "callsign": "VK6MEL"
+  },
+  {
     "category": "Advanced",
     "name": "ML Faulkner",
     "suburb": "MANJIMUP",
@@ -141870,6 +141854,14 @@
     "state": "WA",
     "postcode": "6331",
     "callsign": "VK6WCA"
+  },
+  {
+    "category": "Foundation",
+    "name": "Graham Millar",
+    "suburb": "MANDURAH",
+    "state": "WA",
+    "postcode": "6210",
+    "callsign": "VK6WCR"
   },
   {
     "category": "Advanced",
@@ -148713,22 +148705,6 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Northern Tasmanian Amateur Radio Club Inc",
-    "suburb": "LAUNCESTON",
-    "state": "TAS",
-    "postcode": "7250",
-    "callsign": "VK7RTC"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "Northern Tasmanian Amateur Radio Club Inc",
-    "suburb": "LAUNCESTON",
-    "state": "TAS",
-    "postcode": "7250",
-    "callsign": "VK7RTC"
-  },
-  {
-    "category": "Amateur Beacon",
     "name": "Northern Tasmanian Amateur Radio Club Inc",
     "suburb": "LAUNCESTON",
     "state": "TAS",
