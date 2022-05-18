@@ -7168,14 +7168,6 @@
     "callsign": "VK2AYQ"
   },
   {
-    "category": "Standard",
-    "name": "Anthony Sang",
-    "suburb": "WATERLOO",
-    "state": "NSW",
-    "postcode": "2017",
-    "callsign": "VK2AYS"
-  },
-  {
     "category": "Advanced",
     "name": "Roger D Sides",
     "suburb": "KIANGA",
@@ -15177,14 +15169,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Craig Heathcote",
-    "suburb": "WAGGA WAGGA",
-    "state": "NSW",
-    "postcode": "2650",
-    "callsign": "VK2FFLL"
-  },
-  {
-    "category": "Foundation",
     "name": "Paul Garcia",
     "suburb": "SYLVANIA WATERS",
     "state": "NSW",
@@ -19998,14 +19982,6 @@
     "state": "NSW",
     "postcode": "2630",
     "callsign": "VK2HFR"
-  },
-  {
-    "category": "Standard",
-    "name": "Craig Douglas Paton",
-    "suburb": "DUNDAS VALLEY",
-    "state": "NSW",
-    "postcode": "2117",
-    "callsign": "VK2HFX"
   },
   {
     "category": "Advanced",
@@ -57241,14 +57217,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Paul Whiting",
-    "suburb": "ESSENDON",
-    "state": "VIC",
-    "postcode": "3040",
-    "callsign": "VK3FPGW"
-  },
-  {
-    "category": "Foundation",
     "name": "Peter Fitzpatrick",
     "suburb": "WARRAGUL",
     "state": "VIC",
@@ -57754,9 +57722,9 @@
   {
     "category": "Advanced",
     "name": "Melbourne Electronics and Radio Club Inc.",
-    "suburb": "TRAVENCORE",
+    "suburb": "SYDENHAM",
     "state": "VIC",
-    "postcode": "3032",
+    "postcode": "3037",
     "callsign": "VK3FSK"
   },
   {
@@ -59426,9 +59394,9 @@
   {
     "category": "Standard",
     "name": "Miki Bolvary",
-    "suburb": "MOUNT EVELYN",
+    "suburb": "WARRNAMBOOL",
     "state": "VIC",
-    "postcode": "3140",
+    "postcode": "3280",
     "callsign": "VK3HAF"
   },
   {
@@ -69498,17 +69466,17 @@
   {
     "category": "Amateur Repeater",
     "name": "Melbourne Electronics and Radio Club Inc.",
-    "suburb": "TRAVENCORE",
+    "suburb": "SYDENHAM",
     "state": "VIC",
-    "postcode": "3032",
+    "postcode": "3037",
     "callsign": "VK3RBW"
   },
   {
     "category": "Amateur Repeater",
     "name": "Melbourne Electronics and Radio Club Inc.",
-    "suburb": "TRAVENCORE",
+    "suburb": "SYDENHAM",
     "state": "VIC",
-    "postcode": "3032",
+    "postcode": "3037",
     "callsign": "VK3RBW"
   },
   {
@@ -80210,17 +80178,17 @@
   {
     "category": "Advanced",
     "name": "Melbourne Electronics and Radio Club Inc.",
-    "suburb": "TRAVENCORE",
+    "suburb": "SYDENHAM",
     "state": "VIC",
-    "postcode": "3032",
+    "postcode": "3037",
     "callsign": "VK3SPL"
   },
   {
     "category": "Advanced",
     "name": "Melbourne Electronics and Radio Club Inc.",
-    "suburb": "TRAVENCORE",
+    "suburb": "SYDENHAM",
     "state": "VIC",
-    "postcode": "3032",
+    "postcode": "3037",
     "callsign": "VK3SPL"
   },
   {
@@ -83130,9 +83098,9 @@
   {
     "category": "Advanced",
     "name": "James Pierce",
-    "suburb": "BRUNSWICK WEST",
+    "suburb": "Bakery Hill",
     "state": "VIC",
-    "postcode": "3055",
+    "postcode": "3354",
     "callsign": "VK3VJP"
   },
   {
@@ -95098,9 +95066,9 @@
   {
     "category": "Advanced",
     "name": "Kim Maree Wyld",
-    "suburb": "RANGEWOOD",
-    "state": "QLD",
-    "postcode": "4817",
+    "suburb": "Moe",
+    "state": "VIC",
+    "postcode": "3825",
     "callsign": "VK4FBN"
   },
   {
@@ -101450,9 +101418,9 @@
   {
     "category": "Advanced",
     "name": "Trevor Robinson",
-    "suburb": "ROCHEDALE SOUTH",
+    "suburb": "WOODRIDGE",
     "state": "QLD",
-    "postcode": "4123",
+    "postcode": "4114",
     "callsign": "VK4KWI"
   },
   {
@@ -102214,14 +102182,6 @@
     "state": "QLD",
     "postcode": "4615",
     "callsign": "VK4MBE"
-  },
-  {
-    "category": "Standard",
-    "name": "Benjamin Fries",
-    "suburb": "GANBENANG",
-    "state": "NSW",
-    "postcode": "2790",
-    "callsign": "VK4MBF"
   },
   {
     "category": "Standard",
@@ -121896,7 +121856,7 @@
     "callsign": "VK5JAF"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "John Tudor",
     "suburb": "LITTLEHAMPTON",
     "state": "SA",
@@ -121904,7 +121864,7 @@
     "callsign": "VK5JAK"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "John Tudor",
     "suburb": "LITTLEHAMPTON",
     "state": "SA",
@@ -125913,6 +125873,150 @@
   },
   {
     "category": "Amateur Beacon",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Elizabeth Amateur Radio Club Inc",
+    "suburb": "ELIZABETH",
+    "state": "SA",
+    "postcode": "5112",
+    "callsign": "VK5RLZ"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "Elizabeth Amateur Radio Club Inc",
     "suburb": "ELIZABETH",
     "state": "SA",
@@ -131522,9 +131626,9 @@
   {
     "category": "Standard",
     "name": "Cole Bentley",
-    "suburb": "PERTH",
+    "suburb": "HEATHRIDGE",
     "state": "WA",
-    "postcode": "6090",
+    "postcode": "6027",
     "callsign": "VK6COL"
   },
   {
@@ -134106,9 +134210,9 @@
   {
     "category": "Foundation",
     "name": "Cole Bentley",
-    "suburb": "PERTH",
+    "suburb": "HEATHRIDGE",
     "state": "WA",
-    "postcode": "6090",
+    "postcode": "6027",
     "callsign": "VK6HFC"
   },
   {
@@ -146454,14 +146558,6 @@
     "state": "TAS",
     "postcode": "7054",
     "callsign": "VK7MJ"
-  },
-  {
-    "category": "Advanced",
-    "name": "Mark Hamill",
-    "suburb": "DELORAINE",
-    "state": "TAS",
-    "postcode": "7304",
-    "callsign": "VK7MK"
   },
   {
     "category": "Advanced",
