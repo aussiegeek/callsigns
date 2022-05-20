@@ -4113,6 +4113,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Lauren Wiggins",
+    "suburb": "BONNER",
+    "state": "ACT",
+    "postcode": "2914",
+    "callsign": "VK1VLW"
+  },
+  {
+    "category": "Foundation",
     "name": "Venkateswaran Mathiyalagan",
     "suburb": "HOLDER",
     "state": "ACT",
@@ -35985,6 +35993,38 @@
   },
   {
     "category": "Amateur Repeater",
+    "name": "Far South Coast Amateur Radio Club Inc",
+    "suburb": "BEGA",
+    "state": "NSW",
+    "postcode": "2550",
+    "callsign": "VK2RWP"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Far South Coast Amateur Radio Club Inc",
+    "suburb": "BEGA",
+    "state": "NSW",
+    "postcode": "2550",
+    "callsign": "VK2RWP"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Far South Coast Amateur Radio Club Inc",
+    "suburb": "BEGA",
+    "state": "NSW",
+    "postcode": "2550",
+    "callsign": "VK2RWP"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Far South Coast Amateur Radio Club Inc",
+    "suburb": "BEGA",
+    "state": "NSW",
+    "postcode": "2550",
+    "callsign": "VK2RWP"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "Walcha Radio Group",
     "suburb": "WALCHA",
     "state": "NSW",
@@ -36894,6 +36934,14 @@
     "state": "NSW",
     "postcode": "2263",
     "callsign": "VK2SPB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Stephen Feeney",
+    "suburb": "COFFS HARBOUR",
+    "state": "NSW",
+    "postcode": "2450",
+    "callsign": "VK2SPF"
   },
   {
     "category": "Foundation",
@@ -56168,14 +56216,6 @@
     "callsign": "VK3FJLW"
   },
   {
-    "category": "Advanced",
-    "name": "James Fallen",
-    "suburb": "CARRARA",
-    "state": "QLD",
-    "postcode": "4211",
-    "callsign": "VK3FJM"
-  },
-  {
     "category": "Foundation",
     "name": "James Paul Melton Honeywood",
     "suburb": "TOORA",
@@ -67462,6 +67502,14 @@
     "state": "VIC",
     "postcode": "3163",
     "callsign": "VK3PGR"
+  },
+  {
+    "category": "Foundation",
+    "name": "Phill Simpson",
+    "suburb": "Hastings",
+    "state": "VIC",
+    "postcode": "3937",
+    "callsign": "VK3PGS"
   },
   {
     "category": "Advanced",
@@ -79590,6 +79638,38 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RYR"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Yarra Valley Amateur Radio Group Inc",
+    "suburb": "HEALESVILLE MAIN STREET",
+    "state": "VIC",
+    "postcode": "3777",
+    "callsign": "VK3RYV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Yarra Valley Amateur Radio Group Inc",
+    "suburb": "HEALESVILLE MAIN STREET",
+    "state": "VIC",
+    "postcode": "3777",
+    "callsign": "VK3RYV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Yarra Valley Amateur Radio Group Inc",
+    "suburb": "HEALESVILLE MAIN STREET",
+    "state": "VIC",
+    "postcode": "3777",
+    "callsign": "VK3RYV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Yarra Valley Amateur Radio Group Inc",
+    "suburb": "HEALESVILLE MAIN STREET",
+    "state": "VIC",
+    "postcode": "3777",
+    "callsign": "VK3RYV"
   },
   {
     "category": "Advanced",
@@ -93360,6 +93440,14 @@
     "callsign": "VK4DIY"
   },
   {
+    "category": "Advanced",
+    "name": "James Fallen",
+    "suburb": "CARRARA",
+    "state": "QLD",
+    "postcode": "4211",
+    "callsign": "VK4DJ"
+  },
+  {
     "category": "Standard",
     "name": "Douglas Ahern",
     "suburb": "BELLBIRD PARK",
@@ -100718,14 +100806,6 @@
     "state": "QLD",
     "postcode": "4300",
     "callsign": "VK4KDP"
-  },
-  {
-    "category": "Advanced",
-    "name": "Keith DeSerio",
-    "suburb": "BUNDABERG",
-    "state": "QLD",
-    "postcode": "4670",
-    "callsign": "VK4KDS"
   },
   {
     "category": "Advanced",
@@ -116824,7 +116904,7 @@
     "callsign": "VK5ADK"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Darren Holmes",
     "suburb": "HOLDEN HILL",
     "state": "SA",
@@ -116832,7 +116912,7 @@
     "callsign": "VK5ADL"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Darren Holmes",
     "suburb": "HOLDEN HILL",
     "state": "SA",
@@ -120702,14 +120782,6 @@
     "state": "SA",
     "postcode": "5118",
     "callsign": "VK5FTAA"
-  },
-  {
-    "category": "Foundation",
-    "name": "Daveron Ernszt",
-    "suburb": "WOODVILLE",
-    "state": "SA",
-    "postcode": "5011",
-    "callsign": "VK5FTAD"
   },
   {
     "category": "Foundation",
@@ -136432,6 +136504,14 @@
     "callsign": "VK6MOA"
   },
   {
+    "category": "Advanced",
+    "name": "Mark Rawlings",
+    "suburb": "DONGARA",
+    "state": "WA",
+    "postcode": "6525",
+    "callsign": "VK6MOA"
+  },
+  {
     "category": "Foundation",
     "name": "Nathan Galati",
     "suburb": "WELLARD",
@@ -139238,14 +139318,6 @@
     "state": "WA",
     "postcode": "6153",
     "callsign": "VK6RIC"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "Northern Corridor Radio Group",
-    "suburb": "NORTH BEACH",
-    "state": "WA",
-    "postcode": "6920",
-    "callsign": "VK6RIO"
   },
   {
     "category": "Advanced",
