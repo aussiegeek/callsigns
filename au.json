@@ -1040,14 +1040,6 @@
     "callsign": "VK1DT"
   },
   {
-    "category": "Foundation",
-    "name": "Stephen Fry",
-    "suburb": "NICHOLLS",
-    "state": "ACT",
-    "postcode": "2913",
-    "callsign": "VK1DTH"
-  },
-  {
     "category": "Advanced",
     "name": "David V Roberts",
     "suburb": "BELCONNEN",
@@ -4198,14 +4190,6 @@
     "state": "ACT",
     "postcode": "2617",
     "callsign": "VK1WPR"
-  },
-  {
-    "category": "Foundation",
-    "name": "Jo-Wai Wang",
-    "suburb": "WEETANGERA",
-    "state": "ACT",
-    "postcode": "2614",
-    "callsign": "VK1WRW"
   },
   {
     "category": "Foundation",
@@ -20656,14 +20640,6 @@
     "callsign": "VK2HSL"
   },
   {
-    "category": "Foundation",
-    "name": "Rodney Duckworth",
-    "suburb": "Frenchs Forest",
-    "state": "NSW",
-    "postcode": "2086",
-    "callsign": "VK2HSN"
-  },
-  {
     "category": "Standard",
     "name": "Stephen Richardson",
     "suburb": "MOSS VALE",
@@ -25934,6 +25910,14 @@
     "state": "NSW",
     "postcode": "2264",
     "callsign": "VK2MKK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Michael Lohmann",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "postcode": "2444",
+    "callsign": "VK2MKL"
   },
   {
     "category": "Foundation",
@@ -44905,6 +44889,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Peter Collie",
+    "suburb": "FRANKSTON",
+    "state": "VIC",
+    "postcode": "3199",
+    "callsign": "VK3AAV"
+  },
+  {
+    "category": "Advanced",
     "name": "B Osborne",
     "suburb": "HIGHETT",
     "state": "VIC",
@@ -48078,6 +48070,14 @@
     "state": "VIC",
     "postcode": "3472",
     "callsign": "VK3BBF"
+  },
+  {
+    "category": "Foundation",
+    "name": "Benjamin Garrard",
+    "suburb": "Camberwell North",
+    "state": "VIC",
+    "postcode": "3124",
+    "callsign": "VK3BBG"
   },
   {
     "category": "Advanced",
@@ -54338,9 +54338,9 @@
   {
     "category": "Foundation",
     "name": "Shane Delaney",
-    "suburb": "KYABRAM",
-    "state": "VIC",
-    "postcode": "3619",
+    "suburb": "Cannonvale",
+    "state": "QLD",
+    "postcode": "4802",
     "callsign": "VK3FALB"
   },
   {
@@ -82632,6 +82632,14 @@
     "callsign": "VK3UV"
   },
   {
+    "category": "Foundation",
+    "name": "Scott Hanson",
+    "suburb": "ALTONA MEADOWS",
+    "state": "VIC",
+    "postcode": "3028",
+    "callsign": "VK3UVW"
+  },
+  {
     "category": "Advanced",
     "name": "Benjamin Carthew",
     "suburb": "BACCHUS MARSH",
@@ -84186,9 +84194,9 @@
   {
     "category": "Standard",
     "name": "Warren Wilkins",
-    "suburb": "SEBASTOPOL",
-    "state": "VIC",
-    "postcode": "3356",
+    "suburb": "SARINA",
+    "state": "QLD",
+    "postcode": "4737",
     "callsign": "VK3WJW"
   },
   {
@@ -101706,9 +101714,9 @@
   {
     "category": "Foundation",
     "name": "Lauren Wade",
-    "suburb": "BONGAREE",
+    "suburb": "NORTH LAKES",
     "state": "QLD",
-    "postcode": "4507",
+    "postcode": "4509",
     "callsign": "VK4LAW"
   },
   {
@@ -134010,9 +134018,9 @@
   {
     "category": "Foundation",
     "name": "Peter Sutton",
-    "suburb": "BYFORD",
+    "suburb": "ARMADALE",
     "state": "WA",
-    "postcode": "6122",
+    "postcode": "6112",
     "callsign": "VK6GIA"
   },
   {
@@ -143758,14 +143766,6 @@
     "state": "TAS",
     "postcode": "7140",
     "callsign": "VK7AAB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Benjamin Tymms",
-    "suburb": "Hobart",
-    "state": "TAS",
-    "postcode": "7000",
-    "callsign": "VK7AAC"
   },
   {
     "category": "Foundation",
