@@ -1377,14 +1377,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Barry Leonard Campton",
-    "suburb": "DEAKIN",
-    "state": "ACT",
-    "postcode": "2600",
-    "callsign": "VK1FBLC"
-  },
-  {
-    "category": "Foundation",
     "name": "Robert Anderson",
     "suburb": "WEETANGERA",
     "state": "ACT",
@@ -18328,7 +18320,7 @@
     "callsign": "VK2GD"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Gregory Dean",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -18336,7 +18328,7 @@
     "callsign": "VK2GDD"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Gregory Dean",
     "suburb": "GLEN INNES",
     "state": "NSW",
@@ -50518,14 +50510,6 @@
     "state": "VIC",
     "postcode": "3691",
     "callsign": "VK3CM"
-  },
-  {
-    "category": "Standard",
-    "name": "Peter Ross",
-    "suburb": "EPPING",
-    "state": "VIC",
-    "postcode": "3076",
-    "callsign": "VK3CMA"
   },
   {
     "category": "Advanced",
@@ -93025,14 +93009,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Karl Henry",
-    "suburb": "CAPALABA DC",
-    "state": "QLD",
-    "postcode": "4157",
-    "callsign": "VK4CWS"
-  },
-  {
-    "category": "Advanced",
     "name": "Eric Syddall",
     "suburb": "TEWANTIN",
     "state": "QLD",
@@ -122024,7 +122000,7 @@
     "callsign": "VK5JAF"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "John Tudor",
     "suburb": "LITTLEHAMPTON",
     "state": "SA",
@@ -122032,7 +122008,7 @@
     "callsign": "VK5JAK"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "John Tudor",
     "suburb": "LITTLEHAMPTON",
     "state": "SA",
