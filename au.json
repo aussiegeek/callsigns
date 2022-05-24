@@ -14409,14 +14409,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Edwin Manalac",
-    "suburb": "SCHOFIELDS",
-    "state": "NSW",
-    "postcode": "2762",
-    "callsign": "VK2FBGO"
-  },
-  {
-    "category": "Foundation",
     "name": "Bhuwan Pun",
     "suburb": "PUNCHBOWL",
     "state": "NSW",
@@ -17486,14 +17478,6 @@
     "state": "NSW",
     "postcode": "2470",
     "callsign": "VK2FSI"
-  },
-  {
-    "category": "Foundation",
-    "name": "Spencer Aris",
-    "suburb": "PENRITH",
-    "state": "NSW",
-    "postcode": "2750",
-    "callsign": "VK2FSJA"
   },
   {
     "category": "Foundation",
@@ -20630,6 +20614,14 @@
     "state": "NSW",
     "postcode": "2090",
     "callsign": "VK2HSL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Rodney Duckworth",
+    "suburb": "Frenchs Forest",
+    "state": "NSW",
+    "postcode": "2086",
+    "callsign": "VK2HSN"
   },
   {
     "category": "Standard",
@@ -37802,7 +37794,7 @@
   {
     "category": "Advanced",
     "name": "Ian Carnachan Purdie",
-    "suburb": "HALEKULANI",
+    "suburb": "BUDGEWOI",
     "state": "NSW",
     "postcode": "2262",
     "callsign": "VK2TIP"
@@ -54038,22 +54030,6 @@
     "state": "VIC",
     "postcode": "3135",
     "callsign": "VK3FABV"
-  },
-  {
-    "category": "Foundation",
-    "name": "Reem Hagras",
-    "suburb": "WHITTLESEA",
-    "state": "VIC",
-    "postcode": "3757",
-    "callsign": "VK3FABW"
-  },
-  {
-    "category": "Foundation",
-    "name": "Yasser Ades",
-    "suburb": "WHITTLESEA",
-    "state": "VIC",
-    "postcode": "3757",
-    "callsign": "VK3FABX"
   },
   {
     "category": "Advanced",
@@ -84029,7 +84005,7 @@
     "suburb": "SUNBURY",
     "state": "VIC",
     "postcode": "3429",
-    "callsign": "VK3WDO"
+    "callsign": "VK3WDD"
   },
   {
     "category": "Advanced",
@@ -86114,9 +86090,9 @@
   {
     "category": "Advanced",
     "name": "JG Nicholls",
-    "suburb": "SURREY HILLS",
+    "suburb": "BALWYN",
     "state": "VIC",
-    "postcode": "3127",
+    "postcode": "3103",
     "callsign": "VK3YKB"
   },
   {
@@ -117872,14 +117848,6 @@
     "callsign": "VK5AVB"
   },
   {
-    "category": "Foundation",
-    "name": "Anthony Blight",
-    "suburb": "American River",
-    "state": "SA",
-    "postcode": "5221",
-    "callsign": "VK5AVB"
-  },
-  {
     "category": "Advanced",
     "name": "Mark Spooner",
     "suburb": "VALE PARK",
@@ -125121,14 +125089,6 @@
   },
   {
     "category": "Advanced",
-    "name": "J A Hackworth",
-    "suburb": "PASADENA",
-    "state": "SA",
-    "postcode": "5042",
-    "callsign": "VK5QZ"
-  },
-  {
-    "category": "Advanced",
     "name": "FS Ficza",
     "suburb": "COROMANDEL VALLEY",
     "state": "SA",
@@ -130014,22 +129974,6 @@
     "state": "WA",
     "postcode": "6056",
     "callsign": "VK6AAE"
-  },
-  {
-    "category": "Advanced",
-    "name": "Barry Lunn",
-    "suburb": "SATETY BAY",
-    "state": "WA",
-    "postcode": "6169",
-    "callsign": "VK6AAF"
-  },
-  {
-    "category": "Advanced",
-    "name": "Barry Lunn",
-    "suburb": "SATETY BAY",
-    "state": "WA",
-    "postcode": "6169",
-    "callsign": "VK6AAF"
   },
   {
     "category": "Advanced",
@@ -137314,9 +137258,9 @@
   {
     "category": "Advanced",
     "name": "Nicola Signorile",
-    "suburb": "KARDINYA",
+    "suburb": "MOUNT HAWTHORN",
     "state": "WA",
-    "postcode": "6163",
+    "postcode": "6016",
     "callsign": "VK6OS"
   },
   {
