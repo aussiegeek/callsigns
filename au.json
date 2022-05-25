@@ -4568,6 +4568,14 @@
     "callsign": "VK2AAO"
   },
   {
+    "category": "Standard",
+    "name": "Simon McCann",
+    "suburb": "GRAFTON",
+    "state": "NSW",
+    "postcode": "2460",
+    "callsign": "VK2AAO"
+  },
+  {
     "category": "Advanced",
     "name": "Michael Phillips",
     "suburb": "COONABARABRAN",
@@ -5126,6 +5134,14 @@
     "state": "NSW",
     "postcode": "2287",
     "callsign": "VK2ADJ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Aaron Little",
+    "suburb": "LOCHIEL",
+    "state": "NSW",
+    "postcode": "2549",
+    "callsign": "VK2ADL"
   },
   {
     "category": "Advanced",
@@ -45625,6 +45641,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Elijah Perry",
+    "suburb": "HUNTINGDALE",
+    "state": "VIC",
+    "postcode": "3166",
+    "callsign": "VK3AEH"
+  },
+  {
+    "category": "Foundation",
     "name": "Terry Davis",
     "suburb": "HEIDELBERG WEST",
     "state": "VIC",
@@ -46854,6 +46878,14 @@
     "state": "VIC",
     "postcode": "3340",
     "callsign": "VK3APW"
+  },
+  {
+    "category": "Foundation",
+    "name": "Graeme Harrison",
+    "suburb": "ALEXANDRA",
+    "state": "VIC",
+    "postcode": "3714",
+    "callsign": "VK3APZ"
   },
   {
     "category": "Advanced",
@@ -58488,6 +58520,14 @@
     "callsign": "VK3GAA"
   },
   {
+    "category": "Foundation",
+    "name": "Glenn Perry",
+    "suburb": "HUNTINGDALE",
+    "state": "VIC",
+    "postcode": "3166",
+    "callsign": "VK3GAP"
+  },
+  {
     "category": "Advanced",
     "name": "Milan Antonic",
     "suburb": "DELAHEY",
@@ -61566,6 +61606,14 @@
     "state": "VIC",
     "postcode": "3221",
     "callsign": "VK3JGC"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Harrison",
+    "suburb": "ENDEAVOUR HILLS",
+    "state": "VIC",
+    "postcode": "3802",
+    "callsign": "VK3JGH"
   },
   {
     "category": "Advanced",
@@ -65832,6 +65880,14 @@
     "callsign": "VK3MWP"
   },
   {
+    "category": "Standard",
+    "name": "MaryAnn Williamson",
+    "suburb": "HUON",
+    "state": "VIC",
+    "postcode": "3695",
+    "callsign": "VK3MWW"
+  },
+  {
     "category": "Advanced",
     "name": "Steven Peters",
     "suburb": "THOMPSON BEACH",
@@ -66990,6 +67046,22 @@
     "state": "VIC",
     "postcode": "3033",
     "callsign": "VK3OO"
+  },
+  {
+    "category": "Foundation",
+    "name": "Matthew Grassby",
+    "suburb": "BAYSWATER",
+    "state": "VIC",
+    "postcode": "3153",
+    "callsign": "VK3OOE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Maverik Grassby",
+    "suburb": "BAYSWATER",
+    "state": "VIC",
+    "postcode": "3153",
+    "callsign": "VK3OOO"
   },
   {
     "category": "Advanced",
@@ -80144,6 +80216,14 @@
     "callsign": "VK3SL"
   },
   {
+    "category": "Foundation",
+    "name": "Christopher Stone",
+    "suburb": "PARKDALE",
+    "state": "VIC",
+    "postcode": "3195",
+    "callsign": "VK3SLE"
+  },
+  {
     "category": "Advanced",
     "name": "S L Howell",
     "suburb": "GLEN IRIS",
@@ -80369,7 +80449,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Paul Timothy McMahon",
+    "name": "Paul McMahon",
     "suburb": "SALE",
     "state": "VIC",
     "postcode": "3850",
@@ -80422,6 +80502,14 @@
     "state": "VIC",
     "postcode": "3465",
     "callsign": "VK3STE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Sarah Thom",
+    "suburb": "MOUNT WAVERLEY",
+    "state": "VIC",
+    "postcode": "3149",
+    "callsign": "VK3STH"
   },
   {
     "category": "Foundation",
@@ -80534,6 +80622,14 @@
     "state": "VIC",
     "postcode": "3340",
     "callsign": "VK3SWK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Cameron Campion",
+    "suburb": "WESTMEADOWS",
+    "state": "VIC",
+    "postcode": "3049",
+    "callsign": "VK3SWL"
   },
   {
     "category": "Advanced",
@@ -83329,6 +83425,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Kenneth Arthur Winn",
+    "suburb": "DROMANA",
+    "state": "VIC",
+    "postcode": "3936",
+    "callsign": "VK3VKW"
+  },
+  {
+    "category": "Advanced",
     "name": "David John Harms",
     "suburb": "DANDENONG",
     "state": "VIC",
@@ -83670,6 +83774,14 @@
     "state": "VIC",
     "postcode": "3690",
     "callsign": "VK3VS"
+  },
+  {
+    "category": "Foundation",
+    "name": "Paige Baddeley",
+    "suburb": "MOUNT WAVERLEY",
+    "state": "VIC",
+    "postcode": "3149",
+    "callsign": "VK3VSA"
   },
   {
     "category": "Standard",
@@ -89094,6 +89206,14 @@
     "state": "QLD",
     "postcode": "4421",
     "callsign": "VK4AEF"
+  },
+  {
+    "category": "Standard",
+    "name": "Steven Holland",
+    "suburb": "THORNLANDS",
+    "state": "QLD",
+    "postcode": "4164",
+    "callsign": "VK4AEG"
   },
   {
     "category": "Foundation",
@@ -111656,6 +111776,14 @@
     "callsign": "VK4SK"
   },
   {
+    "category": "Foundation",
+    "name": "Shane Delaney",
+    "suburb": "Cannonvale",
+    "state": "QLD",
+    "postcode": "4802",
+    "callsign": "VK4SKD"
+  },
+  {
     "category": "Advanced",
     "name": "Shane Keith Hoffmann",
     "suburb": "TOOWOOMBA",
@@ -119096,6 +119224,14 @@
     "callsign": "VK5DW"
   },
   {
+    "category": "Foundation",
+    "name": "David Beck",
+    "suburb": "ARDROSSAN",
+    "state": "SA",
+    "postcode": "5571",
+    "callsign": "VK5DWB"
+  },
+  {
     "category": "Advanced",
     "name": "David Walter Craill",
     "suburb": "GLANVILLE",
@@ -123694,6 +123830,14 @@
     "state": "SA",
     "postcode": "5254",
     "callsign": "VK5MM"
+  },
+  {
+    "category": "Foundation",
+    "name": "Michael Carey",
+    "suburb": "CRYSTAL BROOK",
+    "state": "SA",
+    "postcode": "5523",
+    "callsign": "VK5MMC"
   },
   {
     "category": "Standard",
@@ -146502,14 +146646,6 @@
     "state": "TAS",
     "postcode": "7330",
     "callsign": "VK7LKB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Thomas White",
-    "suburb": "GARDNERS BAY",
-    "state": "TAS",
-    "postcode": "7112",
-    "callsign": "VK7LOL"
   },
   {
     "category": "Standard",
