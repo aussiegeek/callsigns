@@ -4185,6 +4185,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Jo-Wai Wang",
+    "suburb": "WEETANGERA",
+    "state": "ACT",
+    "postcode": "2614",
+    "callsign": "VK1WRW"
+  },
+  {
+    "category": "Foundation",
     "name": "Simon Torr",
     "suburb": "Mawson",
     "state": "ACT",
@@ -11014,14 +11022,6 @@
     "state": "NSW",
     "postcode": "2550",
     "callsign": "VK2DE"
-  },
-  {
-    "category": "Foundation",
-    "name": "Dianne Sharp",
-    "suburb": "TERRANORA",
-    "state": "NSW",
-    "postcode": "2486",
-    "callsign": "VK2DEA"
   },
   {
     "category": "Foundation",
@@ -48088,6 +48088,14 @@
     "callsign": "VK3BCC"
   },
   {
+    "category": "Foundation",
+    "name": "Ravi Radhakrishnan",
+    "suburb": "LYNBROOK",
+    "state": "VIC",
+    "postcode": "3975",
+    "callsign": "VK3BCD"
+  },
+  {
     "category": "Advanced",
     "name": "DE Hill",
     "suburb": "CASTLE HILL",
@@ -54262,14 +54270,6 @@
     "state": "VIC",
     "postcode": "3782",
     "callsign": "VK3FAKT"
-  },
-  {
-    "category": "Foundation",
-    "name": "Shane Delaney",
-    "suburb": "Cannonvale",
-    "state": "QLD",
-    "postcode": "4802",
-    "callsign": "VK3FALB"
   },
   {
     "category": "Foundation",
@@ -84434,9 +84434,9 @@
   {
     "category": "Advanced",
     "name": "Brendan Jenkins",
-    "suburb": "MEADOW HEIGHTS",
+    "suburb": "BROADMEADOWS",
     "state": "VIC",
-    "postcode": "3338",
+    "postcode": "3047",
     "callsign": "VK3WWB"
   },
   {
@@ -98326,6 +98326,14 @@
     "state": "QLD",
     "postcode": "4115",
     "callsign": "VK4GWR"
+  },
+  {
+    "category": "Advanced",
+    "name": "Patrick Keogh",
+    "suburb": "BLACKBUTT",
+    "state": "QLD",
+    "postcode": "4314",
+    "callsign": "VK4GWZ"
   },
   {
     "category": "Advanced",
@@ -123686,14 +123694,6 @@
     "state": "SA",
     "postcode": "5523",
     "callsign": "VK5MJC"
-  },
-  {
-    "category": "Standard",
-    "name": "Matthew Dunk",
-    "suburb": "COBURG NORTH",
-    "state": "VIC",
-    "postcode": "3058",
-    "callsign": "VK5MJD"
   },
   {
     "category": "Advanced",
