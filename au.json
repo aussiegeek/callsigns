@@ -6232,6 +6232,14 @@
     "callsign": "VK2ANF"
   },
   {
+    "category": "Standard",
+    "name": "Anthony Grieve",
+    "suburb": "POTTS POINT",
+    "state": "NSW",
+    "postcode": "1335",
+    "callsign": "VK2ANG"
+  },
+  {
     "category": "Foundation",
     "name": "Alexander Hanna",
     "suburb": "MULGOA",
@@ -7582,6 +7590,14 @@
     "state": "NSW",
     "postcode": "2298",
     "callsign": "VK2BDX"
+  },
+  {
+    "category": "Foundation",
+    "name": "Brendan Doyle",
+    "suburb": "NEWCASTLE",
+    "state": "NSW",
+    "postcode": "2290",
+    "callsign": "VK2BDY"
   },
   {
     "category": "Advanced",
@@ -10712,6 +10728,14 @@
     "callsign": "VK2DAD"
   },
   {
+    "category": "Foundation",
+    "name": "Daeng Effendi",
+    "suburb": "WATTLE GROVE",
+    "state": "NSW",
+    "postcode": "2173",
+    "callsign": "VK2DAE"
+  },
+  {
     "category": "Advanced",
     "name": "MK Hetherington",
     "suburb": "OURIMBAH",
@@ -11414,6 +11438,14 @@
     "state": "NSW",
     "postcode": "2770",
     "callsign": "VK2DKL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Darren Pinkerton",
+    "suburb": "FOREST REEFS",
+    "state": "NSW",
+    "postcode": "2798",
+    "callsign": "VK2DKP"
   },
   {
     "category": "Advanced",
@@ -12710,6 +12742,14 @@
     "state": "NSW",
     "postcode": "2580",
     "callsign": "VK2EIA"
+  },
+  {
+    "category": "Advanced",
+    "name": "Patrick O'Rourke",
+    "suburb": "DUNDALK CO.LOUTH",
+    "state": "",
+    "postcode": "A91E952",
+    "callsign": "VK2EIB"
   },
   {
     "category": "Advanced",
@@ -37377,6 +37417,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Tomislav Mirkovic",
+    "suburb": "TUMBARUMBA",
+    "state": "NSW",
+    "postcode": "2653",
+    "callsign": "VK2TCM"
+  },
+  {
+    "category": "Foundation",
     "name": "Andrew Thompson",
     "suburb": "HORNSBY",
     "state": "NSW",
@@ -52360,6 +52408,14 @@
     "callsign": "VK3DRH"
   },
   {
+    "category": "Foundation",
+    "name": "Dirk Arends",
+    "suburb": "ABERFELDIE",
+    "state": "VIC",
+    "postcode": "3040",
+    "callsign": "VK3DRK"
+  },
+  {
     "category": "Advanced",
     "name": "Russell Lang",
     "suburb": "GLEN WAVERLEY",
@@ -52686,6 +52742,14 @@
     "state": "VIC",
     "postcode": "3280",
     "callsign": "VK3DX"
+  },
+  {
+    "category": "Foundation",
+    "name": "Douglas Ahearn",
+    "suburb": "BURWOOD HEIGHTS",
+    "state": "VIC",
+    "postcode": "3151",
+    "callsign": "VK3DXA"
   },
   {
     "category": "Advanced",
@@ -65504,6 +65568,14 @@
     "callsign": "VK3MP"
   },
   {
+    "category": "Foundation",
+    "name": "Joseph Karr",
+    "suburb": "FLEMINGTON",
+    "state": "VIC",
+    "postcode": "3031",
+    "callsign": "VK3MPB"
+  },
+  {
     "category": "Standard",
     "name": "Ivan McCallum",
     "suburb": "COLAC",
@@ -65562,9 +65634,9 @@
   {
     "category": "Standard",
     "name": "Marshall Roy Graham",
-    "suburb": "DONCASTER",
+    "suburb": "FERNTREE GULLY",
     "state": "VIC",
-    "postcode": "3108",
+    "postcode": "3156",
     "callsign": "VK3MRG"
   },
   {
@@ -90096,14 +90168,6 @@
     "callsign": "VK4AMP"
   },
   {
-    "category": "Foundation",
-    "name": "Nigel Buchanan",
-    "suburb": "NERANG",
-    "state": "QLD",
-    "postcode": "4211",
-    "callsign": "VK4AMP"
-  },
-  {
     "category": "Advanced",
     "name": "Andrew Mark Shepherd",
     "suburb": "CAMBOOYA",
@@ -93318,14 +93382,6 @@
     "state": "QLD",
     "postcode": "4163",
     "callsign": "VK4DFC"
-  },
-  {
-    "category": "Advanced",
-    "name": "Frank Marsh",
-    "suburb": "HERVEY BAY",
-    "state": "QLD",
-    "postcode": "4655",
-    "callsign": "VK4DFM"
   },
   {
     "category": "Foundation",
@@ -98182,6 +98238,14 @@
     "state": "QLD",
     "postcode": "4110",
     "callsign": "VK4GS"
+  },
+  {
+    "category": "Advanced",
+    "name": "Bryce Purden",
+    "suburb": "PORT DOUGLAS",
+    "state": "QLD",
+    "postcode": "4877",
+    "callsign": "VK4GSA"
   },
   {
     "category": "Advanced",
@@ -132256,6 +132320,14 @@
     "callsign": "VK6DSL"
   },
   {
+    "category": "Foundation",
+    "name": "David Moyle",
+    "suburb": "SEVILLE GROVE",
+    "state": "WA",
+    "postcode": "6112",
+    "callsign": "VK6DSM"
+  },
+  {
     "category": "Advanced",
     "name": "Jee Hian Thung",
     "suburb": "CHITTERING",
@@ -142929,14 +143001,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Christopher Desmond Hosken",
-    "suburb": "MAIDA VALE",
-    "state": "WA",
-    "postcode": "6057",
-    "callsign": "VK6YOY"
-  },
-  {
-    "category": "Advanced",
     "name": "GR Griffiths",
     "suburb": "APPLECROSS",
     "state": "WA",
@@ -145846,6 +145910,14 @@
     "state": "TAS",
     "postcode": "7006",
     "callsign": "VK7IAN"
+  },
+  {
+    "category": "Advanced",
+    "name": "Phillip Groom",
+    "suburb": "KINGSTON",
+    "state": "TAS",
+    "postcode": "7050",
+    "callsign": "VK7ID"
   },
   {
     "category": "Advanced",
@@ -149662,6 +149734,14 @@
     "state": "TAS",
     "postcode": "7277",
     "callsign": "VK7TY"
+  },
+  {
+    "category": "Advanced",
+    "name": "Rodney David Beech",
+    "suburb": "FORTITUDE VALLEY",
+    "state": "QLD",
+    "postcode": "4006",
+    "callsign": "VK7UTE"
   },
   {
     "category": "Standard",
