@@ -1601,14 +1601,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Kevin Patrick Yeadon",
-    "suburb": "COOK",
-    "state": "ACT",
-    "postcode": "2614",
-    "callsign": "VK1FKPY"
-  },
-  {
-    "category": "Foundation",
     "name": "Alan Aves",
     "suburb": "HARRISON",
     "state": "ACT",
@@ -49616,14 +49608,6 @@
     "callsign": "VK3BVI"
   },
   {
-    "category": "Foundation",
-    "name": "Blake Dobay",
-    "suburb": "VERMONT SOUTH",
-    "state": "VIC",
-    "postcode": "3133",
-    "callsign": "VK3BVO"
-  },
-  {
     "category": "Advanced",
     "name": "Colin T Miller",
     "suburb": "ASPENDALE",
@@ -66544,14 +66528,6 @@
     "callsign": "VK3NQS"
   },
   {
-    "category": "Advanced",
-    "name": "DJ Eyiam",
-    "suburb": "KEILOR DOWNS",
-    "state": "VIC",
-    "postcode": "3038",
-    "callsign": "VK3NR"
-  },
-  {
     "category": "Standard",
     "name": "Ross Bradley",
     "suburb": "MAFFRA",
@@ -81870,14 +81846,6 @@
     "state": "VIC",
     "postcode": "3198",
     "callsign": "VK3TTE"
-  },
-  {
-    "category": "Foundation",
-    "name": "Travis Lang",
-    "suburb": "LILYDALE",
-    "state": "VIC",
-    "postcode": "3140",
-    "callsign": "VK3TTL"
   },
   {
     "category": "Advanced",
@@ -100534,14 +100502,6 @@
     "state": "QLD",
     "postcode": "4218",
     "callsign": "VK4JTL"
-  },
-  {
-    "category": "Advanced",
-    "name": "James Mifsud",
-    "suburb": "MACKAY MAIL CENTRE",
-    "state": "QLD",
-    "postcode": "4746",
-    "callsign": "VK4JTM"
   },
   {
     "category": "Advanced",
