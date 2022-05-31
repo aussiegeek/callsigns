@@ -1058,9 +1058,9 @@
   {
     "category": "Foundation",
     "name": "David Rowe",
-    "suburb": "MITCHELL",
-    "state": "ACT",
-    "postcode": "2911",
+    "suburb": "Nuriootpa",
+    "state": "SA",
+    "postcode": "5355",
     "callsign": "VK1DWR"
   },
   {
@@ -39840,14 +39840,6 @@
     "callsign": "VK2VOM"
   },
   {
-    "category": "Standard",
-    "name": "Andrew Craker",
-    "suburb": "MUSWELLBROOK",
-    "state": "NSW",
-    "postcode": "2880",
-    "callsign": "VK2VOO"
-  },
-  {
     "category": "Advanced",
     "name": "Andrew Craker",
     "suburb": "MUSWELLBROOK",
@@ -40158,14 +40150,6 @@
     "state": "NSW",
     "postcode": "2797",
     "callsign": "VK2VZL"
-  },
-  {
-    "category": "Advanced",
-    "name": "Vaclav Blaha",
-    "suburb": "CHISHOLM",
-    "state": "ACT",
-    "postcode": "2905",
-    "callsign": "VK2WA"
   },
   {
     "category": "Advanced",
@@ -66190,14 +66174,6 @@
     "state": "VIC",
     "postcode": "3040",
     "callsign": "VK3NES"
-  },
-  {
-    "category": "Standard",
-    "name": "Dong Yang",
-    "suburb": "DONCASTER EAST",
-    "state": "VIC",
-    "postcode": "3109",
-    "callsign": "VK3NET"
   },
   {
     "category": "Advanced",
@@ -97946,9 +97922,9 @@
   {
     "category": "Advanced",
     "name": "Gregory Couzin",
-    "suburb": "Tamborine",
-    "state": "QLD",
-    "postcode": "4270",
+    "suburb": "URANA",
+    "state": "NSW",
+    "postcode": "2645",
     "callsign": "VK4GJC"
   },
   {
@@ -123842,7 +123818,7 @@
   {
     "category": "Standard",
     "name": "Patrick Morgan",
-    "suburb": "CRAGIBURN FARM",
+    "suburb": "Blackwood",
     "state": "SA",
     "postcode": "5051",
     "callsign": "VK5MPJ"
@@ -126224,150 +126200,6 @@
     "callsign": "VK5RLZ"
   },
   {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Elizabeth Amateur Radio Club Inc",
-    "suburb": "ELIZABETH",
-    "state": "SA",
-    "postcode": "5112",
-    "callsign": "VK5RLZ"
-  },
-  {
     "category": "Advanced",
     "name": "PA Willington",
     "suburb": "FULHAM GARDENS",
@@ -127754,9 +127586,9 @@
   {
     "category": "Advanced",
     "name": "Terry James Ward",
-    "suburb": "NORTH ADELAIDE",
-    "state": "SA",
-    "postcode": "5006",
+    "suburb": "FORRESTFIELD",
+    "state": "WA",
+    "postcode": "6058",
     "callsign": "VK5TEL"
   },
   {
@@ -138993,7 +138825,7 @@
   },
   {
     "category": "Advanced",
-    "name": "John  A Dowsett",
+    "name": "John Dowsett",
     "suburb": "LITTLE GROVE",
     "state": "WA",
     "postcode": "6330",
