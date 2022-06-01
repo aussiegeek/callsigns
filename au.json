@@ -1,13 +1,5 @@
 [
   {
-    "category": "Foundation",
-    "name": "Charles Brooks",
-    "suburb": "CRANBOURNE WEST",
-    "state": "VIC",
-    "postcode": "3977",
-    "callsign": "CK3GCB"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "Philip Kern",
     "suburb": "ADELAIDE",
@@ -7994,7 +7986,7 @@
   {
     "category": "Advanced",
     "name": "Brian Kelly",
-    "suburb": "TAMWORTH",
+    "suburb": "CALALA",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2BK"
@@ -11410,7 +11402,7 @@
   {
     "category": "Advanced",
     "name": "Brian Kelly",
-    "suburb": "TAMWORTH",
+    "suburb": "CALALA",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2DK"
@@ -17802,9 +17794,9 @@
   {
     "category": "Foundation",
     "name": "Robyn Moggs",
-    "suburb": "PADSTOW",
+    "suburb": "PANANIA",
     "state": "NSW",
-    "postcode": "2211",
+    "postcode": "2213",
     "callsign": "VK2FTWO"
   },
   {
@@ -19297,14 +19289,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Jason Thomas",
-    "suburb": "CAMBRIDGE PARK",
-    "state": "NSW",
-    "postcode": "2747",
-    "callsign": "VK2GUY"
-  },
-  {
-    "category": "Advanced",
     "name": "Shannon P Reneman",
     "suburb": "WAREEMBA",
     "state": "NSW",
@@ -19337,7 +19321,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Peter Smith",
+    "name": "Shane Smith",
     "suburb": "MUDGEE",
     "state": "NSW",
     "postcode": "2850",
@@ -25034,9 +25018,9 @@
   {
     "category": "Standard",
     "name": "Ian Moggs",
-    "suburb": "PADSTOW",
+    "suburb": "PANANIA",
     "state": "NSW",
-    "postcode": "2211",
+    "postcode": "2213",
     "callsign": "VK2LOG"
   },
   {
@@ -27656,14 +27640,6 @@
     "callsign": "VK2OA"
   },
   {
-    "category": "Foundation",
-    "name": "Bayden Allen",
-    "suburb": "ETTALONG BEACH",
-    "state": "NSW",
-    "postcode": "2257",
-    "callsign": "VK2OAK"
-  },
-  {
     "category": "Advanced",
     "name": "Michael George",
     "suburb": "NEW LAMBTON",
@@ -30162,7 +30138,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Brian Kelly",
-    "suburb": "TAMWORTH",
+    "suburb": "CALALA",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2RBK"
@@ -30170,7 +30146,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Brian Kelly",
-    "suburb": "TAMWORTH",
+    "suburb": "CALALA",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2RBK"
@@ -30178,7 +30154,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Brian Kelly",
-    "suburb": "TAMWORTH",
+    "suburb": "CALALA",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2RBK"
@@ -30186,7 +30162,7 @@
   {
     "category": "Amateur Repeater",
     "name": "Brian Kelly",
-    "suburb": "TAMWORTH",
+    "suburb": "CALALA",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2RBK"
@@ -40706,7 +40682,7 @@
   {
     "category": "Foundation",
     "name": "Tom Pambris",
-    "suburb": "BELMORE",
+    "suburb": "Belmore",
     "state": "NSW",
     "postcode": "2192",
     "callsign": "VK2WOG"
@@ -53905,14 +53881,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Ravi Radhakrishnan",
-    "suburb": "LYNBROOK",
-    "state": "VIC",
-    "postcode": "3975",
-    "callsign": "VK3FAAB"
-  },
-  {
-    "category": "Foundation",
     "name": "Marcel Timmermans",
     "suburb": "Cowes",
     "state": "VIC",
@@ -54342,14 +54310,6 @@
     "state": "VIC",
     "postcode": "3764",
     "callsign": "VK3FAM"
-  },
-  {
-    "category": "Foundation",
-    "name": "Graeme Harrison",
-    "suburb": "ALEXANDRA",
-    "state": "VIC",
-    "postcode": "3714",
-    "callsign": "VK3FAMD"
   },
   {
     "category": "Foundation",
@@ -58533,6 +58493,14 @@
     "suburb": "Melbourne",
     "state": "VIC",
     "postcode": "3001",
+    "callsign": "VK3GCB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Charles Brooks",
+    "suburb": "CRANBOURNE WEST",
+    "state": "VIC",
+    "postcode": "3977",
     "callsign": "VK3GCB"
   },
   {
@@ -76726,6 +76694,54 @@
     "state": "NSW",
     "postcode": "2219",
     "callsign": "VK3RSV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
@@ -112008,14 +112024,6 @@
     "callsign": "VK4STW"
   },
   {
-    "category": "Advanced",
-    "name": "Neville Doncaster",
-    "suburb": "BANGKOK",
-    "state": "",
-    "postcode": "10240",
-    "callsign": "VK4SU"
-  },
-  {
     "category": "Standard",
     "name": "Derek Toreaux",
     "suburb": "GOODNA",
@@ -132886,14 +132894,6 @@
     "state": "WA",
     "postcode": "6122",
     "callsign": "VK6FDSH"
-  },
-  {
-    "category": "Foundation",
-    "name": "David Moyle",
-    "suburb": "SEVILLE GROVE",
-    "state": "WA",
-    "postcode": "6112",
-    "callsign": "VK6FDSM"
   },
   {
     "category": "Foundation",
