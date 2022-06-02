@@ -3072,6 +3072,14 @@
     "callsign": "VK1PHR"
   },
   {
+    "category": "Foundation",
+    "name": "Paul Dohlad",
+    "suburb": "GUNGAHLIN",
+    "state": "ACT",
+    "postcode": "2912",
+    "callsign": "VK1PHS"
+  },
+  {
     "category": "Advanced",
     "name": "Philip Krix",
     "suburb": "MELBA",
@@ -10625,6 +10633,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Carl Terpstra",
+    "suburb": "NELSON BAY",
+    "state": "NSW",
+    "postcode": "2315",
+    "callsign": "VK2CXT"
+  },
+  {
+    "category": "Advanced",
     "name": "Laurence Keane",
     "suburb": "ASHMORE",
     "state": "QLD",
@@ -11238,6 +11254,14 @@
     "state": "NSW",
     "postcode": "2333",
     "callsign": "VK2DHN"
+  },
+  {
+    "category": "Foundation",
+    "name": "David Peterson",
+    "suburb": "Hall",
+    "state": "ACT",
+    "postcode": "2618",
+    "callsign": "VK2DHP"
   },
   {
     "category": "Advanced",
@@ -20182,14 +20206,6 @@
     "state": "NSW",
     "postcode": "4879",
     "callsign": "VK2HJP"
-  },
-  {
-    "category": "Standard",
-    "name": "John Laurence Roy",
-    "suburb": "WAGGA WAGGA",
-    "state": "NSW",
-    "postcode": "2650",
-    "callsign": "VK2HJR"
   },
   {
     "category": "Standard",
@@ -58833,14 +58849,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Kenneth Arthur Winn",
-    "suburb": "DROMANA",
-    "state": "VIC",
-    "postcode": "3936",
-    "callsign": "VK3GKW"
-  },
-  {
-    "category": "Advanced",
     "name": "Graeme Ronald Lewis",
     "suburb": "BUNYIP",
     "state": "VIC",
@@ -60598,6 +60606,14 @@
     "state": "VIC",
     "postcode": "3430",
     "callsign": "VK3HUG"
+  },
+  {
+    "category": "Standard",
+    "name": "Robert Cacic",
+    "suburb": "DOREEN",
+    "state": "VIC",
+    "postcode": "3754",
+    "callsign": "VK3HUT"
   },
   {
     "category": "Advanced",
@@ -64664,14 +64680,6 @@
     "callsign": "VK3MAN"
   },
   {
-    "category": "Foundation",
-    "name": "Brodie Churchill",
-    "suburb": "DALYSTON",
-    "state": "VIC",
-    "postcode": "3992",
-    "callsign": "VK3MAP"
-  },
-  {
     "category": "Standard",
     "name": "Brodie Churchill",
     "suburb": "DALYSTON",
@@ -65225,7 +65233,7 @@
   },
   {
     "category": "Standard",
-    "name": "Darren John Munnich",
+    "name": "Darren Munnich",
     "suburb": "PRAHRAN",
     "state": "VIC",
     "postcode": "3181",
@@ -88870,6 +88878,14 @@
     "state": "QLD",
     "postcode": "4886",
     "callsign": "VK4ACR"
+  },
+  {
+    "category": "Advanced",
+    "name": "Ray Bulloch",
+    "suburb": "KAWANA",
+    "state": "QLD",
+    "postcode": "4701",
+    "callsign": "VK4ACS"
   },
   {
     "category": "Foundation",
@@ -134592,6 +134608,14 @@
     "callsign": "VK6IF"
   },
   {
+    "category": "Foundation",
+    "name": "Iaian Francis",
+    "suburb": "GOLDEN BAY",
+    "state": "WA",
+    "postcode": "6174",
+    "callsign": "VK6IFY"
+  },
+  {
     "category": "Advanced",
     "name": "Daniel Sayer",
     "suburb": "BOYUP BROOK",
@@ -137218,9 +137242,9 @@
   {
     "category": "Foundation",
     "name": "Clancy Sharp",
-    "suburb": "DARLINGTON",
+    "suburb": "Kalamunda",
     "state": "WA",
-    "postcode": "6070",
+    "postcode": "6976",
     "callsign": "VK6OWO"
   },
   {
