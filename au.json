@@ -2281,6 +2281,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Stanley Whymark",
+    "suburb": "HOLDER",
+    "state": "ACT",
+    "postcode": "2611",
+    "callsign": "VK1JSW"
+  },
+  {
+    "category": "Foundation",
     "name": "John Tyson",
     "suburb": "AMAROO",
     "state": "ACT",
@@ -2606,6 +2614,14 @@
     "state": "NSW",
     "postcode": "2581",
     "callsign": "VK1MAW"
+  },
+  {
+    "category": "Foundation",
+    "name": "Ben Bundy",
+    "suburb": "GREENWAY",
+    "state": "ACT",
+    "postcode": "2900",
+    "callsign": "VK1MAX"
   },
   {
     "category": "Standard",
@@ -27478,6 +27494,14 @@
     "state": "NSW",
     "postcode": "2209",
     "callsign": "VK2NV"
+  },
+  {
+    "category": "Advanced",
+    "name": "Malcolm Alexander",
+    "suburb": "CAMPBELLTOWN",
+    "state": "NSW",
+    "postcode": "2560",
+    "callsign": "VK2NVX"
   },
   {
     "category": "Advanced",
@@ -63745,6 +63769,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Keith Forbes",
+    "suburb": "MOUNT ELIZA",
+    "state": "VIC",
+    "postcode": "3930",
+    "callsign": "VK3KWF"
+  },
+  {
+    "category": "Advanced",
     "name": "Gregory Clarke",
     "suburb": "FERNTREE GULLY",
     "state": "VIC",
@@ -90385,6 +90417,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Philip Wright",
+    "suburb": "BOONDALL",
+    "state": "QLD",
+    "postcode": "4034",
+    "callsign": "VK4APW"
+  },
+  {
+    "category": "Advanced",
     "name": "James Ross Anderson",
     "suburb": "INNISFAIL",
     "state": "QLD",
@@ -91110,6 +91150,14 @@
     "state": "QLD",
     "postcode": "4153",
     "callsign": "VK4BCD"
+  },
+  {
+    "category": "Advanced",
+    "name": "Donald Stieler",
+    "suburb": "CABOOLTURE",
+    "state": "QLD",
+    "postcode": "4510",
+    "callsign": "VK4BD"
   },
   {
     "category": "Advanced",
@@ -98000,6 +98048,14 @@
     "callsign": "VK4GK"
   },
   {
+    "category": "Standard",
+    "name": "Gregory Whymark",
+    "suburb": "Bribie Island",
+    "state": "QLD",
+    "postcode": "4507",
+    "callsign": "VK4GKW"
+  },
+  {
     "category": "Advanced",
     "name": "David John Gemmell",
     "suburb": "Coorparoo",
@@ -102014,14 +102070,6 @@
     "state": "QLD",
     "postcode": "4122",
     "callsign": "VK4LKR"
-  },
-  {
-    "category": "Standard",
-    "name": "Karyn Talbot",
-    "suburb": "NOOSA HEADS",
-    "state": "QLD",
-    "postcode": "4567",
-    "callsign": "VK4LKT"
   },
   {
     "category": "Advanced",
@@ -116960,14 +117008,6 @@
     "callsign": "VK5ADL"
   },
   {
-    "category": "Foundation",
-    "name": "Darren Holmes",
-    "suburb": "HOLDEN HILL",
-    "state": "SA",
-    "postcode": "5088",
-    "callsign": "VK5ADL"
-  },
-  {
     "category": "Advanced",
     "name": "Donald Allan Morris",
     "suburb": "HYDE PARK",
@@ -130754,9 +130794,9 @@
   {
     "category": "Advanced",
     "name": "Allen Tighe",
-    "suburb": "KARRINYUP",
+    "suburb": "TRIGG",
     "state": "WA",
-    "postcode": "6018",
+    "postcode": "6029",
     "callsign": "VK6ART"
   },
   {
@@ -146126,22 +146166,6 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7KF"
-  },
-  {
-    "category": "Foundation",
-    "name": "Kerry Crossingham",
-    "suburb": "BROWNS PLAINS",
-    "state": "QLD",
-    "postcode": "4118",
-    "callsign": "VK7KGC"
-  },
-  {
-    "category": "Foundation",
-    "name": "Kerry Crossingham",
-    "suburb": "BROWNS PLAINS",
-    "state": "QLD",
-    "postcode": "4118",
-    "callsign": "VK7KGC"
   },
   {
     "category": "Advanced",
