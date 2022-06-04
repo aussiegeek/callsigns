@@ -497,14 +497,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Robert Mackie",
-    "suburb": "TALBINGO",
-    "state": "NSW",
-    "postcode": "2720",
-    "callsign": "VK1AX"
-  },
-  {
-    "category": "Advanced",
     "name": "Phillip Gartner",
     "suburb": "FLYNN",
     "state": "ACT",
@@ -1153,7 +1145,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Fryer Edward",
+    "name": "Edward Fryer",
     "suburb": "NGUNNAWAL",
     "state": "ACT",
     "postcode": "2913",
@@ -38282,9 +38274,9 @@
   {
     "category": "Advanced",
     "name": "Eric Baker",
-    "suburb": "MUDGEERABA",
+    "suburb": "Mount Isa",
     "state": "QLD",
-    "postcode": "4213",
+    "postcode": "4825",
     "callsign": "VK2TRD"
   },
   {
@@ -56282,9 +56274,9 @@
   {
     "category": "Foundation",
     "name": "David Reilly",
-    "suburb": "MCCRAE",
+    "suburb": "FRANKSTON NORTH",
     "state": "VIC",
-    "postcode": "3938",
+    "postcode": "3200",
     "callsign": "VK3FKAF"
   },
   {
@@ -124280,14 +124272,6 @@
     "callsign": "VK5NJO"
   },
   {
-    "category": "Standard",
-    "name": "James Trezona",
-    "suburb": "BRIDGEWATER",
-    "state": "SA",
-    "postcode": "5155",
-    "callsign": "VK5NJT"
-  },
-  {
     "category": "Advanced",
     "name": "Neil Pearson",
     "suburb": "WILLIAMSTOWN",
@@ -131866,9 +131850,9 @@
   {
     "category": "Foundation",
     "name": "Daniel Stickland",
-    "suburb": "HARRISDALE",
+    "suburb": "SOUTHERN RIVER",
     "state": "WA",
-    "postcode": "6112",
+    "postcode": "6110",
     "callsign": "VK6DAN"
   },
   {
