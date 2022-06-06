@@ -4568,7 +4568,7 @@
     "callsign": "VK2AAN"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Simon McCann",
     "suburb": "GRAFTON",
     "state": "NSW",
@@ -4576,7 +4576,7 @@
     "callsign": "VK2AAO"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Simon McCann",
     "suburb": "GRAFTON",
     "state": "NSW",
@@ -6966,14 +6966,6 @@
     "state": "NSW",
     "postcode": "2063",
     "callsign": "VK2AVH"
-  },
-  {
-    "category": "Advanced",
-    "name": "WB Jones",
-    "suburb": "GREEN POINT",
-    "state": "NSW",
-    "postcode": "2251",
-    "callsign": "VK2AVJ"
   },
   {
     "category": "Advanced",
@@ -11966,14 +11958,6 @@
     "state": "NSW",
     "postcode": "2565",
     "callsign": "VK2DRU"
-  },
-  {
-    "category": "Advanced",
-    "name": "WJ Elphick",
-    "suburb": "LONG BEACH",
-    "state": "NSW",
-    "postcode": "2536",
-    "callsign": "VK2DRY"
   },
   {
     "category": "Advanced",
@@ -52264,7 +52248,7 @@
     "callsign": "VK3DPG"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -52272,7 +52256,7 @@
     "callsign": "VK3DPH"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -82441,14 +82425,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Howard Archer",
-    "suburb": "ROSEBUD",
-    "state": "VIC",
-    "postcode": "3939",
-    "callsign": "VK3UHA"
-  },
-  {
-    "category": "Advanced",
     "name": "David Cameron Learmonth",
     "suburb": "MORIAC",
     "state": "VIC",
@@ -89200,7 +89176,7 @@
     "callsign": "VK4AEF"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Steven Holland",
     "suburb": "THORNLANDS",
     "state": "QLD",
@@ -89208,7 +89184,7 @@
     "callsign": "VK4AEG"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Steven Holland",
     "suburb": "THORNLANDS",
     "state": "QLD",
@@ -97190,14 +97166,6 @@
     "state": "QLD",
     "postcode": "4105",
     "callsign": "VK4FSJB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Stephen Cooper",
-    "suburb": "CORINGA",
-    "state": "QLD",
-    "postcode": "4621",
-    "callsign": "VK4FSJC"
   },
   {
     "category": "Foundation",
@@ -117574,14 +117542,6 @@
     "state": "SA",
     "postcode": "5012",
     "callsign": "VK5AP"
-  },
-  {
-    "category": "Advanced",
-    "name": "Peter Blades",
-    "suburb": "BERRI",
-    "state": "SA",
-    "postcode": "5343",
-    "callsign": "VK5APB"
   },
   {
     "category": "Advanced",
@@ -142152,7 +142112,7 @@
     "callsign": "VK6WJ"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
@@ -142160,7 +142120,7 @@
     "callsign": "VK6WJH"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
