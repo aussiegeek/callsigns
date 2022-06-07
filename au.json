@@ -27912,6 +27912,14 @@
     "callsign": "VK2OWD"
   },
   {
+    "category": "Foundation",
+    "name": "Aurora Fisher",
+    "suburb": "INGLEBURN",
+    "state": "NSW",
+    "postcode": "1890",
+    "callsign": "VK2OWL"
+  },
+  {
     "category": "Advanced",
     "name": "Nathan Fisher",
     "suburb": "Ingleburn",
@@ -58488,20 +58496,20 @@
     "callsign": "VK3GBJ"
   },
   {
+    "category": "Foundation",
+    "name": "Gregory Bromage",
+    "suburb": "Melbourne",
+    "state": "VIC",
+    "postcode": "3001",
+    "callsign": "VK3GBR"
+  },
+  {
     "category": "Advanced",
     "name": "Glenn Corrie",
     "suburb": "MONOMEITH",
     "state": "VIC",
     "postcode": "3984",
     "callsign": "VK3GC"
-  },
-  {
-    "category": "Foundation",
-    "name": "Gregory Bromage",
-    "suburb": "Melbourne",
-    "state": "VIC",
-    "postcode": "3001",
-    "callsign": "VK3GCB"
   },
   {
     "category": "Foundation",
@@ -62110,14 +62118,6 @@
     "state": "VIC",
     "postcode": "3922",
     "callsign": "VK3JRC"
-  },
-  {
-    "category": "Advanced",
-    "name": "Rex W Edwards",
-    "suburb": "GEELONG EAST",
-    "state": "VIC",
-    "postcode": "3219",
-    "callsign": "VK3JRE"
   },
   {
     "category": "Advanced",
@@ -76702,54 +76702,6 @@
     "state": "NSW",
     "postcode": "2219",
     "callsign": "VK3RSV"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "The Wireless Institute of Australia Victorian Division",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RSW"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "The Wireless Institute of Australia Victorian Division",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RSW"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "The Wireless Institute of Australia Victorian Division",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RSW"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "The Wireless Institute of Australia Victorian Division",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RSW"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "The Wireless Institute of Australia Victorian Division",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RSW"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "The Wireless Institute of Australia Victorian Division",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
@@ -111536,14 +111488,6 @@
     "callsign": "VK4SDD"
   },
   {
-    "category": "Foundation",
-    "name": "Ian McGovern",
-    "suburb": "BUNDABERG",
-    "state": "QLD",
-    "postcode": "4670",
-    "callsign": "VK4SDR"
-  },
-  {
     "category": "Advanced",
     "name": "Jeff Allen Creed",
     "suburb": "OXENFORD",
@@ -114514,9 +114458,9 @@
   {
     "category": "Advanced",
     "name": "GE Presotto",
-    "suburb": "CLONTARF",
+    "suburb": "DECEPTION BAY",
     "state": "QLD",
-    "postcode": "4019",
+    "postcode": "4508",
     "callsign": "VK4WX"
   },
   {
@@ -140834,9 +140778,9 @@
   {
     "category": "Standard",
     "name": "Samuel Reid",
-    "suburb": "MIRA MAR",
+    "suburb": "TAKALARUP",
     "state": "WA",
-    "postcode": "6330",
+    "postcode": "6324",
     "callsign": "VK6SIR"
   },
   {
@@ -142306,9 +142250,9 @@
   {
     "category": "Advanced",
     "name": "Christopher Hiscox",
-    "suburb": "BALDIVIS",
+    "suburb": "SHOALWATER",
     "state": "WA",
-    "postcode": "6171",
+    "postcode": "6169",
     "callsign": "VK6XH"
   },
   {
