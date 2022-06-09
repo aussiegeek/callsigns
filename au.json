@@ -6633,14 +6633,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Rodney Jarman",
-    "suburb": "WYONG",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK2ARJ"
-  },
-  {
-    "category": "Advanced",
     "name": "Amateur Radio Kandos Group",
     "suburb": "KANDOS",
     "state": "NSW",
@@ -14241,14 +14233,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Illawarra Amateur Radio Society",
-    "suburb": "BERKELEY",
-    "state": "NSW",
-    "postcode": "2506",
-    "callsign": "VK2FAMW"
-  },
-  {
-    "category": "Foundation",
     "name": "Ross David Byrne",
     "suburb": "SEVEN HILLS",
     "state": "NSW",
@@ -15462,14 +15446,6 @@
     "state": "NSW",
     "postcode": "2536",
     "callsign": "VK2FGMD"
-  },
-  {
-    "category": "Foundation",
-    "name": "Jesse Adams",
-    "suburb": "WATANOBBI",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK2FGOD"
   },
   {
     "category": "Foundation",
@@ -54833,14 +54809,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Brodie Court",
-    "suburb": "ROSANNA",
-    "state": "VIC",
-    "postcode": "3084",
-    "callsign": "VK3FBUD"
-  },
-  {
-    "category": "Foundation",
     "name": "Allan Bartlett",
     "suburb": "CORIO",
     "state": "VIC",
@@ -82218,9 +82186,9 @@
   {
     "category": "Advanced",
     "name": "Jonathon Mark Campbell",
-    "suburb": "NORTH COBURG",
+    "suburb": "WARRNAMBOOL",
     "state": "VIC",
-    "postcode": "3058",
+    "postcode": "3280",
     "callsign": "VK3UA"
   },
   {
@@ -99425,14 +99393,6 @@
   },
   {
     "category": "Standard",
-    "name": "Terry Mitchell",
-    "suburb": "EAST IPSWICH",
-    "state": "QLD",
-    "postcode": "4305",
-    "callsign": "VK4HSM"
-  },
-  {
-    "category": "Standard",
     "name": "Sharon Noll",
     "suburb": "WEST WOOMBYE",
     "state": "QLD",
@@ -102457,7 +102417,7 @@
   },
   {
     "category": "Standard",
-    "name": "Matthew Charles Gulley",
+    "name": "Matthew Gulley",
     "suburb": "BRAY PARK",
     "state": "QLD",
     "postcode": "4500",
@@ -123966,14 +123926,6 @@
     "state": "SA",
     "postcode": "5290",
     "callsign": "VK5MQ"
-  },
-  {
-    "category": "Advanced",
-    "name": "Andrew Miller",
-    "suburb": "ROXBY DOWNS",
-    "state": "SA",
-    "postcode": "5725",
-    "callsign": "VK5MR"
   },
   {
     "category": "Standard",
