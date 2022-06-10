@@ -2121,7 +2121,7 @@
   },
   {
     "category": "Advanced",
-    "name": "P Heggarty",
+    "name": "Phillip Heggarty",
     "suburb": "Canberra",
     "state": "ACT",
     "postcode": "2601",
@@ -13126,14 +13126,6 @@
     "state": "NSW",
     "postcode": "2870",
     "callsign": "VK2EPD"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ali Ataei",
-    "suburb": "PUNCHBOWL",
-    "state": "NSW",
-    "postcode": "2196",
-    "callsign": "VK2EPI"
   },
   {
     "category": "Advanced",
@@ -37850,9 +37842,9 @@
   {
     "category": "Advanced",
     "name": "Ian Carnachan Purdie",
-    "suburb": "BUDGEWOI",
+    "suburb": "WYONG",
     "state": "NSW",
-    "postcode": "2262",
+    "postcode": "2259",
     "callsign": "VK2TIP"
   },
   {
@@ -81896,6 +81888,14 @@
     "callsign": "VK3TTT"
   },
   {
+    "category": "Foundation",
+    "name": "Victor Adamthwaite",
+    "suburb": "KANGAROO FLAT",
+    "state": "VIC",
+    "postcode": "3555",
+    "callsign": "VK3TTY"
+  },
+  {
     "category": "Advanced",
     "name": "Albert Gnaccarini",
     "suburb": "BELMONT",
@@ -98826,9 +98826,9 @@
   {
     "category": "Standard",
     "name": "Stuart Summers",
-    "suburb": "SCARBOROUGH",
+    "suburb": "CLONTARF",
     "state": "QLD",
-    "postcode": "4020",
+    "postcode": "4019",
     "callsign": "VK4HDA"
   },
   {
@@ -101298,9 +101298,9 @@
   {
     "category": "Advanced",
     "name": "Adrian Glyn Futrill",
-    "suburb": "YARRAMAN",
+    "suburb": "MOURA",
     "state": "QLD",
-    "postcode": "4614",
+    "postcode": "4718",
     "callsign": "VK4KL"
   },
   {
@@ -133558,14 +133558,6 @@
     "state": "WA",
     "postcode": "6312",
     "callsign": "VK6FRWR"
-  },
-  {
-    "category": "Foundation",
-    "name": "Sean Davies",
-    "suburb": "CLOISTERS SQUARE PO",
-    "state": "WA",
-    "postcode": "6850",
-    "callsign": "VK6FSDA"
   },
   {
     "category": "Foundation",
