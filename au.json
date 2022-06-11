@@ -4802,9 +4802,9 @@
   {
     "category": "Advanced",
     "name": "Ronald Caughlan",
-    "suburb": "WERRINGTON",
+    "suburb": "BLAXLAND",
     "state": "NSW",
-    "postcode": "2747",
+    "postcode": "2774",
     "callsign": "VK2ABK"
   },
   {
@@ -5142,6 +5142,14 @@
     "state": "NSW",
     "postcode": "2320",
     "callsign": "VK2ACY"
+  },
+  {
+    "category": "Foundation",
+    "name": "Daniel Guirguis",
+    "suburb": "KOGARAH BAY",
+    "state": "NSW",
+    "postcode": "2217",
+    "callsign": "VK2ACZ"
   },
   {
     "category": "Advanced",
@@ -9934,6 +9942,14 @@
     "state": "NSW",
     "postcode": "2145",
     "callsign": "VK2CJE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Connor Furey",
+    "suburb": "Tallawong",
+    "state": "NSW",
+    "postcode": "2762",
+    "callsign": "VK2CJF"
   },
   {
     "category": "Advanced",
@@ -36736,6 +36752,14 @@
     "callsign": "VK2SLI"
   },
   {
+    "category": "Foundation",
+    "name": "Serge Lamanov",
+    "suburb": "THORNLEIGH",
+    "state": "NSW",
+    "postcode": "2120",
+    "callsign": "VK2SLM"
+  },
+  {
     "category": "Advanced",
     "name": "LP Robinson",
     "suburb": "ISABELLA PLAINS",
@@ -39352,6 +39376,14 @@
     "callsign": "VK2VCG"
   },
   {
+    "category": "Foundation",
+    "name": "Viador Jr Iremedio",
+    "suburb": "Boxhill",
+    "state": "NSW",
+    "postcode": "2765",
+    "callsign": "VK2VCI"
+  },
+  {
     "category": "Standard",
     "name": "AR Williamson",
     "suburb": "GOULBURN",
@@ -40856,6 +40888,14 @@
     "callsign": "VK2WRC"
   },
   {
+    "category": "Foundation",
+    "name": "Dusan Senicic",
+    "suburb": "Baulkham Hills",
+    "state": "NSW",
+    "postcode": "1755",
+    "callsign": "VK2WRD"
+  },
+  {
     "category": "Advanced",
     "name": "Robert Hoogland",
     "suburb": "GOBBAGOMBALIN",
@@ -41210,9 +41250,9 @@
   {
     "category": "Advanced",
     "name": "Steve Harrison",
-    "suburb": "WEST PENNANT HILLS",
+    "suburb": "LAGUNA",
     "state": "NSW",
-    "postcode": "2125",
+    "postcode": "2325",
     "callsign": "VK2XDE"
   },
   {
@@ -58584,6 +58624,14 @@
     "callsign": "VK3GCB"
   },
   {
+    "category": "Foundation",
+    "name": "Geoffrey Smart",
+    "suburb": "KANGAROO FLAT",
+    "state": "VIC",
+    "postcode": "3555",
+    "callsign": "VK3GCM"
+  },
+  {
     "category": "Advanced",
     "name": "Gerard Hook",
     "suburb": "DANDENONG NORTH",
@@ -62118,6 +62166,14 @@
     "state": "VIC",
     "postcode": "3976",
     "callsign": "VK3JPA"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Fitt",
+    "suburb": "RAYWOOD",
+    "state": "VIC",
+    "postcode": "3570",
+    "callsign": "VK3JPF"
   },
   {
     "category": "Advanced",
@@ -80400,6 +80456,14 @@
     "callsign": "VK3SPL"
   },
   {
+    "category": "Standard",
+    "name": "Stephen Pattinson",
+    "suburb": "SURREY HILLS",
+    "state": "VIC",
+    "postcode": "3127",
+    "callsign": "VK3SPX"
+  },
+  {
     "category": "Advanced",
     "name": "Geoff Cooper",
     "suburb": "BEECHWORTH",
@@ -82846,14 +82910,6 @@
     "state": "VIC",
     "postcode": "3214",
     "callsign": "VK3VBI"
-  },
-  {
-    "category": "Standard",
-    "name": "Bradley Lockhart",
-    "suburb": "MARYBOROUGH",
-    "state": "VIC",
-    "postcode": "3465",
-    "callsign": "VK3VBL"
   },
   {
     "category": "Standard",
@@ -87258,9 +87314,9 @@
   {
     "category": "Advanced",
     "name": "Stephen John Heath",
-    "suburb": "Somerville",
+    "suburb": "CLYDE NORTH",
     "state": "VIC",
-    "postcode": "3912",
+    "postcode": "3978",
     "callsign": "VK3ZHL"
   },
   {
@@ -120906,9 +120962,9 @@
   {
     "category": "Foundation",
     "name": "Teresa Berry",
-    "suburb": "CRAIGMORE",
+    "suburb": "GLADSTONE",
     "state": "SA",
-    "postcode": "5114",
+    "postcode": "5473",
     "callsign": "VK5FTCA"
   },
   {
