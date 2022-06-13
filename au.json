@@ -672,7 +672,7 @@
     "callsign": "VK1CB"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Roderick Channon",
     "suburb": "KAMBAH",
     "state": "ACT",
@@ -680,7 +680,7 @@
     "callsign": "VK1CBR"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Roderick Channon",
     "suburb": "KAMBAH",
     "state": "ACT",
@@ -28062,14 +28062,6 @@
     "state": "NSW",
     "postcode": "2570",
     "callsign": "VK2PAA"
-  },
-  {
-    "category": "Standard",
-    "name": "Paul Anthony Drew",
-    "suburb": "CENTRAL BUCCA",
-    "state": "NSW",
-    "postcode": "2450",
-    "callsign": "VK2PAB"
   },
   {
     "category": "Standard",
@@ -130942,14 +130934,6 @@
     "state": "WA",
     "postcode": "6149",
     "callsign": "VK6ATX"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Hawkins",
-    "suburb": "LESMURDIE",
-    "state": "WA",
-    "postcode": "6076",
-    "callsign": "VK6AU"
   },
   {
     "category": "Advanced",
