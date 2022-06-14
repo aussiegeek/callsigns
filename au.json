@@ -41481,14 +41481,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ronald Wing",
-    "suburb": "WYEE",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK2XI"
-  },
-  {
-    "category": "Advanced",
     "name": "Robert Heyer",
     "suburb": "KOONAWARRA",
     "state": "NSW",
@@ -46894,14 +46886,6 @@
     "state": "VIC",
     "postcode": "3752",
     "callsign": "VK3APR"
-  },
-  {
-    "category": "Advanced",
-    "name": "Andrew Saliba",
-    "suburb": "SYDENHAM",
-    "state": "VIC",
-    "postcode": "3037",
-    "callsign": "VK3APS"
   },
   {
     "category": "Advanced",
@@ -89417,14 +89401,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David Albert Stanley Brownsey",
-    "suburb": "KELVIN GROVE",
-    "state": "QLD",
-    "postcode": "4059",
-    "callsign": "VK4AFA"
-  },
-  {
-    "category": "Advanced",
     "name": "IB Baty",
     "suburb": "ATHERTON",
     "state": "QLD",
@@ -105310,14 +105286,6 @@
     "state": "QLD",
     "postcode": "4127",
     "callsign": "VK4QRP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Raymond Kostiainen",
-    "suburb": "EAGLEBY",
-    "state": "QLD",
-    "postcode": "4207",
-    "callsign": "VK4QRR"
   },
   {
     "category": "Advanced",
@@ -145678,14 +145646,6 @@
     "state": "TAS",
     "postcode": "7018",
     "callsign": "VK7HOB"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ronald George Lee",
-    "suburb": "WERRIBEE",
-    "state": "VIC",
-    "postcode": "3030",
-    "callsign": "VK7HP"
   },
   {
     "category": "Standard",
