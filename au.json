@@ -3889,6 +3889,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Phillip Heggarty",
+    "suburb": "Canberra",
+    "state": "ACT",
+    "postcode": "2601",
+    "callsign": "VK1SR"
+  },
+  {
+    "category": "Advanced",
     "name": "Stephen Boyd",
     "suburb": "KINGSTON",
     "state": "ACT",
@@ -3942,6 +3950,14 @@
     "state": "ACT",
     "postcode": "2906",
     "callsign": "VK1TCP"
+  },
+  {
+    "category": "Advanced",
+    "name": "Claude Hastir",
+    "suburb": "PEARCE",
+    "state": "ACT",
+    "postcode": "2607",
+    "callsign": "VK1TE"
   },
   {
     "category": "Foundation",
@@ -5198,6 +5214,22 @@
     "state": "NSW",
     "postcode": "2650",
     "callsign": "VK2ADF"
+  },
+  {
+    "category": "Foundation",
+    "name": "Oscar Ansted",
+    "suburb": "NORTH CURL CURL",
+    "state": "NSW",
+    "postcode": "2099",
+    "callsign": "VK2ADG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Patrick Oppel",
+    "suburb": "WOLLSTONECRAFT",
+    "state": "NSW",
+    "postcode": "2065",
+    "callsign": "VK2ADH"
   },
   {
     "category": "Foundation",
@@ -26288,7 +26320,7 @@
     "callsign": "VK2MRQ"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Markus Strauss",
     "suburb": "THE PONDS",
     "state": "NSW",
@@ -26296,7 +26328,7 @@
     "callsign": "VK2MRS"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Markus Strauss",
     "suburb": "THE PONDS",
     "state": "NSW",
@@ -39440,6 +39472,14 @@
     "callsign": "VK2VE"
   },
   {
+    "category": "Foundation",
+    "name": "Vedasto Pabico",
+    "suburb": "ROOTY HILL",
+    "state": "NSW",
+    "postcode": "2766",
+    "callsign": "VK2VED"
+  },
+  {
     "category": "Standard",
     "name": "Edwin Lowe",
     "suburb": "REVESBY",
@@ -42530,9 +42570,9 @@
   {
     "category": "Advanced",
     "name": "Tom Burkart",
-    "suburb": "CARRAMAR",
+    "suburb": "Cooranbong",
     "state": "NSW",
-    "postcode": "2163",
+    "postcode": "2265",
     "callsign": "VK2YGQ"
   },
   {
@@ -48849,6 +48889,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Brendan Koetsier",
+    "suburb": "HAMPTON PARK",
+    "state": "VIC",
+    "postcode": "3976",
+    "callsign": "VK3BKO"
+  },
+  {
+    "category": "Foundation",
     "name": "Brad Quayle",
     "suburb": "Port Arlington",
     "state": "VIC",
@@ -49486,6 +49534,14 @@
     "state": "VIC",
     "postcode": "3902",
     "callsign": "VK3BS"
+  },
+  {
+    "category": "Advanced",
+    "name": "Ian (Indy) Rosser",
+    "suburb": "GRIFFITH",
+    "state": "NSW",
+    "postcode": "2680",
+    "callsign": "VK3BSB"
   },
   {
     "category": "Advanced",
@@ -58352,6 +58408,14 @@
     "callsign": "VK3FWR"
   },
   {
+    "category": "Advanced",
+    "name": "Fred Reid",
+    "suburb": "CRANBOURNE NORTH",
+    "state": "VIC",
+    "postcode": "3977",
+    "callsign": "VK3FWR"
+  },
+  {
     "category": "Foundation",
     "name": "Wendy Rosa Honeywood",
     "suburb": "TOORA",
@@ -58654,6 +58718,14 @@
     "state": "VIC",
     "postcode": "3028",
     "callsign": "VK3GDT"
+  },
+  {
+    "category": "Foundation",
+    "name": "Anthony Mowbray",
+    "suburb": "EASTWOOD",
+    "state": "VIC",
+    "postcode": "3875",
+    "callsign": "VK3GDX"
   },
   {
     "category": "Advanced",
@@ -67302,6 +67374,14 @@
     "state": "VIC",
     "postcode": "3931",
     "callsign": "VK3PAW"
+  },
+  {
+    "category": "Foundation",
+    "name": "Peter Wilcock",
+    "suburb": "MALDON",
+    "state": "VIC",
+    "postcode": "3463",
+    "callsign": "VK3PAX"
   },
   {
     "category": "Standard",
@@ -76806,6 +76886,86 @@
     "state": "NSW",
     "postcode": "2219",
     "callsign": "VK3RSV"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RSW"
   },
   {
     "category": "Amateur Repeater",
@@ -86745,7 +86905,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Wenlock Gary Burton",
+    "name": "Wenlock Burton",
     "suburb": "DARLEY",
     "state": "VIC",
     "postcode": "3340",
@@ -88330,9 +88490,9 @@
   {
     "category": "Advanced",
     "name": "RL Reid",
-    "suburb": "ROWVILLE",
+    "suburb": "BURWOOD EAST",
     "state": "VIC",
-    "postcode": "3178",
+    "postcode": "3151",
     "callsign": "VK3ZZR"
   },
   {
@@ -94544,6 +94704,14 @@
     "callsign": "VK4ER"
   },
   {
+    "category": "Foundation",
+    "name": "Robert Gabb",
+    "suburb": "CLEVELAND",
+    "state": "QLD",
+    "postcode": "4163",
+    "callsign": "VK4ERG"
+  },
+  {
     "category": "Advanced",
     "name": "Ewan McLeod",
     "suburb": "KENMORE",
@@ -99368,6 +99536,14 @@
     "callsign": "VK4HRG"
   },
   {
+    "category": "Foundation",
+    "name": "Raymond Hastings",
+    "suburb": "BOYNE ISLAND",
+    "state": "QLD",
+    "postcode": "4680",
+    "callsign": "VK4HRJ"
+  },
+  {
     "category": "Standard",
     "name": "Raymond Claxton Parrinder",
     "suburb": "INALA",
@@ -100910,6 +101086,14 @@
     "state": "QLD",
     "postcode": "4870",
     "callsign": "VK4KDC"
+  },
+  {
+    "category": "Foundation",
+    "name": "Keldon Fletcher",
+    "suburb": "LUCINDA",
+    "state": "QLD",
+    "postcode": "4850",
+    "callsign": "VK4KDF"
   },
   {
     "category": "Advanced",
@@ -112368,6 +112552,14 @@
     "callsign": "VK4TDI"
   },
   {
+    "category": "Foundation",
+    "name": "Scott Garrett",
+    "suburb": "URANGAN",
+    "state": "QLD",
+    "postcode": "4655",
+    "callsign": "VK4TDW"
+  },
+  {
     "category": "Advanced",
     "name": "AR McDonald",
     "suburb": "SOUTH MACLEAN",
@@ -115094,6 +115286,14 @@
     "state": "QLD",
     "postcode": "4552",
     "callsign": "VK4XZ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Abdifatah Aden",
+    "suburb": "PALLARA",
+    "state": "QLD",
+    "postcode": "4110",
+    "callsign": "VK4XZT"
   },
   {
     "category": "Advanced",
@@ -129370,9 +129570,9 @@
   {
     "category": "Advanced",
     "name": "Iain Fraser",
-    "suburb": "MANNUM",
+    "suburb": "MARION",
     "state": "SA",
-    "postcode": "5238",
+    "postcode": "5043",
     "callsign": "VK5ZIF"
   },
   {
@@ -129990,6 +130190,14 @@
     "state": "WA",
     "postcode": "6056",
     "callsign": "VK6AAE"
+  },
+  {
+    "category": "Foundation",
+    "name": "David James White",
+    "suburb": "COODANUP",
+    "state": "WA",
+    "postcode": "6210",
+    "callsign": "VK6AAF"
   },
   {
     "category": "Advanced",
@@ -147665,6 +147873,102 @@
   },
   {
     "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RAD"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "Northern Tasmanian Amateur Radio Club Inc",
     "suburb": "LAUNCESTON",
     "state": "TAS",
@@ -148254,6 +148558,118 @@
     "state": "TAS",
     "postcode": "7005",
     "callsign": "VK7RHF"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RHT"
   },
   {
     "category": "Amateur Repeater",
@@ -149326,14 +149742,6 @@
     "state": "TAS",
     "postcode": "7008",
     "callsign": "VK7TPG"
-  },
-  {
-    "category": "Advanced",
-    "name": "Terrence Sydney Rushton",
-    "suburb": "MANGANA",
-    "state": "TAS",
-    "postcode": "7214",
-    "callsign": "VK7TR"
   },
   {
     "category": "Advanced",
