@@ -209,6 +209,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Dylan D'Silva",
+    "suburb": "GILMORE",
+    "state": "ACT",
+    "postcode": "2905",
+    "callsign": "VK1AAG"
+  },
+  {
+    "category": "Foundation",
     "name": "Blake Joliffe",
     "suburb": "GREENWAY",
     "state": "ACT",
@@ -5233,6 +5241,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Simon Adderley",
+    "suburb": "TORONTO",
+    "state": "NSW",
+    "postcode": "2283",
+    "callsign": "VK2ADI"
+  },
+  {
+    "category": "Foundation",
     "name": "Michael James",
     "suburb": "MARYLAND",
     "state": "NSW",
@@ -8009,6 +8025,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Peter Woods",
+    "suburb": "WEST HAVEN",
+    "state": "NSW",
+    "postcode": "2443",
+    "callsign": "VK2BIT"
+  },
+  {
+    "category": "Advanced",
     "name": "Barrington Simpson",
     "suburb": "ST IVES",
     "state": "NSW",
@@ -9550,14 +9574,6 @@
     "state": "NSW",
     "postcode": "2525",
     "callsign": "VK2CAP"
-  },
-  {
-    "category": "Standard",
-    "name": "Hong Ming Xu",
-    "suburb": "ST CLAIR",
-    "state": "NSW",
-    "postcode": "2759",
-    "callsign": "VK2CAQ"
   },
   {
     "category": "Advanced",
@@ -15160,14 +15176,6 @@
     "callsign": "VK2FE"
   },
   {
-    "category": "Foundation",
-    "name": "Kenneth Oliver",
-    "suburb": "NARELLAN",
-    "state": "NSW",
-    "postcode": "2567",
-    "callsign": "VK2FEAD"
-  },
-  {
     "category": "Advanced",
     "name": "Jan Teunis Van Ekris",
     "suburb": "LEPPINGTON",
@@ -17222,14 +17230,6 @@
     "state": "NSW",
     "postcode": "2259",
     "callsign": "VK2FRBW"
-  },
-  {
-    "category": "Foundation",
-    "name": "Richard Condie",
-    "suburb": "RICHMOND",
-    "state": "NSW",
-    "postcode": "2753",
-    "callsign": "VK2FRCC"
   },
   {
     "category": "Foundation",
@@ -21214,6 +21214,14 @@
     "state": "NSW",
     "postcode": "2470",
     "callsign": "VK2IGC"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Graham",
+    "suburb": "Ballina",
+    "state": "NSW",
+    "postcode": "2478",
+    "callsign": "VK2IGI"
   },
   {
     "category": "Advanced",
@@ -55769,14 +55777,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Brenton Gogerly",
-    "suburb": "COCKATOO",
-    "state": "VIC",
-    "postcode": "3781",
-    "callsign": "VK3FGOG"
-  },
-  {
-    "category": "Foundation",
     "name": "Geoffrey Bourke",
     "suburb": "BALLAN",
     "state": "VIC",
@@ -59150,6 +59150,14 @@
     "state": "VIC",
     "postcode": "3463",
     "callsign": "VK3GOD"
+  },
+  {
+    "category": "Foundation",
+    "name": "Brenton Gogerly",
+    "suburb": "COCKATOO",
+    "state": "VIC",
+    "postcode": "3781",
+    "callsign": "VK3GOG"
   },
   {
     "category": "Advanced",
@@ -82608,22 +82616,6 @@
     "callsign": "VK3UE"
   },
   {
-    "category": "Foundation",
-    "name": "Peter Good",
-    "suburb": "Mooroolbark",
-    "state": "VIC",
-    "postcode": "3138",
-    "callsign": "VK3UEO"
-  },
-  {
-    "category": "Foundation",
-    "name": "Peter Good",
-    "suburb": "Mooroolbark",
-    "state": "VIC",
-    "postcode": "3138",
-    "callsign": "VK3UEO"
-  },
-  {
     "category": "Advanced",
     "name": "Richard Voss",
     "suburb": "PORTLAND",
@@ -98336,6 +98328,14 @@
     "callsign": "VK4GNG"
   },
   {
+    "category": "Foundation",
+    "name": "Geoffrey Taylor",
+    "suburb": "Wellington Point",
+    "state": "QLD",
+    "postcode": "4160",
+    "callsign": "VK4GNT"
+  },
+  {
     "category": "Advanced",
     "name": "George Wilson",
     "suburb": "HERVEY BAY",
@@ -99606,6 +99606,14 @@
     "state": "QLD",
     "postcode": "4870",
     "callsign": "VK4HT"
+  },
+  {
+    "category": "Foundation",
+    "name": "Harold Edmonds",
+    "suburb": "CAPALABA",
+    "state": "QLD",
+    "postcode": "4157",
+    "callsign": "VK4HTE"
   },
   {
     "category": "Standard",
@@ -102568,7 +102576,7 @@
     "callsign": "VK4MAL"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Manfred Magerl",
     "suburb": "Malanda",
     "state": "QLD",
@@ -102576,7 +102584,7 @@
     "callsign": "VK4MAM"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Manfred Magerl",
     "suburb": "Malanda",
     "state": "QLD",
@@ -121057,14 +121065,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Lewis Chapman",
-    "suburb": "ONKAPARINGA HILLS",
-    "state": "SA",
-    "postcode": "5163",
-    "callsign": "VK5FSDX"
-  },
-  {
-    "category": "Foundation",
     "name": "John Gehlig",
     "suburb": "SEAFORD",
     "state": "SA",
@@ -124790,6 +124790,14 @@
     "state": "SA",
     "postcode": "5152",
     "callsign": "VK5NVY"
+  },
+  {
+    "category": "Foundation",
+    "name": "Lewis Chapman",
+    "suburb": "ONKAPARINGA HILLS",
+    "state": "SA",
+    "postcode": "5163",
+    "callsign": "VK5NWD"
   },
   {
     "category": "Advanced",
@@ -149160,6 +149168,38 @@
     "callsign": "VK7RST"
   },
   {
+    "category": "Amateur Beacon",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RST"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RST"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RST"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "Radio and Electronics Association of Southern Tasmania Inc",
+    "suburb": "HOBART",
+    "state": "TAS",
+    "postcode": "7001",
+    "callsign": "VK7RST"
+  },
+  {
     "category": "Advanced",
     "name": "John W Bates",
     "suburb": "ROSNY PARK",
@@ -152206,14 +152246,6 @@
     "state": "",
     "postcode": "315-0042",
     "callsign": "VK9CS"
-  },
-  {
-    "category": "Advanced",
-    "name": "Christopher Chapman",
-    "suburb": "FOSTER",
-    "state": "VIC",
-    "postcode": "3960",
-    "callsign": "VK9CW"
   },
   {
     "category": "Advanced",
