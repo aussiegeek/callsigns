@@ -17281,14 +17281,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Rodney Freed",
-    "suburb": "MASCOT",
-    "state": "NSW",
-    "postcode": "2020",
-    "callsign": "VK2FRF"
-  },
-  {
-    "category": "Foundation",
     "name": "Roy Fergus Conner",
     "suburb": "NEWTOWN",
     "state": "NSW",
@@ -18102,14 +18094,6 @@
     "state": "NSW",
     "postcode": "2550",
     "callsign": "VK2FWLB"
-  },
-  {
-    "category": "Foundation",
-    "name": "Alexander Walker-YCO",
-    "suburb": "PUNCHBOWL",
-    "state": "NSW",
-    "postcode": "2196",
-    "callsign": "VK2FWLK"
   },
   {
     "category": "Foundation",
@@ -41497,14 +41481,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michael Johnston",
-    "suburb": "BELLMONT",
-    "state": "NSW",
-    "postcode": "2581",
-    "callsign": "VK2XHF"
-  },
-  {
-    "category": "Advanced",
     "name": "HJ Hogrefe",
     "suburb": "BILPIN",
     "state": "NSW",
@@ -44358,14 +44334,6 @@
     "state": "NSW",
     "postcode": "2318",
     "callsign": "VK2ZT"
-  },
-  {
-    "category": "Advanced",
-    "name": "Anthony M Colquhoun",
-    "suburb": "FIGTREE",
-    "state": "NSW",
-    "postcode": "2525",
-    "callsign": "VK2ZTC"
   },
   {
     "category": "Advanced",
@@ -47230,6 +47198,14 @@
     "state": "ACT",
     "postcode": "2602",
     "callsign": "VK3ASC"
+  },
+  {
+    "category": "Foundation",
+    "name": "Declan Hill",
+    "suburb": "WERRIBEE",
+    "state": "VIC",
+    "postcode": "3030",
+    "callsign": "VK3ASD"
   },
   {
     "category": "Advanced",
@@ -56801,14 +56777,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Matthew Sutherland",
-    "suburb": "STRATHDALE",
-    "state": "VIC",
-    "postcode": "3550",
-    "callsign": "VK3FMAT"
-  },
-  {
-    "category": "Foundation",
     "name": "Clifford Calou",
     "suburb": "WONTHAGGI",
     "state": "VIC",
@@ -61342,14 +61310,6 @@
     "state": "VIC",
     "postcode": "3043",
     "callsign": "VK3JAK"
-  },
-  {
-    "category": "Foundation",
-    "name": "Andrae Sellar",
-    "suburb": "BONBEACH",
-    "state": "VIC",
-    "postcode": "3196",
-    "callsign": "VK3JAS"
   },
   {
     "category": "Foundation",
@@ -89160,6 +89120,14 @@
     "callsign": "VK4ADE"
   },
   {
+    "category": "Standard",
+    "name": "Jason Ryan",
+    "suburb": "THE DAWN VIA GYMPIE",
+    "state": "QLD",
+    "postcode": "4570",
+    "callsign": "VK4ADF"
+  },
+  {
     "category": "Advanced",
     "name": "Andrew Gardner",
     "suburb": "BROOKFIELD",
@@ -95385,14 +95353,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Brian Wilson",
-    "suburb": "TIN CAN BAY",
-    "state": "QLD",
-    "postcode": "4580",
-    "callsign": "VK4FBEZ"
-  },
-  {
-    "category": "Foundation",
     "name": "Benjamin Whitehouse",
     "suburb": "CLEVELAND",
     "state": "QLD",
@@ -95414,14 +95374,6 @@
     "state": "QLD",
     "postcode": "4702",
     "callsign": "VK4FBGR"
-  },
-  {
-    "category": "Foundation",
-    "name": "Parania Wilson",
-    "suburb": "TIN CAN BAY",
-    "state": "QLD",
-    "postcode": "4580",
-    "callsign": "VK4FBHG"
   },
   {
     "category": "Foundation",
@@ -98320,6 +98272,14 @@
     "callsign": "VK4GPS"
   },
   {
+    "category": "Foundation",
+    "name": "Gary Pattemore",
+    "suburb": "Mt Nebo",
+    "state": "QLD",
+    "postcode": "4520",
+    "callsign": "VK4GPX"
+  },
+  {
     "category": "Advanced",
     "name": "RYAN MATHESON",
     "suburb": "NAMBOUR",
@@ -98464,7 +98424,7 @@
     "callsign": "VK4GU"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Guerino Galeazzi",
     "suburb": "Carina",
     "state": "QLD",
@@ -98472,7 +98432,7 @@
     "callsign": "VK4GUE"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Guerino Galeazzi",
     "suburb": "Carina",
     "state": "QLD",
@@ -143416,6 +143376,14 @@
     "callsign": "VK6ZDM"
   },
   {
+    "category": "Advanced",
+    "name": "Glenn R Bathols",
+    "suburb": "CAPEL",
+    "state": "WA",
+    "postcode": "6271",
+    "callsign": "VK6ZE"
+  },
+  {
     "category": "Foundation",
     "name": "Elsa Wayth",
     "suburb": "WILSON",
@@ -145126,14 +145094,6 @@
     "state": "TAS",
     "postcode": "7054",
     "callsign": "VK7FAR"
-  },
-  {
-    "category": "Foundation",
-    "name": "Ben Paetz",
-    "suburb": "LENAH VALLEY",
-    "state": "TAS",
-    "postcode": "7008",
-    "callsign": "VK7FARE"
   },
   {
     "category": "Advanced",
@@ -150114,9 +150074,9 @@
   {
     "category": "Foundation",
     "name": "Wolfgang Siedenburg",
-    "suburb": "CYGNET",
-    "state": "TAS",
-    "postcode": "7112",
+    "suburb": "GREENVALE",
+    "state": "VIC",
+    "postcode": "3059",
     "callsign": "VK7WHS"
   },
   {
