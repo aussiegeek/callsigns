@@ -54825,14 +54825,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Sally Couper",
-    "suburb": "SOUTH NANANGO",
-    "state": "QLD",
-    "postcode": "4615",
-    "callsign": "VK3FBND"
-  },
-  {
-    "category": "Foundation",
     "name": "Mark Valiukas",
     "suburb": "MELTON SOUTH",
     "state": "VIC",
@@ -124214,14 +124206,6 @@
     "state": "SA",
     "postcode": "5291",
     "callsign": "VK5NBL"
-  },
-  {
-    "category": "Advanced",
-    "name": "Trevor Niven",
-    "suburb": "MOUNT GAMBIER",
-    "state": "SA",
-    "postcode": "5290",
-    "callsign": "VK5NC"
   },
   {
     "category": "Standard",
