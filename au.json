@@ -26312,7 +26312,7 @@
     "callsign": "VK2MRQ"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Markus Strauss",
     "suburb": "THE PONDS",
     "state": "NSW",
@@ -26320,7 +26320,7 @@
     "callsign": "VK2MRS"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Markus Strauss",
     "suburb": "THE PONDS",
     "state": "NSW",
@@ -36382,14 +36382,6 @@
     "state": "NSW",
     "postcode": "2232",
     "callsign": "VK2SA"
-  },
-  {
-    "category": "Advanced",
-    "name": "1st Lismore Scouts",
-    "suburb": "COWLONG via LISMORE",
-    "state": "NSW",
-    "postcode": "2480",
-    "callsign": "VK2SAC"
   },
   {
     "category": "Advanced",
@@ -52376,7 +52368,7 @@
     "callsign": "VK3DPG"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -52384,7 +52376,7 @@
     "callsign": "VK3DPH"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -55841,14 +55833,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Georgiana Mary Weir",
-    "suburb": "MANOR LAKES",
-    "state": "VIC",
-    "postcode": "3024",
-    "callsign": "VK3FHFT"
-  },
-  {
-    "category": "Foundation",
     "name": "Akram Hourani",
     "suburb": "MELTON SOUTH",
     "state": "VIC",
@@ -58360,7 +58344,7 @@
     "callsign": "VK3FWPB"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Fred Reid",
     "suburb": "CRANBOURNE NORTH",
     "state": "VIC",
@@ -58368,7 +58352,7 @@
     "callsign": "VK3FWR"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Fred Reid",
     "suburb": "CRANBOURNE NORTH",
     "state": "VIC",
@@ -98416,7 +98400,7 @@
     "callsign": "VK4GU"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Guerino Galeazzi",
     "suburb": "Carina",
     "state": "QLD",
@@ -98424,7 +98408,7 @@
     "callsign": "VK4GUE"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Guerino Galeazzi",
     "suburb": "Carina",
     "state": "QLD",
@@ -102456,7 +102440,7 @@
     "callsign": "VK4MAL"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Manfred Magerl",
     "suburb": "Malanda",
     "state": "QLD",
@@ -102464,7 +102448,7 @@
     "callsign": "VK4MAM"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Manfred Magerl",
     "suburb": "Malanda",
     "state": "QLD",
@@ -142440,7 +142424,7 @@
     "callsign": "VK6WJ"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
@@ -142448,7 +142432,7 @@
     "callsign": "VK6WJH"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Walter Hill",
     "suburb": "MOUNT PLEASANT",
     "state": "WA",
