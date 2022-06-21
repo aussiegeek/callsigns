@@ -28009,14 +28009,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Nathan Fisher",
-    "suburb": "Ingleburn",
-    "state": "NSW",
-    "postcode": "1890",
-    "callsign": "VK2OWL"
-  },
-  {
-    "category": "Advanced",
     "name": "Gregory Bain",
     "suburb": "ERMINGTON",
     "state": "NSW",
@@ -40249,6 +40241,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Geoffrey Van der Wagen",
+    "suburb": "FORESTVILLE",
+    "state": "NSW",
+    "postcode": "2087",
+    "callsign": "VK2WA"
+  },
+  {
+    "category": "Advanced",
     "name": "AJ Wheaton",
     "suburb": "WAGGA WAGGA",
     "state": "NSW",
@@ -49206,6 +49206,14 @@
     "state": "VIC",
     "postcode": "3825",
     "callsign": "VK3BOO"
+  },
+  {
+    "category": "Advanced",
+    "name": "Neale McLennan",
+    "suburb": "BALLINA",
+    "state": "NSW",
+    "postcode": "2478",
+    "callsign": "VK3BOS"
   },
   {
     "category": "Advanced",
@@ -66449,14 +66457,6 @@
   },
   {
     "category": "Standard",
-    "name": "Andrew Ross",
-    "suburb": "SOUTH YARRA",
-    "state": "VIC",
-    "postcode": "3141",
-    "callsign": "VK3NLA"
-  },
-  {
-    "category": "Standard",
     "name": "LJ McInerney",
     "suburb": "BALLARAT",
     "state": "VIC",
@@ -82658,7 +82658,7 @@
   {
     "category": "Advanced",
     "name": "David Tilson",
-    "suburb": "BUSHLAND BEACH",
+    "suburb": "BURDELL",
     "state": "QLD",
     "postcode": "4818",
     "callsign": "VK3UR"
@@ -92386,9 +92386,9 @@
   {
     "category": "Advanced",
     "name": "Graham R Anderson",
-    "suburb": "CAPALABA",
-    "state": "QLD",
-    "postcode": "4157",
+    "suburb": "NATONE",
+    "state": "TAS",
+    "postcode": "7321",
     "callsign": "VK4CCC"
   },
   {
@@ -96606,14 +96606,6 @@
     "state": "QLD",
     "postcode": "4340",
     "callsign": "VK4FMEL"
-  },
-  {
-    "category": "Foundation",
-    "name": "Marcus Bark",
-    "suburb": "CHAMBERS FLAT",
-    "state": "QLD",
-    "postcode": "4133",
-    "callsign": "VK4FMGB"
   },
   {
     "category": "Foundation",
@@ -104534,6 +104526,14 @@
     "state": "QLD",
     "postcode": "4814",
     "callsign": "VK4OT"
+  },
+  {
+    "category": "Foundation",
+    "name": "Otto Pattemore",
+    "suburb": "MOUNT NEBO",
+    "state": "QLD",
+    "postcode": "4520",
+    "callsign": "VK4OTZ"
   },
   {
     "category": "Advanced",
@@ -114006,14 +114006,6 @@
     "state": "QLD",
     "postcode": "4740",
     "callsign": "VK4VTK"
-  },
-  {
-    "category": "Foundation",
-    "name": "Vanita Tarhanoff Lavia",
-    "suburb": "BLANTYRE",
-    "state": "QLD",
-    "postcode": "4310",
-    "callsign": "VK4VTL"
   },
   {
     "category": "Standard",
@@ -134958,6 +134950,14 @@
     "state": "WA",
     "postcode": "6020",
     "callsign": "VK6JD"
+  },
+  {
+    "category": "Standard",
+    "name": "John David Hennessy",
+    "suburb": "JOONDALUP DC",
+    "state": "WA",
+    "postcode": "6919",
+    "callsign": "VK6JDH"
   },
   {
     "category": "Advanced",
