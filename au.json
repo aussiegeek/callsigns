@@ -19618,9 +19618,9 @@
   {
     "category": "Standard",
     "name": "Ian Hardy",
-    "suburb": "MOUNT HUTTON",
+    "suburb": "BELMONT",
     "state": "NSW",
-    "postcode": "2290",
+    "postcode": "2280",
     "callsign": "VK2HAO"
   },
   {
@@ -36374,6 +36374,14 @@
     "state": "NSW",
     "postcode": "2232",
     "callsign": "VK2SA"
+  },
+  {
+    "category": "Advanced",
+    "name": "1st Lismore Scouts",
+    "suburb": "COWLONG via LISMORE",
+    "state": "NSW",
+    "postcode": "2480",
+    "callsign": "VK2SAC"
   },
   {
     "category": "Advanced",
@@ -108657,18 +108665,18 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Kent Sullivan",
-    "suburb": "GRACEMERE",
+    "name": "Central Qld Amateur Radio Association",
+    "suburb": "NORMAN GARDENS",
     "state": "QLD",
-    "postcode": "4700",
+    "postcode": "4701",
     "callsign": "VK4RLM"
   },
   {
     "category": "Amateur Repeater",
-    "name": "Kent Sullivan",
-    "suburb": "GRACEMERE",
+    "name": "Central Qld Amateur Radio Association",
+    "suburb": "NORMAN GARDENS",
     "state": "QLD",
-    "postcode": "4700",
+    "postcode": "4701",
     "callsign": "VK4RLM"
   },
   {
@@ -117170,9 +117178,9 @@
   {
     "category": "Advanced",
     "name": "Don Thorn",
-    "suburb": "ANGASTON",
+    "suburb": "WALLAROO",
     "state": "SA",
-    "postcode": "5353",
+    "postcode": "5556",
     "callsign": "VK5ADT"
   },
   {
@@ -143382,14 +143390,6 @@
     "state": "WA",
     "postcode": "6081",
     "callsign": "VK6ZEH"
-  },
-  {
-    "category": "Advanced",
-    "name": "Glenn R Bathols",
-    "suburb": "CAPEL",
-    "state": "WA",
-    "postcode": "6271",
-    "callsign": "VK6ZEN"
   },
   {
     "category": "Advanced",
