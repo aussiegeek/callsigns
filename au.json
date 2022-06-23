@@ -59049,8 +59049,8 @@
   },
   {
     "category": "Advanced",
-    "name": "SC Price",
-    "suburb": "WERRIBEE",
+    "name": "Steven Price",
+    "suburb": "HOPPERS CROSSING",
     "state": "VIC",
     "postcode": "3030",
     "callsign": "VK3GMT"
@@ -89328,14 +89328,6 @@
     "callsign": "VK4AEI"
   },
   {
-    "category": "Foundation",
-    "name": "Noel Cheyne",
-    "suburb": "KANGAROO POINT",
-    "state": "QLD",
-    "postcode": "4169",
-    "callsign": "VK4AEJ"
-  },
-  {
     "category": "Advanced",
     "name": "EK Adams",
     "suburb": "ROCKHAMPTON NORTH",
@@ -89369,7 +89361,7 @@
   },
   {
     "category": "Standard",
-    "name": "Anthony John Green",
+    "name": "Anthony Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
     "postcode": "4888",
@@ -89377,7 +89369,7 @@
   },
   {
     "category": "Foundation",
-    "name": "Anthony John Green",
+    "name": "Anthony Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
     "postcode": "4888",
@@ -90345,7 +90337,7 @@
   },
   {
     "category": "Advanced",
-    "name": "David John Cusworth",
+    "name": "David Cusworth",
     "suburb": "BEAUDESERT",
     "state": "QLD",
     "postcode": "4285",
@@ -102718,14 +102710,6 @@
     "state": "QLD",
     "postcode": "4741",
     "callsign": "VK4MEJ"
-  },
-  {
-    "category": "Advanced",
-    "name": "Maurice Lane",
-    "suburb": "BURPENGARY EAST",
-    "state": "QLD",
-    "postcode": "4505",
-    "callsign": "VK4MEL"
   },
   {
     "category": "Advanced",
