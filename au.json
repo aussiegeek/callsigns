@@ -712,14 +712,6 @@
     "callsign": "VK1CCJ"
   },
   {
-    "category": "Foundation",
-    "name": "Christopher Claoue-Long",
-    "suburb": "Franklin",
-    "state": "ACT",
-    "postcode": "2913",
-    "callsign": "VK1CCL"
-  },
-  {
     "category": "Advanced",
     "name": "Andrew Conroy",
     "suburb": "THEODORE",
@@ -13878,14 +13870,6 @@
     "state": "NSW",
     "postcode": "2281",
     "callsign": "VK2FADN"
-  },
-  {
-    "category": "Foundation",
-    "name": "Bronwyn Sullivan",
-    "suburb": "TARALGA",
-    "state": "NSW",
-    "postcode": "2580",
-    "callsign": "VK2FADO"
   },
   {
     "category": "Foundation",
@@ -98968,14 +98952,6 @@
     "callsign": "VK4HE"
   },
   {
-    "category": "Standard",
-    "name": "Ewen Rodney Cameron",
-    "suburb": "CAMBOOYA",
-    "state": "QLD",
-    "postcode": "4358",
-    "callsign": "VK4HEC"
-  },
-  {
     "category": "Foundation",
     "name": "Brett Helmore",
     "suburb": "BRANYAN",
@@ -118857,14 +118833,6 @@
   },
   {
     "category": "Advanced",
-    "name": "CM Waite",
-    "suburb": "ADELAIDE",
-    "state": "SA",
-    "postcode": "5001",
-    "callsign": "VK5CQ"
-  },
-  {
-    "category": "Advanced",
     "name": "Christopher Ray McLaughlin",
     "suburb": "GOOLWA",
     "state": "SA",
@@ -131250,9 +131218,9 @@
   {
     "category": "Advanced",
     "name": "Allen Gwyn Coxe",
-    "suburb": "PADBURY",
+    "suburb": "BRIDGETOWN",
     "state": "WA",
-    "postcode": "6025",
+    "postcode": "6255",
     "callsign": "VK6BFO"
   },
   {
@@ -142358,14 +142326,6 @@
     "state": "WA",
     "postcode": "6330",
     "callsign": "VK6WG"
-  },
-  {
-    "category": "Foundation",
-    "name": "Stewart Boyce",
-    "suburb": "BUSHMEAD",
-    "state": "WA",
-    "postcode": "6055",
-    "callsign": "VK6WGB"
   },
   {
     "category": "Advanced",
