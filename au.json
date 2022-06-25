@@ -4153,14 +4153,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Lauren Wiggins",
-    "suburb": "BONNER",
-    "state": "ACT",
-    "postcode": "2914",
-    "callsign": "VK1VLW"
-  },
-  {
-    "category": "Foundation",
     "name": "Venkateswaran Mathiyalagan",
     "suburb": "HOLDER",
     "state": "ACT",
@@ -24454,6 +24446,14 @@
     "state": "NSW",
     "postcode": "2778",
     "callsign": "VK2KZO"
+  },
+  {
+    "category": "Foundation",
+    "name": "Riley O'Brien",
+    "suburb": "HAMILTON SOUTH",
+    "state": "NSW",
+    "postcode": "2303",
+    "callsign": "VK2KZV"
   },
   {
     "category": "Advanced",
@@ -55553,14 +55553,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Garry Wallis",
-    "suburb": "CORIO",
-    "state": "VIC",
-    "postcode": "3214",
-    "callsign": "VK3FGAR"
-  },
-  {
-    "category": "Foundation",
     "name": "Gary Pendlebury",
     "suburb": "NARRE WARREN",
     "state": "VIC",
@@ -80746,9 +80738,9 @@
   {
     "category": "Advanced",
     "name": "GC Verhoef",
-    "suburb": "BELMONT",
-    "state": "VIC",
-    "postcode": "3216",
+    "suburb": "URRAWEEN",
+    "state": "QLD",
+    "postcode": "4655",
     "callsign": "VK3SZ"
   },
   {
@@ -82486,6 +82478,22 @@
     "state": "VIC",
     "postcode": "3818",
     "callsign": "VK3UE"
+  },
+  {
+    "category": "Foundation",
+    "name": "Peter Good",
+    "suburb": "Mooroolbark",
+    "state": "VIC",
+    "postcode": "3138",
+    "callsign": "VK3UEO"
+  },
+  {
+    "category": "Foundation",
+    "name": "Peter Good",
+    "suburb": "Mooroolbark",
+    "state": "VIC",
+    "postcode": "3138",
+    "callsign": "VK3UEO"
   },
   {
     "category": "Advanced",
@@ -118818,9 +118826,9 @@
   {
     "category": "Advanced",
     "name": "Peter Juett",
-    "suburb": "BLAKEVIEW",
+    "suburb": "HILLIER",
     "state": "SA",
-    "postcode": "5114",
+    "postcode": "5116",
     "callsign": "VK5COV"
   },
   {
@@ -134686,14 +134694,6 @@
     "state": "WA",
     "postcode": "6107",
     "callsign": "VK6IBT"
-  },
-  {
-    "category": "Advanced",
-    "name": "David Priestley",
-    "suburb": "COLLIE",
-    "state": "WA",
-    "postcode": "6225",
-    "callsign": "VK6ID"
   },
   {
     "category": "Advanced",
