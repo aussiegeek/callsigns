@@ -16232,14 +16232,6 @@
     "callsign": "VK2FLAW"
   },
   {
-    "category": "Advanced",
-    "name": "Edward Miles",
-    "suburb": "EPPING",
-    "state": "NSW",
-    "postcode": "2121",
-    "callsign": "VK2FLB"
-  },
-  {
     "category": "Foundation",
     "name": "Lyndon Barbuco",
     "suburb": "DHARRUK",
@@ -59945,14 +59937,6 @@
   },
   {
     "category": "Standard",
-    "name": "Dennis Francis McKenzie",
-    "suburb": "EAGLEHAWK",
-    "state": "VIC",
-    "postcode": "3556",
-    "callsign": "VK3HDM"
-  },
-  {
-    "category": "Standard",
     "name": "Derek O'Brien",
     "suburb": "CARNEGIE",
     "state": "VIC",
@@ -90302,14 +90286,6 @@
     "state": "QLD",
     "postcode": "4551",
     "callsign": "VK4ANS"
-  },
-  {
-    "category": "Foundation",
-    "name": "Robert Chatburn",
-    "suburb": "JIMBOOMBA",
-    "state": "QLD",
-    "postcode": "4280",
-    "callsign": "VK4ANT"
   },
   {
     "category": "Advanced",
