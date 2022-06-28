@@ -1578,9 +1578,9 @@
   {
     "category": "Foundation",
     "name": "Johannes Willemse",
-    "suburb": "BONNER",
-    "state": "ACT",
-    "postcode": "2914",
+    "suburb": "MEADOW HEIGHTS",
+    "state": "VIC",
+    "postcode": "3048",
     "callsign": "VK1FJAW"
   },
   {
@@ -2786,9 +2786,9 @@
   {
     "category": "Advanced",
     "name": "Mark A Withers",
-    "suburb": "DICKSON",
-    "state": "ACT",
-    "postcode": "2602",
+    "suburb": "WODONGA",
+    "state": "VIC",
+    "postcode": "3690",
     "callsign": "VK1MK"
   },
   {
@@ -16489,6 +16489,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Mark Greenway",
+    "suburb": "PENRITH",
+    "state": "NSW",
+    "postcode": "2750",
+    "callsign": "VK2FMG"
+  },
+  {
+    "category": "Foundation",
     "name": "Mark Geoffrey McGuire",
     "suburb": "PORT MACQUARIE",
     "state": "NSW",
@@ -17862,6 +17870,14 @@
     "state": "NSW",
     "postcode": "2259",
     "callsign": "VK2FULL"
+  },
+  {
+    "category": "Advanced",
+    "name": "David Willison",
+    "suburb": "CHERRYBROOK",
+    "state": "NSW",
+    "postcode": "2126",
+    "callsign": "VK2FUN"
   },
   {
     "category": "Foundation",
@@ -23686,14 +23702,6 @@
     "state": "NSW",
     "postcode": "2783",
     "callsign": "VK2KLJ"
-  },
-  {
-    "category": "Foundation",
-    "name": "Mark Andrews",
-    "suburb": "JORDAN SPRINGS",
-    "state": "NSW",
-    "postcode": "2747",
-    "callsign": "VK2KLM"
   },
   {
     "category": "Advanced",
@@ -36465,14 +36473,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ross Appleby",
-    "suburb": "AUBURN",
-    "state": "NSW",
-    "postcode": "2144",
-    "callsign": "VK2SEM"
-  },
-  {
-    "category": "Advanced",
     "name": "Peter Mair",
     "suburb": "SUFFOLK PARK",
     "state": "NSW",
@@ -47162,9 +47162,9 @@
   {
     "category": "Advanced",
     "name": "Mark A Withers",
-    "suburb": "DICKSON",
-    "state": "ACT",
-    "postcode": "2602",
+    "suburb": "WODONGA",
+    "state": "VIC",
+    "postcode": "3690",
     "callsign": "VK3ASC"
   },
   {
@@ -47477,6 +47477,14 @@
     "suburb": "CRANBOURNE EAST",
     "state": "VIC",
     "postcode": "3977",
+    "callsign": "VK3AUS"
+  },
+  {
+    "category": "Foundation",
+    "name": "Warwick Denton",
+    "suburb": "MOUNT DRUITT",
+    "state": "NSW",
+    "postcode": "2770",
     "callsign": "VK3AUS"
   },
   {
@@ -49678,6 +49686,14 @@
     "state": "QLD",
     "postcode": "4053",
     "callsign": "VK3BVI"
+  },
+  {
+    "category": "Advanced",
+    "name": "Shane Deering",
+    "suburb": "TOONGABBIE",
+    "state": "VIC",
+    "postcode": "3856",
+    "callsign": "VK3BVP"
   },
   {
     "category": "Advanced",
@@ -83217,7 +83233,7 @@
   },
   {
     "category": "Standard",
-    "name": "Gary John Finlay",
+    "name": "Gary Finlay",
     "suburb": "BORONIA",
     "state": "VIC",
     "postcode": "3155",
@@ -83262,6 +83278,14 @@
     "state": "VIC",
     "postcode": "3862",
     "callsign": "VK3VIA"
+  },
+  {
+    "category": "Advanced",
+    "name": "Grant Mahoney",
+    "suburb": "SKYE",
+    "state": "VIC",
+    "postcode": "3977",
+    "callsign": "VK3VIC"
   },
   {
     "category": "Foundation",
@@ -90552,6 +90576,14 @@
     "callsign": "VK4ARG"
   },
   {
+    "category": "Foundation",
+    "name": "Alan Heywood",
+    "suburb": "ARUNDEL",
+    "state": "QLD",
+    "postcode": "4214",
+    "callsign": "VK4ARH"
+  },
+  {
     "category": "Advanced",
     "name": "Ari Sean Laver",
     "suburb": "KINGSTON",
@@ -92598,14 +92630,6 @@
     "state": "QLD",
     "postcode": "4227",
     "callsign": "VK4CHM"
-  },
-  {
-    "category": "Advanced",
-    "name": "Christoph Kortyka",
-    "suburb": "SHORNCLIFFE",
-    "state": "QLD",
-    "postcode": "4017",
-    "callsign": "VK4CHR"
   },
   {
     "category": "Advanced",
@@ -102496,14 +102520,6 @@
     "callsign": "VK4MBH"
   },
   {
-    "category": "Standard",
-    "name": "MG O'Brien",
-    "suburb": "GREEN LANDS",
-    "state": "QLD",
-    "postcode": "4380",
-    "callsign": "VK4MBT"
-  },
-  {
     "category": "Advanced",
     "name": "Donald Terrace",
     "suburb": "HIGHGATE",
@@ -104086,6 +104102,14 @@
     "state": "QLD",
     "postcode": "4811",
     "callsign": "VK4NTH"
+  },
+  {
+    "category": "Standard",
+    "name": "Adam McLeod",
+    "suburb": "WANDAL",
+    "state": "QLD",
+    "postcode": "4700",
+    "callsign": "VK4NTP"
   },
   {
     "category": "Standard",
@@ -118617,6 +118641,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Colin Moll",
+    "suburb": "BERRI",
+    "state": "SA",
+    "postcode": "5343",
+    "callsign": "VK5CBM"
+  },
+  {
+    "category": "Advanced",
     "name": "Brenton Vowles",
     "suburb": "YANKALILLA",
     "state": "SA",
@@ -130320,6 +130352,14 @@
     "callsign": "VK6ADZ"
   },
   {
+    "category": "Standard",
+    "name": "Adam Crowle",
+    "suburb": "PALMYRA",
+    "state": "WA",
+    "postcode": "6157",
+    "callsign": "VK6ADZ"
+  },
+  {
     "category": "Advanced",
     "name": "Alan Hackett.",
     "suburb": "INGLEWOOD",
@@ -136265,6 +136305,14 @@
   },
   {
     "category": "Standard",
+    "name": "Malcolm Flanagan",
+    "suburb": "COLLIE",
+    "state": "WA",
+    "postcode": "6225",
+    "callsign": "VK6MGR"
+  },
+  {
+    "category": "Standard",
     "name": "Jason Mason",
     "suburb": "HEATHRIDGE",
     "state": "WA",
@@ -138712,78 +138760,6 @@
     "callsign": "VK6RBS"
   },
   {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RBS"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "South West Amateur Radio Group",
     "suburb": "BOYANUP",
@@ -140168,46 +140144,6 @@
     "callsign": "VK6RPH"
   },
   {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RPH"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "Mark Lucas",
     "suburb": "SINAGRA",
@@ -140486,46 +140422,6 @@
     "state": "WA",
     "postcode": "6016",
     "callsign": "VK6RSH"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "West Australian VHF Group Inc",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6953",
-    "callsign": "VK6RSP"
   },
   {
     "category": "Amateur Beacon",
@@ -141374,14 +141270,6 @@
     "state": "WA",
     "postcode": "6312",
     "callsign": "VK6TDF"
-  },
-  {
-    "category": "Standard",
-    "name": "Karel Osten",
-    "suburb": "NORTH PERTH",
-    "state": "WA",
-    "postcode": "6006",
-    "callsign": "VK6TDZ"
   },
   {
     "category": "Advanced",
