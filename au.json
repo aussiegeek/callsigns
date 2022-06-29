@@ -7128,6 +7128,14 @@
     "callsign": "VK2AWJ"
   },
   {
+    "category": "Foundation",
+    "name": "Philip Manning",
+    "suburb": "BRANXTON",
+    "state": "NSW",
+    "postcode": "2335",
+    "callsign": "VK2AWT"
+  },
+  {
     "category": "Advanced",
     "name": "Hunter Radio Group INC",
     "suburb": "DUDLEY",
@@ -12233,14 +12241,6 @@
   },
   {
     "category": "Advanced",
-    "name": "GF Sommer",
-    "suburb": "RATHMINES",
-    "state": "NSW",
-    "postcode": "2283",
-    "callsign": "VK2DWL"
-  },
-  {
-    "category": "Advanced",
     "name": "Donald Pallister",
     "suburb": "LAKE ALBERT",
     "state": "NSW",
@@ -12598,6 +12598,14 @@
     "state": "VIC",
     "postcode": "3207",
     "callsign": "VK2EDN"
+  },
+  {
+    "category": "Advanced",
+    "name": "Ernest Decelis",
+    "suburb": "SANS SOUCI",
+    "state": "NSW",
+    "postcode": "2219",
+    "callsign": "VK2EDR"
   },
   {
     "category": "Foundation",
@@ -13238,14 +13246,6 @@
     "state": "NSW",
     "postcode": "2749",
     "callsign": "VK2ERP"
-  },
-  {
-    "category": "Advanced",
-    "name": "RL Scott",
-    "suburb": "GLEN INNES",
-    "state": "NSW",
-    "postcode": "2370",
-    "callsign": "VK2ERS"
   },
   {
     "category": "Foundation",
@@ -26286,14 +26286,6 @@
     "state": "NSW",
     "postcode": "2256",
     "callsign": "VK2MRQ"
-  },
-  {
-    "category": "Standard",
-    "name": "Markus Strauss",
-    "suburb": "THE PONDS",
-    "state": "NSW",
-    "postcode": "2769",
-    "callsign": "VK2MRS"
   },
   {
     "category": "Advanced",
@@ -41473,6 +41465,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Andrew Kent",
+    "suburb": "KINGSCLIFF",
+    "state": "NSW",
+    "postcode": "2487",
+    "callsign": "VK2XI"
+  },
+  {
+    "category": "Advanced",
     "name": "Robert Heyer",
     "suburb": "KOONAWARRA",
     "state": "NSW",
@@ -44073,6 +44073,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Bruce North",
+    "suburb": "SHELLHARBOUR",
+    "state": "NSW",
+    "postcode": "2529",
+    "callsign": "VK2ZPN"
+  },
+  {
+    "category": "Advanced",
     "name": "Michael Ramsay",
     "suburb": "BELLAMBI",
     "state": "NSW",
@@ -45582,14 +45590,6 @@
     "state": "VIC",
     "postcode": "3150",
     "callsign": "VK3ADY"
-  },
-  {
-    "category": "Standard",
-    "name": "Robert Hoy",
-    "suburb": "BAYSWATER NORTH",
-    "state": "VIC",
-    "postcode": "3153",
-    "callsign": "VK3ADZ"
   },
   {
     "category": "Advanced",
@@ -48838,14 +48838,6 @@
     "state": "VIC",
     "postcode": "3199",
     "callsign": "VK3BKG"
-  },
-  {
-    "category": "Advanced",
-    "name": "Joe F Magee",
-    "suburb": "BAYSWATER NORTH",
-    "state": "VIC",
-    "postcode": "3153",
-    "callsign": "VK3BKI"
   },
   {
     "category": "Foundation",
@@ -60712,6 +60704,14 @@
     "callsign": "VK3HUT"
   },
   {
+    "category": "Foundation",
+    "name": "Huw Warrillow",
+    "suburb": "LOWER PLENTY",
+    "state": "VIC",
+    "postcode": "3093",
+    "callsign": "VK3HUW"
+  },
+  {
     "category": "Advanced",
     "name": "Alan Hall",
     "suburb": "WAVERLEY GARDENS",
@@ -61374,6 +61374,14 @@
     "state": "VIC",
     "postcode": "3107",
     "callsign": "VK3JCA"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Bell",
+    "suburb": "MOUNT MACEDON",
+    "state": "VIC",
+    "postcode": "3441",
+    "callsign": "VK3JCB"
   },
   {
     "category": "Foundation",
@@ -62358,6 +62366,14 @@
     "state": "VIC",
     "postcode": "3055",
     "callsign": "VK3JTA"
+  },
+  {
+    "category": "Standard",
+    "name": "Christopher Higgins",
+    "suburb": "CORINELLA",
+    "state": "VIC",
+    "postcode": "3984",
+    "callsign": "VK3JTL"
   },
   {
     "category": "Advanced",
@@ -64709,6 +64725,14 @@
     "suburb": "SEYMOUR",
     "state": "VIC",
     "postcode": "3661",
+    "callsign": "VK3MA"
+  },
+  {
+    "category": "Foundation",
+    "name": "Margaret Purdam",
+    "suburb": "MACEDON",
+    "state": "VIC",
+    "postcode": "3440",
     "callsign": "VK3MA"
   },
   {
@@ -67222,6 +67246,14 @@
     "state": "VIC",
     "postcode": "3980",
     "callsign": "VK3OZ"
+  },
+  {
+    "category": "Advanced",
+    "name": "Grant Mahoney",
+    "suburb": "SKYE",
+    "state": "VIC",
+    "postcode": "3977",
+    "callsign": "VK3OZY"
   },
   {
     "category": "Advanced",
@@ -83280,14 +83312,6 @@
     "callsign": "VK3VIA"
   },
   {
-    "category": "Advanced",
-    "name": "Grant Mahoney",
-    "suburb": "SKYE",
-    "state": "VIC",
-    "postcode": "3977",
-    "callsign": "VK3VIC"
-  },
-  {
     "category": "Foundation",
     "name": "Grant Mahoney",
     "suburb": "SKYE",
@@ -89849,14 +89873,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Paul Geoffrey Richards",
-    "suburb": "BOORAL",
-    "state": "QLD",
-    "postcode": "4655",
-    "callsign": "VK4AJJ"
-  },
-  {
-    "category": "Advanced",
     "name": "PJ Evans",
     "suburb": "WYNNUM NORTH",
     "state": "QLD",
@@ -94705,14 +94721,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Keith Elwell-Gavins",
-    "suburb": "DUNDOWRAN BEACH",
-    "state": "QLD",
-    "postcode": "4655",
-    "callsign": "VK4EW"
-  },
-  {
-    "category": "Advanced",
     "name": "Bundaberg Amateur Radio Club Incorporated",
     "suburb": "Bundaberg",
     "state": "QLD",
@@ -95993,14 +96001,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Francis Vessey",
-    "suburb": "ROTHWELL",
-    "state": "QLD",
-    "postcode": "4022",
-    "callsign": "VK4FHBY"
-  },
-  {
-    "category": "Foundation",
     "name": "Shannon Duffy",
     "suburb": "MORNINGSIDE",
     "state": "QLD",
@@ -96665,6 +96665,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Matthew Dobinson",
+    "suburb": "BRACKEN RIDGE",
+    "state": "QLD",
+    "postcode": "4017",
+    "callsign": "VK4FML"
+  },
+  {
+    "category": "Foundation",
     "name": "Martyn Leigh Roberts",
     "suburb": "DECEPTION BAY",
     "state": "QLD",
@@ -97246,6 +97254,14 @@
     "state": "QLD",
     "postcode": "4069",
     "callsign": "VK4FSJM"
+  },
+  {
+    "category": "Foundation",
+    "name": "Michael Newton",
+    "suburb": "UPPER COOMERA",
+    "state": "QLD",
+    "postcode": "4209",
+    "callsign": "VK4FSK"
   },
   {
     "category": "Foundation",
@@ -101942,14 +101958,6 @@
     "state": "QLD",
     "postcode": "4521",
     "callsign": "VK4LEO"
-  },
-  {
-    "category": "Standard",
-    "name": "Leslie Meade",
-    "suburb": "FLAGSTONE",
-    "state": "QLD",
-    "postcode": "4280",
-    "callsign": "VK4LES"
   },
   {
     "category": "Standard",
@@ -130112,6 +130120,14 @@
     "callsign": "VK6AAO"
   },
   {
+    "category": "Foundation",
+    "name": "Warren Powell",
+    "suburb": "LESMURDIE",
+    "state": "WA",
+    "postcode": "6076",
+    "callsign": "VK6AAP"
+  },
+  {
     "category": "Advanced",
     "name": "Ronald Dickinson",
     "suburb": "EAST FREMANTLE",
@@ -134936,6 +134952,14 @@
     "callsign": "VK6JDM"
   },
   {
+    "category": "Foundation",
+    "name": "John Steel",
+    "suburb": "MUNDARING",
+    "state": "WA",
+    "postcode": "6073",
+    "callsign": "VK6JDS"
+  },
+  {
     "category": "Advanced",
     "name": "Neville Green",
     "suburb": "AUSTRALIND",
@@ -135936,6 +135960,14 @@
     "callsign": "VK6LJC"
   },
   {
+    "category": "Foundation",
+    "name": "Robert Lillingston",
+    "suburb": "SCARBOROUGH",
+    "state": "WA",
+    "postcode": "6019",
+    "callsign": "VK6LJR"
+  },
+  {
     "category": "Advanced",
     "name": "Paul Anthony Gardner",
     "suburb": "SILVER SANDS",
@@ -136776,6 +136808,14 @@
     "callsign": "VK6NCB"
   },
   {
+    "category": "Foundation",
+    "name": "Catherine Morgan",
+    "suburb": "LAKELANDS",
+    "state": "WA",
+    "postcode": "6180",
+    "callsign": "VK6NCM"
+  },
+  {
     "category": "Advanced",
     "name": "Nick Morgan",
     "suburb": "GREENFIELDS",
@@ -137606,6 +137646,14 @@
     "state": "WA",
     "postcode": "6060",
     "callsign": "VK6PM"
+  },
+  {
+    "category": "Foundation",
+    "name": "Mary Harkness",
+    "suburb": "SWANVIEW",
+    "state": "WA",
+    "postcode": "6056",
+    "callsign": "VK6PMG"
   },
   {
     "category": "Standard",
@@ -143718,6 +143766,14 @@
     "state": "TAS",
     "postcode": "7140",
     "callsign": "VK7AAB"
+  },
+  {
+    "category": "Foundation",
+    "name": "Andrea Hawksbee",
+    "suburb": "WEST HOBART",
+    "state": "TAS",
+    "postcode": "7000",
+    "callsign": "VK7AAC"
   },
   {
     "category": "Foundation",
