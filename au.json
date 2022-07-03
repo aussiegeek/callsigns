@@ -52496,14 +52496,6 @@
     "callsign": "VK3DRH"
   },
   {
-    "category": "Foundation",
-    "name": "Dirk Arends",
-    "suburb": "ABERFELDIE",
-    "state": "VIC",
-    "postcode": "3040",
-    "callsign": "VK3DRK"
-  },
-  {
     "category": "Advanced",
     "name": "Russell Lang",
     "suburb": "GLEN WAVERLEY",
@@ -64792,14 +64784,6 @@
     "callsign": "VK3MAE"
   },
   {
-    "category": "Standard",
-    "name": "Douglas Charles Williams.",
-    "suburb": "SANDRINGHAM",
-    "state": "VIC",
-    "postcode": "3191",
-    "callsign": "VK3MAI"
-  },
-  {
     "category": "Foundation",
     "name": "Alexander Merlo",
     "suburb": "KILMORE",
@@ -65654,14 +65638,6 @@
     "state": "QLD",
     "postcode": "4035",
     "callsign": "VK3MP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Joseph Karr",
-    "suburb": "FLEMINGTON",
-    "state": "VIC",
-    "postcode": "3031",
-    "callsign": "VK3MPB"
   },
   {
     "category": "Standard",
@@ -87625,14 +87601,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Rodney Letts",
-    "suburb": "WANTIRNA SOUTH",
-    "state": "VIC",
-    "postcode": "3152",
-    "callsign": "VK3ZLW"
-  },
-  {
-    "category": "Advanced",
     "name": "Sergio Zanini",
     "suburb": "KEW",
     "state": "VIC",
@@ -95222,14 +95190,6 @@
     "state": "QLD",
     "postcode": "4207",
     "callsign": "VK4FAIA"
-  },
-  {
-    "category": "Foundation",
-    "name": "Christopher Gabriel",
-    "suburb": "PARK RIDGE",
-    "state": "QLD",
-    "postcode": "4125",
-    "callsign": "VK4FAIL"
   },
   {
     "category": "Foundation",
@@ -111712,14 +111672,6 @@
     "callsign": "VK4SD"
   },
   {
-    "category": "Foundation",
-    "name": "Shane Barnett",
-    "suburb": "WEST BALLINA",
-    "state": "NSW",
-    "postcode": "2478",
-    "callsign": "VK4SDB"
-  },
-  {
     "category": "Advanced",
     "name": "Stuart Dunk",
     "suburb": "MALANDA",
@@ -112054,14 +112006,6 @@
     "state": "QLD",
     "postcode": "4507",
     "callsign": "VK4SNM"
-  },
-  {
-    "category": "Advanced",
-    "name": "David Don",
-    "suburb": "MACKAY",
-    "state": "QLD",
-    "postcode": "4740",
-    "callsign": "VK4SNR"
   },
   {
     "category": "Advanced",
@@ -143950,14 +143894,6 @@
     "state": "TAS",
     "postcode": "7140",
     "callsign": "VK7AAR"
-  },
-  {
-    "category": "Foundation",
-    "name": "Daniel Sowerby",
-    "suburb": "GLENORCHY",
-    "state": "TAS",
-    "postcode": "7010",
-    "callsign": "VK7AAT"
   },
   {
     "category": "Advanced",
