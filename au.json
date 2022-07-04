@@ -47480,19 +47480,19 @@
     "callsign": "VK3AUR"
   },
   {
-    "category": "Advanced",
-    "name": "Vaughan Cahill",
-    "suburb": "CRANBOURNE EAST",
-    "state": "VIC",
-    "postcode": "3977",
-    "callsign": "VK3AUS"
-  },
-  {
     "category": "Foundation",
     "name": "Warwick Denton",
     "suburb": "MOUNT DRUITT",
     "state": "NSW",
     "postcode": "2770",
+    "callsign": "VK3AUS"
+  },
+  {
+    "category": "Advanced",
+    "name": "Vaughan Cahill",
+    "suburb": "CRANBOURNE EAST",
+    "state": "VIC",
+    "postcode": "3977",
     "callsign": "VK3AUS"
   },
   {
@@ -129800,7 +129800,7 @@
     "callsign": "VK5ZRL"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Michael Nedic",
     "suburb": "Woodville",
     "state": "SA",
@@ -129808,7 +129808,7 @@
     "callsign": "VK5ZRN"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Michael Nedic",
     "suburb": "Woodville",
     "state": "SA",
