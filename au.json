@@ -27385,14 +27385,6 @@
   },
   {
     "category": "Standard",
-    "name": "Gary John Mapson",
-    "suburb": "MORUYA",
-    "state": "NSW",
-    "postcode": "2537",
-    "callsign": "VK2NSA"
-  },
-  {
-    "category": "Standard",
     "name": "Stephen Blake",
     "suburb": "MORUYA",
     "state": "NSW",
@@ -59970,9 +59962,9 @@
   {
     "category": "Standard",
     "name": "Andrew Manning",
-    "suburb": "NYAH WEST",
-    "state": "VIC",
-    "postcode": "3595",
+    "suburb": "Koraleigh",
+    "state": "NSW",
+    "postcode": "2735",
     "callsign": "VK3HDV"
   },
   {
@@ -61089,10 +61081,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Frankston and Mornington Peninsula Amateur Radio Club Inc",
-    "suburb": "PATTERSON LAKES",
+    "name": "Suruilyandi Raju Subramani",
+    "suburb": "KEYSBOROUGH",
     "state": "VIC",
-    "postcode": "3197",
+    "postcode": "3173",
     "callsign": "VK3IR"
   },
   {
@@ -63297,10 +63289,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Daryl J Hitchcock",
-    "suburb": "COBRAM",
+    "name": "GR Halley",
+    "suburb": "ENDEAVOUR HILLS",
     "state": "VIC",
-    "postcode": "3644",
+    "postcode": "3802",
     "callsign": "VK3KL"
   },
   {
@@ -65640,6 +65632,14 @@
     "callsign": "VK3MP"
   },
   {
+    "category": "Foundation",
+    "name": "Joseph Karr",
+    "suburb": "FLEMINGTON",
+    "state": "VIC",
+    "postcode": "3031",
+    "callsign": "VK3MPB"
+  },
+  {
     "category": "Standard",
     "name": "Ivan McCallum",
     "suburb": "COLAC",
@@ -67502,14 +67502,6 @@
     "state": "VIC",
     "postcode": "3165",
     "callsign": "VK3PEP"
-  },
-  {
-    "category": "Foundation",
-    "name": "Bernard Jenkins",
-    "suburb": "DONVALE",
-    "state": "VIC",
-    "postcode": "3111",
-    "callsign": "VK3PER"
   },
   {
     "category": "Standard",
@@ -120281,14 +120273,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Christopher Stanley Cichon",
-    "suburb": "Valley View",
-    "state": "SA",
-    "postcode": "5093",
-    "callsign": "VK5FDRG"
-  },
-  {
-    "category": "Foundation",
     "name": "Damien Beaty",
     "suburb": "WHYALLA NORRIE",
     "state": "SA",
@@ -121902,14 +121886,6 @@
     "state": "SA",
     "postcode": "5558",
     "callsign": "VK5HG"
-  },
-  {
-    "category": "Advanced",
-    "name": "Denis Haseldine",
-    "suburb": "ASHTON",
-    "state": "SA",
-    "postcode": "5137",
-    "callsign": "VK5HH"
   },
   {
     "category": "Advanced",
@@ -130010,9 +129986,9 @@
   {
     "category": "Advanced",
     "name": "Paul Barrett",
-    "suburb": "LOCKLEYS",
+    "suburb": "BLACKWOOD",
     "state": "SA",
-    "postcode": "5032",
+    "postcode": "5051",
     "callsign": "VK5ZRT"
   },
   {
@@ -130246,14 +130222,6 @@
     "state": "WA",
     "postcode": "6055",
     "callsign": "VK6AAD"
-  },
-  {
-    "category": "Advanced",
-    "name": "Heinrich Matthiae",
-    "suburb": "HELENA VALLEY",
-    "state": "WA",
-    "postcode": "6056",
-    "callsign": "VK6AAE"
   },
   {
     "category": "Foundation",
@@ -139894,22 +139862,6 @@
     "state": "WA",
     "postcode": "6168",
     "callsign": "VK6RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Southern Electronics Group",
-    "suburb": "MOUNT BARKER",
-    "state": "WA",
-    "postcode": "6324",
-    "callsign": "VK6RMJ"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Southern Electronics Group",
-    "suburb": "MOUNT BARKER",
-    "state": "WA",
-    "postcode": "6324",
-    "callsign": "VK6RMJ"
   },
   {
     "category": "Amateur Repeater",
