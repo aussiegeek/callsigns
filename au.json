@@ -17986,9 +17986,9 @@
   {
     "category": "Foundation",
     "name": "Warwick Denton",
-    "suburb": "MOUNT DRUITT",
+    "suburb": "WALLARAH",
     "state": "NSW",
-    "postcode": "2770",
+    "postcode": "2259",
     "callsign": "VK2FWAZ"
   },
   {
@@ -47474,9 +47474,9 @@
   {
     "category": "Foundation",
     "name": "Warwick Denton",
-    "suburb": "MOUNT DRUITT",
+    "suburb": "WALLARAH",
     "state": "NSW",
-    "postcode": "2770",
+    "postcode": "2259",
     "callsign": "VK3AUS"
   },
   {
@@ -58529,14 +58529,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Milan Antonic",
-    "suburb": "DELAHEY",
-    "state": "VIC",
-    "postcode": "3037",
-    "callsign": "VK3GAZ"
-  },
-  {
-    "category": "Advanced",
     "name": "Roy Seabridge",
     "suburb": "Frankston South",
     "state": "VIC",
@@ -58818,9 +58810,9 @@
   {
     "category": "Advanced",
     "name": "Geoffrey Ian McKie",
-    "suburb": "VERMONT SOUTH",
+    "suburb": "WY YUNG",
     "state": "VIC",
-    "postcode": "3133",
+    "postcode": "3875",
     "callsign": "VK3GIM"
   },
   {
@@ -65401,14 +65393,6 @@
   },
   {
     "category": "Standard",
-    "name": "Maria Jane Seminiano",
-    "suburb": "CORIO",
-    "state": "VIC",
-    "postcode": "3214",
-    "callsign": "VK3MJS"
-  },
-  {
-    "category": "Standard",
     "name": "Murray Taylor",
     "suburb": "BENTLEIGH EAST",
     "state": "VIC",
@@ -67470,14 +67454,6 @@
     "state": "VIC",
     "postcode": "3805",
     "callsign": "VK3PDH"
-  },
-  {
-    "category": "Standard",
-    "name": "David E Helyar",
-    "suburb": "CHURCHILL",
-    "state": "VIC",
-    "postcode": "3842",
-    "callsign": "VK3PDX"
   },
   {
     "category": "Advanced",
@@ -121097,14 +121073,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Lewis Chapman",
-    "suburb": "ONKAPARINGA HILLS",
-    "state": "SA",
-    "postcode": "5163",
-    "callsign": "VK5FSDX"
-  },
-  {
-    "category": "Foundation",
     "name": "John Gehlig",
     "suburb": "SEAFORD",
     "state": "SA",
@@ -134216,14 +134184,6 @@
     "callsign": "VK6GIA"
   },
   {
-    "category": "Advanced",
-    "name": "Graham John Malcolm",
-    "suburb": "WEMBLEY",
-    "state": "WA",
-    "postcode": "6014",
-    "callsign": "VK6GJ"
-  },
-  {
     "category": "Foundation",
     "name": "Gary Reed",
     "suburb": "CORRIGIN",
@@ -134630,14 +134590,6 @@
     "state": "WA",
     "postcode": "6063",
     "callsign": "VK6HGR"
-  },
-  {
-    "category": "Advanced",
-    "name": "Stephen Chamberlain",
-    "suburb": "CANNINGTON",
-    "state": "WA",
-    "postcode": "6107",
-    "callsign": "VK6HH"
   },
   {
     "category": "Advanced",
