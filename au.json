@@ -2289,14 +2289,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Stanley Whymark",
-    "suburb": "HOLDER",
-    "state": "ACT",
-    "postcode": "2611",
-    "callsign": "VK1JSW"
-  },
-  {
-    "category": "Foundation",
     "name": "John Tyson",
     "suburb": "AMAROO",
     "state": "ACT",
@@ -43638,14 +43630,6 @@
     "state": "NSW",
     "postcode": "2820",
     "callsign": "VK2ZIM"
-  },
-  {
-    "category": "Advanced",
-    "name": "IW O'Toole",
-    "suburb": "KURRAJONG HILLS",
-    "state": "NSW",
-    "postcode": "2758",
-    "callsign": "VK2ZIO"
   },
   {
     "category": "Advanced",
@@ -132054,14 +132038,6 @@
     "state": "WA",
     "postcode": "6168",
     "callsign": "VK6COM"
-  },
-  {
-    "category": "Advanced",
-    "name": "LW Rice",
-    "suburb": "HELENA VALLEY",
-    "state": "WA",
-    "postcode": "6056",
-    "callsign": "VK6CP"
   },
   {
     "category": "Advanced",
