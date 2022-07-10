@@ -15177,14 +15177,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Elizabeth Rose Zoneff",
-    "suburb": "CRESTWOOD",
-    "state": "NSW",
-    "postcode": "2620",
-    "callsign": "VK2FERZ"
-  },
-  {
-    "category": "Foundation",
     "name": "Rony Estphan",
     "suburb": "MULGOA",
     "state": "NSW",
@@ -22286,14 +22278,6 @@
     "state": "NSW",
     "postcode": "2162",
     "callsign": "VK2JLB"
-  },
-  {
-    "category": "Foundation",
-    "name": "James Chadban",
-    "suburb": "RUTHERFORD",
-    "state": "NSW",
-    "postcode": "2320",
-    "callsign": "VK2JLC"
   },
   {
     "category": "Advanced",
@@ -43753,14 +43737,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Kevin Cox",
-    "suburb": "SURF BEACH",
-    "state": "NSW",
-    "postcode": "2536",
-    "callsign": "VK2ZKV"
-  },
-  {
-    "category": "Advanced",
     "name": "JS Shenstone",
     "suburb": "ALFORDS POINT",
     "state": "NSW",
@@ -47910,14 +47886,6 @@
     "state": "VIC",
     "postcode": "3040",
     "callsign": "VK3AZT"
-  },
-  {
-    "category": "Advanced",
-    "name": "Jim D Hunt",
-    "suburb": "CHELTENHAM",
-    "state": "VIC",
-    "postcode": "3192",
-    "callsign": "VK3AZY"
   },
   {
     "category": "Advanced",
@@ -85657,14 +85625,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Pavel Iliyashenko",
-    "suburb": "TARNEIT",
-    "state": "VIC",
-    "postcode": "3029",
-    "callsign": "VK3XNX"
-  },
-  {
-    "category": "Advanced",
     "name": "Adam Teichelman",
     "suburb": "Williamstown",
     "state": "VIC",
@@ -94550,14 +94510,6 @@
     "state": "QLD",
     "postcode": "4037",
     "callsign": "VK4EGS"
-  },
-  {
-    "category": "Advanced",
-    "name": "George Lawrence",
-    "suburb": "RIVER HEADS",
-    "state": "QLD",
-    "postcode": "4655",
-    "callsign": "VK4EH"
   },
   {
     "category": "Advanced",
@@ -134686,14 +134638,6 @@
     "state": "WA",
     "postcode": "6332",
     "callsign": "VK6HIW"
-  },
-  {
-    "category": "Advanced",
-    "name": "RJ Howard",
-    "suburb": "BALLAJURA",
-    "state": "WA",
-    "postcode": "6066",
-    "callsign": "VK6HJ"
   },
   {
     "category": "Standard",
