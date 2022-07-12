@@ -11336,7 +11336,7 @@
     "callsign": "VK2DHN"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "David Peterson",
     "suburb": "Hall",
     "state": "ACT",
@@ -11344,7 +11344,7 @@
     "callsign": "VK2DHP"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "David Peterson",
     "suburb": "Hall",
     "state": "ACT",
@@ -26522,9 +26522,9 @@
   {
     "category": "Standard",
     "name": "Andrew Geddes",
-    "suburb": "SURF BEACH",
+    "suburb": "TOMAKIN",
     "state": "NSW",
-    "postcode": "2536",
+    "postcode": "2537",
     "callsign": "VK2MWP"
   },
   {
@@ -65970,9 +65970,9 @@
   {
     "category": "Foundation",
     "name": "Nathan Varelias",
-    "suburb": "MELTON",
+    "suburb": "KEILOR DOWNS",
     "state": "VIC",
-    "postcode": "3337",
+    "postcode": "3038",
     "callsign": "VK3NAV"
   },
   {
@@ -92602,9 +92602,9 @@
   {
     "category": "Advanced",
     "name": "EA Hyden",
-    "suburb": "ATHERTON",
+    "suburb": "AVOCA",
     "state": "QLD",
-    "postcode": "4883",
+    "postcode": "4670",
     "callsign": "VK4CCI"
   },
   {
@@ -147097,14 +147097,6 @@
   },
   {
     "category": "Standard",
-    "name": "Brendan Gangell",
-    "suburb": "SALTWATER RIVER",
-    "state": "TAS",
-    "postcode": "7186",
-    "callsign": "VK7NDG"
-  },
-  {
-    "category": "Standard",
     "name": "DS Harper",
     "suburb": "SOMERSET",
     "state": "TAS",
@@ -150226,9 +150218,9 @@
   {
     "category": "Advanced",
     "name": "David L Holt",
-    "suburb": "BANGOR",
+    "suburb": "TREVALLYN",
     "state": "TAS",
-    "postcode": "7267",
+    "postcode": "7250",
     "callsign": "VK7YA"
   },
   {
@@ -151302,14 +151294,6 @@
     "state": "NSW",
     "postcode": "2173",
     "callsign": "VK8LOL"
-  },
-  {
-    "category": "Advanced",
-    "name": "Leonard Clive Spain",
-    "suburb": "HOPPERS CROSSING",
-    "state": "VIC",
-    "postcode": "3029",
-    "callsign": "VK8LS"
   },
   {
     "category": "Advanced",
