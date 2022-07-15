@@ -17,6 +17,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Donald McCann",
+    "suburb": "YASS",
+    "state": "NSW",
+    "postcode": "2582",
+    "callsign": "VI100YSG"
+  },
+  {
+    "category": "Advanced",
     "name": "Wade Smith",
     "suburb": "DICKSON",
     "state": "ACT",
@@ -2960,7 +2968,7 @@
     "callsign": "VK1NK"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Norman Sutton",
     "suburb": "MONCRIEFF",
     "state": "ACT",
@@ -2968,7 +2976,7 @@
     "callsign": "VK1NLS"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Norman Sutton",
     "suburb": "MONCRIEFF",
     "state": "ACT",
@@ -4465,10 +4473,10 @@
   },
   {
     "category": "Advanced",
-    "name": "WB Pywell",
-    "suburb": "WANNIASSA",
+    "name": "Walter Pywell",
+    "suburb": "Narrabundah",
     "state": "ACT",
-    "postcode": "2903",
+    "postcode": "2604",
     "callsign": "VK1ZWP"
   },
   {
@@ -6566,6 +6574,14 @@
     "state": "NSW",
     "postcode": "2763",
     "callsign": "VK2APY"
+  },
+  {
+    "category": "Foundation",
+    "name": "Alexander Perchorowicz",
+    "suburb": "Abbotsford",
+    "state": "NSW",
+    "postcode": "2046",
+    "callsign": "VK2APZ"
   },
   {
     "category": "Advanced",
@@ -9744,6 +9760,14 @@
     "callsign": "VK2CDB"
   },
   {
+    "category": "Standard",
+    "name": "Christopher Bates",
+    "suburb": "PENROSE",
+    "state": "NSW",
+    "postcode": "2530",
+    "callsign": "VK2CDB"
+  },
+  {
     "category": "Advanced",
     "name": "David Clausen",
     "suburb": "COMPANHURST",
@@ -10761,6 +10785,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Regina Tan",
+    "suburb": "KELLYVILLE",
+    "state": "NSW",
+    "postcode": "2155",
+    "callsign": "VK2CYM"
+  },
+  {
+    "category": "Foundation",
     "name": "Chanyeol Yoo",
     "suburb": "HURSTVILLE",
     "state": "NSW",
@@ -11462,6 +11494,14 @@
     "state": "NSW",
     "postcode": "2530",
     "callsign": "VK2DJ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Daniel Crawford",
+    "suburb": "GREGORY HILLS",
+    "state": "NSW",
+    "postcode": "2557",
+    "callsign": "VK2DJC"
   },
   {
     "category": "Advanced",
@@ -18633,6 +18673,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Gary Duncan",
+    "suburb": "BULAHDELAH",
+    "state": "NSW",
+    "postcode": "2423",
+    "callsign": "VK2GJD"
+  },
+  {
+    "category": "Advanced",
     "name": "PJ Ireland",
     "suburb": "BATHURST",
     "state": "NSW",
@@ -23054,14 +23102,6 @@
     "state": "NSW",
     "postcode": "2460",
     "callsign": "VK2KCM"
-  },
-  {
-    "category": "Advanced",
-    "name": "LS Pall",
-    "suburb": "DRUMMOYNE",
-    "state": "NSW",
-    "postcode": "2047",
-    "callsign": "VK2KCP"
   },
   {
     "category": "Standard",
@@ -38870,6 +38910,14 @@
     "state": "NSW",
     "postcode": "2582",
     "callsign": "VK2UL"
+  },
+  {
+    "category": "Standard",
+    "name": "Paul Thompson",
+    "suburb": "SPRING FARM",
+    "state": "NSW",
+    "postcode": "2570",
+    "callsign": "VK2ULL"
   },
   {
     "category": "Advanced",
@@ -60776,6 +60824,14 @@
     "callsign": "VK3IC"
   },
   {
+    "category": "Foundation",
+    "name": "Patrick Begbie",
+    "suburb": "ST HELENA",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3ICE"
+  },
+  {
     "category": "Advanced",
     "name": "Christopher Moore",
     "suburb": "BRIGHTON",
@@ -67902,6 +67958,14 @@
     "state": "VIC",
     "postcode": "3629",
     "callsign": "VK3POP"
+  },
+  {
+    "category": "Foundation",
+    "name": "James Pott",
+    "suburb": "SUNBURY",
+    "state": "VIC",
+    "postcode": "3429",
+    "callsign": "VK3POT"
   },
   {
     "category": "Advanced",
@@ -83154,9 +83218,9 @@
   {
     "category": "Standard",
     "name": "Geoffrey Paul Robison",
-    "suburb": "CHURCHILL",
+    "suburb": "Melton South",
     "state": "VIC",
-    "postcode": "3842",
+    "postcode": "3338",
     "callsign": "VK3VFL"
   },
   {
@@ -95118,14 +95182,6 @@
     "state": "QLD",
     "postcode": "4065",
     "callsign": "VK4FAEO"
-  },
-  {
-    "category": "Foundation",
-    "name": "Bruce Kent Abbott",
-    "suburb": "HIGHFIELDS",
-    "state": "QLD",
-    "postcode": "4352",
-    "callsign": "VK4FAEP"
   },
   {
     "category": "Foundation",
@@ -118672,14 +118728,6 @@
     "callsign": "VK5CBM"
   },
   {
-    "category": "Foundation",
-    "name": "Colin Moll",
-    "suburb": "BERRI",
-    "state": "SA",
-    "postcode": "5343",
-    "callsign": "VK5CBM"
-  },
-  {
     "category": "Advanced",
     "name": "Brenton Vowles",
     "suburb": "YANKALILLA",
@@ -121641,7 +121689,7 @@
   },
   {
     "category": "Standard",
-    "name": "David Leslie Pollard",
+    "name": "David Pollard",
     "suburb": "WHYALLA STUART",
     "state": "SA",
     "postcode": "5608",
@@ -129777,14 +129825,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michael Nedic",
-    "suburb": "Woodville",
-    "state": "SA",
-    "postcode": "5011",
-    "callsign": "VK5ZRN"
-  },
-  {
-    "category": "Foundation",
     "name": "Michael Nedic",
     "suburb": "Woodville",
     "state": "SA",
@@ -150862,14 +150902,6 @@
     "state": "QLD",
     "postcode": "4209",
     "callsign": "VK8DX"
-  },
-  {
-    "category": "Foundation",
-    "name": "Lyall Kenneth Metcalfe",
-    "suburb": "TAREE",
-    "state": "NSW",
-    "postcode": "2430",
-    "callsign": "VK8FAAV"
   },
   {
     "category": "Advanced",
