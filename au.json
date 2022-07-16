@@ -25578,9 +25578,9 @@
   {
     "category": "Standard",
     "name": "Manuel Jr Dayrit Villapane",
-    "suburb": "TARNEIT",
+    "suburb": "Braybrook",
     "state": "VIC",
-    "postcode": "3029",
+    "postcode": "3019",
     "callsign": "VK2MDV"
   },
   {
@@ -37662,6 +37662,14 @@
     "state": "NSW",
     "postcode": "2428",
     "callsign": "VK2TGD"
+  },
+  {
+    "category": "Foundation",
+    "name": "Robert Smith",
+    "suburb": "WEE WAA",
+    "state": "NSW",
+    "postcode": "2388",
+    "callsign": "VK2TGH"
   },
   {
     "category": "Advanced",
@@ -50560,6 +50568,14 @@
     "callsign": "VK3CLJ"
   },
   {
+    "category": "Foundation",
+    "name": "Cameron Lucas Pollock",
+    "suburb": "KEW",
+    "state": "VIC",
+    "postcode": "3101",
+    "callsign": "VK3CLP"
+  },
+  {
     "category": "Advanced",
     "name": "Geordie Millar",
     "suburb": "GLADSTONE",
@@ -50954,9 +50970,9 @@
   {
     "category": "Advanced",
     "name": "Craig Smith",
-    "suburb": "MOUNT WAVERLEY",
-    "state": "VIC",
-    "postcode": "3149",
+    "suburb": "BUCCAN",
+    "state": "QLD",
+    "postcode": "4207",
     "callsign": "VK3CSE"
   },
   {
@@ -55089,14 +55105,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Dennis Sharp",
-    "suburb": "UNDERBOOL",
-    "state": "VIC",
-    "postcode": "3509",
-    "callsign": "VK3FDAS"
-  },
-  {
-    "category": "Foundation",
     "name": "Darcy Meago",
     "suburb": "HEATHMONT",
     "state": "VIC",
@@ -58934,6 +58942,14 @@
     "state": "VIC",
     "postcode": "3178",
     "callsign": "VK3GLC"
+  },
+  {
+    "category": "Foundation",
+    "name": "Giles Lucas Pollock",
+    "suburb": "KEW",
+    "state": "VIC",
+    "postcode": "3101",
+    "callsign": "VK3GLP"
   },
   {
     "category": "Foundation",
@@ -88481,6 +88497,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Ricky Cockburn",
+    "suburb": "ATHOL PARK",
+    "state": "SA",
+    "postcode": "5012",
+    "callsign": "VK4AAE"
+  },
+  {
+    "category": "Foundation",
     "name": "Daniel Rowlands Molpeceres",
     "suburb": "MACKAY",
     "state": "QLD",
@@ -112208,6 +112232,14 @@
     "callsign": "VK4STW"
   },
   {
+    "category": "Advanced",
+    "name": "Robert Charles Leonard Garland",
+    "suburb": "BOKARINA",
+    "state": "QLD",
+    "postcode": "4575",
+    "callsign": "VK4SU"
+  },
+  {
     "category": "Standard",
     "name": "Derek Toreaux",
     "suburb": "GOODNA",
@@ -123152,6 +123184,14 @@
     "callsign": "VK5KRR"
   },
   {
+    "category": "Foundation",
+    "name": "Andrew Thiel",
+    "suburb": "STRATHALBYN",
+    "state": "SA",
+    "postcode": "5255",
+    "callsign": "VK5KRX"
+  },
+  {
     "category": "Advanced",
     "name": "Kevin Schache",
     "suburb": "MOUNT BARKER",
@@ -125074,9 +125114,9 @@
   {
     "category": "Standard",
     "name": "Shane Pankhurst",
-    "suburb": "GLOSSOP",
+    "suburb": "OTTOWAY",
     "state": "SA",
-    "postcode": "5344",
+    "postcode": "5013",
     "callsign": "VK5PKY"
   },
   {
@@ -132542,6 +132582,14 @@
     "state": "WA",
     "postcode": "6059",
     "callsign": "VK6ELI"
+  },
+  {
+    "category": "Foundation",
+    "name": "Elliot Segler",
+    "suburb": "CLAREMONT",
+    "state": "WA",
+    "postcode": "6010",
+    "callsign": "VK6ELS"
   },
   {
     "category": "Advanced",
@@ -141566,6 +141614,14 @@
     "state": "WA",
     "postcode": "6530",
     "callsign": "VK6TKU"
+  },
+  {
+    "category": "Advanced",
+    "name": "Tom Leushuis",
+    "suburb": "Wanneroo",
+    "state": "WA",
+    "postcode": "6946",
+    "callsign": "VK6TL"
   },
   {
     "category": "Advanced",
