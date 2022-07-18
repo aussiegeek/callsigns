@@ -9752,7 +9752,7 @@
     "callsign": "VK2CD"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Christopher Bates",
     "suburb": "PENROSE",
     "state": "NSW",
@@ -9760,7 +9760,7 @@
     "callsign": "VK2CDB"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Christopher Bates",
     "suburb": "PENROSE",
     "state": "NSW",
@@ -11392,7 +11392,7 @@
     "callsign": "VK2DHN"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "David Peterson",
     "suburb": "Hall",
     "state": "ACT",
@@ -11400,7 +11400,7 @@
     "callsign": "VK2DHP"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "David Peterson",
     "suburb": "Hall",
     "state": "ACT",
@@ -52368,7 +52368,7 @@
     "callsign": "VK3DPG"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -52376,7 +52376,7 @@
     "callsign": "VK3DPH"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -120177,14 +120177,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Edward Vardon",
-    "suburb": "DERNANCOURT",
-    "state": "SA",
-    "postcode": "5075",
-    "callsign": "VK5FEDV"
-  },
-  {
-    "category": "Foundation",
     "name": "Stefan Hughes",
     "suburb": "WOODVILLE SOUTH",
     "state": "SA",
@@ -130104,7 +130096,7 @@
     "callsign": "VK6AAD"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "David White",
     "suburb": "COODANUP",
     "state": "WA",
@@ -130112,7 +130104,7 @@
     "callsign": "VK6AAF"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "David White",
     "suburb": "COODANUP",
     "state": "WA",
@@ -146670,14 +146662,6 @@
     "state": "TAS",
     "postcode": "7015",
     "callsign": "VK7KXA"
-  },
-  {
-    "category": "Advanced",
-    "name": "Robert Geeves",
-    "suburb": "GLENORCHY",
-    "state": "TAS",
-    "postcode": "7010",
-    "callsign": "VK7KZ"
   },
   {
     "category": "Standard",
