@@ -9754,7 +9754,7 @@
   {
     "category": "Standard",
     "name": "Christopher Bates",
-    "suburb": "PENROSE",
+    "suburb": "AVONDALE",
     "state": "NSW",
     "postcode": "2530",
     "callsign": "VK2CDB"
@@ -9762,7 +9762,7 @@
   {
     "category": "Foundation",
     "name": "Christopher Bates",
-    "suburb": "PENROSE",
+    "suburb": "AVONDALE",
     "state": "NSW",
     "postcode": "2530",
     "callsign": "VK2CDB"
@@ -25657,6 +25657,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Alan McDonald",
+    "suburb": "CORLETTE",
+    "state": "NSW",
+    "postcode": "2315",
+    "callsign": "VK2MET"
+  },
+  {
+    "category": "Advanced",
     "name": "Alan McDonald",
     "suburb": "CORLETTE",
     "state": "NSW",
@@ -80482,9 +80490,9 @@
   {
     "category": "Standard",
     "name": "Stephen Pattinson",
-    "suburb": "SURREY HILLS",
+    "suburb": "BARINGHUP",
     "state": "VIC",
-    "postcode": "3127",
+    "postcode": "3463",
     "callsign": "VK3SPX"
   },
   {
@@ -97006,14 +97014,6 @@
     "state": "QLD",
     "postcode": "4570",
     "callsign": "VK4FPAM"
-  },
-  {
-    "category": "Foundation",
-    "name": "Aaron Brown",
-    "suburb": "EVERTON PARK",
-    "state": "QLD",
-    "postcode": "4053",
-    "callsign": "VK4FPBX"
   },
   {
     "category": "Foundation",
@@ -141145,7 +141145,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Philip Michael Geer",
+    "name": "Philip Geer",
     "suburb": "TOODYAY",
     "state": "WA",
     "postcode": "6566",
@@ -149922,9 +149922,9 @@
   {
     "category": "Advanced",
     "name": "WICEN Tasmania (South) Inc",
-    "suburb": "BLACKMANS BAY",
+    "suburb": "SNUG",
     "state": "TAS",
-    "postcode": "7052",
+    "postcode": "7054",
     "callsign": "VK7WCN"
   },
   {
