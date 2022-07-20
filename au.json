@@ -2977,14 +2977,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Norman Sutton",
-    "suburb": "MONCRIEFF",
-    "state": "ACT",
-    "postcode": "2914",
-    "callsign": "VK1NLS"
-  },
-  {
-    "category": "Foundation",
     "name": "Shane Rawnsley",
     "suburb": "COOK",
     "state": "ACT",
@@ -18432,14 +18424,6 @@
     "callsign": "VK2GDM"
   },
   {
-    "category": "Advanced",
-    "name": "Henry Arthur Preston",
-    "suburb": "Wyoming",
-    "state": "NSW",
-    "postcode": "2250",
-    "callsign": "VK2GE"
-  },
-  {
     "category": "Foundation",
     "name": "Gerard Gallagher",
     "suburb": "LAWSOM",
@@ -21170,9 +21154,9 @@
   {
     "category": "Advanced",
     "name": "Gerald Cresswell",
-    "suburb": "CASINO",
-    "state": "NSW",
-    "postcode": "2470",
+    "suburb": "GRANTHAM",
+    "state": "QLD",
+    "postcode": "4347",
     "callsign": "VK2IGC"
   },
   {
@@ -23993,10 +23977,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Rod W Howard",
-    "suburb": "FINGAL BAY",
-    "state": "NSW",
-    "postcode": "2315",
+    "name": "Rod Howard",
+    "suburb": "AMERICAN RIVER",
+    "state": "SA",
+    "postcode": "5221",
     "callsign": "VK2KRK"
   },
   {
@@ -25656,7 +25640,7 @@
     "callsign": "VK2MES"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Alan McDonald",
     "suburb": "CORLETTE",
     "state": "NSW",
@@ -25664,7 +25648,7 @@
     "callsign": "VK2MET"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Alan McDonald",
     "suburb": "CORLETTE",
     "state": "NSW",
@@ -48350,14 +48334,6 @@
     "state": "VIC",
     "postcode": "3166",
     "callsign": "VK3BEA"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ricky Joe Parsons",
-    "suburb": "REDAN",
-    "state": "VIC",
-    "postcode": "3350",
-    "callsign": "VK3BEB"
   },
   {
     "category": "Foundation",
@@ -71481,6 +71457,478 @@
   },
   {
     "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "The Wireless Institute of Australia Victorian Division",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RGL"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "PJ Weeks",
     "suburb": "ALEXANDRA",
     "state": "VIC",
@@ -84537,7 +84985,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Western & Northern District Amateur Radio Club Inc",
+    "name": "Wyndham Amatuer Radio Club Inc.",
     "suburb": "Hoppers Crossing",
     "state": "VIC",
     "postcode": "3029",
@@ -112737,14 +113185,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Anthony Alan Halter",
-    "suburb": "STANTHORPE",
-    "state": "QLD",
-    "postcode": "4380",
-    "callsign": "VK4TLA"
-  },
-  {
-    "category": "Advanced",
     "name": "Lorne Bonnell",
     "suburb": "AITKENVALE",
     "state": "QLD",
@@ -114578,9 +115018,9 @@
   {
     "category": "Advanced",
     "name": "Kevin Jones",
-    "suburb": "EDMONTON",
+    "suburb": "Felinheli",
     "state": "QLD",
-    "postcode": "4869",
+    "postcode": "LL56 4QY",
     "callsign": "VK4WOT"
   },
   {
