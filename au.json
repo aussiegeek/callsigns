@@ -2305,10 +2305,18 @@
   },
   {
     "category": "Foundation",
-    "name": "John Tyson",
-    "suburb": "AMAROO",
+    "name": "Stanley Whymark",
+    "suburb": "HOLDER",
     "state": "ACT",
-    "postcode": "2914",
+    "postcode": "2611",
+    "callsign": "VK1JSW"
+  },
+  {
+    "category": "Foundation",
+    "name": "John Tyson",
+    "suburb": "KAMBAH",
+    "state": "ACT",
+    "postcode": "2902",
     "callsign": "VK1JTX"
   },
   {
@@ -5198,14 +5206,6 @@
     "state": "NSW",
     "postcode": "2650",
     "callsign": "VK2ADF"
-  },
-  {
-    "category": "Foundation",
-    "name": "Oscar Ansted",
-    "suburb": "NORTH CURL CURL",
-    "state": "NSW",
-    "postcode": "2099",
-    "callsign": "VK2ADG"
   },
   {
     "category": "Foundation",
@@ -49010,9 +49010,9 @@
   {
     "category": "Advanced",
     "name": "NA Jeffery",
-    "suburb": "CHADSTONE",
+    "suburb": "Wheelers Hill",
     "state": "VIC",
-    "postcode": "3148",
+    "postcode": "3150",
     "callsign": "VK3BMU"
   },
   {
@@ -88945,14 +88945,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Ricky Cockburn",
-    "suburb": "ATHOL PARK",
-    "state": "SA",
-    "postcode": "5012",
-    "callsign": "VK4AAE"
-  },
-  {
-    "category": "Foundation",
     "name": "Daniel Rowlands Molpeceres",
     "suburb": "MACKAY",
     "state": "QLD",
@@ -115656,14 +115648,6 @@
     "callsign": "VK4XZ"
   },
   {
-    "category": "Foundation",
-    "name": "Abdifatah Aden",
-    "suburb": "PALLARA",
-    "state": "QLD",
-    "postcode": "4110",
-    "callsign": "VK4XZT"
-  },
-  {
     "category": "Advanced",
     "name": "James Robert Wisdom",
     "suburb": "CAPALABA",
@@ -117392,6 +117376,14 @@
     "callsign": "VK5AAD"
   },
   {
+    "category": "Foundation",
+    "name": "Ricky Cockburn",
+    "suburb": "ATHOL PARK",
+    "state": "SA",
+    "postcode": "5012",
+    "callsign": "VK5AAE"
+  },
+  {
     "category": "Advanced",
     "name": "David Law",
     "suburb": "KENT TOWN",
@@ -118934,6 +118926,14 @@
     "state": "SA",
     "postcode": "5140",
     "callsign": "VK5BMJ"
+  },
+  {
+    "category": "Advanced",
+    "name": "Yu Liang",
+    "suburb": "MAGILL",
+    "state": "SA",
+    "postcode": "5072",
+    "callsign": "VK5BN"
   },
   {
     "category": "Advanced",
@@ -143934,14 +143934,6 @@
     "state": "WA",
     "postcode": "6021",
     "callsign": "VK6ZGR"
-  },
-  {
-    "category": "Advanced",
-    "name": "Anthony Reynolds",
-    "suburb": "RIVERVALE",
-    "state": "WA",
-    "postcode": "6103",
-    "callsign": "VK6ZGZ"
   },
   {
     "category": "Advanced",
