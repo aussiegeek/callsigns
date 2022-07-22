@@ -600,6 +600,14 @@
     "callsign": "VK1BG"
   },
   {
+    "category": "Advanced",
+    "name": "Ingmar Meins",
+    "suburb": "Barton",
+    "state": "ACT",
+    "postcode": "2601",
+    "callsign": "VK1BGT"
+  },
+  {
     "category": "Foundation",
     "name": "Brenden Taylor",
     "suburb": "KALEEN",
@@ -10026,7 +10034,7 @@
   {
     "category": "Foundation",
     "name": "Christopher Rowland",
-    "suburb": "ASHQUITH",
+    "suburb": "ASQUITH",
     "state": "NSW",
     "postcode": "2077",
     "callsign": "VK2CJR"
@@ -19146,9 +19154,9 @@
   {
     "category": "Foundation",
     "name": "Ross Gordon Wattus",
-    "suburb": "COOPERNOOK",
+    "suburb": "MULLALEY",
     "state": "NSW",
-    "postcode": "2426",
+    "postcode": "2379",
     "callsign": "VK2GRW"
   },
   {
@@ -20697,7 +20705,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Gregory John Williams",
+    "name": "Gregory Williams",
     "suburb": "THORNTON",
     "state": "NSW",
     "postcode": "2322",
@@ -24921,6 +24929,14 @@
   },
   {
     "category": "Standard",
+    "name": "Lisa Harragon",
+    "suburb": "RUTHERFORD",
+    "state": "NSW",
+    "postcode": "2320",
+    "callsign": "VK2LKH"
+  },
+  {
+    "category": "Standard",
     "name": "Patrick Griffin",
     "suburb": "TURRAMURRA",
     "state": "NSW",
@@ -28382,6 +28398,14 @@
     "state": "NSW",
     "postcode": "2508",
     "callsign": "VK2PJF"
+  },
+  {
+    "category": "Foundation",
+    "name": "Phillip James Harragon",
+    "suburb": "RUTHERFORD",
+    "state": "NSW",
+    "postcode": "2320",
+    "callsign": "VK2PJH"
   },
   {
     "category": "Foundation",
@@ -50576,6 +50600,14 @@
     "callsign": "VK3CM"
   },
   {
+    "category": "Standard",
+    "name": "Peter Ross",
+    "suburb": "EPPING",
+    "state": "VIC",
+    "postcode": "3076",
+    "callsign": "VK3CMA"
+  },
+  {
     "category": "Advanced",
     "name": "Michael Blackham",
     "suburb": "WANTIRNA SOUTH",
@@ -56265,14 +56297,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Jason Peter Dempsey",
-    "suburb": "FERNTREE GULLY",
-    "state": "VIC",
-    "postcode": "3156",
-    "callsign": "VK3FJPD"
-  },
-  {
-    "category": "Foundation",
     "name": "Jason Troy",
     "suburb": "Niddrie",
     "state": "VIC",
@@ -58497,7 +58521,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Graham Robert Alston",
+    "name": "Graham Alston",
     "suburb": "BRIGHTON",
     "state": "VIC",
     "postcode": "3186",
@@ -61722,9 +61746,9 @@
   {
     "category": "Advanced",
     "name": "Anthony John Rogers",
-    "suburb": "LEONGATHA",
+    "suburb": "Doveton",
     "state": "VIC",
-    "postcode": "3953",
+    "postcode": "3177",
     "callsign": "VK3JIA"
   },
   {
@@ -68470,14 +68494,6 @@
     "state": "SA",
     "postcode": "5070",
     "callsign": "VK3QV"
-  },
-  {
-    "category": "Foundation",
-    "name": "Paul Herrmann",
-    "suburb": "KALORAMA",
-    "state": "VIC",
-    "postcode": "3766",
-    "callsign": "VK3QVB"
   },
   {
     "category": "Advanced",
@@ -83536,6 +83552,14 @@
     "callsign": "VK3VCT"
   },
   {
+    "category": "Standard",
+    "name": "Kenneth Bilston",
+    "suburb": "BALLARAT CENTRAL",
+    "state": "VIC",
+    "postcode": "3350",
+    "callsign": "VK3VCW"
+  },
+  {
     "category": "Foundation",
     "name": "Lloyd Stanway",
     "suburb": "BALLARAT",
@@ -89889,14 +89913,6 @@
   },
   {
     "category": "Standard",
-    "name": "Anthony Green",
-    "suburb": "Ravenshoe",
-    "state": "QLD",
-    "postcode": "4888",
-    "callsign": "VK4AER"
-  },
-  {
-    "category": "Foundation",
     "name": "Anthony Green",
     "suburb": "Ravenshoe",
     "state": "QLD",
@@ -121553,7 +121569,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Graham Robert Alston",
+    "name": "Graham Alston",
     "suburb": "BRIGHTON",
     "state": "VIC",
     "postcode": "3186",
