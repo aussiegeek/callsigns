@@ -8594,7 +8594,7 @@
   {
     "category": "Advanced",
     "name": "Brian James Pierce",
-    "suburb": "TAMWORTH",
+    "suburb": "North Tamworth",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2BP"
@@ -16778,7 +16778,7 @@
   {
     "category": "Advanced",
     "name": "Brian James Pierce",
-    "suburb": "TAMWORTH",
+    "suburb": "North Tamworth",
     "state": "NSW",
     "postcode": "2340",
     "callsign": "VK2FOG"
@@ -20358,6 +20358,14 @@
     "state": "NSW",
     "postcode": "2258",
     "callsign": "VK2HMI"
+  },
+  {
+    "category": "Standard",
+    "name": "LM Oliver",
+    "suburb": "WALLERAWANG",
+    "state": "NSW",
+    "postcode": "2845",
+    "callsign": "VK2HML"
   },
   {
     "category": "Foundation",
@@ -46705,14 +46713,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Noel F West",
-    "suburb": "GROVEDALE",
-    "state": "VIC",
-    "postcode": "3216",
-    "callsign": "VK3ANW"
-  },
-  {
-    "category": "Advanced",
     "name": "Andrew Mancuso",
     "suburb": "ELTHAM",
     "state": "VIC",
@@ -47358,14 +47358,6 @@
     "state": "VIC",
     "postcode": "3195",
     "callsign": "VK3ATM"
-  },
-  {
-    "category": "Advanced",
-    "name": "Tihomir Otley",
-    "suburb": "PAKENHAM",
-    "state": "VIC",
-    "postcode": "3810",
-    "callsign": "VK3ATO"
   },
   {
     "category": "Standard",
@@ -58825,7 +58817,7 @@
   },
   {
     "category": "Advanced",
-    "name": "Geoffrey Ian McKie",
+    "name": "Geoffrey McKie",
     "suburb": "WY YUNG",
     "state": "VIC",
     "postcode": "3875",
@@ -62154,9 +62146,9 @@
   {
     "category": "Advanced",
     "name": "David Selby",
-    "suburb": "CRANBOURNE",
-    "state": "VIC",
-    "postcode": "3977",
+    "suburb": "MUNGAR",
+    "state": "QLD",
+    "postcode": "4650",
     "callsign": "VK3JP"
   },
   {
@@ -66025,14 +66017,6 @@
   },
   {
     "category": "Standard",
-    "name": "Edward Hetherington",
-    "suburb": "DONCASTER EAST",
-    "state": "VIC",
-    "postcode": "3109",
-    "callsign": "VK3NAP"
-  },
-  {
-    "category": "Standard",
     "name": "Andrew Richard Rawlins",
     "suburb": "CARRUM DOWNS",
     "state": "VIC",
@@ -67278,6 +67262,14 @@
     "state": "VIC",
     "postcode": "3550",
     "callsign": "VK3PA"
+  },
+  {
+    "category": "Advanced",
+    "name": "Phillip Bertolus",
+    "suburb": "BENDIGO",
+    "state": "VIC",
+    "postcode": "3550",
+    "callsign": "VK3PAB"
   },
   {
     "category": "Standard",
@@ -94690,9 +94682,9 @@
   {
     "category": "Advanced",
     "name": "David Selby",
-    "suburb": "CRANBOURNE",
-    "state": "VIC",
-    "postcode": "3977",
+    "suburb": "MUNGAR",
+    "state": "QLD",
+    "postcode": "4650",
     "callsign": "VK4DWS"
   },
   {
@@ -95158,6 +95150,14 @@
     "state": "QLD",
     "postcode": "4069",
     "callsign": "VK4ER"
+  },
+  {
+    "category": "Standard",
+    "name": "Ewen Rodney Cameron",
+    "suburb": "CAMBOOYA",
+    "state": "QLD",
+    "postcode": "4358",
+    "callsign": "VK4ERC"
   },
   {
     "category": "Foundation",
@@ -97054,14 +97054,6 @@
     "state": "QLD",
     "postcode": "4305",
     "callsign": "VK4FLUX"
-  },
-  {
-    "category": "Foundation",
-    "name": "Owen Flynn",
-    "suburb": "SHAILER PARK",
-    "state": "QLD",
-    "postcode": "4128",
-    "callsign": "VK4FLYN"
   },
   {
     "category": "Advanced",
@@ -115034,9 +115026,9 @@
   {
     "category": "Advanced",
     "name": "David Selby",
-    "suburb": "CRANBOURNE",
-    "state": "VIC",
-    "postcode": "3977",
+    "suburb": "MUNGAR",
+    "state": "QLD",
+    "postcode": "4650",
     "callsign": "VK4WP"
   },
   {
@@ -115662,6 +115654,14 @@
     "state": "QLD",
     "postcode": "4552",
     "callsign": "VK4XZ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Abdifatah Aden",
+    "suburb": "PALLARA",
+    "state": "QLD",
+    "postcode": "4110",
+    "callsign": "VK4XZT"
   },
   {
     "category": "Advanced",
@@ -133113,6 +133113,14 @@
   },
   {
     "category": "Advanced",
+    "name": "Evan Wyndham",
+    "suburb": "DEEPDALE",
+    "state": "WA",
+    "postcode": "6532",
+    "callsign": "VK6EW"
+  },
+  {
+    "category": "Advanced",
     "name": "Edwin Walter Morgan",
     "suburb": "WANNANUP",
     "state": "WA",
@@ -135134,14 +135142,6 @@
     "state": "WA",
     "postcode": "6923",
     "callsign": "VK6HRC"
-  },
-  {
-    "category": "Standard",
-    "name": "Nicholas Woolfrey",
-    "suburb": "KALAMUNDA",
-    "state": "WA",
-    "postcode": "6076",
-    "callsign": "VK6HRT"
   },
   {
     "category": "Advanced",
