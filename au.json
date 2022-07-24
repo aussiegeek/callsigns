@@ -20048,14 +20048,6 @@
     "callsign": "VK2HFP"
   },
   {
-    "category": "Standard",
-    "name": "Ross Alexander Pratt",
-    "suburb": "COOMA",
-    "state": "NSW",
-    "postcode": "2630",
-    "callsign": "VK2HFR"
-  },
-  {
     "category": "Advanced",
     "name": "James Mills",
     "suburb": "TAHMOOR",
@@ -44790,14 +44782,6 @@
     "state": "VIC",
     "postcode": "3699",
     "callsign": "VK3AAF"
-  },
-  {
-    "category": "Advanced",
-    "name": "Lachlan James Moody",
-    "suburb": "KIMBOLTON",
-    "state": "VIC",
-    "postcode": "3551",
-    "callsign": "VK3AAG"
   },
   {
     "category": "Foundation",
@@ -113025,14 +113009,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Glen Holborow",
-    "suburb": "GLADSTONE BC",
-    "state": "QLD",
-    "postcode": "4680",
-    "callsign": "VK4TGH"
-  },
-  {
-    "category": "Advanced",
     "name": "Geoffrey J Kilpatrick",
     "suburb": "STRATHPINE",
     "state": "QLD",
@@ -140225,22 +140201,6 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Peel Amateur Radio Group",
-    "suburb": "ROCKINGHAM",
-    "state": "WA",
-    "postcode": "6168",
-    "callsign": "VK6RMH"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peel Amateur Radio Group",
-    "suburb": "ROCKINGHAM",
-    "state": "WA",
-    "postcode": "6168",
-    "callsign": "VK6RMH"
-  },
-  {
-    "category": "Amateur Repeater",
     "name": "Southern Electronics Group",
     "suburb": "MOUNT BARKER",
     "state": "WA",
@@ -150254,14 +150214,6 @@
     "state": "TAS",
     "postcode": "7009",
     "callsign": "VK7VH"
-  },
-  {
-    "category": "Standard",
-    "name": "Stephen Robert Barratt",
-    "suburb": "MOOREVILLE",
-    "state": "TAS",
-    "postcode": "7321",
-    "callsign": "VK7VHF"
   },
   {
     "category": "Foundation",
