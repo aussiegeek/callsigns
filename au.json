@@ -14009,14 +14009,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Susan Baxter",
-    "suburb": "PENNANT HILLS",
-    "state": "NSW",
-    "postcode": "2120",
-    "callsign": "VK2FAEP"
-  },
-  {
-    "category": "Foundation",
     "name": "Daniel Cook",
     "suburb": "DARLINGTON",
     "state": "NSW",
@@ -25656,7 +25648,7 @@
     "callsign": "VK2MES"
   },
   {
-    "category": "Advanced",
+    "category": "Foundation",
     "name": "Alan McDonald",
     "suburb": "CORLETTE",
     "state": "NSW",
@@ -25664,7 +25656,7 @@
     "callsign": "VK2MET"
   },
   {
-    "category": "Foundation",
+    "category": "Advanced",
     "name": "Alan McDonald",
     "suburb": "CORLETTE",
     "state": "NSW",
@@ -52360,7 +52352,7 @@
     "callsign": "VK3DPG"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -52368,7 +52360,7 @@
     "callsign": "VK3DPH"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
