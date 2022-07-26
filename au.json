@@ -11392,14 +11392,6 @@
     "callsign": "VK2DHN"
   },
   {
-    "category": "Foundation",
-    "name": "David Peterson",
-    "suburb": "Hall",
-    "state": "ACT",
-    "postcode": "2618",
-    "callsign": "VK2DHP"
-  },
-  {
     "category": "Advanced",
     "name": "David Peterson",
     "suburb": "Hall",
@@ -21586,9 +21578,9 @@
   {
     "category": "Advanced",
     "name": "Paul Gerard Wilson",
-    "suburb": "BARRACK HEIGHTS",
+    "suburb": "MANLY",
     "state": "NSW",
-    "postcode": "2528",
+    "postcode": "2095",
     "callsign": "VK2IVC"
   },
   {
@@ -60810,9 +60802,9 @@
   {
     "category": "Foundation",
     "name": "Patrick Begbie",
-    "suburb": "ST HELENA",
+    "suburb": "CANTERBURY",
     "state": "VIC",
-    "postcode": "3088",
+    "postcode": "3126",
     "callsign": "VK3ICE"
   },
   {
@@ -105379,7 +105371,7 @@
     "category": "Advanced",
     "name": "Neville Doncaster",
     "suburb": "BANGKOK",
-    "state": "",
+    "state": "QLD",
     "postcode": "10240",
     "callsign": "VK4PO"
   },
@@ -120113,14 +120105,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Alexandria Allington",
-    "suburb": "NURIOOTPA",
-    "state": "SA",
-    "postcode": "5355",
-    "callsign": "VK5FAAV"
-  },
-  {
-    "category": "Foundation",
     "name": "Jamie Thompson",
     "suburb": "GOODWOOD",
     "state": "SA",
@@ -131593,6 +131577,14 @@
   },
   {
     "category": "Foundation",
+    "name": "Brett Archer",
+    "suburb": "Australind",
+    "state": "WA",
+    "postcode": "6233",
+    "callsign": "VK6BAR"
+  },
+  {
+    "category": "Foundation",
     "name": "Brett Sandells",
     "suburb": "MARANGAROO",
     "state": "WA",
@@ -131862,6 +131854,14 @@
     "state": "WA",
     "postcode": "6014",
     "callsign": "VK6BLU"
+  },
+  {
+    "category": "Foundation",
+    "name": "William Dowling",
+    "suburb": "OSBORNE PARK DC",
+    "state": "WA",
+    "postcode": "6916",
+    "callsign": "VK6BLY"
   },
   {
     "category": "Advanced",
@@ -132414,6 +132414,14 @@
     "state": "WA",
     "postcode": "6076",
     "callsign": "VK6CTQ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Colin Scott",
+    "suburb": "GINGIN",
+    "state": "WA",
+    "postcode": "6503",
+    "callsign": "VK6CTS"
   },
   {
     "category": "Advanced",
@@ -135264,6 +135272,14 @@
     "callsign": "VK6IFY"
   },
   {
+    "category": "Foundation",
+    "name": "Leanne McKenzie",
+    "suburb": "Albany",
+    "state": "WA",
+    "postcode": "6332",
+    "callsign": "VK6IGY"
+  },
+  {
     "category": "Advanced",
     "name": "Daniel Sayer",
     "suburb": "BOYUP BROOK",
@@ -135598,6 +135614,14 @@
     "state": "WA",
     "postcode": "6018",
     "callsign": "VK6JK"
+  },
+  {
+    "category": "Foundation",
+    "name": "James McDonald",
+    "suburb": "Wembley Downs",
+    "state": "WA",
+    "postcode": "6019",
+    "callsign": "VK6JKB"
   },
   {
     "category": "Advanced",
@@ -141672,6 +141696,14 @@
     "callsign": "VK6SMK"
   },
   {
+    "category": "Foundation",
+    "name": "Troy Munro-Smith",
+    "suburb": "KINGSLEY",
+    "state": "WA",
+    "postcode": "6026",
+    "callsign": "VK6SMS"
+  },
+  {
     "category": "Advanced",
     "name": "Rex W Hickling",
     "suburb": "DUDLEY PARK",
@@ -142142,14 +142174,6 @@
     "state": "WA",
     "postcode": "6111",
     "callsign": "VK6TWA"
-  },
-  {
-    "category": "Advanced",
-    "name": "Clive William Greenhill",
-    "suburb": "BELDON",
-    "state": "WA",
-    "postcode": "6027",
-    "callsign": "VK6TWG"
   },
   {
     "category": "Advanced",
@@ -142630,6 +142654,14 @@
     "state": "WA",
     "postcode": "6166",
     "callsign": "VK6VSQ"
+  },
+  {
+    "category": "Foundation",
+    "name": "Raymond Stitt",
+    "suburb": "Mount Barker",
+    "state": "WA",
+    "postcode": "6324",
+    "callsign": "VK6VSR"
   },
   {
     "category": "Advanced",
@@ -143834,9 +143866,9 @@
   {
     "category": "Advanced",
     "name": "Igor Glauco Iskra",
-    "suburb": "QUINNS ROCKS",
+    "suburb": "FERNDALE",
     "state": "WA",
-    "postcode": "6030",
+    "postcode": "6148",
     "callsign": "VK6ZFG"
   },
   {
@@ -144998,14 +145030,6 @@
     "state": "TAS",
     "postcode": "7163",
     "callsign": "VK7CAG"
-  },
-  {
-    "category": "Foundation",
-    "name": "Cameron Smith",
-    "suburb": "BAYVIEW",
-    "state": "NSW",
-    "postcode": "2104",
-    "callsign": "VK7CAM"
   },
   {
     "category": "Advanced",
@@ -152262,6 +152286,14 @@
     "state": "NT",
     "postcode": "0820",
     "callsign": "VK8SR"
+  },
+  {
+    "category": "Foundation",
+    "name": "David Thorpe",
+    "suburb": "PALMERTSON",
+    "state": "NT",
+    "postcode": "0832",
+    "callsign": "VK8SSB"
   },
   {
     "category": "Advanced",
