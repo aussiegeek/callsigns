@@ -37616,6 +37616,14 @@
     "callsign": "VK2TEV"
   },
   {
+    "category": "Foundation",
+    "name": "Dennis Sims",
+    "suburb": "Deniliquin",
+    "state": "NSW",
+    "postcode": "2710",
+    "callsign": "VK2TEX"
+  },
+  {
     "category": "Advanced",
     "name": "Wayne Bradwell",
     "suburb": "Abbotsbury",
@@ -58654,6 +58662,14 @@
     "state": "VIC",
     "postcode": "3564",
     "callsign": "VK3GEK"
+  },
+  {
+    "category": "Foundation",
+    "name": "Gemma Nash",
+    "suburb": "MOUNT EVELYN",
+    "state": "VIC",
+    "postcode": "3796",
+    "callsign": "VK3GEM"
   },
   {
     "category": "Advanced",
@@ -87361,7 +87377,7 @@
   },
   {
     "category": "Advanced",
-    "name": "John A Horan",
+    "name": "John Horan",
     "suburb": "DIMBOOLA",
     "state": "VIC",
     "postcode": "3414",
@@ -95330,9 +95346,9 @@
   {
     "category": "Advanced",
     "name": "Allen R Wait",
-    "suburb": "WESTCOURT",
+    "suburb": "BAYVIEW HEIGHTS",
     "state": "QLD",
-    "postcode": "4870",
+    "postcode": "4868",
     "callsign": "VK4FAW"
   },
   {
@@ -134192,6 +134208,14 @@
     "callsign": "VK6GM"
   },
   {
+    "category": "Foundation",
+    "name": "Gordon McDonald",
+    "suburb": "West Perth",
+    "state": "WA",
+    "postcode": "6872",
+    "callsign": "VK6GMC"
+  },
+  {
     "category": "Advanced",
     "name": "Gerhard Mueller-Dorn",
     "suburb": "MARIGINIUP",
@@ -136398,6 +136422,14 @@
     "state": "WA",
     "postcode": "6064",
     "callsign": "VK6MAN"
+  },
+  {
+    "category": "Foundation",
+    "name": "Richard Marsala",
+    "suburb": "BULLSBROOK",
+    "state": "WA",
+    "postcode": "6084",
+    "callsign": "VK6MAR"
   },
   {
     "category": "Advanced",
@@ -150414,14 +150446,6 @@
     "state": "TAS",
     "postcode": "7015",
     "callsign": "VK7ZGL"
-  },
-  {
-    "category": "Advanced",
-    "name": "RF Groom",
-    "suburb": "PENGUIN",
-    "state": "TAS",
-    "postcode": "7316",
-    "callsign": "VK7ZGR"
   },
   {
     "category": "Advanced",
