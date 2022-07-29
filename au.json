@@ -20032,6 +20032,14 @@
     "callsign": "VK2HFP"
   },
   {
+    "category": "Standard",
+    "name": "Ross Alexander Pratt",
+    "suburb": "COOMA",
+    "state": "NSW",
+    "postcode": "2630",
+    "callsign": "VK2HFR"
+  },
+  {
     "category": "Advanced",
     "name": "James Mills",
     "suburb": "TAHMOOR",
@@ -55033,14 +55041,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Casiano Samson",
-    "suburb": "CRANBOURNE SOUTH",
-    "state": "VIC",
-    "postcode": "3977",
-    "callsign": "VK3FCST"
-  },
-  {
-    "category": "Foundation",
     "name": "Chau Tung Huynh",
     "suburb": "RESERVOIR",
     "state": "VIC",
@@ -88633,14 +88633,6 @@
   },
   {
     "category": "Advanced",
-    "name": "RE Neilson",
-    "suburb": "SOUTH MACKAY",
-    "state": "QLD",
-    "postcode": "4740",
-    "callsign": "VK4AAU"
-  },
-  {
-    "category": "Advanced",
     "name": "Peter Mondahl",
     "suburb": "BATTERY HILL",
     "state": "QLD",
@@ -99046,14 +99038,6 @@
     "state": "QLD",
     "postcode": "4021",
     "callsign": "VK4HDY"
-  },
-  {
-    "category": "Standard",
-    "name": "Albert Downs",
-    "suburb": "NORTH ROCKHAMPTON",
-    "state": "QLD",
-    "postcode": "4701",
-    "callsign": "VK4HDZ"
   },
   {
     "category": "Advanced",
