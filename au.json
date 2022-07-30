@@ -1080,14 +1080,6 @@
     "callsign": "VK1DW"
   },
   {
-    "category": "Foundation",
-    "name": "David Rowe",
-    "suburb": "Nuriootpa",
-    "state": "SA",
-    "postcode": "5355",
-    "callsign": "VK1DWR"
-  },
-  {
     "category": "Advanced",
     "name": "PJ Rayner",
     "suburb": "GILMORE",
@@ -2774,6 +2766,14 @@
     "state": "ACT",
     "postcode": "2602",
     "callsign": "VK1MIC"
+  },
+  {
+    "category": "Standard",
+    "name": "Michael Petrou",
+    "suburb": "WATSON",
+    "state": "ACT",
+    "postcode": "2602",
+    "callsign": "VK1MIK"
   },
   {
     "category": "Advanced",
@@ -14993,14 +14993,6 @@
   },
   {
     "category": "Foundation",
-    "name": "David James",
-    "suburb": "East Maitland",
-    "state": "NSW",
-    "postcode": "2323",
-    "callsign": "VK2FDJA"
-  },
-  {
-    "category": "Foundation",
     "name": "Dianne J Fitzgerald",
     "suburb": "MONA VALE",
     "state": "NSW",
@@ -24208,6 +24200,14 @@
     "callsign": "VK2KWC"
   },
   {
+    "category": "Foundation",
+    "name": "Warwick Denton",
+    "suburb": "WALLARAH",
+    "state": "NSW",
+    "postcode": "2259",
+    "callsign": "VK2KWD"
+  },
+  {
     "category": "Advanced",
     "name": "KW Grimm",
     "suburb": "CORDEAUX HEIGHTS",
@@ -24809,10 +24809,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Leighton Edwin Judd",
-    "suburb": "Sydney",
-    "state": "NSW",
-    "postcode": "1230",
+    "name": "Leighton Judd",
+    "suburb": "MELBOURNE",
+    "state": "VIC",
+    "postcode": "8010",
     "callsign": "VK2LI"
   },
   {
@@ -37018,9 +37018,9 @@
   {
     "category": "Advanced",
     "name": "Richard Foote",
-    "suburb": "CORRIMAL",
+    "suburb": "BALGOWNIE",
     "state": "NSW",
-    "postcode": "2518",
+    "postcode": "2519",
     "callsign": "VK2SRF"
   },
   {
@@ -43902,6 +43902,14 @@
     "state": "NSW",
     "postcode": "2453",
     "callsign": "VK2ZMG"
+  },
+  {
+    "category": "Foundation",
+    "name": "Sarah Hilder",
+    "suburb": "PICTON",
+    "state": "NSW",
+    "postcode": "2571",
+    "callsign": "VK2ZMH"
   },
   {
     "category": "Advanced",
@@ -54857,10 +54865,10 @@
   },
   {
     "category": "Advanced",
-    "name": "Leighton Edwin Judd",
-    "suburb": "Sydney",
-    "state": "NSW",
-    "postcode": "1230",
+    "name": "Leighton Judd",
+    "suburb": "MELBOURNE",
+    "state": "VIC",
+    "postcode": "8010",
     "callsign": "VK3FC"
   },
   {
@@ -58618,9 +58626,9 @@
   {
     "category": "Foundation",
     "name": "Grant Treloar",
-    "suburb": "SEABROOK",
-    "state": "VIC",
-    "postcode": "3028",
+    "suburb": "MAROOCHYDORE",
+    "state": "QLD",
+    "postcode": "4558",
     "callsign": "VK3GDT"
   },
   {
@@ -80160,6 +80168,14 @@
     "callsign": "VK3SGL"
   },
   {
+    "category": "Standard",
+    "name": "Jason Govan",
+    "suburb": "SUNBURY",
+    "state": "VIC",
+    "postcode": "3429",
+    "callsign": "VK3SGW"
+  },
+  {
     "category": "Foundation",
     "name": "Soon Ghee Yap",
     "suburb": "Point Cook",
@@ -100392,6 +100408,14 @@
     "callsign": "VK4JJJ"
   },
   {
+    "category": "Standard",
+    "name": "Brian McCarty",
+    "suburb": "NERANG",
+    "state": "QLD",
+    "postcode": "4211",
+    "callsign": "VK4JJJ"
+  },
+  {
     "category": "Advanced",
     "name": "Richard Williams",
     "suburb": "MUNDOOLUN",
@@ -112416,6 +112440,14 @@
     "callsign": "VK4TB"
   },
   {
+    "category": "Foundation",
+    "name": "Andrew Rapson",
+    "suburb": "STRATHPINE",
+    "state": "QLD",
+    "postcode": "4500",
+    "callsign": "VK4TBT"
+  },
+  {
     "category": "Advanced",
     "name": "Anthony Smith",
     "suburb": "Middle Park",
@@ -112750,6 +112782,14 @@
     "state": "QLD",
     "postcode": "4655",
     "callsign": "VK4TM"
+  },
+  {
+    "category": "Advanced",
+    "name": "Stephen Cardwell",
+    "suburb": "KIPPA RING",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4TMC"
   },
   {
     "category": "Advanced",
@@ -113286,6 +113326,14 @@
     "state": "QLD",
     "postcode": "4511",
     "callsign": "VK4UL"
+  },
+  {
+    "category": "Foundation",
+    "name": "Finn Barry-Smith",
+    "suburb": "Sunshine Plaza",
+    "state": "QLD",
+    "postcode": "4558",
+    "callsign": "VK4ULA"
   },
   {
     "category": "Standard",
@@ -114646,6 +114694,14 @@
     "state": "QLD",
     "postcode": "4551",
     "callsign": "VK4WT"
+  },
+  {
+    "category": "Advanced",
+    "name": "Desmond Waples",
+    "suburb": "MARGATE",
+    "state": "QLD",
+    "postcode": "4019",
+    "callsign": "VK4WTA"
   },
   {
     "category": "Advanced",
@@ -117098,9 +117154,9 @@
   {
     "category": "Advanced",
     "name": "JV Del Fabro",
-    "suburb": "ALDGATE",
+    "suburb": "Williamstown",
     "state": "SA",
-    "postcode": "5154",
+    "postcode": "5351",
     "callsign": "VK5ACT"
   },
   {
@@ -121326,6 +121382,14 @@
     "state": "SA",
     "postcode": "5173",
     "callsign": "VK5GE"
+  },
+  {
+    "category": "Foundation",
+    "name": "David Rowe",
+    "suburb": "Nuriootpa",
+    "state": "SA",
+    "postcode": "5355",
+    "callsign": "VK5GEM"
   },
   {
     "category": "Advanced",
@@ -152014,14 +152078,6 @@
     "state": "QLD",
     "postcode": "4670",
     "callsign": "VK8ZBT"
-  },
-  {
-    "category": "Advanced",
-    "name": "NB Conners",
-    "suburb": "TENNANT CREEK",
-    "state": "NT",
-    "postcode": "0861",
-    "callsign": "VK8ZCU"
   },
   {
     "category": "Advanced",
