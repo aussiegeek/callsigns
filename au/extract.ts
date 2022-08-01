@@ -1,6 +1,7 @@
 import StreamZip from "node-stream-zip";
 import Papa from "papaparse";
 import fs from "fs";
+import { Callsign } from "./types";
 
 const headers = [
   "LICENCE_NO",
@@ -20,6 +21,11 @@ const headers = [
   "BSL_NO",
 ];
 
+function parseDateString(dateStr: string): string | null {
+  if (dateStr === "") return null;
+  return dateStr;
+}
+
 async function extract() {
   const zip = new StreamZip.async({ file: "spectra_rrl.zip" });
 
@@ -29,7 +35,14 @@ async function extract() {
   > = {};
   const licences: Record<
     string,
-    { licence_no: string; client_no: string; category: string }
+    {
+      licence_no: string;
+      client_no: string;
+      category: string;
+      date_issued: string | null;
+      date_of_effect: string | null;
+      date_of_expiry: string | null;
+    }
   > = {};
 
   const clients: Record<
@@ -51,7 +64,18 @@ async function extract() {
       const client_no = row.data[1];
       const category = row.data[5];
       const licence_no = row.data[0];
-      const licence = { licence_no, client_no, category };
+      const date_issued = parseDateString(row.data[6]);
+      const date_of_effect = parseDateString(row.data[7]);
+      const date_of_expiry = parseDateString(row.data[8]);
+
+      const licence = {
+        licence_no,
+        client_no,
+        category,
+        date_issued,
+        date_of_effect,
+        date_of_expiry,
+      };
 
       licence_by_client[client_no] = licence;
       licences[licence_no] = licence;
@@ -75,14 +99,6 @@ async function extract() {
     },
   });
 
-  interface Callsign {
-    name: string;
-    state: string;
-    postcode: string;
-    callsign: string;
-    category: string;
-  }
-
   const devices: Callsign[] = [];
 
   const deviceDetailsCSV = await (
@@ -98,7 +114,14 @@ async function extract() {
       const callsign = row.data[33];
       if (callsign === "") return;
 
-      devices.push({ category: licence.category, ...client, callsign });
+      devices.push({
+        category: licence.category,
+        ...client,
+        callsign,
+        expiryDate: licence.date_of_expiry,
+        issuedDate: licence.date_issued,
+        effectiveDate: licence.date_of_effect,
+      });
     },
   });
 
