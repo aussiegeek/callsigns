@@ -32905,22 +32905,6 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Lightning Ridge Mens Shed Inc",
-    "suburb": "LIGHTNING RIDGE",
-    "state": "NSW",
-    "postcode": "2834",
-    "callsign": "VK2RMS"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Lightning Ridge Mens Shed Inc",
-    "suburb": "LIGHTNING RIDGE",
-    "state": "NSW",
-    "postcode": "2834",
-    "callsign": "VK2RMS"
-  },
-  {
-    "category": "Amateur Repeater",
     "name": "MID South Coast Amateur Radio Club Inc",
     "suburb": "NOWRA",
     "state": "NSW",
@@ -47456,19 +47440,19 @@
     "callsign": "VK3AUR"
   },
   {
-    "category": "Foundation",
-    "name": "Warwick Denton",
-    "suburb": "WALLARAH",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK3AUS"
-  },
-  {
     "category": "Advanced",
     "name": "Vaughan Cahill",
     "suburb": "CRANBOURNE EAST",
     "state": "VIC",
     "postcode": "3977",
+    "callsign": "VK3AUS"
+  },
+  {
+    "category": "Foundation",
+    "name": "Warwick Denton",
+    "suburb": "WALLARAH",
+    "state": "NSW",
+    "postcode": "2259",
     "callsign": "VK3AUS"
   },
   {
@@ -52360,7 +52344,7 @@
     "callsign": "VK3DPG"
   },
   {
-    "category": "Standard",
+    "category": "Advanced",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -52368,7 +52352,7 @@
     "callsign": "VK3DPH"
   },
   {
-    "category": "Advanced",
+    "category": "Standard",
     "name": "Damion Hadcroft",
     "suburb": "SANDRINGHAM",
     "state": "VIC",
@@ -89376,7 +89360,7 @@
     "callsign": "VK4AEF"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Steven Holland",
     "suburb": "THORNLANDS",
     "state": "QLD",
@@ -89384,7 +89368,7 @@
     "callsign": "VK4AEG"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Steven Holland",
     "suburb": "THORNLANDS",
     "state": "QLD",
@@ -100392,7 +100376,7 @@
     "callsign": "VK4JJ"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "Brian McCarty",
     "suburb": "NERANG",
     "state": "QLD",
@@ -100400,7 +100384,7 @@
     "callsign": "VK4JJJ"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "Brian McCarty",
     "suburb": "NERANG",
     "state": "QLD",
@@ -130144,7 +130128,7 @@
     "callsign": "VK6AAD"
   },
   {
-    "category": "Standard",
+    "category": "Foundation",
     "name": "David White",
     "suburb": "COODANUP",
     "state": "WA",
@@ -130152,7 +130136,7 @@
     "callsign": "VK6AAF"
   },
   {
-    "category": "Foundation",
+    "category": "Standard",
     "name": "David White",
     "suburb": "COODANUP",
     "state": "WA",
