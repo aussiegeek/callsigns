@@ -859,17 +859,6 @@
   },
   {
     "category": "Advanced",
-    "name": "DR Jackson",
-    "suburb": "CONDER",
-    "state": "ACT",
-    "postcode": "2906",
-    "callsign": "VK1DJ",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
-  },
-  {
-    "category": "Advanced",
     "name": "David John Abel",
     "suburb": "HAWKER",
     "state": "ACT",
@@ -1208,17 +1197,6 @@
     "expiryDate": "2024-09-18",
     "issuedDate": "2023-09-18",
     "effectiveDate": "2023-09-18"
-  },
-  {
-    "category": "Foundation",
-    "name": "Eric Zurcher",
-    "suburb": "PAGE",
-    "state": "ACT",
-    "postcode": "2614",
-    "callsign": "VK1FELD",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-24",
-    "effectiveDate": "2023-07-24"
   },
   {
     "category": "Foundation",
@@ -1692,17 +1670,6 @@
     "expiryDate": "2024-12-09",
     "issuedDate": "2023-12-11",
     "effectiveDate": "2023-12-11"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Dek",
-    "suburb": "HURST",
-    "state": "Texas",
-    "postcode": "76053",
-    "callsign": "VK1IBM",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-17",
-    "effectiveDate": "2023-07-17"
   },
   {
     "category": "Advanced",
@@ -3595,17 +3562,6 @@
     "expiryDate": "2024-10-29",
     "issuedDate": "2023-10-31",
     "effectiveDate": "2023-10-30"
-  },
-  {
-    "category": "Advanced",
-    "name": "DR Jackson",
-    "suburb": "CONDER",
-    "state": "ACT",
-    "postcode": "2906",
-    "callsign": "VK1ZDJ",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
   },
   {
     "category": "Advanced",
@@ -6392,17 +6348,6 @@
   },
   {
     "category": "Advanced",
-    "name": "James Barbato",
-    "suburb": "TERRIGAL",
-    "state": "NSW",
-    "postcode": "2260",
-    "callsign": "VK2BM",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-14",
-    "effectiveDate": "2023-07-14"
-  },
-  {
-    "category": "Advanced",
     "name": "M Bettini",
     "suburb": "GREYSTANES",
     "state": "NSW",
@@ -8248,17 +8193,6 @@
     "expiryDate": "2025-11-10",
     "issuedDate": "2020-11-05",
     "effectiveDate": "2020-11-05"
-  },
-  {
-    "category": "Advanced",
-    "name": "Dennis Meade",
-    "suburb": "PORT MACQUARIE",
-    "state": "NSW",
-    "postcode": "2444",
-    "callsign": "VK2DAM",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-09",
-    "effectiveDate": "2023-08-09"
   },
   {
     "category": "Advanced",
@@ -14058,17 +13992,6 @@
     "effectiveDate": "2023-11-09"
   },
   {
-    "category": "Standard",
-    "name": "Mark Wylie",
-    "suburb": "CHITTAWAY POINT",
-    "state": "NSW",
-    "postcode": "2261",
-    "callsign": "VK2HMW",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
-  },
-  {
     "category": "Advanced",
     "name": "David Haigh",
     "suburb": "ROUSE HILL",
@@ -15046,17 +14969,6 @@
     "expiryDate": "2024-11-17",
     "issuedDate": "2023-10-18",
     "effectiveDate": "2023-10-18"
-  },
-  {
-    "category": "Advanced",
-    "name": "Richard Newbold",
-    "suburb": "GULMARRAD",
-    "state": "NSW",
-    "postcode": "2463",
-    "callsign": "VK2IZ",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
   },
   {
     "category": "Advanced",
@@ -16435,17 +16347,6 @@
   },
   {
     "category": "Advanced",
-    "name": "P Tomlin",
-    "suburb": "FIGTREE",
-    "state": "NSW",
-    "postcode": "2525",
-    "callsign": "VK2KHE",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
-  },
-  {
-    "category": "Advanced",
     "name": "DL Field",
     "suburb": "Lindfield",
     "state": "NSW",
@@ -16828,17 +16729,6 @@
     "expiryDate": "2024-12-16",
     "issuedDate": "2023-12-13",
     "effectiveDate": "2023-12-13"
-  },
-  {
-    "category": "Advanced",
-    "name": "Keith Bradshaw",
-    "suburb": "BERKELEY",
-    "state": "NSW",
-    "postcode": "2506",
-    "callsign": "VK2KQB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-14",
-    "effectiveDate": "2023-07-14"
   },
   {
     "category": "Advanced",
@@ -18313,17 +18203,6 @@
     "expiryDate": "2025-04-02",
     "issuedDate": "2020-04-03",
     "effectiveDate": "2020-04-03"
-  },
-  {
-    "category": "Standard",
-    "name": "Ross A Delaforce",
-    "suburb": "YARRAVEL",
-    "state": "NSW",
-    "postcode": "2440",
-    "callsign": "VK2MOB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-27",
-    "effectiveDate": "2023-07-27"
   },
   {
     "category": "Standard",
@@ -31824,17 +31703,6 @@
   },
   {
     "category": "Advanced",
-    "name": "KE Goodhew",
-    "suburb": "MOUNT WARRIGAL",
-    "state": "NSW",
-    "postcode": "2528",
-    "callsign": "VK2TKE",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-09-05",
-    "effectiveDate": "2023-09-05"
-  },
-  {
-    "category": "Advanced",
     "name": "James Robinson",
     "suburb": "MALUA BAY",
     "state": "NSW",
@@ -32635,17 +32503,6 @@
     "expiryDate": "2025-05-09",
     "issuedDate": "2020-04-30",
     "effectiveDate": "2020-04-30"
-  },
-  {
-    "category": "Advanced",
-    "name": "Matthew McNeil",
-    "suburb": "DICKSON",
-    "state": "ACT",
-    "postcode": "2602",
-    "callsign": "VK2UK",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2019-07-20",
-    "effectiveDate": "2019-07-20"
   },
   {
     "category": "Advanced",
@@ -36048,17 +35905,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Jesse Brain",
-    "suburb": "PICTON",
-    "state": "NSW",
-    "postcode": "2571",
-    "callsign": "VK2ZJB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-17",
-    "effectiveDate": "2023-07-17"
-  },
-  {
-    "category": "Advanced",
     "name": "John Miller",
     "suburb": "GIRARDS HILL",
     "state": "NSW",
@@ -36408,17 +36254,6 @@
     "expiryDate": "2024-11-18",
     "issuedDate": "2023-11-16",
     "effectiveDate": "2023-11-16"
-  },
-  {
-    "category": "Advanced",
-    "name": "JC Sheehan",
-    "suburb": "GUNNEDAH",
-    "state": "NSW",
-    "postcode": "2380",
-    "callsign": "VK2ZSI",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-01",
-    "effectiveDate": "2023-08-01"
   },
   {
     "category": "Advanced",
@@ -37508,17 +37343,6 @@
     "expiryDate": "2024-09-27",
     "issuedDate": "2023-09-28",
     "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Foundation",
-    "name": "Adrian Johns",
-    "suburb": "Ringwood",
-    "state": "VIC",
-    "postcode": "3134",
-    "callsign": "VK3AFK",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-18",
-    "effectiveDate": "2023-07-18"
   },
   {
     "category": "Foundation",
@@ -40324,17 +40148,6 @@
     "expiryDate": "2024-11-13",
     "issuedDate": "2023-10-31",
     "effectiveDate": "2023-10-31"
-  },
-  {
-    "category": "Advanced",
-    "name": "RJ Crockford",
-    "suburb": "WERRIBEE",
-    "state": "VIC",
-    "postcode": "3030",
-    "callsign": "VK3CDE",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-17",
-    "effectiveDate": "2023-07-17"
   },
   {
     "category": "Advanced",
@@ -43902,17 +43715,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Bruce Waddingham",
-    "suburb": "MEENIYAN",
-    "state": "VIC",
-    "postcode": "3956",
-    "callsign": "VK3FBWG",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-09-08",
-    "effectiveDate": "2023-09-08"
-  },
-  {
-    "category": "Foundation",
     "name": "Cheryl Ferguson",
     "suburb": "NORTHCOTE",
     "state": "VIC",
@@ -46970,17 +46772,6 @@
     "effectiveDate": "2023-11-17"
   },
   {
-    "category": "Standard",
-    "name": "Andrew Robert Frencham",
-    "suburb": "FAIRFIELD",
-    "state": "VIC",
-    "postcode": "3078",
-    "callsign": "VK3HAZ",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-10",
-    "effectiveDate": "2023-08-10"
-  },
-  {
     "category": "Advanced",
     "name": "JL Frencham",
     "suburb": "ASPENDALE GARDENS",
@@ -47881,28 +47672,6 @@
     "expiryDate": "2024-11-18",
     "issuedDate": "2023-11-15",
     "effectiveDate": "2023-11-15"
-  },
-  {
-    "category": "Advanced",
-    "name": "RJ Williams",
-    "suburb": "ST ALBANS",
-    "state": "VIC",
-    "postcode": "3021",
-    "callsign": "VK3IE",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
-  },
-  {
-    "category": "Advanced",
-    "name": "RJ Williams",
-    "suburb": "ST ALBANS",
-    "state": "VIC",
-    "postcode": "3021",
-    "callsign": "VK3IE",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
   },
   {
     "category": "Advanced",
@@ -49028,17 +48797,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Geoffrey Malcolm Sanders",
-    "suburb": "Wheelers Hill",
-    "state": "VIC",
-    "postcode": "3150",
-    "callsign": "VK3KB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-04",
-    "effectiveDate": "2023-08-04"
-  },
-  {
-    "category": "Advanced",
     "name": "Terrence McIntosh",
     "suburb": "ALTONA",
     "state": "VIC",
@@ -49577,17 +49335,6 @@
     "effectiveDate": "2023-12-04"
   },
   {
-    "category": "Foundation",
-    "name": "Karl Donald",
-    "suburb": "SANDRINGHAM",
-    "state": "VIC",
-    "postcode": "3191",
-    "callsign": "VK3KRL",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-17",
-    "effectiveDate": "2023-07-17"
-  },
-  {
     "category": "Advanced",
     "name": "AW Hornby",
     "suburb": "MELTON",
@@ -49685,17 +49432,6 @@
     "expiryDate": "2024-12-18",
     "issuedDate": "2023-12-19",
     "effectiveDate": "2023-12-19"
-  },
-  {
-    "category": "Advanced",
-    "name": "Steven Barr",
-    "suburb": "MELTON SOUTH",
-    "state": "VIC",
-    "postcode": "3338",
-    "callsign": "VK3KTT",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-17",
-    "effectiveDate": "2023-07-17"
   },
   {
     "category": "Advanced",
@@ -70192,17 +69928,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Paul Curteis Litchen",
-    "suburb": "WILLIAMSTOWN",
-    "state": "VIC",
-    "postcode": "3016",
-    "callsign": "VK3TKB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-30",
-    "effectiveDate": "2023-08-29"
-  },
-  {
-    "category": "Advanced",
     "name": "G Wyhoon",
     "suburb": "KORUMBURRA",
     "state": "VIC",
@@ -70728,17 +70453,6 @@
     "expiryDate": "2024-08-29",
     "issuedDate": "2023-08-30",
     "effectiveDate": "2023-08-30"
-  },
-  {
-    "category": "Advanced",
-    "name": "Edward Joseph Treuer",
-    "suburb": "CARRUM DOWNS",
-    "state": "VIC",
-    "postcode": "3201",
-    "callsign": "VK3TYR",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-20",
-    "effectiveDate": "2023-07-20"
   },
   {
     "category": "Advanced",
@@ -73294,17 +73008,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Colin Smith",
-    "suburb": "KYNETON",
-    "state": "VIC",
-    "postcode": "3444",
-    "callsign": "VK3XW",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-06",
-    "effectiveDate": "2023-08-06"
-  },
-  {
-    "category": "Advanced",
     "name": "Donald Russell Dent",
     "suburb": "SALE",
     "state": "VIC",
@@ -74116,17 +73819,6 @@
     "expiryDate": "2024-09-16",
     "issuedDate": "2023-09-15",
     "effectiveDate": "2023-09-15"
-  },
-  {
-    "category": "Advanced",
-    "name": "Peter J Weeks",
-    "suburb": "ALEXANDRA",
-    "state": "VIC",
-    "postcode": "3714",
-    "callsign": "VK3YZP",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-09-13",
-    "effectiveDate": "2023-09-12"
   },
   {
     "category": "Advanced",
@@ -75700,17 +75392,6 @@
     "expiryDate": "2024-10-19",
     "issuedDate": "2023-10-17",
     "effectiveDate": "2023-10-17"
-  },
-  {
-    "category": "Advanced",
-    "name": "Denis Peter Johnstone",
-    "suburb": "KIRWAN",
-    "state": "QLD",
-    "postcode": "4817",
-    "callsign": "VK4AE",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Foundation",
@@ -78442,17 +78123,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Loftus",
-    "suburb": "PETRIE",
-    "state": "QLD",
-    "postcode": "4502",
-    "callsign": "VK4CT",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-24",
-    "effectiveDate": "2023-07-24"
-  },
-  {
-    "category": "Advanced",
     "name": "John Lynch",
     "suburb": "NEWPORT",
     "state": "QLD",
@@ -79462,17 +79132,6 @@
     "expiryDate": "2025-01-28",
     "issuedDate": "2024-01-29",
     "effectiveDate": "2024-01-29"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Loftus",
-    "suburb": "PETRIE",
-    "state": "QLD",
-    "postcode": "4502",
-    "callsign": "VK4EMM",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-24",
-    "effectiveDate": "2023-07-24"
   },
   {
     "category": "Advanced",
@@ -82456,17 +82115,6 @@
     "effectiveDate": "2023-11-27"
   },
   {
-    "category": "Standard",
-    "name": "James Ormesher",
-    "suburb": "SOUTHSIDE",
-    "state": "QLD",
-    "postcode": "4570",
-    "callsign": "VK4HWY",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-04",
-    "effectiveDate": "2023-08-04"
-  },
-  {
     "category": "Advanced",
     "name": "Ian Menzies",
     "suburb": "REDCLIFFE",
@@ -85182,17 +84830,6 @@
     "expiryDate": "2025-01-15",
     "issuedDate": "2023-12-20",
     "effectiveDate": "2023-12-20"
-  },
-  {
-    "category": "Foundation",
-    "name": "Matthew Reeves",
-    "suburb": "SMITHFIELD",
-    "state": "QLD",
-    "postcode": "4878",
-    "callsign": "VK4MSR",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
   },
   {
     "category": "Standard",
@@ -104820,17 +104457,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David J Poole",
-    "suburb": "WILLIAMSTOWN",
-    "state": "SA",
-    "postcode": "5351",
-    "callsign": "VK5PL",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-14",
-    "effectiveDate": "2023-07-14"
-  },
-  {
-    "category": "Advanced",
     "name": "John F McRae",
     "suburb": "MALLALA",
     "state": "SA",
@@ -108801,17 +108427,6 @@
     "effectiveDate": "2024-01-29"
   },
   {
-    "category": "Advanced",
-    "name": "NG Govan",
-    "suburb": "CRYSTAL BROOK",
-    "state": "SA",
-    "postcode": "5523",
-    "callsign": "VK5WG",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-18",
-    "effectiveDate": "2023-08-18"
-  },
-  {
     "category": "Foundation",
     "name": "Randall Wheaton",
     "suburb": "SURREY DOWNS",
@@ -110001,17 +109616,6 @@
   },
   {
     "category": "Advanced",
-    "name": "GE Mays",
-    "suburb": "KINGSLEY",
-    "state": "WA",
-    "postcode": "6026",
-    "callsign": "VK6AGC",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-18",
-    "effectiveDate": "2023-08-18"
-  },
-  {
-    "category": "Advanced",
     "name": "Christopher Scoble",
     "suburb": "BALDIVIS",
     "state": "WA",
@@ -110397,17 +110001,6 @@
   },
   {
     "category": "Advanced",
-    "name": "GP Mackay",
-    "suburb": "TUART HILL",
-    "state": "WA",
-    "postcode": "6060",
-    "callsign": "VK6AUM",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-16",
-    "effectiveDate": "2023-08-16"
-  },
-  {
-    "category": "Advanced",
     "name": "Allan James Waldeck",
     "suburb": "KALAMUNDA",
     "state": "WA",
@@ -110493,17 +110086,6 @@
     "expiryDate": "2024-08-31",
     "issuedDate": "2023-09-01",
     "effectiveDate": "2023-09-01"
-  },
-  {
-    "category": "Advanced",
-    "name": "Harold Edward Parker",
-    "suburb": "BEECHBORO",
-    "state": "WA",
-    "postcode": "6063",
-    "callsign": "VK6BB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-17",
-    "effectiveDate": "2023-08-17"
   },
   {
     "category": "Advanced",
@@ -113408,17 +112990,6 @@
     "expiryDate": "2024-10-24",
     "issuedDate": "2023-10-02",
     "effectiveDate": "2023-10-02"
-  },
-  {
-    "category": "Foundation",
-    "name": "Karl Knight",
-    "suburb": "NARROGIN",
-    "state": "WA",
-    "postcode": "6312",
-    "callsign": "VK6KFK",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-07-17",
-    "effectiveDate": "2023-07-17"
   },
   {
     "category": "Foundation",
@@ -120954,17 +120525,6 @@
     "expiryDate": "2025-02-26",
     "issuedDate": "2020-02-05",
     "effectiveDate": "2020-02-05"
-  },
-  {
-    "category": "Foundation",
-    "name": "Glen Pears",
-    "suburb": "Lindisfarne",
-    "state": "TAS",
-    "postcode": "7015",
-    "callsign": "VK7AAB",
-    "expiryDate": "2024-08-22",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
   },
   {
     "category": "Foundation",
