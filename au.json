@@ -187,17 +187,6 @@
     "effectiveDate": "2023-10-17"
   },
   {
-    "category": "Foundation",
-    "name": "Christopher Hodge",
-    "suburb": "Fyshwick",
-    "state": "ACT",
-    "postcode": "2620",
-    "callsign": "VK1AAU",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-27",
-    "effectiveDate": "2023-07-27"
-  },
-  {
     "category": "Advanced",
     "name": "D Arad",
     "suburb": "KILLARA",
@@ -603,17 +592,6 @@
     "expiryDate": "2024-11-20",
     "issuedDate": "2023-10-23",
     "effectiveDate": "2023-10-23"
-  },
-  {
-    "category": "Advanced",
-    "name": "Andrew Conroy",
-    "suburb": "THEODORE",
-    "state": "ACT",
-    "postcode": "2905",
-    "callsign": "VK1CE",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
   },
   {
     "category": "Foundation",
@@ -3617,17 +3595,6 @@
     "expiryDate": "2024-12-14",
     "issuedDate": "2023-12-04",
     "effectiveDate": "2023-12-04"
-  },
-  {
-    "category": "Foundation",
-    "name": "BRADLEY EVANS",
-    "suburb": "NOWRA",
-    "state": "NSW",
-    "postcode": "2541",
-    "callsign": "VK2AAX",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-10-18",
-    "effectiveDate": "2023-10-18"
   },
   {
     "category": "Foundation",
@@ -6765,17 +6732,6 @@
     "effectiveDate": "2024-01-07"
   },
   {
-    "category": "Foundation",
-    "name": "Clive Powell",
-    "suburb": "TENTERFIELD",
-    "state": "NSW",
-    "postcode": "2372",
-    "callsign": "VK2BWR",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
-  },
-  {
     "category": "Advanced",
     "name": "Hugh W James",
     "suburb": "WOLLSTONECRAFT",
@@ -7148,17 +7104,6 @@
     "expiryDate": "2024-12-16",
     "issuedDate": "2023-11-09",
     "effectiveDate": "2023-11-09"
-  },
-  {
-    "category": "Advanced",
-    "name": "KJ Mulcahy",
-    "suburb": "Merimbula",
-    "state": "NSW",
-    "postcode": "2548",
-    "callsign": "VK2CE",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-08",
-    "effectiveDate": "2023-08-08"
   },
   {
     "category": "Advanced",
@@ -8646,17 +8591,6 @@
     "effectiveDate": "2024-02-14"
   },
   {
-    "category": "Foundation",
-    "name": "Robert J Hendry",
-    "suburb": "SOUTH GRAFTON",
-    "state": "NSW",
-    "postcode": "2460",
-    "callsign": "VK2DRY",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-01",
-    "effectiveDate": "2023-08-01"
-  },
-  {
     "category": "Advanced",
     "name": "D Going",
     "suburb": "CRANEBROOK",
@@ -9128,17 +9062,6 @@
     "expiryDate": "2024-10-04",
     "issuedDate": "2023-09-26",
     "effectiveDate": "2023-09-26"
-  },
-  {
-    "category": "Advanced",
-    "name": "Christopher Michael Zeno Devery",
-    "suburb": "GOULBURN",
-    "state": "NSW",
-    "postcode": "2580",
-    "callsign": "VK2EF",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-14",
-    "effectiveDate": "2023-08-14"
   },
   {
     "category": "Advanced",
@@ -12409,17 +12332,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Warwick B Chegwidden",
-    "suburb": "SYLVANIA",
-    "state": "NSW",
-    "postcode": "2224",
-    "callsign": "VK2GIZ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
-  },
-  {
-    "category": "Advanced",
     "name": "Greg J Cogar",
     "suburb": "ULLADULLA",
     "state": "NSW",
@@ -12472,17 +12384,6 @@
     "expiryDate": "2024-10-24",
     "issuedDate": "2023-10-13",
     "effectiveDate": "2023-10-13"
-  },
-  {
-    "category": "Advanced",
-    "name": "A Gallagher",
-    "suburb": "CLARENCE TOWN",
-    "state": "NSW",
-    "postcode": "2321",
-    "callsign": "VK2GKX",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-09",
-    "effectiveDate": "2023-08-09"
   },
   {
     "category": "Advanced",
@@ -15291,17 +15192,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Johannes van Zyl",
-    "suburb": "BUNGENDORE",
-    "state": "NSW",
-    "postcode": "2621",
-    "callsign": "VK2JVZ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
-  },
-  {
-    "category": "Advanced",
     "name": "GD Morrison",
     "suburb": "ST IVES",
     "state": "NSW",
@@ -17633,17 +17523,6 @@
     "effectiveDate": "2021-12-21"
   },
   {
-    "category": "Advanced",
-    "name": "Daniel Keogh",
-    "suburb": "BRADBURY",
-    "state": "NSW",
-    "postcode": "2560",
-    "callsign": "VK2MR",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-01",
-    "effectiveDate": "2023-08-01"
-  },
-  {
     "category": "Standard",
     "name": "Mathew Curvey",
     "suburb": "GOULBURN",
@@ -19336,17 +19215,6 @@
     "expiryDate": "2025-01-11",
     "issuedDate": "2024-01-31",
     "effectiveDate": "2024-01-31"
-  },
-  {
-    "category": "Standard",
-    "name": "Lee Dawson",
-    "suburb": "ST ANDREWS",
-    "state": "NSW",
-    "postcode": "2566",
-    "callsign": "VK2POI",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-21",
-    "effectiveDate": "2023-08-21"
   },
   {
     "category": "Standard",
@@ -23161,28 +23029,6 @@
     "state": "NSW",
     "postcode": "2370",
     "callsign": "VK2RGE",
-    "expiryDate": "2024-10-11",
-    "issuedDate": "2023-10-04",
-    "effectiveDate": "2023-10-04"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Glen Innes and District Amateur Radio Club",
-    "suburb": "Dundee",
-    "state": "NSW",
-    "postcode": "2370",
-    "callsign": "VK2RGE",
-    "expiryDate": "2024-10-11",
-    "issuedDate": "2023-10-04",
-    "effectiveDate": "2023-10-04"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Glen Innes and District Amateur Radio Club",
-    "suburb": "Dundee",
-    "state": "NSW",
-    "postcode": "2370",
-    "callsign": "VK2RGE",
     "expiryDate": "2025-04-12",
     "issuedDate": "2024-03-12",
     "effectiveDate": "2024-03-12"
@@ -23197,6 +23043,28 @@
     "expiryDate": "2025-04-12",
     "issuedDate": "2024-03-12",
     "effectiveDate": "2024-03-12"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Glen Innes and District Amateur Radio Club",
+    "suburb": "Dundee",
+    "state": "NSW",
+    "postcode": "2370",
+    "callsign": "VK2RGE",
+    "expiryDate": "2024-10-11",
+    "issuedDate": "2023-10-04",
+    "effectiveDate": "2023-10-04"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Glen Innes and District Amateur Radio Club",
+    "suburb": "Dundee",
+    "state": "NSW",
+    "postcode": "2370",
+    "callsign": "VK2RGE",
+    "expiryDate": "2024-10-11",
+    "issuedDate": "2023-10-04",
+    "effectiveDate": "2023-10-04"
   },
   {
     "category": "Amateur Repeater",
@@ -32858,17 +32726,6 @@
   },
   {
     "category": "Advanced",
-    "name": "James Pollock",
-    "suburb": "KEW",
-    "state": "VIC",
-    "postcode": "3101",
-    "callsign": "VK2WX",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
-  },
-  {
-    "category": "Advanced",
     "name": "Seppo Mikael Ahlstedt",
     "suburb": "CATTAI",
     "state": "NSW",
@@ -33845,17 +33702,6 @@
     "expiryDate": "2025-02-06",
     "issuedDate": "2024-01-18",
     "effectiveDate": "2024-01-18"
-  },
-  {
-    "category": "Foundation",
-    "name": "Gavin Deneen",
-    "suburb": "Shortland",
-    "state": "NSW",
-    "postcode": "2307",
-    "callsign": "VK2YAK",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-10",
-    "effectiveDate": "2023-08-10"
   },
   {
     "category": "Advanced",
@@ -37334,17 +37180,6 @@
     "effectiveDate": "2023-12-08"
   },
   {
-    "category": "Standard",
-    "name": "Simon Dyett",
-    "suburb": "WODONGA",
-    "state": "VIC",
-    "postcode": "3690",
-    "callsign": "VK3AWE",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
-  },
-  {
     "category": "Advanced",
     "name": "Allan Tubb",
     "suburb": "EUROA",
@@ -39271,17 +39106,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Jose Vaca",
-    "suburb": "PAKENHAM",
-    "state": "VIC",
-    "postcode": "3810",
-    "callsign": "VK3CPU",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-30",
-    "effectiveDate": "2023-08-30"
-  },
-  {
-    "category": "Advanced",
     "name": "GB Griffith",
     "suburb": "BRIGHT",
     "state": "VIC",
@@ -39400,17 +39224,6 @@
     "expiryDate": "2024-11-05",
     "issuedDate": "2023-09-28",
     "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Advanced",
-    "name": "Clinton Jeffrey",
-    "suburb": "NARRE WARREN SOUTH",
-    "state": "VIC",
-    "postcode": "3805",
-    "callsign": "VK3CSJ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
   },
   {
     "category": "Advanced",
@@ -40668,17 +40481,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David Robert Thompson",
-    "suburb": "SALE",
-    "state": "VIC",
-    "postcode": "3850",
-    "callsign": "VK3DRT",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
-  },
-  {
-    "category": "Advanced",
     "name": "David Lance",
     "suburb": "ST ANDREWS",
     "state": "VIC",
@@ -41347,17 +41149,6 @@
     "expiryDate": "2024-09-29",
     "issuedDate": "2023-08-25",
     "effectiveDate": "2023-08-25"
-  },
-  {
-    "category": "Foundation",
-    "name": "Haydn Kearsey",
-    "suburb": "SEAFORD",
-    "state": "VIC",
-    "postcode": "3198",
-    "callsign": "VK3EMC",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-18",
-    "effectiveDate": "2023-08-18"
   },
   {
     "category": "Advanced",
@@ -42769,17 +42560,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Geoffrey Bourke",
-    "suburb": "BALLAN",
-    "state": "VIC",
-    "postcode": "3342",
-    "callsign": "VK3FGRZ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-25",
-    "effectiveDate": "2023-08-25"
-  },
-  {
-    "category": "Foundation",
     "name": "Savio Racina",
     "suburb": "OLINDA",
     "state": "VIC",
@@ -42799,17 +42579,6 @@
     "expiryDate": "2025-01-05",
     "issuedDate": "2024-01-08",
     "effectiveDate": "2024-01-08"
-  },
-  {
-    "category": "Foundation",
-    "name": "Geoffrey Stevenson",
-    "suburb": "BLACKBURN NORTH",
-    "state": "VIC",
-    "postcode": "3130",
-    "callsign": "VK3FGZA",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-29",
-    "effectiveDate": "2023-08-29"
   },
   {
     "category": "Foundation",
@@ -44374,17 +44143,6 @@
     "effectiveDate": "2021-04-15"
   },
   {
-    "category": "Standard",
-    "name": "Gary Robert Martin",
-    "suburb": "WOORAGEE",
-    "state": "VIC",
-    "postcode": "3747",
-    "callsign": "VK3GAZ",
-    "expiryDate": "2025-01-09",
-    "issuedDate": "2024-01-10",
-    "effectiveDate": "2024-01-10"
-  },
-  {
     "category": "Foundation",
     "name": "Gary Robert Martin",
     "suburb": "WOORAGEE",
@@ -44392,6 +44150,17 @@
     "postcode": "3747",
     "callsign": "VK3GAZ",
     "expiryDate": "2025-01-22",
+    "issuedDate": "2024-01-10",
+    "effectiveDate": "2024-01-10"
+  },
+  {
+    "category": "Standard",
+    "name": "Gary Robert Martin",
+    "suburb": "WOORAGEE",
+    "state": "VIC",
+    "postcode": "3747",
+    "callsign": "VK3GAZ",
+    "expiryDate": "2025-01-09",
     "issuedDate": "2024-01-10",
     "effectiveDate": "2024-01-10"
   },
@@ -44493,17 +44262,6 @@
     "expiryDate": "2024-10-05",
     "issuedDate": "2023-10-19",
     "effectiveDate": "2023-10-19"
-  },
-  {
-    "category": "Advanced",
-    "name": "Graeme Dowsey",
-    "suburb": "CLUNES",
-    "state": "VIC",
-    "postcode": "3370",
-    "callsign": "VK3GED",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-31",
-    "effectiveDate": "2023-07-31"
   },
   {
     "category": "Standard",
@@ -45373,17 +45131,6 @@
     "expiryDate": "2024-09-08",
     "issuedDate": "2023-09-02",
     "effectiveDate": "2023-09-02"
-  },
-  {
-    "category": "Standard",
-    "name": "Peter Richter",
-    "suburb": "PORTLAND",
-    "state": "VIC",
-    "postcode": "3305",
-    "callsign": "VK3HEW",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-04",
-    "effectiveDate": "2023-08-04"
   },
   {
     "category": "Standard",
@@ -47388,17 +47135,6 @@
     "effectiveDate": "2023-10-03"
   },
   {
-    "category": "Advanced",
-    "name": "GR Halley",
-    "suburb": "ENDEAVOUR HILLS",
-    "state": "VIC",
-    "postcode": "3802",
-    "callsign": "VK3KL",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-13",
-    "effectiveDate": "2023-09-11"
-  },
-  {
     "category": "Foundation",
     "name": "Kenneth Thomas",
     "suburb": "CORONET BAY",
@@ -47452,17 +47188,6 @@
     "expiryDate": "2024-09-17",
     "issuedDate": "2023-08-22",
     "effectiveDate": "2023-08-22"
-  },
-  {
-    "category": "Advanced",
-    "name": "Michael Jonathan Hewitt",
-    "suburb": "ALTONA MEADOWS",
-    "state": "VIC",
-    "postcode": "3028",
-    "callsign": "VK3KMJ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-15",
-    "effectiveDate": "2023-08-15"
   },
   {
     "category": "Advanced",
@@ -49094,17 +48819,6 @@
   },
   {
     "category": "Standard",
-    "name": "Greg R Sylvia",
-    "suburb": "MILDURA CENTRE PLAZA",
-    "state": "VIC",
-    "postcode": "3501",
-    "callsign": "VK3MTV",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-31",
-    "effectiveDate": "2023-07-31"
-  },
-  {
-    "category": "Standard",
     "name": "Andrew Stewart",
     "suburb": "FRANKSTON",
     "state": "VIC",
@@ -50059,17 +49773,6 @@
     "expiryDate": "2026-12-18",
     "issuedDate": "2021-11-24",
     "effectiveDate": "2021-11-24"
-  },
-  {
-    "category": "Advanced",
-    "name": "James Pollock",
-    "suburb": "KEW",
-    "state": "VIC",
-    "postcode": "3101",
-    "callsign": "VK3OX",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
   },
   {
     "category": "Advanced",
@@ -51432,7 +51135,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51443,7 +51146,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51454,7 +51157,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51465,7 +51168,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51476,7 +51179,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51487,7 +51190,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51498,7 +51201,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51509,7 +51212,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51520,7 +51223,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51531,7 +51234,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51542,7 +51245,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51553,7 +51256,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51564,7 +51267,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51575,7 +51278,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51586,7 +51289,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51597,7 +51300,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51608,7 +51311,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51619,7 +51322,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51630,7 +51333,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51641,7 +51344,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51652,7 +51355,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51663,7 +51366,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51674,7 +51377,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51685,7 +51388,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51696,7 +51399,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51707,7 +51410,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51718,7 +51421,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51729,7 +51432,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51740,7 +51443,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51751,7 +51454,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51762,7 +51465,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51773,7 +51476,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51784,7 +51487,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51795,7 +51498,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51806,7 +51509,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51817,7 +51520,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51828,7 +51531,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51839,7 +51542,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51850,7 +51553,7 @@
     "postcode": "3147",
     "callsign": "VK3RBA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51861,7 +51564,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51872,7 +51575,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51883,7 +51586,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51894,7 +51597,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51905,7 +51608,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51916,7 +51619,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51927,7 +51630,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51938,7 +51641,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51949,7 +51652,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51960,7 +51663,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51971,7 +51674,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -51982,7 +51685,7 @@
     "postcode": "3147",
     "callsign": "VK3RBB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52059,7 +51762,7 @@
     "postcode": "3147",
     "callsign": "VK3RBL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52070,7 +51773,7 @@
     "postcode": "3147",
     "callsign": "VK3RBL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52081,7 +51784,7 @@
     "postcode": "3147",
     "callsign": "VK3RBL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52092,7 +51795,7 @@
     "postcode": "3147",
     "callsign": "VK3RBL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52103,7 +51806,7 @@
     "postcode": "3147",
     "callsign": "VK3RBL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52114,7 +51817,7 @@
     "postcode": "3147",
     "callsign": "VK3RBL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52477,7 +52180,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52488,7 +52191,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52499,7 +52202,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52510,7 +52213,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52521,7 +52224,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52532,7 +52235,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52543,7 +52246,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52554,7 +52257,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52565,7 +52268,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52576,7 +52279,7 @@
     "postcode": "3147",
     "callsign": "VK3RBU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52840,7 +52543,7 @@
     "postcode": "3147",
     "callsign": "VK3RCP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52851,7 +52554,7 @@
     "postcode": "3147",
     "callsign": "VK3RCP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52862,7 +52565,7 @@
     "postcode": "3147",
     "callsign": "VK3RCP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -52873,7 +52576,7 @@
     "postcode": "3147",
     "callsign": "VK3RCP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53126,7 +52829,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53137,7 +52840,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53148,7 +52851,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53159,7 +52862,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53170,7 +52873,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53181,7 +52884,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53192,7 +52895,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53203,7 +52906,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53214,7 +52917,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53225,7 +52928,7 @@
     "postcode": "3147",
     "callsign": "VK3RCV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53236,7 +52939,7 @@
     "postcode": "3147",
     "callsign": "VK3RCW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53247,7 +52950,7 @@
     "postcode": "3147",
     "callsign": "VK3RCW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53258,7 +52961,7 @@
     "postcode": "3147",
     "callsign": "VK3RCW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53302,7 +53005,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53313,7 +53016,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53324,7 +53027,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53335,7 +53038,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53346,7 +53049,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53357,7 +53060,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53368,7 +53071,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53379,7 +53082,7 @@
     "postcode": "3147",
     "callsign": "VK3RDG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53478,7 +53181,7 @@
     "postcode": "3147",
     "callsign": "VK3RDU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53489,7 +53192,7 @@
     "postcode": "3147",
     "callsign": "VK3RDU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53500,7 +53203,7 @@
     "postcode": "3147",
     "callsign": "VK3RDU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53511,7 +53214,7 @@
     "postcode": "3147",
     "callsign": "VK3RDU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53522,7 +53225,7 @@
     "postcode": "3147",
     "callsign": "VK3RDU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53533,7 +53236,7 @@
     "postcode": "3147",
     "callsign": "VK3RDU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53577,7 +53280,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53588,7 +53291,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53599,7 +53302,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53610,7 +53313,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53621,7 +53324,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53632,7 +53335,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53643,7 +53346,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53654,7 +53357,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53665,7 +53368,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53676,7 +53379,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53687,7 +53390,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53698,7 +53401,7 @@
     "postcode": "3147",
     "callsign": "VK3REB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53731,7 +53434,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53742,7 +53445,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53753,7 +53456,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53764,7 +53467,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53775,7 +53478,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53786,7 +53489,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53797,7 +53500,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53808,7 +53511,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53819,7 +53522,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53830,7 +53533,7 @@
     "postcode": "3147",
     "callsign": "VK3RED",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53841,7 +53544,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53852,7 +53555,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53863,7 +53566,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53874,7 +53577,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53885,7 +53588,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53896,7 +53599,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53907,7 +53610,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53918,7 +53621,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53929,7 +53632,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53940,7 +53643,7 @@
     "postcode": "3147",
     "callsign": "VK3REG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53951,7 +53654,7 @@
     "postcode": "3147",
     "callsign": "VK3REM",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53962,7 +53665,7 @@
     "postcode": "3147",
     "callsign": "VK3REM",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53973,7 +53676,7 @@
     "postcode": "3147",
     "callsign": "VK3REM",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -53984,7 +53687,7 @@
     "postcode": "3147",
     "callsign": "VK3REM",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54160,7 +53863,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54171,7 +53874,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54182,7 +53885,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54193,7 +53896,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54204,7 +53907,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54215,7 +53918,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54226,7 +53929,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54237,7 +53940,7 @@
     "postcode": "3147",
     "callsign": "VK3RGC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54336,7 +54039,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54347,7 +54050,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54358,7 +54061,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54369,7 +54072,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54380,7 +54083,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54391,7 +54094,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54402,7 +54105,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54413,7 +54116,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54424,7 +54127,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54435,7 +54138,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54446,7 +54149,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54457,7 +54160,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54468,7 +54171,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54479,7 +54182,7 @@
     "postcode": "3147",
     "callsign": "VK3RGI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54490,7 +54193,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54501,7 +54204,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54512,7 +54215,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54523,7 +54226,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54534,7 +54237,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54545,7 +54248,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54556,7 +54259,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54567,7 +54270,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54578,7 +54281,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54589,7 +54292,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54600,7 +54303,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54611,7 +54314,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54622,7 +54325,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54633,7 +54336,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54644,7 +54347,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54655,7 +54358,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54666,7 +54369,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54677,7 +54380,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54688,7 +54391,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54699,7 +54402,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54710,7 +54413,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54721,7 +54424,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54732,7 +54435,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54743,7 +54446,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54754,7 +54457,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54765,7 +54468,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54776,7 +54479,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54787,7 +54490,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54798,7 +54501,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54809,7 +54512,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54820,7 +54523,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54831,7 +54534,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54842,7 +54545,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54853,7 +54556,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54864,7 +54567,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54875,7 +54578,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54886,7 +54589,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54897,7 +54600,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54908,7 +54611,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54919,7 +54622,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54930,7 +54633,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54941,7 +54644,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54952,7 +54655,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54963,7 +54666,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54974,7 +54677,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54985,7 +54688,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -54996,7 +54699,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55007,7 +54710,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55018,7 +54721,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55029,7 +54732,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55040,7 +54743,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55051,7 +54754,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55062,7 +54765,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55073,7 +54776,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55084,7 +54787,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55095,7 +54798,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55106,7 +54809,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55117,7 +54820,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55128,7 +54831,7 @@
     "postcode": "3147",
     "callsign": "VK3RGL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55249,7 +54952,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55260,7 +54963,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55271,7 +54974,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55282,7 +54985,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55293,7 +54996,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55304,7 +55007,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55315,7 +55018,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55326,7 +55029,7 @@
     "postcode": "3147",
     "callsign": "VK3RGS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55337,7 +55040,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55348,7 +55051,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55359,7 +55062,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55370,7 +55073,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55381,7 +55084,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55392,7 +55095,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55403,7 +55106,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55414,7 +55117,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55425,7 +55128,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55436,7 +55139,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55447,7 +55150,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55458,7 +55161,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55469,7 +55172,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55480,7 +55183,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55491,7 +55194,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -55502,7 +55205,7 @@
     "postcode": "3147",
     "callsign": "VK3RGU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56899,7 +56602,7 @@
     "postcode": "3147",
     "callsign": "VK3RLV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56910,7 +56613,7 @@
     "postcode": "3147",
     "callsign": "VK3RLV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56921,7 +56624,7 @@
     "postcode": "3147",
     "callsign": "VK3RLV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56932,7 +56635,7 @@
     "postcode": "3147",
     "callsign": "VK3RLV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56943,7 +56646,7 @@
     "postcode": "3147",
     "callsign": "VK3RLV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56954,7 +56657,7 @@
     "postcode": "3147",
     "callsign": "VK3RLV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56965,7 +56668,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56976,7 +56679,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56987,7 +56690,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -56998,7 +56701,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57009,7 +56712,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57020,7 +56723,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57031,7 +56734,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57042,7 +56745,7 @@
     "postcode": "3147",
     "callsign": "VK3RMA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57596,138 +57299,6 @@
     "effectiveDate": "2024-02-27"
   },
   {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "North East Radio Group Inc",
-    "suburb": "GREENSBOROUGH",
-    "state": "VIC",
-    "postcode": "3088",
-    "callsign": "VK3RMH",
-    "expiryDate": "2025-03-20",
-    "issuedDate": "2024-02-13",
-    "effectiveDate": "2024-02-13"
-  },
-  {
     "category": "Amateur Beacon",
     "name": "North East Radio Group Inc",
     "suburb": "GREENSBOROUGH",
@@ -57773,6 +57344,138 @@
   },
   {
     "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "North East Radio Group Inc",
+    "suburb": "GREENSBOROUGH",
+    "state": "VIC",
+    "postcode": "3088",
+    "callsign": "VK3RMH",
+    "expiryDate": "2025-03-20",
+    "issuedDate": "2024-02-13",
+    "effectiveDate": "2024-02-13"
+  },
+  {
+    "category": "Amateur Repeater",
     "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
     "suburb": "ASHBURTON",
     "state": "VIC",
@@ -57889,7 +57592,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57900,7 +57603,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57911,7 +57614,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57922,7 +57625,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57933,7 +57636,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57944,7 +57647,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57955,7 +57658,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -57966,7 +57669,7 @@
     "postcode": "3147",
     "callsign": "VK3RML",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58483,7 +58186,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58494,7 +58197,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58505,7 +58208,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58516,7 +58219,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58527,7 +58230,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58538,7 +58241,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58549,7 +58252,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58560,7 +58263,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58571,7 +58274,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58582,7 +58285,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58593,7 +58296,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58604,7 +58307,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58615,7 +58318,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58626,7 +58329,7 @@
     "postcode": "3147",
     "callsign": "VK3RMS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58659,7 +58362,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58670,7 +58373,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58681,7 +58384,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58692,7 +58395,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58703,7 +58406,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58714,7 +58417,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58725,7 +58428,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58736,7 +58439,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58747,7 +58450,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58758,7 +58461,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58769,7 +58472,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58780,7 +58483,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58791,7 +58494,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58802,7 +58505,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58813,7 +58516,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58824,7 +58527,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58835,7 +58538,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58846,7 +58549,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58857,7 +58560,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58868,7 +58571,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58879,7 +58582,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58890,7 +58593,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58901,7 +58604,7 @@
     "postcode": "3147",
     "callsign": "VK3RMU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58912,7 +58615,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-01-26",
-    "issuedDate": "2024-01-30",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-30"
   },
   {
@@ -58923,7 +58626,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-01-26",
-    "issuedDate": "2024-01-30",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-30"
   },
   {
@@ -58934,7 +58637,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58945,7 +58648,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58956,7 +58659,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58967,7 +58670,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58978,7 +58681,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -58989,7 +58692,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59000,7 +58703,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59011,7 +58714,7 @@
     "postcode": "3147",
     "callsign": "VK3RMV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59396,7 +59099,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59407,7 +59110,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59418,7 +59121,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59429,7 +59132,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59440,7 +59143,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59451,7 +59154,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59462,7 +59165,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59473,7 +59176,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59484,7 +59187,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59495,7 +59198,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59506,7 +59209,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59517,7 +59220,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59528,7 +59231,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59539,7 +59242,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59550,7 +59253,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59561,7 +59264,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59572,7 +59275,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59583,7 +59286,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59594,7 +59297,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59605,7 +59308,7 @@
     "postcode": "3147",
     "callsign": "VK3RNU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59649,7 +59352,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59660,7 +59363,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59671,7 +59374,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59682,7 +59385,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59693,7 +59396,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59704,7 +59407,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59715,7 +59418,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59726,7 +59429,7 @@
     "postcode": "3147",
     "callsign": "VK3RON",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59803,7 +59506,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59814,7 +59517,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59825,7 +59528,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59836,7 +59539,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59847,7 +59550,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59858,7 +59561,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59869,7 +59572,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59880,7 +59583,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59891,7 +59594,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59902,7 +59605,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59913,7 +59616,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59924,7 +59627,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59935,7 +59638,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59946,7 +59649,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59957,7 +59660,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59968,7 +59671,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59979,7 +59682,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -59990,7 +59693,7 @@
     "postcode": "3147",
     "callsign": "VK3ROW",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60012,7 +59715,7 @@
     "postcode": "3147",
     "callsign": "VK3RPA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60023,7 +59726,7 @@
     "postcode": "3147",
     "callsign": "VK3RPA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60034,7 +59737,7 @@
     "postcode": "3147",
     "callsign": "VK3RPB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60045,7 +59748,7 @@
     "postcode": "3147",
     "callsign": "VK3RPB",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60056,7 +59759,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60067,7 +59770,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60078,7 +59781,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60089,7 +59792,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60100,7 +59803,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60111,7 +59814,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60122,7 +59825,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60133,7 +59836,7 @@
     "postcode": "3147",
     "callsign": "VK3RPC",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60144,7 +59847,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60155,7 +59858,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60166,7 +59869,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60177,7 +59880,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60188,7 +59891,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60199,7 +59902,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60210,7 +59913,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60221,7 +59924,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60232,7 +59935,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60243,7 +59946,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60254,7 +59957,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60265,7 +59968,7 @@
     "postcode": "3147",
     "callsign": "VK3RPG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60298,7 +60001,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60309,7 +60012,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60320,7 +60023,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60331,7 +60034,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60342,7 +60045,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60353,7 +60056,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60364,7 +60067,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60375,7 +60078,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60386,7 +60089,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60397,7 +60100,7 @@
     "postcode": "3147",
     "callsign": "VK3RPK",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60584,7 +60287,7 @@
     "postcode": "3147",
     "callsign": "VK3RPP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60595,7 +60298,7 @@
     "postcode": "3147",
     "callsign": "VK3RPP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60606,7 +60309,7 @@
     "postcode": "3147",
     "callsign": "VK3RPP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60617,7 +60320,7 @@
     "postcode": "3147",
     "callsign": "VK3RPP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60628,7 +60331,7 @@
     "postcode": "3147",
     "callsign": "VK3RPP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60639,7 +60342,7 @@
     "postcode": "3147",
     "callsign": "VK3RPP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60672,7 +60375,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60683,7 +60386,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60694,7 +60397,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60705,7 +60408,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60716,7 +60419,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60727,7 +60430,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60738,7 +60441,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60749,7 +60452,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60760,7 +60463,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60771,7 +60474,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60782,7 +60485,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60793,7 +60496,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60804,7 +60507,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60815,7 +60518,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60826,7 +60529,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60837,7 +60540,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60848,7 +60551,7 @@
     "postcode": "3147",
     "callsign": "VK3RPS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60903,7 +60606,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60914,7 +60617,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60925,7 +60628,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60936,7 +60639,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60947,7 +60650,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60958,7 +60661,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60969,7 +60672,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60980,7 +60683,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -60991,7 +60694,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61002,7 +60705,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61013,7 +60716,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61024,7 +60727,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61035,7 +60738,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61046,7 +60749,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61057,7 +60760,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61068,7 +60771,7 @@
     "postcode": "3147",
     "callsign": "VK3RPU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -61618,7 +61321,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61629,7 +61332,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61640,7 +61343,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61651,7 +61354,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61662,7 +61365,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61673,7 +61376,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61684,7 +61387,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61695,7 +61398,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61706,7 +61409,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61717,7 +61420,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61728,7 +61431,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61739,7 +61442,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61750,7 +61453,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -61761,7 +61464,7 @@
     "postcode": "3147",
     "callsign": "VK3RRU",
     "expiryDate": "2025-01-30",
-    "issuedDate": "2024-01-02",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-01-02"
   },
   {
@@ -62102,7 +61805,7 @@
     "postcode": "3147",
     "callsign": "VK3RSG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62113,7 +61816,7 @@
     "postcode": "3147",
     "callsign": "VK3RSG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62124,7 +61827,7 @@
     "postcode": "3147",
     "callsign": "VK3RSG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62135,7 +61838,7 @@
     "postcode": "3147",
     "callsign": "VK3RSG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62696,7 +62399,7 @@
     "postcode": "3147",
     "callsign": "VK3RTG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62707,7 +62410,7 @@
     "postcode": "3147",
     "callsign": "VK3RTG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62795,7 +62498,7 @@
     "postcode": "3147",
     "callsign": "VK3RTS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62806,7 +62509,7 @@
     "postcode": "3147",
     "callsign": "VK3RTS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62817,7 +62520,7 @@
     "postcode": "3147",
     "callsign": "VK3RTS",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62828,7 +62531,7 @@
     "postcode": "3147",
     "callsign": "VK3RTT",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62839,7 +62542,7 @@
     "postcode": "3147",
     "callsign": "VK3RTT",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62872,7 +62575,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62883,7 +62586,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62894,7 +62597,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62905,7 +62608,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62916,7 +62619,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62927,7 +62630,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62938,7 +62641,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62949,7 +62652,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62960,7 +62663,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62971,7 +62674,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62982,7 +62685,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -62993,7 +62696,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63004,7 +62707,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63015,7 +62718,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63026,7 +62729,7 @@
     "postcode": "3147",
     "callsign": "VK3RTV",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63125,7 +62828,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63136,7 +62839,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63147,7 +62850,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63158,7 +62861,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63169,7 +62872,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63180,7 +62883,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63191,7 +62894,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63202,7 +62905,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63213,7 +62916,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63224,7 +62927,7 @@
     "postcode": "3147",
     "callsign": "VK3RVL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-07-04",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-07-04"
   },
   {
@@ -63268,7 +62971,7 @@
     "postcode": "3147",
     "callsign": "VK3RWA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63279,7 +62982,7 @@
     "postcode": "3147",
     "callsign": "VK3RWA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63290,7 +62993,7 @@
     "postcode": "3147",
     "callsign": "VK3RWA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63301,7 +63004,7 @@
     "postcode": "3147",
     "callsign": "VK3RWA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63312,7 +63015,7 @@
     "postcode": "3147",
     "callsign": "VK3RWA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63323,7 +63026,7 @@
     "postcode": "3147",
     "callsign": "VK3RWA",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63400,7 +63103,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63411,7 +63114,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63422,7 +63125,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63433,7 +63136,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63444,7 +63147,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63455,7 +63158,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63466,7 +63169,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63477,7 +63180,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63488,7 +63191,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63499,7 +63202,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63510,7 +63213,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63521,7 +63224,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63532,7 +63235,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63543,7 +63246,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63554,7 +63257,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63565,7 +63268,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63576,7 +63279,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63587,7 +63290,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63598,7 +63301,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63609,7 +63312,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63620,7 +63323,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63631,7 +63334,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63642,7 +63345,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63653,7 +63356,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63664,7 +63367,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63675,7 +63378,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63686,7 +63389,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63697,7 +63400,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63708,7 +63411,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63719,7 +63422,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63730,7 +63433,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63741,7 +63444,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63752,7 +63455,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63763,7 +63466,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63774,7 +63477,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63785,7 +63488,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63796,7 +63499,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63807,7 +63510,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63818,7 +63521,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63829,7 +63532,7 @@
     "postcode": "3147",
     "callsign": "VK3RWE",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63840,7 +63543,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63851,7 +63554,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63862,7 +63565,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63873,7 +63576,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63884,7 +63587,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63895,7 +63598,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63906,7 +63609,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63917,7 +63620,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63928,7 +63631,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63939,7 +63642,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63950,7 +63653,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63961,7 +63664,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63972,7 +63675,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63983,7 +63686,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -63994,7 +63697,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64005,7 +63708,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64016,7 +63719,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64027,7 +63730,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64038,7 +63741,7 @@
     "postcode": "3147",
     "callsign": "VK3RWG",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64357,7 +64060,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64368,7 +64071,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64379,7 +64082,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64390,7 +64093,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64401,7 +64104,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64412,7 +64115,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64423,7 +64126,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64434,7 +64137,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64445,7 +64148,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64456,7 +64159,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64467,7 +64170,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64478,7 +64181,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64489,7 +64192,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64500,7 +64203,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64511,7 +64214,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64522,7 +64225,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64533,7 +64236,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64544,7 +64247,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64555,7 +64258,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64566,7 +64269,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64577,7 +64280,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64588,7 +64291,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64599,7 +64302,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64610,7 +64313,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64621,7 +64324,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64632,7 +64335,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64643,7 +64346,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64654,7 +64357,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64665,7 +64368,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64676,7 +64379,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64687,7 +64390,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64698,7 +64401,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64709,7 +64412,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64720,7 +64423,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64731,7 +64434,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64742,7 +64445,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64753,7 +64456,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64764,7 +64467,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64775,7 +64478,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64786,7 +64489,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64797,7 +64500,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64808,7 +64511,7 @@
     "postcode": "3147",
     "callsign": "VK3RWI",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64819,7 +64522,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64830,7 +64533,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64841,7 +64544,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64852,7 +64555,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64863,7 +64566,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64874,7 +64577,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64885,7 +64588,7 @@
     "postcode": "3147",
     "callsign": "VK3RWL",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-06-25",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-06-25"
   },
   {
@@ -64896,7 +64599,7 @@
     "postcode": "3147",
     "callsign": "VK3RWM",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -64907,7 +64610,7 @@
     "postcode": "3147",
     "callsign": "VK3RWM",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65094,7 +64797,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65105,7 +64808,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65116,7 +64819,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65127,7 +64830,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65138,7 +64841,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65149,7 +64852,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65160,7 +64863,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65171,7 +64874,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65182,7 +64885,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65193,7 +64896,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65204,7 +64907,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65215,7 +64918,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65226,7 +64929,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65237,7 +64940,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65248,7 +64951,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65259,7 +64962,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65270,7 +64973,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65281,7 +64984,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65292,7 +64995,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65303,7 +65006,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65314,7 +65017,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65325,7 +65028,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65336,7 +65039,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65347,7 +65050,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65358,7 +65061,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65369,7 +65072,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65380,7 +65083,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65391,7 +65094,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65402,7 +65105,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65413,7 +65116,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65424,7 +65127,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65435,7 +65138,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65446,7 +65149,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65457,7 +65160,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65468,7 +65171,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65479,7 +65182,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65490,7 +65193,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65501,7 +65204,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65512,7 +65215,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65523,7 +65226,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65534,7 +65237,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65545,7 +65248,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65556,7 +65259,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65567,7 +65270,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65578,7 +65281,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -65589,7 +65292,7 @@
     "postcode": "3147",
     "callsign": "VK3RWP",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66040,7 +65743,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66051,7 +65754,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66062,7 +65765,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66073,7 +65776,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66084,7 +65787,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66095,7 +65798,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66106,7 +65809,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66117,7 +65820,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66128,7 +65831,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66139,7 +65842,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66150,7 +65853,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66161,7 +65864,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66172,7 +65875,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66183,7 +65886,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66194,7 +65897,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66205,7 +65908,7 @@
     "postcode": "3147",
     "callsign": "VK3RWU",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66348,7 +66051,7 @@
     "postcode": "3147",
     "callsign": "VK3RWZ",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -66359,7 +66062,7 @@
     "postcode": "3147",
     "callsign": "VK3RWZ",
     "expiryDate": "2025-03-25",
-    "issuedDate": "2024-02-16",
+    "issuedDate": "2024-08-28",
     "effectiveDate": "2024-02-16"
   },
   {
@@ -68970,17 +68673,6 @@
     "effectiveDate": "2024-01-02"
   },
   {
-    "category": "Advanced",
-    "name": "Phillip Harden",
-    "suburb": "WEST WODONGA",
-    "state": "VIC",
-    "postcode": "3690",
-    "callsign": "VK3VC",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-01",
-    "effectiveDate": "2023-08-01"
-  },
-  {
     "category": "Foundation",
     "name": "Cameron Allis",
     "suburb": "SUNSHINE",
@@ -70995,17 +70687,6 @@
   },
   {
     "category": "Advanced",
-    "name": "A Karolykerty",
-    "suburb": "HIGHTON",
-    "state": "VIC",
-    "postcode": "3216",
-    "callsign": "VK3YAK",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-31",
-    "effectiveDate": "2023-08-31"
-  },
-  {
-    "category": "Advanced",
     "name": "PR Johnstone",
     "suburb": "MOUNT WAVERLEY",
     "state": "VIC",
@@ -71776,17 +71457,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Frederick Elliott",
-    "suburb": "Noble Park",
-    "state": "VIC",
-    "postcode": "3174",
-    "callsign": "VK3ZAQ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-10",
-    "effectiveDate": "2023-08-10"
-  },
-  {
-    "category": "Advanced",
     "name": "James Charles Henderson",
     "suburb": "PAYNESVILLE",
     "state": "VIC",
@@ -71905,17 +71575,6 @@
     "expiryDate": "2025-01-27",
     "issuedDate": "2024-01-10",
     "effectiveDate": "2024-01-10"
-  },
-  {
-    "category": "Standard",
-    "name": "Kevin Dunleavy",
-    "suburb": "WANGARATTA",
-    "state": "VIC",
-    "postcode": "3682",
-    "callsign": "VK3ZDK",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-12-05",
-    "effectiveDate": "2023-09-01"
   },
   {
     "category": "Foundation",
@@ -72114,17 +71773,6 @@
     "expiryDate": "2024-10-30",
     "issuedDate": "2023-10-31",
     "effectiveDate": "2023-10-31"
-  },
-  {
-    "category": "Advanced",
-    "name": "GR Halley",
-    "suburb": "ENDEAVOUR HILLS",
-    "state": "VIC",
-    "postcode": "3802",
-    "callsign": "VK3ZKV",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-13",
-    "effectiveDate": "2023-09-11"
   },
   {
     "category": "Advanced",
@@ -73558,28 +73206,6 @@
   },
   {
     "category": "Advanced",
-    "name": "A. J. Parr",
-    "suburb": "ROCKYVIEW",
-    "state": "QLD",
-    "postcode": "4701",
-    "callsign": "VK4AJA",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-16",
-    "effectiveDate": "2023-08-16"
-  },
-  {
-    "category": "Foundation",
-    "name": "Aaron Brown",
-    "suburb": "EVERTON PARK",
-    "state": "QLD",
-    "postcode": "4053",
-    "callsign": "VK4AJB",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
-  },
-  {
-    "category": "Advanced",
     "name": "JG Chandler",
     "suburb": "TEWANTIN",
     "state": "QLD",
@@ -73731,17 +73357,6 @@
     "expiryDate": "2024-10-20",
     "issuedDate": "2023-09-28",
     "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Advanced",
-    "name": "KH Tietze",
-    "suburb": "MALENY",
-    "state": "QLD",
-    "postcode": "4552",
-    "callsign": "VK4AKT",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-21",
-    "effectiveDate": "2023-08-21"
   },
   {
     "category": "Foundation",
@@ -74261,17 +73876,6 @@
     "effectiveDate": "2023-08-18"
   },
   {
-    "category": "Standard",
-    "name": "Victor Wright",
-    "suburb": "DIMBULAH",
-    "state": "QLD",
-    "postcode": "4872",
-    "callsign": "VK4AVW",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
-  },
-  {
     "category": "Advanced",
     "name": "Nigel Howard Macey",
     "suburb": "MOOLOOLAH",
@@ -74503,17 +74107,6 @@
     "effectiveDate": "2023-11-06"
   },
   {
-    "category": "Advanced",
-    "name": "Robin B Taylor",
-    "suburb": "CONWAY",
-    "state": "QLD",
-    "postcode": "4800",
-    "callsign": "VK4BBT",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-14",
-    "effectiveDate": "2023-08-14"
-  },
-  {
     "category": "Foundation",
     "name": "Gregory Ackman",
     "suburb": "NERANG",
@@ -74578,17 +74171,6 @@
     "expiryDate": "2025-02-14",
     "issuedDate": "2024-02-15",
     "effectiveDate": "2024-02-15"
-  },
-  {
-    "category": "Advanced",
-    "name": "BD Wilson",
-    "suburb": "COLEYVILLE",
-    "state": "QLD",
-    "postcode": "4307",
-    "callsign": "VK4BDW",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Foundation",
@@ -75779,17 +75361,6 @@
     "effectiveDate": "2023-11-14"
   },
   {
-    "category": "Foundation",
-    "name": "Christopher Fardoulys",
-    "suburb": "Scarborough",
-    "state": "QLD",
-    "postcode": "4020",
-    "callsign": "VK4CPF",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-29",
-    "effectiveDate": "2023-08-29"
-  },
-  {
     "category": "Advanced",
     "name": "Paul R Stevens",
     "suburb": "MT WHITESTONE",
@@ -76448,17 +76019,6 @@
     "expiryDate": "2024-10-22",
     "issuedDate": "2023-10-19",
     "effectiveDate": "2023-10-19"
-  },
-  {
-    "category": "Advanced",
-    "name": "David Poole",
-    "suburb": "Everton Hills",
-    "state": "QLD",
-    "postcode": "4053",
-    "callsign": "VK4DPP",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Advanced",
@@ -78804,17 +78364,6 @@
     "effectiveDate": "2023-12-18"
   },
   {
-    "category": "Foundation",
-    "name": "Nathan Carkeet",
-    "suburb": "BELLBOWRIE",
-    "state": "QLD",
-    "postcode": "4070",
-    "callsign": "VK4GOV",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-13",
-    "effectiveDate": "2023-09-13"
-  },
-  {
     "category": "Advanced",
     "name": "Nigel Marsh",
     "suburb": "BEACHMERE",
@@ -79541,17 +79090,6 @@
     "effectiveDate": "2023-10-03"
   },
   {
-    "category": "Advanced",
-    "name": "Robert Bruce Symes",
-    "suburb": "TARRAGINDI",
-    "state": "QLD",
-    "postcode": "4121",
-    "callsign": "VK4HP",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-09",
-    "effectiveDate": "2023-08-09"
-  },
-  {
     "category": "Standard",
     "name": "Herbert Patrick Reich",
     "suburb": "EMU PARK",
@@ -80023,17 +79561,6 @@
     "expiryDate": "2024-09-05",
     "issuedDate": "2023-09-07",
     "effectiveDate": "2023-09-07"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Bews",
-    "suburb": "CAMP HILL",
-    "state": "QLD",
-    "postcode": "4152",
-    "callsign": "VK4JBE",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-13",
-    "effectiveDate": "2023-08-13"
   },
   {
     "category": "Advanced",
@@ -81046,17 +80573,6 @@
     "expiryDate": "2024-11-09",
     "issuedDate": "2023-11-03",
     "effectiveDate": "2023-11-03"
-  },
-  {
-    "category": "Advanced",
-    "name": "RG Melton",
-    "suburb": "GREENBANK",
-    "state": "QLD",
-    "postcode": "4124",
-    "callsign": "VK4KLC",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-29",
-    "effectiveDate": "2023-08-29"
   },
   {
     "category": "Advanced",
@@ -82468,17 +81984,6 @@
   },
   {
     "category": "Standard",
-    "name": "BW Brogan",
-    "suburb": "EVERTON PARK",
-    "state": "QLD",
-    "postcode": "4053",
-    "callsign": "VK4NDW",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-14",
-    "effectiveDate": "2023-09-14"
-  },
-  {
-    "category": "Standard",
     "name": "CJ Stewart",
     "suburb": "AYR",
     "state": "QLD",
@@ -82641,17 +82146,6 @@
     "expiryDate": "2024-11-29",
     "issuedDate": "2023-11-29",
     "effectiveDate": "2023-11-29"
-  },
-  {
-    "category": "Standard",
-    "name": "GE Sawyer",
-    "suburb": "MORNINGSIDE",
-    "state": "QLD",
-    "postcode": "4170",
-    "callsign": "VK4NMG",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-27",
-    "effectiveDate": "2023-07-27"
   },
   {
     "category": "Advanced",
@@ -82982,17 +82476,6 @@
     "expiryDate": "2024-10-31",
     "issuedDate": "2023-09-29",
     "effectiveDate": "2023-09-29"
-  },
-  {
-    "category": "Advanced",
-    "name": "David H Jones",
-    "suburb": "WYNNUM",
-    "state": "QLD",
-    "postcode": "4178",
-    "callsign": "VK4OF",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
   },
   {
     "category": "Advanced",
@@ -83697,17 +83180,6 @@
     "expiryDate": null,
     "issuedDate": "2024-05-23",
     "effectiveDate": "2024-02-21"
-  },
-  {
-    "category": "Advanced",
-    "name": "David Grantham",
-    "suburb": "INDOOROOPILLY CENTRE",
-    "state": "QLD",
-    "postcode": "4068",
-    "callsign": "VK4QR",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-25",
-    "effectiveDate": "2023-08-25"
   },
   {
     "category": "Foundation",
@@ -92819,17 +92291,6 @@
   },
   {
     "category": "Advanced",
-    "name": "SJ Howarth",
-    "suburb": "JOYNER",
-    "state": "QLD",
-    "postcode": "4500",
-    "callsign": "VK4SJH",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-30",
-    "effectiveDate": "2023-08-30"
-  },
-  {
-    "category": "Advanced",
     "name": "Stanley J Paulus",
     "suburb": "GIN GIN",
     "state": "QLD",
@@ -93523,17 +92984,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Kerry Melvin Wilmott",
-    "suburb": "CLIFTON",
-    "state": "QLD",
-    "postcode": "4361",
-    "callsign": "VK4TP",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
-  },
-  {
-    "category": "Advanced",
     "name": "Raymond Stockdale",
     "suburb": "TINANA",
     "state": "QLD",
@@ -93674,17 +93124,6 @@
     "expiryDate": "2024-12-10",
     "issuedDate": "2023-12-05",
     "effectiveDate": "2023-12-05"
-  },
-  {
-    "category": "Advanced",
-    "name": "Adrian Richard Fewster",
-    "suburb": "LAIDLEY HEIGHTS",
-    "state": "QLD",
-    "postcode": "4341",
-    "callsign": "VK4TUX",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Advanced",
@@ -97252,17 +96691,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Barry Samuel",
-    "suburb": "GUMERACHA",
-    "state": "SA",
-    "postcode": "5233",
-    "callsign": "VK5BLS",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
-  },
-  {
-    "category": "Advanced",
     "name": "A L Butler",
     "suburb": "PASADENA",
     "state": "SA",
@@ -97647,17 +97075,6 @@
     "effectiveDate": "2024-01-04"
   },
   {
-    "category": "Foundation",
-    "name": "Nathan Grundy",
-    "suburb": "SEAFORD",
-    "state": "SA",
-    "postcode": "5169",
-    "callsign": "VK5DAD",
-    "expiryDate": "2025-10-10",
-    "issuedDate": "2020-10-19",
-    "effectiveDate": "2020-10-19"
-  },
-  {
     "category": "Advanced",
     "name": "Nathan Grundy",
     "suburb": "SEAFORD",
@@ -97667,6 +97084,17 @@
     "expiryDate": "2024-12-20",
     "issuedDate": "2023-12-21",
     "effectiveDate": "2023-12-21"
+  },
+  {
+    "category": "Foundation",
+    "name": "Nathan Grundy",
+    "suburb": "SEAFORD",
+    "state": "SA",
+    "postcode": "5169",
+    "callsign": "VK5DAD",
+    "expiryDate": "2025-10-10",
+    "issuedDate": "2020-10-19",
+    "effectiveDate": "2020-10-19"
   },
   {
     "category": "Standard",
@@ -99936,17 +99364,6 @@
   },
   {
     "category": "Advanced",
-    "name": "HK Poehlmann",
-    "suburb": "TANUNDA",
-    "state": "SA",
-    "postcode": "5352",
-    "callsign": "VK5KHP",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-11",
-    "effectiveDate": "2023-08-11"
-  },
-  {
-    "category": "Advanced",
     "name": "Anthony Blight",
     "suburb": "American River",
     "state": "SA",
@@ -100529,17 +99946,6 @@
     "effectiveDate": "2023-11-10"
   },
   {
-    "category": "Standard",
-    "name": "Michael Hope",
-    "suburb": "ELIZABETH PARK",
-    "state": "SA",
-    "postcode": "5113",
-    "callsign": "VK5MCH",
-    "expiryDate": "2024-11-06",
-    "issuedDate": "2023-10-17",
-    "effectiveDate": "2023-10-17"
-  },
-  {
     "category": "Advanced",
     "name": "Michael Hope",
     "suburb": "ELIZABETH PARK",
@@ -100549,6 +99955,17 @@
     "expiryDate": "2025-02-15",
     "issuedDate": "2024-02-16",
     "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Standard",
+    "name": "Michael Hope",
+    "suburb": "ELIZABETH PARK",
+    "state": "SA",
+    "postcode": "5113",
+    "callsign": "VK5MCH",
+    "expiryDate": "2024-11-06",
+    "issuedDate": "2023-10-17",
+    "effectiveDate": "2023-10-17"
   },
   {
     "category": "Standard",
@@ -100804,17 +100221,6 @@
     "effectiveDate": "2023-10-17"
   },
   {
-    "category": "Advanced",
-    "name": "Richard Ferguson",
-    "suburb": "DEVON PARK",
-    "state": "SA",
-    "postcode": "5008",
-    "callsign": "VK5NEC",
-    "expiryDate": "2026-01-03",
-    "issuedDate": null,
-    "effectiveDate": "2021-04-21"
-  },
-  {
     "category": "Standard",
     "name": "Richard Ferguson",
     "suburb": "DEVON PARK",
@@ -100824,6 +100230,17 @@
     "expiryDate": "2026-01-03",
     "issuedDate": "2021-01-04",
     "effectiveDate": "2021-01-04"
+  },
+  {
+    "category": "Advanced",
+    "name": "Richard Ferguson",
+    "suburb": "DEVON PARK",
+    "state": "SA",
+    "postcode": "5008",
+    "callsign": "VK5NEC",
+    "expiryDate": "2026-01-03",
+    "issuedDate": null,
+    "effectiveDate": "2021-04-21"
   },
   {
     "category": "Foundation",
@@ -104644,17 +104061,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Francis Timothy Ryan",
-    "suburb": "ST AGNES",
-    "state": "SA",
-    "postcode": "5097",
-    "callsign": "VK5TFR",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
-  },
-  {
-    "category": "Advanced",
     "name": "TR Hutchesson",
     "suburb": "VICTOR HARBOR",
     "state": "SA",
@@ -104709,17 +104115,6 @@
     "effectiveDate": "2023-12-19"
   },
   {
-    "category": "Foundation",
-    "name": "Tom Robertson",
-    "suburb": "FIRLE",
-    "state": "SA",
-    "postcode": "5070",
-    "callsign": "VK5TOM",
-    "expiryDate": "2024-09-01",
-    "issuedDate": "2023-07-28",
-    "effectiveDate": "2023-07-28"
-  },
-  {
     "category": "Advanced",
     "name": "Tom Robertson",
     "suburb": "FIRLE",
@@ -104729,6 +104124,17 @@
     "expiryDate": "2024-11-06",
     "issuedDate": "2023-11-07",
     "effectiveDate": "2023-11-07"
+  },
+  {
+    "category": "Foundation",
+    "name": "Tom Robertson",
+    "suburb": "FIRLE",
+    "state": "SA",
+    "postcode": "5070",
+    "callsign": "VK5TOM",
+    "expiryDate": "2024-09-01",
+    "issuedDate": "2023-07-28",
+    "effectiveDate": "2023-07-28"
   },
   {
     "category": "Advanced",
@@ -105598,17 +105004,6 @@
     "expiryDate": "2024-10-29",
     "issuedDate": "2023-10-04",
     "effectiveDate": "2023-10-04"
-  },
-  {
-    "category": "Advanced",
-    "name": "Geoffrey M. Moffatt",
-    "suburb": "CEDUNA",
-    "state": "SA",
-    "postcode": "5690",
-    "callsign": "VK5ZBP",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-31",
-    "effectiveDate": "2023-08-31"
   },
   {
     "category": "Advanced",
@@ -106569,17 +105964,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michael Ryan",
-    "suburb": "Falcon",
-    "state": "WA",
-    "postcode": "6210",
-    "callsign": "VK6AMR",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-25",
-    "effectiveDate": "2023-07-25"
-  },
-  {
-    "category": "Advanced",
     "name": "NA Basden",
     "suburb": "MADELEY",
     "state": "WA",
@@ -106841,17 +106225,6 @@
     "expiryDate": "2024-09-20",
     "issuedDate": "2023-08-18",
     "effectiveDate": "2023-08-18"
-  },
-  {
-    "category": "Advanced",
-    "name": "Stephen Ireland",
-    "suburb": "GLEN FORREST",
-    "state": "WA",
-    "postcode": "6071",
-    "callsign": "VK6BA",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
   },
   {
     "category": "Advanced",
@@ -107908,17 +107281,6 @@
     "expiryDate": "2024-11-23",
     "issuedDate": "2023-10-17",
     "effectiveDate": "2023-10-17"
-  },
-  {
-    "category": "Advanced",
-    "name": "Trevor Lloyd",
-    "suburb": "TREEBY",
-    "state": "WA",
-    "postcode": "6164",
-    "callsign": "VK6EMS",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Advanced",
@@ -109492,17 +108854,6 @@
     "expiryDate": "2024-09-21",
     "issuedDate": "2023-08-26",
     "effectiveDate": "2023-08-25"
-  },
-  {
-    "category": "Advanced",
-    "name": "James Ross Midolo",
-    "suburb": "PADBURY",
-    "state": "WA",
-    "postcode": "6025",
-    "callsign": "VK6JRM",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-10",
-    "effectiveDate": "2023-08-10"
   },
   {
     "category": "Advanced",
@@ -116326,17 +115677,6 @@
   },
   {
     "category": "Advanced",
-    "name": "J C Fairhurst",
-    "suburb": "WILLETTON",
-    "state": "WA",
-    "postcode": "6155",
-    "callsign": "VK6XN",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-25",
-    "effectiveDate": "2023-07-25"
-  },
-  {
-    "category": "Advanced",
     "name": "Ronald John Wanke",
     "suburb": "RANGEWAY",
     "state": "WA",
@@ -116576,17 +115916,6 @@
     "expiryDate": "2024-11-23",
     "issuedDate": "2023-10-17",
     "effectiveDate": "2023-10-17"
-  },
-  {
-    "category": "Advanced",
-    "name": "GR Griffiths",
-    "suburb": "APPLECROSS",
-    "state": "WA",
-    "postcode": "6153",
-    "callsign": "VK6YR",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Advanced",
@@ -116942,17 +116271,6 @@
   },
   {
     "category": "Advanced",
-    "name": "R Douglas Gordon",
-    "suburb": "BALINGUP",
-    "state": "WA",
-    "postcode": "6253",
-    "callsign": "VK6ZMG",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-15",
-    "effectiveDate": "2023-08-15"
-  },
-  {
-    "category": "Advanced",
     "name": "Martin Stretton",
     "suburb": "KALAMUNDA",
     "state": "WA",
@@ -117104,17 +116422,6 @@
     "expiryDate": "2025-01-31",
     "issuedDate": "2024-01-18",
     "effectiveDate": "2024-01-18"
-  },
-  {
-    "category": "Foundation",
-    "name": "Anthony Flannery",
-    "suburb": "Ulverstone",
-    "state": "TAS",
-    "postcode": "7315",
-    "callsign": "VK7AAQ",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-06",
-    "effectiveDate": "2023-08-06"
   },
   {
     "category": "Advanced",
@@ -117544,17 +116851,6 @@
     "expiryDate": "2024-10-17",
     "issuedDate": "2023-10-03",
     "effectiveDate": "2023-10-03"
-  },
-  {
-    "category": "Advanced",
-    "name": "Cedric Stewart Lockley",
-    "suburb": "BERRIEDALE",
-    "state": "TAS",
-    "postcode": "7011",
-    "callsign": "VK7CL",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-01",
-    "effectiveDate": "2023-09-01"
   },
   {
     "category": "Advanced",
@@ -118457,17 +117753,6 @@
     "expiryDate": "2025-02-05",
     "issuedDate": "2024-01-02",
     "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Advanced",
-    "name": "JH Webster",
-    "suburb": "PENGUIN",
-    "state": "TAS",
-    "postcode": "7316",
-    "callsign": "VK7JW",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-27",
-    "effectiveDate": "2023-07-27"
   },
   {
     "category": "Advanced",
@@ -121463,17 +120748,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Stuart Bruce Baly",
-    "suburb": "WYNYARD",
-    "state": "TAS",
-    "postcode": "7325",
-    "callsign": "VK7SB",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-08-31",
-    "effectiveDate": "2023-08-31"
-  },
-  {
-    "category": "Advanced",
     "name": "Shaun M Crocker",
     "suburb": "STRAHAN",
     "state": "TAS",
@@ -121790,17 +121064,6 @@
     "expiryDate": "2024-12-21",
     "issuedDate": "2023-12-06",
     "effectiveDate": "2023-12-06"
-  },
-  {
-    "category": "Advanced",
-    "name": "Thomas Karpiniec",
-    "suburb": "Sandy Bay",
-    "state": "TAS",
-    "postcode": "7005",
-    "callsign": "VK7XT",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-07-26",
-    "effectiveDate": "2023-07-26"
   },
   {
     "category": "Standard",
@@ -123319,17 +122582,6 @@
     "expiryDate": "2025-04-01",
     "issuedDate": "2024-06-27",
     "effectiveDate": "2024-06-27"
-  },
-  {
-    "category": "Advanced",
-    "name": "Paul Stampton",
-    "suburb": "WALKERVILLE",
-    "state": "VIC",
-    "postcode": "3956",
-    "callsign": "VK8VK",
-    "expiryDate": "2024-08-31",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
   },
   {
     "category": "Advanced",
