@@ -3367,17 +3367,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Christopher Johnstone",
-    "suburb": "OATLEY",
-    "state": "NSW",
-    "postcode": "2223",
-    "callsign": "VK2AD",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-28",
-    "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Advanced",
     "name": "Kalev Tomson",
     "suburb": "BOOROWA",
     "state": "NSW",
@@ -5523,28 +5512,6 @@
   },
   {
     "category": "Advanced",
-    "name": "PD Cole",
-    "suburb": "CASTLECRAG",
-    "state": "NSW",
-    "postcode": "2068",
-    "callsign": "VK2BQC",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-05",
-    "effectiveDate": "2023-09-05"
-  },
-  {
-    "category": "Advanced",
-    "name": "Peter Collins",
-    "suburb": "FITZGERALDS MOUNT",
-    "state": "NSW",
-    "postcode": "2799",
-    "callsign": "VK2BR",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
-  },
-  {
-    "category": "Advanced",
     "name": "Robert Bruce Clatworthy",
     "suburb": "LAWSON",
     "state": "NSW",
@@ -7074,17 +7041,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ross Wheeler",
-    "suburb": "LAVINGTON",
-    "state": "NSW",
-    "postcode": "2641",
-    "callsign": "VK2DGY",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-28",
-    "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Advanced",
     "name": "RM Drake",
     "suburb": "Terrey Hills",
     "state": "NSW",
@@ -7238,17 +7194,6 @@
     "effectiveDate": "2023-10-08"
   },
   {
-    "category": "Standard",
-    "name": "David Mayer",
-    "suburb": "SALAMANDER BAY",
-    "state": "NSW",
-    "postcode": "2317",
-    "callsign": "VK2DMX",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
-  },
-  {
     "category": "Foundation",
     "name": "Diane Wilson",
     "suburb": "LEMON TREE PASSAGE",
@@ -7324,17 +7269,6 @@
     "expiryDate": "2024-11-13",
     "issuedDate": "2023-11-28",
     "effectiveDate": "2023-11-28"
-  },
-  {
-    "category": "Advanced",
-    "name": "TJ Jones",
-    "suburb": "WAGGA WAGGA",
-    "state": "NSW",
-    "postcode": "2650",
-    "callsign": "VK2DPX",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-24",
-    "effectiveDate": "2023-08-24"
   },
   {
     "category": "Advanced",
@@ -7657,17 +7591,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Roy Smith",
-    "suburb": "SEDAN",
-    "state": "SA",
-    "postcode": "5353",
-    "callsign": "VK2DXT",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-03",
-    "effectiveDate": "2023-10-03"
-  },
-  {
-    "category": "Advanced",
     "name": "Paul J Johnstone",
     "suburb": "BOMADERRY",
     "state": "NSW",
@@ -7874,17 +7797,6 @@
     "expiryDate": "2024-12-08",
     "issuedDate": "2024-01-03",
     "effectiveDate": "2024-01-03"
-  },
-  {
-    "category": "Foundation",
-    "name": "Edwin Groothuis",
-    "suburb": "CARINGBAH",
-    "state": "NSW",
-    "postcode": "2229",
-    "callsign": "VK2EGR",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
   },
   {
     "category": "Advanced",
@@ -9502,17 +9414,6 @@
     "expiryDate": "2025-02-11",
     "issuedDate": "2024-01-03",
     "effectiveDate": "2024-01-03"
-  },
-  {
-    "category": "Foundation",
-    "name": "Mark Dakin",
-    "suburb": "BULLABURRA",
-    "state": "NSW",
-    "postcode": "2784",
-    "callsign": "VK2FMKD",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-05",
-    "effectiveDate": "2023-09-05"
   },
   {
     "category": "Foundation",
@@ -12156,17 +12057,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ruvendra Prasad",
-    "suburb": "DENHAM COURT",
-    "state": "NSW",
-    "postcode": "2565",
-    "callsign": "VK2ISM",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-21",
-    "effectiveDate": "2023-08-21"
-  },
-  {
-    "category": "Advanced",
     "name": "Sven Vogeler",
     "suburb": "WATTLE GROVE",
     "state": "NSW",
@@ -12222,17 +12112,6 @@
   },
   {
     "category": "Advanced",
-    "name": "PC Greentree",
-    "suburb": "SALAMANDER BAY",
-    "state": "NSW",
-    "postcode": "2317",
-    "callsign": "VK2IW",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-17",
-    "effectiveDate": "2023-10-17"
-  },
-  {
-    "category": "Advanced",
     "name": "Iwo Mergler",
     "suburb": "MIRANDA",
     "state": "NSW",
@@ -12285,17 +12164,6 @@
     "expiryDate": "2024-11-17",
     "issuedDate": "2023-10-18",
     "effectiveDate": "2023-10-18"
-  },
-  {
-    "category": "Advanced",
-    "name": "Wlodek Wilmanski",
-    "suburb": "MINTO",
-    "state": "NSW",
-    "postcode": "2566",
-    "callsign": "VK2IZE",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-25",
-    "effectiveDate": "2023-09-25"
   },
   {
     "category": "Advanced",
@@ -26478,17 +26346,6 @@
   },
   {
     "category": "Advanced",
-    "name": "GA Dawes",
-    "suburb": "LOFTUS",
-    "state": "NSW",
-    "postcode": "2232",
-    "callsign": "VK2SA",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
-  },
-  {
-    "category": "Advanced",
     "name": "THE SCOUT ASSOCIATION OF AUSTRALIA NEW SOUTH WALES BRANCH",
     "suburb": "NORTH ALBURY",
     "state": "NSW",
@@ -26684,17 +26541,6 @@
     "expiryDate": "2024-10-05",
     "issuedDate": "2023-10-06",
     "effectiveDate": "2023-10-06"
-  },
-  {
-    "category": "Advanced",
-    "name": "Neville E Mattick",
-    "suburb": "HARGRAVES",
-    "state": "NSW",
-    "postcode": "2850",
-    "callsign": "VK2SIX",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-26",
-    "effectiveDate": "2023-09-26"
   },
   {
     "category": "Advanced",
@@ -27113,17 +26959,6 @@
     "expiryDate": "2024-12-10",
     "issuedDate": "2023-11-20",
     "effectiveDate": "2023-11-20"
-  },
-  {
-    "category": "Standard",
-    "name": "Peter Wilson",
-    "suburb": "CRANEBROOK",
-    "state": "NSW",
-    "postcode": "2749",
-    "callsign": "VK2STP",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
   },
   {
     "category": "Advanced",
@@ -28070,17 +27905,6 @@
     "expiryDate": "2024-11-27",
     "issuedDate": "2023-11-05",
     "effectiveDate": "2023-11-05"
-  },
-  {
-    "category": "Advanced",
-    "name": "Trevor Clarence Whalen",
-    "suburb": "STUARTS POINT",
-    "state": "NSW",
-    "postcode": "2441",
-    "callsign": "VK2TXI",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-19",
-    "effectiveDate": "2023-09-19"
   },
   {
     "category": "Foundation",
@@ -29668,17 +29492,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Carl John Janson",
-    "suburb": "GOONELLABAH",
-    "state": "NSW",
-    "postcode": "2480",
-    "callsign": "VK2XL",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-18",
-    "effectiveDate": "2023-09-18"
-  },
-  {
-    "category": "Advanced",
     "name": "DT Curtin",
     "suburb": "GATESHEAD",
     "state": "NSW",
@@ -30933,17 +30746,6 @@
   },
   {
     "category": "Advanced",
-    "name": "AG Efimov",
-    "suburb": "WALLSEND",
-    "state": "NSW",
-    "postcode": "2287",
-    "callsign": "VK2ZM",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-26",
-    "effectiveDate": "2023-09-26"
-  },
-  {
-    "category": "Advanced",
     "name": "Murray Edwards",
     "suburb": "EAST GOSFORD",
     "state": "NSW",
@@ -31018,17 +30820,6 @@
     "expiryDate": "2024-10-08",
     "issuedDate": "2023-08-30",
     "effectiveDate": "2023-08-30"
-  },
-  {
-    "category": "Advanced",
-    "name": "Glenn Weston",
-    "suburb": "COWRA",
-    "state": "NSW",
-    "postcode": "2794",
-    "callsign": "VK2ZPI",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-11",
-    "effectiveDate": "2023-10-11"
   },
   {
     "category": "Advanced",
@@ -36191,17 +35982,6 @@
   },
   {
     "category": "Advanced",
-    "name": "William Ely",
-    "suburb": "JAMISON CENTRE",
-    "state": "ACT",
-    "postcode": "2614",
-    "callsign": "VK3ELY",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-21",
-    "effectiveDate": "2023-08-21"
-  },
-  {
-    "category": "Advanced",
     "name": "Luke Francis Enriquez",
     "suburb": "WANTIRNA SOUTH",
     "state": "VIC",
@@ -37203,17 +36983,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Ewa Schreiber",
-    "suburb": "ALTONA NORTH",
-    "state": "VIC",
-    "postcode": "3025",
-    "callsign": "VK3FEME",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-02",
-    "effectiveDate": "2023-10-02"
-  },
-  {
-    "category": "Foundation",
     "name": "Ewan Zander",
     "suburb": "WANTIRNA",
     "state": "VIC",
@@ -37533,17 +37302,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Kenneth Schreiber",
-    "suburb": "ALTONA NORTH",
-    "state": "VIC",
-    "postcode": "3025",
-    "callsign": "VK3FKLD",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-02",
-    "effectiveDate": "2023-10-02"
-  },
-  {
-    "category": "Foundation",
     "name": "Karl Middleton",
     "suburb": "GORDON",
     "state": "VIC",
@@ -37640,17 +37398,6 @@
     "expiryDate": "2024-10-31",
     "issuedDate": "2023-10-19",
     "effectiveDate": "2023-10-19"
-  },
-  {
-    "category": "Foundation",
-    "name": "Lily Schreiber",
-    "suburb": "ALTONA NORTH",
-    "state": "VIC",
-    "postcode": "3025",
-    "callsign": "VK3FLOZ",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-02",
-    "effectiveDate": "2023-10-02"
   },
   {
     "category": "Foundation",
@@ -38575,17 +38322,6 @@
     "expiryDate": "2024-11-21",
     "issuedDate": "2023-11-21",
     "effectiveDate": "2023-11-21"
-  },
-  {
-    "category": "Foundation",
-    "name": "Winston David James Scala",
-    "suburb": "HIGHTON",
-    "state": "VIC",
-    "postcode": "3216",
-    "callsign": "VK3FWDS",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-04",
-    "effectiveDate": "2023-09-04"
   },
   {
     "category": "Foundation",
@@ -40415,17 +40151,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Douglas Cowling",
-    "suburb": "FRANKSTON",
-    "state": "VIC",
-    "postcode": "3199",
-    "callsign": "VK3JJ",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-25",
-    "effectiveDate": "2023-09-25"
-  },
-  {
-    "category": "Advanced",
     "name": "Rocky Bicchieri",
     "suburb": "CRAIGIEBURN",
     "state": "VIC",
@@ -41413,17 +41138,6 @@
     "expiryDate": "2025-11-24",
     "issuedDate": "2020-12-10",
     "effectiveDate": "2020-12-10"
-  },
-  {
-    "category": "Advanced",
-    "name": "DF Dawkins",
-    "suburb": "VERMONT SOUTH",
-    "state": "VIC",
-    "postcode": "3133",
-    "callsign": "VK3KX",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-29",
-    "effectiveDate": "2023-08-29"
   },
   {
     "category": "Advanced",
@@ -61502,17 +61216,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Michael G Thorne",
-    "suburb": "DROUIN",
-    "state": "VIC",
-    "postcode": "3818",
-    "callsign": "VK3UE",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-30",
-    "effectiveDate": "2023-08-30"
-  },
-  {
-    "category": "Advanced",
     "name": "JG Nicholls",
     "suburb": "BALWYN",
     "state": "VIC",
@@ -62756,17 +62459,6 @@
   },
   {
     "category": "Advanced",
-    "name": "PW Sureda",
-    "suburb": "GLEN WAVERLEY",
-    "state": "VIC",
-    "postcode": "3150",
-    "callsign": "VK3XAW",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-17",
-    "effectiveDate": "2023-10-17"
-  },
-  {
-    "category": "Advanced",
     "name": "Duncan Maughan",
     "suburb": "BEECHWORTH",
     "state": "VIC",
@@ -62874,17 +62566,6 @@
     "expiryDate": "2024-11-20",
     "issuedDate": "2023-10-30",
     "effectiveDate": "2023-10-27"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Duboisee",
-    "suburb": "Carrum Downs",
-    "state": "VIC",
-    "postcode": "3201",
-    "callsign": "VK3XGF",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-03",
-    "effectiveDate": "2023-10-03"
   },
   {
     "category": "Advanced",
@@ -63171,17 +62852,6 @@
     "expiryDate": "2024-11-23",
     "issuedDate": "2023-10-17",
     "effectiveDate": "2023-10-17"
-  },
-  {
-    "category": "Advanced",
-    "name": "Craig White",
-    "suburb": "RESERVOIR",
-    "state": "VIC",
-    "postcode": "3073",
-    "callsign": "VK3XOR",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-21",
-    "effectiveDate": "2023-08-21"
   },
   {
     "category": "Advanced",
@@ -65109,17 +64779,6 @@
     "effectiveDate": "2023-10-17"
   },
   {
-    "category": "Advanced",
-    "name": "Clive Naylor",
-    "suburb": "ROSELLA",
-    "state": "QLD",
-    "postcode": "4740",
-    "callsign": "VK4ACL",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
-  },
-  {
     "category": "Foundation",
     "name": "Roy Murray-Prior",
     "suburb": "YUNGABURRA",
@@ -65503,17 +65162,6 @@
     "expiryDate": "2025-06-27",
     "issuedDate": "2020-05-20",
     "effectiveDate": "2020-05-20"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ian H Smith",
-    "suburb": "Hervey Bay",
-    "state": "QLD",
-    "postcode": "4655",
-    "callsign": "VK4AGM",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-10-03",
-    "effectiveDate": "2023-10-03"
   },
   {
     "category": "Foundation",
@@ -68033,17 +67681,6 @@
     "expiryDate": "2024-10-22",
     "issuedDate": "2023-10-20",
     "effectiveDate": "2023-10-20"
-  },
-  {
-    "category": "Advanced",
-    "name": "Mario Micallef",
-    "suburb": "BETHANIA WATERS",
-    "state": "QLD",
-    "postcode": "4205",
-    "callsign": "VK4DXN",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-22",
-    "effectiveDate": "2023-08-22"
   },
   {
     "category": "Advanced",
@@ -72050,17 +71687,6 @@
     "effectiveDate": "2023-09-25"
   },
   {
-    "category": "Standard",
-    "name": "Leendert Stakenburg",
-    "suburb": "DAYBORO",
-    "state": "QLD",
-    "postcode": "4521",
-    "callsign": "VK4LEO",
-    "expiryDate": "2024-12-19",
-    "issuedDate": "2023-11-14",
-    "effectiveDate": "2023-11-14"
-  },
-  {
     "category": "Foundation",
     "name": "Leendert Stakenburg",
     "suburb": "DAYBORO",
@@ -72070,6 +71696,17 @@
     "expiryDate": "2024-10-31",
     "issuedDate": "2023-09-25",
     "effectiveDate": "2023-09-25"
+  },
+  {
+    "category": "Standard",
+    "name": "Leendert Stakenburg",
+    "suburb": "DAYBORO",
+    "state": "QLD",
+    "postcode": "4521",
+    "callsign": "VK4LEO",
+    "expiryDate": "2024-12-19",
+    "issuedDate": "2023-11-14",
+    "effectiveDate": "2023-11-14"
   },
   {
     "category": "Foundation",
@@ -72358,17 +71995,6 @@
     "effectiveDate": "2024-01-24"
   },
   {
-    "category": "Foundation",
-    "name": "Marco Conti",
-    "suburb": "BIRKDALE",
-    "state": "QLD",
-    "postcode": "4159",
-    "callsign": "VK4MCN",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-08-23",
-    "effectiveDate": "2023-08-23"
-  },
-  {
     "category": "Standard",
     "name": "Martin Uljee",
     "suburb": "REDLAND BAY",
@@ -72609,17 +72235,6 @@
     "expiryDate": "2024-10-24",
     "issuedDate": "2023-10-03",
     "effectiveDate": "2023-10-03"
-  },
-  {
-    "category": "Advanced",
-    "name": "Mark Lane",
-    "suburb": "COOROY",
-    "state": "QLD",
-    "postcode": "4563",
-    "callsign": "VK4MKL",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
   },
   {
     "category": "Foundation",
@@ -73555,17 +73170,6 @@
     "expiryDate": "2024-12-04",
     "issuedDate": "2023-12-05",
     "effectiveDate": "2023-12-05"
-  },
-  {
-    "category": "Foundation",
-    "name": "Phillip Eyers",
-    "suburb": "THORNLANDS",
-    "state": "QLD",
-    "postcode": "4164",
-    "callsign": "VK4PCE",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
   },
   {
     "category": "Standard",
@@ -87008,17 +86612,6 @@
     "expiryDate": "2024-12-19",
     "issuedDate": "2023-12-20",
     "effectiveDate": "2023-12-20"
-  },
-  {
-    "category": "Advanced",
-    "name": "MB Syme",
-    "suburb": "GLYNDE",
-    "state": "SA",
-    "postcode": "5070",
-    "callsign": "VK5DMS",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-05",
-    "effectiveDate": "2023-09-05"
   },
   {
     "category": "Advanced",
@@ -102344,17 +101937,6 @@
     "effectiveDate": "2023-09-28"
   },
   {
-    "category": "Advanced",
-    "name": "THE SCOUT ASSOCIATION OF AUSTRALIA / WESTERN AUSTRALIAN BRANCH",
-    "suburb": "MOUNT HAWTHORN",
-    "state": "WA",
-    "postcode": "6016",
-    "callsign": "VK6SAC",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
-  },
-  {
     "category": "Foundation",
     "name": "Michael Margot",
     "suburb": "DOUBLEVIEW",
@@ -108340,17 +107922,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Christopher Cardwell",
-    "suburb": "DARWIN CITY",
-    "state": "NT",
-    "postcode": "0800",
-    "callsign": "VK8AB",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2024-01-19",
-    "effectiveDate": "2024-01-19"
-  },
-  {
-    "category": "Advanced",
     "name": "Allan Charles Gilbey",
     "suburb": "GLASS HOUSE MOUNTAINS",
     "state": "QLD",
@@ -108722,17 +108293,6 @@
     "expiryDate": "2024-12-06",
     "issuedDate": "2023-12-07",
     "effectiveDate": "2023-12-07"
-  },
-  {
-    "category": "Foundation",
-    "name": "Wendy Jennings",
-    "suburb": "MOUNT JOHNS",
-    "state": "NT",
-    "postcode": "0870",
-    "callsign": "VK8OKL",
-    "expiryDate": "2024-09-28",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
   },
   {
     "category": "Advanced",
@@ -109138,226 +108698,6 @@
     "postcode": "0803",
     "callsign": "VK8RZZ",
     "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
-    "issuedDate": "2024-05-20",
-    "effectiveDate": "2024-05-20"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Peter Clee",
-    "suburb": "WAGAIT BEACH",
-    "state": "NT",
-    "postcode": "0803",
-    "callsign": "VK8RZZ",
-    "expiryDate": "2025-04-13",
     "issuedDate": null,
     "effectiveDate": "2024-05-20"
   },
@@ -109524,6 +108864,226 @@
     "callsign": "VK8RZZ",
     "expiryDate": "2025-04-13",
     "issuedDate": null,
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
+    "effectiveDate": "2024-05-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Peter Clee",
+    "suburb": "WAGAIT BEACH",
+    "state": "NT",
+    "postcode": "0803",
+    "callsign": "VK8RZZ",
+    "expiryDate": "2025-04-13",
+    "issuedDate": "2024-05-20",
     "effectiveDate": "2024-05-20"
   },
   {
