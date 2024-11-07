@@ -914,17 +914,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Hannah Dovey",
-    "suburb": "AMAROO",
-    "state": "ACT",
-    "postcode": "2914",
-    "callsign": "VK1FHAN",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-09-28",
-    "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Foundation",
     "name": "Johannes Willemse",
     "suburb": "MEADOW HEIGHTS",
     "state": "VIC",
@@ -1197,17 +1186,6 @@
     "expiryDate": "2025-01-02",
     "issuedDate": "2024-01-02",
     "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Foundation",
-    "name": "John Wallace",
-    "suburb": "DOWNER",
-    "state": "ACT",
-    "postcode": "2602",
-    "callsign": "VK1JXW",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-16",
-    "effectiveDate": "2023-11-16"
   },
   {
     "category": "Advanced",
@@ -6876,17 +6854,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Darren Clementson",
-    "suburb": "MEDOWIE",
-    "state": "NSW",
-    "postcode": "2318",
-    "callsign": "VK2FDPO",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-06",
-    "effectiveDate": "2023-10-06"
-  },
-  {
-    "category": "Foundation",
     "name": "David Lee",
     "suburb": "HURSTVILLE",
     "state": "NSW",
@@ -7555,17 +7522,6 @@
     "expiryDate": "2024-12-15",
     "issuedDate": "2023-11-06",
     "effectiveDate": "2023-11-06"
-  },
-  {
-    "category": "Advanced",
-    "name": "Peter J Chubb",
-    "suburb": "KINGSFORD",
-    "state": "NSW",
-    "postcode": "2032",
-    "callsign": "VK2FPC",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-03",
-    "effectiveDate": "2023-11-03"
   },
   {
     "category": "Foundation",
@@ -10385,17 +10341,6 @@
   },
   {
     "category": "Advanced",
-    "name": "HJ Bailey",
-    "suburb": "PORT MACQUARIE",
-    "state": "NSW",
-    "postcode": "2444",
-    "callsign": "VK2KHB",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-19",
-    "effectiveDate": "2023-10-19"
-  },
-  {
-    "category": "Advanced",
     "name": "Theodorus Kho",
     "suburb": "NORTH EPPING",
     "state": "NSW",
@@ -10866,17 +10811,6 @@
     "expiryDate": "2024-11-17",
     "issuedDate": "2023-11-17",
     "effectiveDate": "2023-11-17"
-  },
-  {
-    "category": "Advanced",
-    "name": "Kenneth Neil Varley",
-    "suburb": "MULWALA",
-    "state": "NSW",
-    "postcode": "2647",
-    "callsign": "VK2KYO",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-03",
-    "effectiveDate": "2023-11-03"
   },
   {
     "category": "Advanced",
@@ -12978,17 +12912,6 @@
     "expiryDate": "2024-11-13",
     "issuedDate": "2023-10-20",
     "effectiveDate": "2023-10-20"
-  },
-  {
-    "category": "Standard",
-    "name": "Wayne Smith",
-    "suburb": "HAZELBROOK",
-    "state": "NSW",
-    "postcode": "2779",
-    "callsign": "VK2PWS",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
   },
   {
     "category": "Advanced",
@@ -22105,9 +22028,9 @@
     "state": "NSW",
     "postcode": "2810",
     "callsign": "VK2RWM",
-    "expiryDate": "2024-12-05",
-    "issuedDate": "2023-12-06",
-    "effectiveDate": "2023-12-06"
+    "expiryDate": "2025-12-05",
+    "issuedDate": "2024-11-06",
+    "effectiveDate": "2024-11-06"
   },
   {
     "category": "Amateur Repeater",
@@ -22116,9 +22039,9 @@
     "state": "NSW",
     "postcode": "2810",
     "callsign": "VK2RWM",
-    "expiryDate": "2024-12-05",
-    "issuedDate": "2023-12-06",
-    "effectiveDate": "2023-12-06"
+    "expiryDate": "2025-12-05",
+    "issuedDate": "2024-11-06",
+    "effectiveDate": "2024-11-06"
   },
   {
     "category": "Amateur Repeater",
@@ -22922,17 +22845,6 @@
     "expiryDate": "2024-11-29",
     "issuedDate": "2023-10-31",
     "effectiveDate": "2023-10-31"
-  },
-  {
-    "category": "Advanced",
-    "name": "Mark Paul Bowles",
-    "suburb": "WEST PENNANT HILLS",
-    "state": "NSW",
-    "postcode": "2125",
-    "callsign": "VK2SMB",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-06",
-    "effectiveDate": "2023-10-06"
   },
   {
     "category": "Standard",
@@ -23981,17 +23893,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Stephen Paul Solovieff",
-    "suburb": "RAYMOND TERRACE",
-    "state": "NSW",
-    "postcode": "2324",
-    "callsign": "VK2UD",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-20",
-    "effectiveDate": "2023-10-20"
-  },
-  {
-    "category": "Advanced",
     "name": "David J Williams",
     "suburb": "JESMOND",
     "state": "NSW",
@@ -24165,17 +24066,6 @@
     "expiryDate": "2025-01-30",
     "issuedDate": "2024-01-23",
     "effectiveDate": "2024-01-23"
-  },
-  {
-    "category": "Standard",
-    "name": "Valdis Poremskis",
-    "suburb": "WENTWORTH FALLS",
-    "state": "NSW",
-    "postcode": "2782",
-    "callsign": "VK2VAL",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2019-11-06",
-    "effectiveDate": "2019-11-06"
   },
   {
     "category": "Standard",
@@ -25862,17 +25752,6 @@
   },
   {
     "category": "Advanced",
-    "name": "BE Symonds",
-    "suburb": "PARKES",
-    "state": "NSW",
-    "postcode": "2870",
-    "callsign": "VK2YVV",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Advanced",
     "name": "Karen A Boskos",
     "suburb": "KULNURA",
     "state": "NSW",
@@ -25925,17 +25804,6 @@
     "expiryDate": null,
     "issuedDate": "2024-05-23",
     "effectiveDate": "2024-01-25"
-  },
-  {
-    "category": "Advanced",
-    "name": "DG McDonald",
-    "suburb": "GREENDALE",
-    "state": "NSW",
-    "postcode": "2745",
-    "callsign": "VK2ZBE",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-10",
-    "effectiveDate": "2023-10-10"
   },
   {
     "category": "Advanced",
@@ -26585,17 +26453,6 @@
     "expiryDate": "2025-01-31",
     "issuedDate": "2024-01-22",
     "effectiveDate": "2024-01-18"
-  },
-  {
-    "category": "Advanced",
-    "name": "Chong Kean Ooi",
-    "suburb": "GLEN WAVERLEY",
-    "state": "VIC",
-    "postcode": "3150",
-    "callsign": "VK3ABF",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-12-19",
-    "effectiveDate": "2023-12-19"
   },
   {
     "category": "Advanced",
@@ -28887,17 +28744,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ronald William Van Bremen",
-    "suburb": "RED CLIFFS",
-    "state": "VIC",
-    "postcode": "3496",
-    "callsign": "VK3CRV",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-09-28",
-    "effectiveDate": "2023-09-28"
-  },
-  {
-    "category": "Advanced",
     "name": "Damien Wright",
     "suburb": "Ashfield",
     "state": "QLD",
@@ -29414,17 +29260,6 @@
     "effectiveDate": "2024-02-15"
   },
   {
-    "category": "Advanced",
-    "name": "Ian R Godsil",
-    "suburb": "CARRUM DOWNS",
-    "state": "VIC",
-    "postcode": "3201",
-    "callsign": "VK3DID",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-09-28",
-    "effectiveDate": "2023-09-28"
-  },
-  {
     "category": "Foundation",
     "name": "Damien Apperley",
     "suburb": "COCKATOO",
@@ -29577,17 +29412,6 @@
     "expiryDate": "2025-12-17",
     "issuedDate": "2021-08-10",
     "effectiveDate": "2020-11-19"
-  },
-  {
-    "category": "Advanced",
-    "name": "Shane Gardiner",
-    "suburb": "SUNBURY",
-    "state": "VIC",
-    "postcode": "3429",
-    "callsign": "VK3DOT",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
   },
   {
     "category": "Advanced",
@@ -30108,17 +29932,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Everist",
-    "suburb": "DARTFORD",
-    "state": "Kent",
-    "postcode": "DA2 6NB",
-    "callsign": "VK3EPQ",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
-  },
-  {
-    "category": "Advanced",
     "name": "RL Head",
     "suburb": "ASHBURTON",
     "state": "VIC",
@@ -30281,17 +30094,6 @@
     "expiryDate": "2024-12-18",
     "issuedDate": "2024-01-05",
     "effectiveDate": "2024-01-05"
-  },
-  {
-    "category": "Foundation",
-    "name": "John Honey",
-    "suburb": "JONORTOUN",
-    "state": "VIC",
-    "postcode": "3551",
-    "callsign": "VK3FABD",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-03",
-    "effectiveDate": "2023-11-03"
   },
   {
     "category": "Foundation",
@@ -33067,17 +32869,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Kontos",
-    "suburb": "WILLIAMSTOWN",
-    "state": "VIC",
-    "postcode": "3016",
-    "callsign": "VK3JKV",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-02",
-    "effectiveDate": "2023-11-02"
-  },
-  {
-    "category": "Advanced",
     "name": "David Rolfe",
     "suburb": "CRANBOURNE",
     "state": "VIC",
@@ -33086,17 +32877,6 @@
     "expiryDate": "2026-05-06",
     "issuedDate": "2021-04-08",
     "effectiveDate": "2021-04-08"
-  },
-  {
-    "category": "Advanced",
-    "name": "John Scroggie",
-    "suburb": "HEIDELBERG HEIGHTS",
-    "state": "VIC",
-    "postcode": "3081",
-    "callsign": "VK3JLP",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-09-29",
-    "effectiveDate": "2023-09-29"
   },
   {
     "category": "Advanced",
@@ -33691,17 +33471,6 @@
     "expiryDate": "2024-11-16",
     "issuedDate": "2023-12-14",
     "effectiveDate": "2023-12-14"
-  },
-  {
-    "category": "Advanced",
-    "name": "PN Jackson",
-    "suburb": "FRANKSTON SOUTH",
-    "state": "VIC",
-    "postcode": "3199",
-    "callsign": "VK3KPJ",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-05",
-    "effectiveDate": "2023-10-05"
   },
   {
     "category": "Advanced",
@@ -35275,17 +35044,6 @@
     "expiryDate": "2026-12-18",
     "issuedDate": "2021-11-24",
     "effectiveDate": "2021-11-24"
-  },
-  {
-    "category": "Standard",
-    "name": "Peter A Honey",
-    "suburb": "WARRNAMBOOL",
-    "state": "VIC",
-    "postcode": "3280",
-    "callsign": "VK3PAH",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-13",
-    "effectiveDate": "2023-10-13"
   },
   {
     "category": "Standard",
@@ -56177,17 +55935,6 @@
     "effectiveDate": "2023-01-10"
   },
   {
-    "category": "Advanced",
-    "name": "Brian Winterburn",
-    "suburb": "BOWEN",
-    "state": "QLD",
-    "postcode": "4805",
-    "callsign": "VK4BOW",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
-  },
-  {
     "category": "Foundation",
     "name": "Daniel Bosel",
     "suburb": "NANANGO",
@@ -57616,17 +57363,6 @@
     "expiryDate": "2025-02-12",
     "issuedDate": "2024-01-12",
     "effectiveDate": "2024-01-12"
-  },
-  {
-    "category": "Foundation",
-    "name": "Deo Nandra",
-    "suburb": "STANTHORPE",
-    "state": "QLD",
-    "postcode": "4380",
-    "callsign": "VK4FADN",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-16",
-    "effectiveDate": "2023-10-16"
   },
   {
     "category": "Foundation",
@@ -59401,17 +59137,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ian Clive Norman",
-    "suburb": "HOWARD",
-    "state": "QLD",
-    "postcode": "4659",
-    "callsign": "VK4IN",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-19",
-    "effectiveDate": "2023-10-19"
-  },
-  {
-    "category": "Advanced",
     "name": "Roy L Winchester",
     "suburb": "RUSSELL ISLAND",
     "state": "QLD",
@@ -59816,17 +59541,6 @@
     "expiryDate": "2024-12-02",
     "issuedDate": "2023-12-21",
     "effectiveDate": "2023-12-21"
-  },
-  {
-    "category": "Advanced",
-    "name": "Clive Danby",
-    "suburb": "CARINDALE",
-    "state": "QLD",
-    "postcode": "4150",
-    "callsign": "VK4KAR",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
   },
   {
     "category": "Advanced",
@@ -61666,17 +61380,6 @@
     "effectiveDate": "2023-11-28"
   },
   {
-    "category": "Standard",
-    "name": "Ian Scott Pollock",
-    "suburb": "PINBARREN",
-    "state": "QLD",
-    "postcode": "4568",
-    "callsign": "VK4PSI",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-06",
-    "effectiveDate": "2023-10-06"
-  },
-  {
     "category": "Advanced",
     "name": "Paul Thompson",
     "suburb": "BURPENGARY EAST",
@@ -61708,17 +61411,6 @@
     "expiryDate": "2024-12-19",
     "issuedDate": "2023-12-13",
     "effectiveDate": "2023-12-13"
-  },
-  {
-    "category": "Advanced",
-    "name": "Peter Di Nucci",
-    "suburb": "MOUNT COTTON",
-    "state": "QLD",
-    "postcode": "4165",
-    "callsign": "VK4PW",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-07",
-    "effectiveDate": "2023-11-07"
   },
   {
     "category": "Standard",
@@ -62372,9 +62064,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62383,9 +62075,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62394,9 +62086,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62405,9 +62097,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62416,9 +62108,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62427,9 +62119,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62438,9 +62130,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62449,9 +62141,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RAS",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62977,9 +62669,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62988,9 +62680,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -62999,9 +62691,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63010,9 +62702,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63021,9 +62713,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63032,9 +62724,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63043,9 +62735,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63054,9 +62746,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63065,9 +62757,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63076,9 +62768,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63087,9 +62779,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -63098,9 +62790,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RBD",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -64715,9 +64407,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4REP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -64726,9 +64418,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4REP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -64737,9 +64429,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4REP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -64748,9 +64440,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4REP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -64759,9 +64451,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4REP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -64770,9 +64462,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4REP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65705,9 +65397,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65716,9 +65408,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65727,9 +65419,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65738,9 +65430,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65749,9 +65441,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65760,9 +65452,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65771,9 +65463,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65782,9 +65474,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65793,9 +65485,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65804,9 +65496,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65815,9 +65507,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -65826,9 +65518,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RHR",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -68444,9 +68136,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RSP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -68455,9 +68147,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RSP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -68466,9 +68158,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RSP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -68477,9 +68169,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RSP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -68488,9 +68180,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RSP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -68499,9 +68191,9 @@
   {
     "category": "Amateur Repeater",
     "name": "Central Highlands Amateur Radio Club",
-    "suburb": "EMERALD",
+    "suburb": "Moranbah",
     "state": "QLD",
-    "postcode": "4720",
+    "postcode": "4744",
     "callsign": "VK4RSP",
     "expiryDate": "2025-08-05",
     "issuedDate": "2024-07-15",
@@ -71920,7 +71612,7 @@
   {
     "category": "Advanced",
     "name": "David Selby",
-    "suburb": "MARYBOROUGH",
+    "suburb": "Mungar",
     "state": "QLD",
     "postcode": "4650",
     "callsign": "VK4WP",
@@ -73382,17 +73074,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David Wescombe-Down",
-    "suburb": "WESTBOURNE PARK",
-    "state": "SA",
-    "postcode": "5041",
-    "callsign": "VK5BUG",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-09-27",
-    "effectiveDate": "2023-09-27"
-  },
-  {
-    "category": "Advanced",
     "name": "John H Thompson",
     "suburb": "ONE TREE HILL",
     "state": "SA",
@@ -73885,17 +73566,6 @@
     "expiryDate": "2025-02-13",
     "issuedDate": "2024-01-17",
     "effectiveDate": "2024-01-17"
-  },
-  {
-    "category": "Foundation",
-    "name": "Madeline Power",
-    "suburb": "WOODCROFT",
-    "state": "SA",
-    "postcode": "5162",
-    "callsign": "VK5EMY",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
   },
   {
     "category": "Advanced",
@@ -74977,17 +74647,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Groffen",
-    "suburb": "WHYALLA PLAYFORD",
-    "state": "SA",
-    "postcode": "5600",
-    "callsign": "VK5KJG",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-30",
-    "effectiveDate": "2023-10-26"
-  },
-  {
-    "category": "Advanced",
     "name": "JJ Love",
     "suburb": "NURIOOTPA",
     "state": "SA",
@@ -75273,17 +74932,6 @@
     "effectiveDate": "2023-11-10"
   },
   {
-    "category": "Standard",
-    "name": "Michael Hope",
-    "suburb": "ELIZABETH PARK",
-    "state": "SA",
-    "postcode": "5113",
-    "callsign": "VK5MCH",
-    "expiryDate": "2024-11-06",
-    "issuedDate": "2023-10-17",
-    "effectiveDate": "2023-10-17"
-  },
-  {
     "category": "Advanced",
     "name": "Michael Hope",
     "suburb": "ELIZABETH PARK",
@@ -75293,6 +74941,17 @@
     "expiryDate": "2025-02-15",
     "issuedDate": "2024-02-16",
     "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Standard",
+    "name": "Michael Hope",
+    "suburb": "ELIZABETH PARK",
+    "state": "SA",
+    "postcode": "5113",
+    "callsign": "VK5MCH",
+    "expiryDate": "2024-11-06",
+    "issuedDate": "2023-10-17",
+    "effectiveDate": "2023-10-17"
   },
   {
     "category": "Standard",
@@ -81367,17 +81026,6 @@
     "effectiveDate": "2023-12-14"
   },
   {
-    "category": "Advanced",
-    "name": "Richard Frizell",
-    "suburb": "KINGSLEY",
-    "state": "WA",
-    "postcode": "6026",
-    "callsign": "VK6FR",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-30",
-    "effectiveDate": "2023-11-30"
-  },
-  {
     "category": "Foundation",
     "name": "Robert Russell",
     "suburb": "GOSNELLS",
@@ -82839,17 +82487,6 @@
     "expiryDate": "2024-11-19",
     "issuedDate": "2023-10-30",
     "effectiveDate": "2023-10-25"
-  },
-  {
-    "category": "Standard",
-    "name": "KJ Heys",
-    "suburb": "BINNINGUP",
-    "state": "WA",
-    "postcode": "6233",
-    "callsign": "VK6NKH",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-20",
-    "effectiveDate": "2023-10-20"
   },
   {
     "category": "Advanced",
@@ -88991,17 +88628,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Glendon Polmear",
-    "suburb": "BLACKMANS BAY",
-    "state": "TAS",
-    "postcode": "7052",
-    "callsign": "VK7GP",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-10-30",
-    "effectiveDate": "2023-10-24"
-  },
-  {
-    "category": "Advanced",
     "name": "Gerry de Groot",
     "suburb": "GOLDEN VALLRY",
     "state": "TAS",
@@ -89527,17 +89153,6 @@
     "expiryDate": "2024-12-04",
     "issuedDate": "2023-11-23",
     "effectiveDate": "2023-11-23"
-  },
-  {
-    "category": "Standard",
-    "name": "Ricardo Piacenza",
-    "suburb": "LEWISHAM",
-    "state": "TAS",
-    "postcode": "7173",
-    "callsign": "VK7NWX",
-    "expiryDate": "2024-11-05",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
   },
   {
     "category": "Advanced",
