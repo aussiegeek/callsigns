@@ -4422,17 +4422,6 @@
     "effectiveDate": "2024-01-14"
   },
   {
-    "category": "Advanced",
-    "name": "James Edward Hughes",
-    "suburb": "WORROWING HEIGHTS",
-    "state": "NSW",
-    "postcode": "2540",
-    "callsign": "VK2FVG",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
-  },
-  {
     "category": "Foundation",
     "name": "Glen Steedman",
     "suburb": "WORLD SQUARE",
@@ -5699,17 +5688,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Christopher E Hansen",
-    "suburb": "STOCKTON",
-    "state": "NSW",
-    "postcode": "2295",
-    "callsign": "VK2KGW",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2023-12-09",
-    "effectiveDate": "2023-12-09"
-  },
-  {
-    "category": "Advanced",
     "name": "Mark Bosma",
     "suburb": "BOWNING",
     "state": "NSW",
@@ -6521,17 +6499,6 @@
     "expiryDate": "2025-01-07",
     "issuedDate": "2024-01-08",
     "effectiveDate": "2024-01-08"
-  },
-  {
-    "category": "Standard",
-    "name": "Adam Collins",
-    "suburb": "DEEPWATER",
-    "state": "NSW",
-    "postcode": "2371",
-    "callsign": "VK2NNW",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2023-12-11",
-    "effectiveDate": "2023-12-11"
   },
   {
     "category": "Standard",
@@ -20790,17 +20757,6 @@
     "effectiveDate": "2021-09-14"
   },
   {
-    "category": "Advanced",
-    "name": "FS Lee",
-    "suburb": "MOUNT WAVERLEY",
-    "state": "VIC",
-    "postcode": "3149",
-    "callsign": "VK3FSL",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2023-12-05",
-    "effectiveDate": "2023-12-05"
-  },
-  {
     "category": "Foundation",
     "name": "Simon Paul Deards",
     "suburb": "HURSTBRIDGE",
@@ -30514,94 +30470,6 @@
     "effectiveDate": "2024-02-16"
   },
   {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Amateur Beacon",
-    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
-    "suburb": "ASHBURTON",
-    "state": "VIC",
-    "postcode": "3147",
-    "callsign": "VK3RMV",
-    "expiryDate": "2025-03-25",
-    "issuedDate": "2024-08-28",
-    "effectiveDate": "2024-02-16"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
     "suburb": "ASHBURTON",
@@ -30622,6 +30490,94 @@
     "expiryDate": "2026-01-26",
     "issuedDate": "2024-12-20",
     "effectiveDate": "2024-12-20"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
+  },
+  {
+    "category": "Amateur Beacon",
+    "name": "THE WIRELESS INSTITUTE OF AUSTRALIA VICTORIAN DIVISION",
+    "suburb": "ASHBURTON",
+    "state": "VIC",
+    "postcode": "3147",
+    "callsign": "VK3RMV",
+    "expiryDate": "2025-03-25",
+    "issuedDate": "2024-08-28",
+    "effectiveDate": "2024-02-16"
   },
   {
     "category": "Amateur Repeater",
@@ -39257,17 +39213,6 @@
     "expiryDate": "2025-01-02",
     "issuedDate": "2023-11-27",
     "effectiveDate": "2023-11-27"
-  },
-  {
-    "category": "Advanced",
-    "name": "AA Kapko",
-    "suburb": "BRIGHTON EAST",
-    "state": "VIC",
-    "postcode": "3187",
-    "callsign": "VK3XLI",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2023-12-05",
-    "effectiveDate": "2023-12-05"
   },
   {
     "category": "Foundation",
@@ -53581,17 +53526,6 @@
     "effectiveDate": "2024-02-01"
   },
   {
-    "category": "Foundation",
-    "name": "Lawrence Race",
-    "suburb": "HAPPY VALLEY",
-    "state": "SA",
-    "postcode": "5159",
-    "callsign": "VK5LHR",
-    "expiryDate": "2026-07-05",
-    "issuedDate": "2021-06-01",
-    "effectiveDate": "2021-06-01"
-  },
-  {
     "category": "Standard",
     "name": "Lawrence Race",
     "suburb": "HAPPY VALLEY",
@@ -53601,6 +53535,17 @@
     "expiryDate": "2025-02-14",
     "issuedDate": "2024-02-15",
     "effectiveDate": "2024-02-15"
+  },
+  {
+    "category": "Foundation",
+    "name": "Lawrence Race",
+    "suburb": "HAPPY VALLEY",
+    "state": "SA",
+    "postcode": "5159",
+    "callsign": "VK5LHR",
+    "expiryDate": "2026-07-05",
+    "issuedDate": "2021-06-01",
+    "effectiveDate": "2021-06-01"
   },
   {
     "category": "Advanced",
@@ -53766,17 +53711,6 @@
     "expiryDate": "2025-01-29",
     "issuedDate": "2024-01-29",
     "effectiveDate": "2024-01-29"
-  },
-  {
-    "category": "Advanced",
-    "name": "Richard Murray Howden",
-    "suburb": "DAVOREN PARK",
-    "state": "SA",
-    "postcode": "5113",
-    "callsign": "VK5NM",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2023-12-09",
-    "effectiveDate": "2023-12-09"
   },
   {
     "category": "Standard",
@@ -63116,17 +63050,6 @@
     "expiryDate": "2025-01-10",
     "issuedDate": "2023-12-02",
     "effectiveDate": "2023-12-02"
-  },
-  {
-    "category": "Advanced",
-    "name": "Stephen Marshall",
-    "suburb": "MOUNT RICHON",
-    "state": "WA",
-    "postcode": "6112",
-    "callsign": "VK6VLF",
-    "expiryDate": "2024-12-28",
-    "issuedDate": "2023-12-11",
-    "effectiveDate": "2023-12-11"
   },
   {
     "category": "Advanced",
