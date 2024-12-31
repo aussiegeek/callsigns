@@ -1793,17 +1793,6 @@
     "effectiveDate": "2024-01-16"
   },
   {
-    "category": "Advanced",
-    "name": "LM Anderson",
-    "suburb": "ORIENT POINT",
-    "state": "NSW",
-    "postcode": "2540",
-    "callsign": "VK2ADN",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2023-12-05",
-    "effectiveDate": "2023-12-05"
-  },
-  {
     "category": "Foundation",
     "name": "Jason Dickens",
     "suburb": "KOONAWARRA",
@@ -3146,17 +3135,6 @@
     "effectiveDate": "2021-09-12"
   },
   {
-    "category": "Advanced",
-    "name": "Christopher J Thompson",
-    "suburb": "DICKSON",
-    "state": "ACT",
-    "postcode": "2602",
-    "callsign": "VK2CTN",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2023-12-11",
-    "effectiveDate": "2023-12-11"
-  },
-  {
     "category": "Foundation",
     "name": "Brian Lamb",
     "suburb": "TINGIRA HEIGHTS",
@@ -3496,17 +3474,6 @@
     "expiryDate": "2025-01-16",
     "issuedDate": "2023-12-11",
     "effectiveDate": "2023-12-11"
-  },
-  {
-    "category": "Advanced",
-    "name": "R J Bruce",
-    "suburb": "LANE COVE",
-    "state": "NSW",
-    "postcode": "1595",
-    "callsign": "VK2DWH",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
   },
   {
     "category": "Advanced",
@@ -6873,17 +6840,6 @@
     "expiryDate": "2026-06-20",
     "issuedDate": "2021-06-15",
     "effectiveDate": "2021-06-15"
-  },
-  {
-    "category": "Standard",
-    "name": "D Robson",
-    "suburb": "HORNSBY",
-    "state": "NSW",
-    "postcode": "2077",
-    "callsign": "VK2PMI",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2023-12-07",
-    "effectiveDate": "2023-12-07"
   },
   {
     "category": "Standard",
@@ -20648,17 +20604,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Patrick Fitzgerald",
-    "suburb": "NEWPORT",
-    "state": "VIC",
-    "postcode": "3015",
-    "callsign": "VK3FPBR",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2023-12-12",
-    "effectiveDate": "2023-12-12"
-  },
-  {
-    "category": "Foundation",
     "name": "Paul Villani",
     "suburb": "CHELSEA",
     "state": "VIC",
@@ -22240,17 +22185,6 @@
     "expiryDate": "2025-01-03",
     "issuedDate": "2023-12-20",
     "effectiveDate": "2023-12-20"
-  },
-  {
-    "category": "Standard",
-    "name": "Anthony Walton",
-    "suburb": "AVOCA",
-    "state": "VIC",
-    "postcode": "3467",
-    "callsign": "VK3NHL",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2023-12-12",
-    "effectiveDate": "2023-12-12"
   },
   {
     "category": "Standard",
@@ -39488,17 +39422,6 @@
     "expiryDate": "2025-02-14",
     "issuedDate": "2024-02-16",
     "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Advanced",
-    "name": "RL Bennell",
-    "suburb": "NOBLE PARK",
-    "state": "VIC",
-    "postcode": "3174",
-    "callsign": "VK3ZAC",
-    "expiryDate": "2024-12-29",
-    "issuedDate": "2024-01-10",
-    "effectiveDate": "2024-01-10"
   },
   {
     "category": "Advanced",
