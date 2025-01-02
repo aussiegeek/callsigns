@@ -23,17 +23,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Pride Radio Group",
-    "suburb": "RICHMOND",
-    "state": "VIC",
-    "postcode": "3121",
-    "callsign": "VI2024PRIDE",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-07-27",
-    "effectiveDate": "2024-01-01"
-  },
-  {
-    "category": "Advanced",
     "name": "Norbert Trupp",
     "suburb": "MOUNT GAMBIER",
     "state": "SA",
@@ -6059,17 +6048,6 @@
     "expiryDate": null,
     "issuedDate": "2024-05-23",
     "effectiveDate": "2024-01-25"
-  },
-  {
-    "category": "Standard",
-    "name": "Malcom Cecil Wares",
-    "suburb": "SILVERWATER",
-    "state": "NSW",
-    "postcode": "2128",
-    "callsign": "VK2MAC",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-11-23",
-    "effectiveDate": "2023-11-23"
   },
   {
     "category": "Advanced",
@@ -38336,17 +38314,6 @@
   },
   {
     "category": "Advanced",
-    "name": "James Karamalakis",
-    "suburb": "SUNSHINE",
-    "state": "VIC",
-    "postcode": "3020",
-    "callsign": "VK3TN",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-12-12",
-    "effectiveDate": "2023-12-12"
-  },
-  {
-    "category": "Advanced",
     "name": "AM Bennett",
     "suburb": "SOUTH YARRA",
     "state": "VIC",
@@ -40657,17 +40624,6 @@
   },
   {
     "category": "Advanced",
-    "name": "BT McIvor",
-    "suburb": "STRATHPINE",
-    "state": "QLD",
-    "postcode": "4500",
-    "callsign": "VK4EJ",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-12-21",
-    "effectiveDate": "2023-12-21"
-  },
-  {
-    "category": "Advanced",
     "name": "DA Johnston",
     "suburb": "TOOWOOMBA MC",
     "state": "QLD",
@@ -41435,17 +41391,6 @@
     "expiryDate": null,
     "issuedDate": "2024-05-23",
     "effectiveDate": "2024-01-25"
-  },
-  {
-    "category": "Advanced",
-    "name": "Merrick Rodgers",
-    "suburb": "GODWIN BEACH",
-    "state": "QLD",
-    "postcode": "4511",
-    "callsign": "VK4HF",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-12-19",
-    "effectiveDate": "2023-12-19"
   },
   {
     "category": "Standard",
@@ -51228,17 +51173,6 @@
   },
   {
     "category": "Advanced",
-    "name": "JE Spencer",
-    "suburb": "BURNSIDE",
-    "state": "QLD",
-    "postcode": "4560",
-    "callsign": "VK4SI",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-12-11",
-    "effectiveDate": "2023-12-11"
-  },
-  {
-    "category": "Advanced",
     "name": "Simon Antolak",
     "suburb": "SURFERS PARADISE",
     "state": "QLD",
@@ -52248,17 +52182,6 @@
     "expiryDate": "2025-01-03",
     "issuedDate": "2023-11-26",
     "effectiveDate": "2023-11-26"
-  },
-  {
-    "category": "Advanced",
-    "name": "Robert L Hanley",
-    "suburb": "LAURA",
-    "state": "SA",
-    "postcode": "5480",
-    "callsign": "VK5ABH",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-12-22",
-    "effectiveDate": "2023-12-22"
   },
   {
     "category": "Advanced",
@@ -58301,17 +58224,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Oxley Olsson",
-    "suburb": "MOUNT TARCOOLA",
-    "state": "WA",
-    "postcode": "6530",
-    "callsign": "VK6KOJ",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-11-27",
-    "effectiveDate": "2023-11-27"
-  },
-  {
-    "category": "Advanced",
     "name": "Kathi Suminer",
     "suburb": "KENWICK",
     "state": "WA",
@@ -58697,17 +58609,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Radio Amateurs Old Timers Club Australia",
-    "suburb": "MENTONE",
-    "state": "VIC",
-    "postcode": "3194",
-    "callsign": "VK6OTN",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-12-08",
-    "effectiveDate": "2023-12-08"
-  },
-  {
-    "category": "Advanced",
     "name": "Andrew Charles Hemus",
     "suburb": "CARINE",
     "state": "WA",
@@ -58716,17 +58617,6 @@
     "expiryDate": "2025-01-14",
     "issuedDate": "2024-01-12",
     "effectiveDate": "2024-01-12"
-  },
-  {
-    "category": "Standard",
-    "name": "Ananda Jeeva",
-    "suburb": "FORRESTFIELD",
-    "state": "WA",
-    "postcode": "6058",
-    "callsign": "VK6PAJ",
-    "expiryDate": "2024-12-31",
-    "issuedDate": "2023-11-27",
-    "effectiveDate": "2023-11-27"
   },
   {
     "category": "Standard",
