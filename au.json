@@ -276,17 +276,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Samuel Dellit",
-    "suburb": "BELCONNEN",
-    "state": "ACT",
-    "postcode": "2617",
-    "callsign": "VK1DXA",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2023-12-07",
-    "effectiveDate": "2023-12-07"
-  },
-  {
-    "category": "Advanced",
     "name": "Edward Jaskolski",
     "suburb": "FADDEN",
     "state": "ACT",
@@ -2828,17 +2817,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Dot Bishop",
-    "suburb": "HORNSBY HEIGHTS",
-    "state": "NSW",
-    "postcode": "2077",
-    "callsign": "VK2DB",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-09",
-    "effectiveDate": "2024-01-09"
-  },
-  {
-    "category": "Advanced",
     "name": "Avondale Amateur Radio Club",
     "suburb": "COORANBONG",
     "state": "NSW",
@@ -3023,17 +3001,6 @@
     "expiryDate": "2025-02-13",
     "issuedDate": "2024-02-14",
     "effectiveDate": "2024-02-14"
-  },
-  {
-    "category": "Advanced",
-    "name": "S Linton",
-    "suburb": "WEST BALLINA",
-    "state": "NSW",
-    "postcode": "2478",
-    "callsign": "VK2DSL",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2023-12-18",
-    "effectiveDate": "2023-12-18"
   },
   {
     "category": "Advanced",
@@ -5520,17 +5487,6 @@
     "expiryDate": "2025-01-21",
     "issuedDate": "2024-01-02",
     "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Advanced",
-    "name": "Sean Williams",
-    "suburb": "MULLUMBIMBY",
-    "state": "NSW",
-    "postcode": "2482",
-    "callsign": "VK2NXS",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-12",
-    "effectiveDate": "2024-01-12"
   },
   {
     "category": "Advanced",
@@ -15995,17 +15951,6 @@
   },
   {
     "category": "Standard",
-    "name": "Kathleen Helen Corbin",
-    "suburb": "BATEMANS BAY",
-    "state": "NSW",
-    "postcode": "2536",
-    "callsign": "VK2VKC",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2021-12-17",
-    "effectiveDate": "2021-12-17"
-  },
-  {
-    "category": "Standard",
     "name": "Harry Callaghan",
     "suburb": "DHARRUK",
     "state": "NSW",
@@ -17480,17 +17425,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Carl Dillon",
-    "suburb": "DONCASTER EAST",
-    "state": "VIC",
-    "postcode": "3109",
-    "callsign": "VK3BBW",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-09",
-    "effectiveDate": "2024-01-09"
-  },
-  {
-    "category": "Advanced",
     "name": "DE Hill",
     "suburb": "CASTLE HILL",
     "state": "NSW",
@@ -17983,17 +17917,6 @@
     "expiryDate": "2025-01-21",
     "issuedDate": "2023-12-15",
     "effectiveDate": "2023-12-15"
-  },
-  {
-    "category": "Advanced",
-    "name": "KB Luxford",
-    "suburb": "MOUNT WAVERLEY",
-    "state": "VIC",
-    "postcode": "3149",
-    "callsign": "VK3DAP",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2023-12-06",
-    "effectiveDate": "2023-12-06"
   },
   {
     "category": "Advanced",
@@ -18874,17 +18797,6 @@
     "expiryDate": "2025-01-14",
     "issuedDate": "2024-01-16",
     "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Standard",
-    "name": "David Lush",
-    "suburb": "RYE",
-    "state": "VIC",
-    "postcode": "3941",
-    "callsign": "VK3HDL",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-03",
-    "effectiveDate": "2024-01-03"
   },
   {
     "category": "Standard",
@@ -19798,17 +19710,6 @@
     "expiryDate": "2026-12-18",
     "issuedDate": "2021-11-24",
     "effectiveDate": "2021-11-24"
-  },
-  {
-    "category": "Advanced",
-    "name": "Paul Ciocia",
-    "suburb": "ELWOOD",
-    "state": "VIC",
-    "postcode": "3184",
-    "callsign": "VK3PDC",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-15",
-    "effectiveDate": "2024-01-15"
   },
   {
     "category": "Standard",
@@ -22490,9 +22391,9 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RDX",
-    "expiryDate": "2025-02-08",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
+    "expiryDate": "2026-02-08",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -22501,9 +22402,9 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RDX",
-    "expiryDate": "2025-02-08",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
+    "expiryDate": "2026-02-08",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -29640,9 +29541,9 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RPT",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
+    "expiryDate": "2026-01-13",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -29651,9 +29552,9 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RPT",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
+    "expiryDate": "2026-01-13",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -29662,9 +29563,9 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RPT",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
+    "expiryDate": "2026-01-13",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -29673,9 +29574,9 @@
     "state": "VIC",
     "postcode": "3038",
     "callsign": "VK3RPT",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
+    "expiryDate": "2026-01-13",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -35574,17 +35475,6 @@
     "effectiveDate": "2021-08-03"
   },
   {
-    "category": "Advanced",
-    "name": "Murray R Hardinge",
-    "suburb": "HEALESVILLE MAIN STREET",
-    "state": "VIC",
-    "postcode": "3777",
-    "callsign": "VK3TA",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-09",
-    "effectiveDate": "2024-01-09"
-  },
-  {
     "category": "Foundation",
     "name": "Thomas Marshall",
     "suburb": "MELTON SOUTH",
@@ -35817,17 +35707,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Ronald Blackman",
-    "suburb": "NUMURKAH",
-    "state": "VIC",
-    "postcode": "3636",
-    "callsign": "VK3UI",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2023-12-05",
-    "effectiveDate": "2023-12-05"
-  },
-  {
-    "category": "Advanced",
     "name": "Johnnie Austen",
     "suburb": "WANDONG",
     "state": "VIC",
@@ -35946,17 +35825,6 @@
     "expiryDate": "2025-02-08",
     "issuedDate": "2024-01-31",
     "effectiveDate": "2024-01-31"
-  },
-  {
-    "category": "Standard",
-    "name": "David Shields",
-    "suburb": "LITTLE RIVER",
-    "state": "VIC",
-    "postcode": "3211",
-    "callsign": "VK3VCS",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-20",
-    "effectiveDate": "2024-01-20"
   },
   {
     "category": "Standard",
@@ -36199,17 +36067,6 @@
     "expiryDate": "2027-11-02",
     "issuedDate": "2022-10-19",
     "effectiveDate": "2022-10-19"
-  },
-  {
-    "category": "Advanced",
-    "name": "Damian Ayers",
-    "suburb": "BAYSWATER NORTH",
-    "state": "VIC",
-    "postcode": "3153",
-    "callsign": "VK3WW",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-03",
-    "effectiveDate": "2024-01-03"
   },
   {
     "category": "Advanced",
@@ -38399,17 +38256,6 @@
     "expiryDate": "2027-06-21",
     "issuedDate": "2022-06-16",
     "effectiveDate": "2022-06-16"
-  },
-  {
-    "category": "Advanced",
-    "name": "Norman Samuel Wright",
-    "suburb": "GLASS HOUSE MOUNTAINS",
-    "state": "QLD",
-    "postcode": "4518",
-    "callsign": "VK4KIY",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-15",
-    "effectiveDate": "2024-01-15"
   },
   {
     "category": "Advanced",
@@ -47796,17 +47642,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David Mark Edward Ingram",
-    "suburb": "TARINGA",
-    "state": "QLD",
-    "postcode": "4068",
-    "callsign": "VK4TDI",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-10",
-    "effectiveDate": "2024-01-10"
-  },
-  {
-    "category": "Advanced",
     "name": "ET Brook",
     "suburb": "BANKSIA BEACH",
     "state": "QLD",
@@ -48401,17 +48236,6 @@
   },
   {
     "category": "Advanced",
-    "name": "RJ Stenhouse",
-    "suburb": "JINDALEE",
-    "state": "QLD",
-    "postcode": "4074",
-    "callsign": "VK4ZRS",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2023-12-20",
-    "effectiveDate": "2023-12-20"
-  },
-  {
-    "category": "Advanced",
     "name": "Bruce Morris Hurst",
     "suburb": "ROWES BAY",
     "state": "QLD",
@@ -48838,17 +48662,6 @@
     "expiryDate": "2025-01-28",
     "issuedDate": "2024-01-17",
     "effectiveDate": "2024-01-17"
-  },
-  {
-    "category": "Foundation",
-    "name": "Stephen Kalisch",
-    "suburb": "BARMERA",
-    "state": "SA",
-    "postcode": "5345",
-    "callsign": "VK5FDOG",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2023-12-19",
-    "effectiveDate": "2023-12-19"
   },
   {
     "category": "Foundation",
@@ -50931,28 +50744,6 @@
   },
   {
     "category": "Amateur Repeater",
-    "name": "Lower Murray Amateur Radio Club",
-    "suburb": "MURRAY BRIDGE",
-    "state": "SA",
-    "postcode": "5253",
-    "callsign": "VK5RMB",
-    "expiryDate": "2024-11-01",
-    "issuedDate": "2023-11-03",
-    "effectiveDate": "2023-11-03"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Lower Murray Amateur Radio Club",
-    "suburb": "MURRAY BRIDGE",
-    "state": "SA",
-    "postcode": "5253",
-    "callsign": "VK5RMB",
-    "expiryDate": "2024-11-01",
-    "issuedDate": "2023-11-03",
-    "effectiveDate": "2023-11-03"
-  },
-  {
-    "category": "Amateur Repeater",
     "name": "The Wireless Institute of Australia",
     "suburb": "BAYSWATER",
     "state": "VIC",
@@ -52624,17 +52415,6 @@
     "effectiveDate": "2022-08-21"
   },
   {
-    "category": "Advanced",
-    "name": "Brian Wilson",
-    "suburb": "BRIGHTON",
-    "state": "SA",
-    "postcode": "5048",
-    "callsign": "VK5UW",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-06",
-    "effectiveDate": "2024-01-06"
-  },
-  {
     "category": "Amateur Beacon",
     "name": "The Wireless Institute of Australia",
     "suburb": "BAYSWATER",
@@ -52941,17 +52721,6 @@
     "expiryDate": "2028-06-04",
     "issuedDate": "2023-06-08",
     "effectiveDate": "2023-06-04"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ian Jack Moody",
-    "suburb": "UNLEY",
-    "state": "SA",
-    "postcode": "5061",
-    "callsign": "VK5ZJF",
-    "expiryDate": "2025-01-13",
-    "issuedDate": "2024-01-30",
-    "effectiveDate": "2024-01-30"
   },
   {
     "category": "Advanced",
@@ -60396,9 +60165,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RIN",
-    "expiryDate": "2025-01-11",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
+    "expiryDate": "2026-01-11",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -60407,9 +60176,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RIN",
-    "expiryDate": "2025-01-11",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
+    "expiryDate": "2026-01-11",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -60418,9 +60187,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RIN",
-    "expiryDate": "2025-01-11",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
+    "expiryDate": "2026-01-11",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -60429,9 +60198,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RIN",
-    "expiryDate": "2025-01-11",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
+    "expiryDate": "2026-01-11",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -60440,9 +60209,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RIN",
-    "expiryDate": "2025-01-11",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
+    "expiryDate": "2026-01-11",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
@@ -60451,9 +60220,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RIN",
-    "expiryDate": "2025-01-11",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
+    "expiryDate": "2026-01-11",
+    "issuedDate": "2025-01-14",
+    "effectiveDate": "2025-01-14"
   },
   {
     "category": "Amateur Repeater",
