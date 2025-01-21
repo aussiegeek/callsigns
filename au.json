@@ -298,17 +298,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Katherina Ng",
-    "suburb": "BELCONNEN",
-    "state": "ACT",
-    "postcode": "2616",
-    "callsign": "VK1FKAT",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-08",
-    "effectiveDate": "2024-01-08"
-  },
-  {
-    "category": "Foundation",
     "name": "Mark Pillifeant",
     "suburb": "RIVETT",
     "state": "ACT",
@@ -485,17 +474,6 @@
   },
   {
     "category": "Advanced",
-    "name": "MD Daly",
-    "suburb": "BELCONNEN",
-    "state": "ACT",
-    "postcode": "2616",
-    "callsign": "VK1MD",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2023-12-21",
-    "effectiveDate": "2023-12-21"
-  },
-  {
-    "category": "Advanced",
     "name": "Martin Elias",
     "suburb": "O'CONNOR",
     "state": "ACT",
@@ -515,17 +493,6 @@
     "expiryDate": "2026-05-08",
     "issuedDate": "2021-04-12",
     "effectiveDate": "2021-04-12"
-  },
-  {
-    "category": "Advanced",
-    "name": "Mark A Withers",
-    "suburb": "WODONGA",
-    "state": "VIC",
-    "postcode": "3690",
-    "callsign": "VK1MK",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2023-12-13",
-    "effectiveDate": "2023-12-13"
   },
   {
     "category": "Advanced",
@@ -1849,17 +1816,6 @@
   },
   {
     "category": "Advanced",
-    "name": "George Comninos",
-    "suburb": "KOGARAH",
-    "state": "NSW",
-    "postcode": "2217",
-    "callsign": "VK2AOE",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2023-12-19",
-    "effectiveDate": "2023-12-19"
-  },
-  {
-    "category": "Advanced",
     "name": "Port Stephens Amateur Radio Club Incorporated",
     "suburb": "LEMON TREE PASSAGE",
     "state": "NSW",
@@ -2376,17 +2332,6 @@
     "effectiveDate": "2021-02-09"
   },
   {
-    "category": "Advanced",
-    "name": "Eoin Milne",
-    "suburb": "BLAXLAND",
-    "state": "NSW",
-    "postcode": "2774",
-    "callsign": "VK2CI",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-09",
-    "effectiveDate": "2024-01-09"
-  },
-  {
     "category": "Foundation",
     "name": "Christopher John Howarth",
     "suburb": "GYMEA",
@@ -2770,28 +2715,6 @@
     "expiryDate": "2026-01-22",
     "issuedDate": "2021-01-12",
     "effectiveDate": "2021-01-12"
-  },
-  {
-    "category": "Foundation",
-    "name": "David White",
-    "suburb": "PORT BROUGHTON",
-    "state": "SA",
-    "postcode": "5522",
-    "callsign": "VK2DYT",
-    "expiryDate": null,
-    "issuedDate": "2024-05-23",
-    "effectiveDate": "2024-03-12"
-  },
-  {
-    "category": "Advanced",
-    "name": "Derek Chegwidden",
-    "suburb": "GLENORIE",
-    "state": "NSW",
-    "postcode": "2157",
-    "callsign": "VK2DZ",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-15",
-    "effectiveDate": "2024-01-15"
   },
   {
     "category": "Advanced",
@@ -3243,17 +3166,6 @@
     "expiryDate": null,
     "issuedDate": "2024-05-23",
     "effectiveDate": "2024-01-28"
-  },
-  {
-    "category": "Foundation",
-    "name": "Rananda Anne Rich",
-    "suburb": "CROMER",
-    "state": "NSW",
-    "postcode": "2099",
-    "callsign": "VK2FRAR",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-11",
-    "effectiveDate": "2024-01-11"
   },
   {
     "category": "Foundation",
@@ -3873,17 +3785,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Akhil Vinod Sigtia",
-    "suburb": "ALBURY",
-    "state": "NSW",
-    "postcode": "2640",
-    "callsign": "VK2IEM",
-    "expiryDate": "2024-12-12",
-    "issuedDate": "2023-11-06",
-    "effectiveDate": "2023-11-06"
-  },
-  {
-    "category": "Advanced",
     "name": "Bree Belford",
     "suburb": "SYDNEY",
     "state": "NSW",
@@ -3936,17 +3837,6 @@
     "expiryDate": "2026-08-29",
     "issuedDate": "2021-08-30",
     "effectiveDate": "2021-08-30"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ricky Randall",
-    "suburb": "TRUNKEY CREEK",
-    "state": "NSW",
-    "postcode": "2795",
-    "callsign": "VK2ILC",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2023-12-30",
-    "effectiveDate": "2023-12-30"
   },
   {
     "category": "Advanced",
@@ -4959,17 +4849,6 @@
     "expiryDate": "2025-05-20",
     "issuedDate": "2022-06-06",
     "effectiveDate": "2022-06-06"
-  },
-  {
-    "category": "Standard",
-    "name": "Peter Westerhof",
-    "suburb": "QUEANBEYAN",
-    "state": "NSW",
-    "postcode": "2620",
-    "callsign": "VK2NPW",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-24",
-    "effectiveDate": "2024-01-24"
   },
   {
     "category": "Standard",
@@ -16918,17 +16797,6 @@
     "effectiveDate": "2022-10-17"
   },
   {
-    "category": "Foundation",
-    "name": "Harrison Jubb",
-    "suburb": "MELBOURNE",
-    "state": "VIC",
-    "postcode": "3000",
-    "callsign": "VK3BNB",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-23",
-    "effectiveDate": "2024-01-23"
-  },
-  {
     "category": "Advanced",
     "name": "Michael Fowler",
     "suburb": "WANTIRNA",
@@ -17743,17 +17611,6 @@
     "effectiveDate": "2024-01-11"
   },
   {
-    "category": "Advanced",
-    "name": "M Wada",
-    "suburb": "TEMPLESTOWE",
-    "state": "VIC",
-    "postcode": "3106",
-    "callsign": "VK3FVJ",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-21",
-    "effectiveDate": "2024-01-21"
-  },
-  {
     "category": "Foundation",
     "name": "Wendy Margaret Smith",
     "suburb": "SEYMOUR",
@@ -18195,17 +18052,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Rojel Ferdinand Jaraza",
-    "suburb": "WYNDHAM VALE",
-    "state": "VIC",
-    "postcode": "3024",
-    "callsign": "VK3JRZ",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Foundation",
     "name": "Jared Cooke",
     "suburb": "ROWVILLE",
     "state": "VIC",
@@ -18478,17 +18324,6 @@
     "expiryDate": "2025-02-05",
     "issuedDate": "2024-02-06",
     "effectiveDate": "2024-02-06"
-  },
-  {
-    "category": "Foundation",
-    "name": "Andrew Spreckley",
-    "suburb": "NARRE WARREN",
-    "state": "VIC",
-    "postcode": "3805",
-    "callsign": "VK3LWS",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-29",
-    "effectiveDate": "2024-01-29"
   },
   {
     "category": "Standard",
@@ -34430,17 +34265,6 @@
     "effectiveDate": "2023-12-22"
   },
   {
-    "category": "Advanced",
-    "name": "Dennis K Haustorfer",
-    "suburb": "LARA",
-    "state": "VIC",
-    "postcode": "3212",
-    "callsign": "VK3SM",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-12",
-    "effectiveDate": "2024-01-12"
-  },
-  {
     "category": "Foundation",
     "name": "Sandra Garbett",
     "suburb": "HORSHAM",
@@ -35121,17 +34945,6 @@
     "expiryDate": "2028-03-03",
     "issuedDate": "2023-01-31",
     "effectiveDate": "2023-01-31"
-  },
-  {
-    "category": "Advanced",
-    "name": "DJ Brown",
-    "suburb": "MIDDLE CAMBERWELL",
-    "state": "VIC",
-    "postcode": "3124",
-    "callsign": "VK3XJ",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2023-12-12",
-    "effectiveDate": "2023-12-12"
   },
   {
     "category": "Advanced",
@@ -36267,17 +36080,6 @@
     "effectiveDate": "2023-02-20"
   },
   {
-    "category": "Standard",
-    "name": "Stella Rabic",
-    "suburb": "STANTHORPE",
-    "state": "QLD",
-    "postcode": "4380",
-    "callsign": "VK4ELM",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-02-09",
-    "effectiveDate": "2024-02-09"
-  },
-  {
     "category": "Advanced",
     "name": "Allan Downie",
     "suburb": "PINBARREN",
@@ -36617,17 +36419,6 @@
     "expiryDate": "2026-05-05",
     "issuedDate": "2021-05-06",
     "effectiveDate": "2021-05-06"
-  },
-  {
-    "category": "Standard",
-    "name": "Dale Rabic",
-    "suburb": "STANTHORPE",
-    "state": "QLD",
-    "postcode": "4380",
-    "callsign": "VK4FUN",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-02-09",
-    "effectiveDate": "2024-02-09"
   },
   {
     "category": "Advanced",
@@ -43313,160 +43104,6 @@
     "state": "QLD",
     "postcode": "4021",
     "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
-    "expiryDate": "2025-02-23",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
-    "category": "Amateur Repeater",
-    "name": "Redcliffe And Districts Radio Club Inc",
-    "suburb": "Kippa Ring",
-    "state": "QLD",
-    "postcode": "4021",
-    "callsign": "VK4RRC",
     "expiryDate": "2025-07-03",
     "issuedDate": "2024-07-04",
     "effectiveDate": "2024-07-04"
@@ -43481,6 +43118,160 @@
     "expiryDate": "2025-07-03",
     "issuedDate": "2024-07-04",
     "effectiveDate": "2024-07-04"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
+  },
+  {
+    "category": "Amateur Repeater",
+    "name": "Redcliffe And Districts Radio Club Inc",
+    "suburb": "Kippa Ring",
+    "state": "QLD",
+    "postcode": "4021",
+    "callsign": "VK4RRC",
+    "expiryDate": "2026-03-01",
+    "issuedDate": "2025-01-20",
+    "effectiveDate": "2025-01-20"
   },
   {
     "category": "Amateur Repeater",
@@ -46385,17 +46176,6 @@
     "expiryDate": "2025-02-13",
     "issuedDate": "2024-01-29",
     "effectiveDate": "2024-01-29"
-  },
-  {
-    "category": "Advanced",
-    "name": "Harry Ameer Beg",
-    "suburb": "BURNSIDE",
-    "state": "QLD",
-    "postcode": "4560",
-    "callsign": "VK4TK",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-30",
-    "effectiveDate": "2024-01-30"
   },
   {
     "category": "Advanced",
@@ -51283,17 +51063,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Pfj Lowmass & Am Lowmass",
-    "suburb": "BICKLEY",
-    "state": "WA",
-    "postcode": "6076",
-    "callsign": "VK6AAJ",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Advanced",
     "name": "Peter James Pendlebury",
     "suburb": "DONGARA",
     "state": "WA",
@@ -52391,17 +52160,6 @@
     "expiryDate": "2025-01-31",
     "issuedDate": "2024-01-15",
     "effectiveDate": "2024-01-15"
-  },
-  {
-    "category": "Foundation",
-    "name": "Brett Clarke",
-    "suburb": "LAKE CLIFTON",
-    "state": "WA",
-    "postcode": "6215",
-    "callsign": "VK6OKG",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
   },
   {
     "category": "Advanced",
@@ -60025,17 +59783,6 @@
     "expiryDate": "2025-04-01",
     "issuedDate": "2024-06-27",
     "effectiveDate": "2024-06-27"
-  },
-  {
-    "category": "Advanced",
-    "name": "Xavier Espiau",
-    "suburb": "Winnellie",
-    "state": "NT",
-    "postcode": "0820",
-    "callsign": "VK8XE",
-    "expiryDate": "2025-01-19",
-    "issuedDate": "2023-12-11",
-    "effectiveDate": "2023-12-11"
   },
   {
     "category": "Advanced",
