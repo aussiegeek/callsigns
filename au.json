@@ -440,17 +440,6 @@
     "effectiveDate": "2020-09-01"
   },
   {
-    "category": "Standard",
-    "name": "John Porter",
-    "suburb": "Red Hill",
-    "state": "ACT",
-    "postcode": "2603",
-    "callsign": "VK1POR",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-16",
-    "effectiveDate": "2024-01-16"
-  },
-  {
     "category": "Amateur Repeater",
     "name": "CANBERRA REGION AMATEUR RADIO CLUB INCORPORATED",
     "suburb": "CANBERRA",
@@ -1915,17 +1904,6 @@
   },
   {
     "category": "Advanced",
-    "name": "David Oliver",
-    "suburb": "FIGTREE",
-    "state": "NSW",
-    "postcode": "2525",
-    "callsign": "VK2BSY",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-02",
-    "effectiveDate": "2024-02-02"
-  },
-  {
-    "category": "Advanced",
     "name": "JJ Lupton",
     "suburb": "WOOLOOWARE",
     "state": "NSW",
@@ -2608,17 +2586,6 @@
   },
   {
     "category": "Foundation",
-    "name": "Garry Bootes",
-    "suburb": "MOUNT AUSTIN",
-    "state": "NSW",
-    "postcode": "2650",
-    "callsign": "VK2FNOC",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-02",
-    "effectiveDate": "2024-02-02"
-  },
-  {
-    "category": "Foundation",
     "name": "Edgar Balbuena",
     "suburb": "BLACKTOWN",
     "state": "NSW",
@@ -2693,17 +2660,6 @@
     "expiryDate": "2025-04-06",
     "issuedDate": "2020-04-07",
     "effectiveDate": "2020-04-07"
-  },
-  {
-    "category": "Foundation",
-    "name": "Rodney Wallace",
-    "suburb": "WYONG",
-    "state": "NSW",
-    "postcode": "2259",
-    "callsign": "VK2FRBW",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-10",
-    "effectiveDate": "2024-01-10"
   },
   {
     "category": "Foundation",
@@ -2803,17 +2759,6 @@
     "expiryDate": "2026-02-28",
     "issuedDate": "2021-03-01",
     "effectiveDate": "2021-03-01"
-  },
-  {
-    "category": "Foundation",
-    "name": "Wayne Jaubert",
-    "suburb": "MILPERRA",
-    "state": "NSW",
-    "postcode": "2214",
-    "callsign": "VK2FTW",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
   },
   {
     "category": "Foundation",
@@ -3089,17 +3034,6 @@
     "expiryDate": "2026-07-06",
     "issuedDate": "2021-06-07",
     "effectiveDate": "2021-06-07"
-  },
-  {
-    "category": "Standard",
-    "name": "Stephan Holle",
-    "suburb": "LENNOX HEAD",
-    "state": "NSW",
-    "postcode": "2478",
-    "callsign": "VK2HOL",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-02",
-    "effectiveDate": "2024-02-02"
   },
   {
     "category": "Advanced",
@@ -4101,17 +4035,6 @@
     "expiryDate": "2025-08-26",
     "issuedDate": "2020-08-03",
     "effectiveDate": "2020-08-27"
-  },
-  {
-    "category": "Standard",
-    "name": "Anthony Stocqueler",
-    "suburb": "GREEN POINT",
-    "state": "NSW",
-    "postcode": "2251",
-    "callsign": "VK2PCB",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-05",
-    "effectiveDate": "2024-02-05"
   },
   {
     "category": "Foundation",
@@ -13905,17 +13828,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Jeffrey Lane",
-    "suburb": "MOUNT AUSTIN",
-    "state": "NSW",
-    "postcode": "2650",
-    "callsign": "VK2SW",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-22",
-    "effectiveDate": "2024-01-22"
-  },
-  {
-    "category": "Advanced",
     "name": "Scott William Davies",
     "suburb": "SURRY HILLS",
     "state": "NSW",
@@ -14829,17 +14741,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Robert Mansfield",
-    "suburb": "STRATHFIELD",
-    "state": "NSW",
-    "postcode": "2135",
-    "callsign": "VK2ZML",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-08",
-    "effectiveDate": "2024-01-08"
-  },
-  {
-    "category": "Advanced",
     "name": "Trevor Stevenson",
     "suburb": "HAWKS NEST",
     "state": "NSW",
@@ -15708,17 +15609,6 @@
     "effectiveDate": "2020-06-04"
   },
   {
-    "category": "Standard",
-    "name": "Ian Holt",
-    "suburb": "CRANBOURNE WEST",
-    "state": "VIC",
-    "postcode": "3977",
-    "callsign": "VK3DXR",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-23",
-    "effectiveDate": "2024-01-23"
-  },
-  {
     "category": "Advanced",
     "name": "N A Holmes",
     "suburb": "ORMOND",
@@ -15805,17 +15695,6 @@
     "expiryDate": "2025-02-14",
     "issuedDate": "2024-02-15",
     "effectiveDate": "2024-02-15"
-  },
-  {
-    "category": "Foundation",
-    "name": "Denis Edmund Crowe",
-    "suburb": "GOORNONG",
-    "state": "VIC",
-    "postcode": "3557",
-    "callsign": "VK3FADC",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-02",
-    "effectiveDate": "2024-02-02"
   },
   {
     "category": "Foundation",
@@ -16630,17 +16509,6 @@
     "expiryDate": "2025-02-14",
     "issuedDate": "2024-02-15",
     "effectiveDate": "2024-02-15"
-  },
-  {
-    "category": "Standard",
-    "name": "Stephen Christon Smith",
-    "suburb": "SOUTH MELBOURNE",
-    "state": "VIC",
-    "postcode": "3205",
-    "callsign": "VK3MTR",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
   },
   {
     "category": "Standard",
@@ -32714,17 +32582,6 @@
     "effectiveDate": "2024-01-09"
   },
   {
-    "category": "Standard",
-    "name": "Shaun McInerney",
-    "suburb": "MINERS REST",
-    "state": "VIC",
-    "postcode": "3352",
-    "callsign": "VK3VLY",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-04",
-    "effectiveDate": "2024-01-04"
-  },
-  {
     "category": "Advanced",
     "name": "John A McKay",
     "suburb": "MAIDEN GULLY",
@@ -32756,17 +32613,6 @@
     "expiryDate": "2025-02-15",
     "issuedDate": "2024-02-07",
     "effectiveDate": "2024-02-07"
-  },
-  {
-    "category": "Standard",
-    "name": "Robert Henry Boyd",
-    "suburb": "Blackburn",
-    "state": "VIC",
-    "postcode": "3130",
-    "callsign": "VK3VRB",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-18",
-    "effectiveDate": "2024-01-18"
   },
   {
     "category": "Standard",
@@ -33155,17 +33001,6 @@
   },
   {
     "category": "Advanced",
-    "name": "NW Matchan",
-    "suburb": "MOUNT WAVERLEY",
-    "state": "VIC",
-    "postcode": "3149",
-    "callsign": "VK3ZVE",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-08",
-    "effectiveDate": "2024-01-08"
-  },
-  {
-    "category": "Advanced",
     "name": "Z Svalbe",
     "suburb": "BORONIA",
     "state": "VIC",
@@ -33273,28 +33108,6 @@
     "expiryDate": "2025-06-27",
     "issuedDate": "2020-05-20",
     "effectiveDate": "2020-05-20"
-  },
-  {
-    "category": "Foundation",
-    "name": "Wayne Robertson",
-    "suburb": "SOUTH NANANGO",
-    "state": "QLD",
-    "postcode": "4615",
-    "callsign": "VK4AGR",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-23",
-    "effectiveDate": "2024-01-23"
-  },
-  {
-    "category": "Advanced",
-    "name": "Leslie Joseph Steel",
-    "suburb": "KELSO",
-    "state": "QLD",
-    "postcode": "4815",
-    "callsign": "VK4ALS",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-02",
-    "effectiveDate": "2024-01-02"
   },
   {
     "category": "Advanced",
@@ -33551,17 +33364,6 @@
   },
   {
     "category": "Advanced",
-    "name": "John Lynch",
-    "suburb": "NEWPORT",
-    "state": "QLD",
-    "postcode": "4020",
-    "callsign": "VK4CTT",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-09",
-    "effectiveDate": "2024-01-09"
-  },
-  {
-    "category": "Advanced",
     "name": "RF Alleway",
     "suburb": "WONTHAGGI",
     "state": "VIC",
@@ -33669,17 +33471,6 @@
     "expiryDate": "2025-02-12",
     "issuedDate": "2024-01-31",
     "effectiveDate": "2024-01-31"
-  },
-  {
-    "category": "Advanced",
-    "name": "David Nebe",
-    "suburb": "BUNDABERG",
-    "state": "QLD",
-    "postcode": "4670",
-    "callsign": "VK4DN",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
   },
   {
     "category": "Advanced",
@@ -34266,17 +34057,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Derek K Griffin",
-    "suburb": "TARRAGINDI",
-    "state": "QLD",
-    "postcode": "4121",
-    "callsign": "VK4KKG",
-    "expiryDate": null,
-    "issuedDate": "2024-05-23",
-    "effectiveDate": "2024-01-25"
-  },
-  {
-    "category": "Advanced",
     "name": "Leon Powell",
     "suburb": "NORTH ROCKHAMPTON",
     "state": "QLD",
@@ -34417,17 +34197,6 @@
     "expiryDate": "2025-02-04",
     "issuedDate": "2024-01-02",
     "effectiveDate": "2024-01-02"
-  },
-  {
-    "category": "Standard",
-    "name": "SA Gray",
-    "suburb": "NARANGBA",
-    "state": "QLD",
-    "postcode": "4504",
-    "callsign": "VK4MSG",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-10",
-    "effectiveDate": "2024-01-10"
   },
   {
     "category": "Standard",
@@ -43945,17 +43714,6 @@
     "effectiveDate": "2021-10-25"
   },
   {
-    "category": "Advanced",
-    "name": "Jack Bugno",
-    "suburb": "GLENELG NORTH",
-    "state": "SA",
-    "postcode": "5045",
-    "callsign": "VK5CJC",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-02-03",
-    "effectiveDate": "2024-02-03"
-  },
-  {
     "category": "Foundation",
     "name": "Colin Rowsell",
     "suburb": "ALDINGA BEACH",
@@ -44053,17 +43811,6 @@
     "expiryDate": "2025-02-15",
     "issuedDate": "2024-02-16",
     "effectiveDate": "2024-02-16"
-  },
-  {
-    "category": "Standard",
-    "name": "Timothy Dodd",
-    "suburb": "BRIDGEWATER",
-    "state": "SA",
-    "postcode": "5155",
-    "callsign": "VK5ELM",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-18",
-    "effectiveDate": "2024-01-18"
   },
   {
     "category": "Advanced",
@@ -47727,17 +47474,6 @@
     "expiryDate": "2025-02-14",
     "issuedDate": "2024-01-18",
     "effectiveDate": "2024-01-18"
-  },
-  {
-    "category": "Advanced",
-    "name": "CW Operator's Club Inc",
-    "suburb": "PASADENA",
-    "state": "SA",
-    "postcode": "5042",
-    "callsign": "VK5WAT",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2024-01-29",
-    "effectiveDate": "2024-01-29"
   },
   {
     "category": "Amateur Beacon",
@@ -52614,17 +52350,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Ronald Sebastian Kristijanto",
-    "suburb": "WINTHROP",
-    "state": "WA",
-    "postcode": "6150",
-    "callsign": "VK6XS",
-    "expiryDate": "2025-02-02",
-    "issuedDate": "2023-12-25",
-    "effectiveDate": "2023-12-25"
-  },
-  {
-    "category": "Advanced",
     "name": "Kylea Ann Garnett",
     "suburb": "TOODYAY",
     "state": "WA",
@@ -54610,9 +54335,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54621,9 +54346,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54632,9 +54357,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54643,9 +54368,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54654,9 +54379,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54665,9 +54390,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54676,9 +54401,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54687,9 +54412,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54698,9 +54423,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54709,9 +54434,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54720,9 +54445,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54731,9 +54456,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54742,9 +54467,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
@@ -54753,9 +54478,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RJG",
-    "expiryDate": "2025-02-21",
-    "issuedDate": "2024-02-01",
-    "effectiveDate": "2024-02-01"
+    "expiryDate": "2026-02-21",
+    "issuedDate": "2025-02-03",
+    "effectiveDate": "2025-02-03"
   },
   {
     "category": "Amateur Repeater",
