@@ -12783,17 +12783,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Tom Burt",
-    "suburb": "RYLSTONE",
-    "state": "NSW",
-    "postcode": "2849",
-    "callsign": "VK2TB",
-    "expiryDate": "2025-02-20",
-    "issuedDate": "2020-02-14",
-    "effectiveDate": "2020-02-14"
-  },
-  {
-    "category": "Advanced",
     "name": "Michael Farrer",
     "suburb": "Sussex Inlet",
     "state": "NSW",
@@ -15560,9 +15549,9 @@
     "state": "VIC",
     "postcode": "3554",
     "callsign": "VK3RBE",
-    "expiryDate": "2025-03-11",
-    "issuedDate": "2024-03-12",
-    "effectiveDate": "2024-03-12"
+    "expiryDate": "2026-03-11",
+    "issuedDate": "2025-02-21",
+    "effectiveDate": "2025-02-21"
   },
   {
     "category": "Amateur Repeater",
@@ -15571,9 +15560,9 @@
     "state": "VIC",
     "postcode": "3554",
     "callsign": "VK3RBE",
-    "expiryDate": "2025-03-11",
-    "issuedDate": "2024-03-12",
-    "effectiveDate": "2024-03-12"
+    "expiryDate": "2026-03-11",
+    "issuedDate": "2025-02-21",
+    "effectiveDate": "2025-02-21"
   },
   {
     "category": "Amateur Repeater",
@@ -40833,17 +40822,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Benjamin Spiteri",
-    "suburb": "PITT TOWN",
-    "state": "NSW",
-    "postcode": "2756",
-    "callsign": "VK4XM",
-    "expiryDate": "2025-02-20",
-    "issuedDate": "2020-02-21",
-    "effectiveDate": "2020-02-21"
-  },
-  {
-    "category": "Advanced",
     "name": "Richard Sargeant",
     "suburb": "BIRKDALE",
     "state": "QLD",
@@ -45054,17 +45032,6 @@
     "expiryDate": "2027-10-27",
     "issuedDate": "2022-09-20",
     "effectiveDate": "2022-09-20"
-  },
-  {
-    "category": "Advanced",
-    "name": "Maarten Plug",
-    "suburb": "CAPE BURNEY",
-    "state": "WA",
-    "postcode": "6532",
-    "callsign": "VK6MP",
-    "expiryDate": "2025-02-20",
-    "issuedDate": "2024-02-21",
-    "effectiveDate": "2024-02-21"
   },
   {
     "category": "Standard",
