@@ -12860,17 +12860,6 @@
   },
   {
     "category": "Advanced",
-    "name": "Paul Andrew Paradigm",
-    "suburb": "MARRICKVILLE",
-    "state": "NSW",
-    "postcode": "2204",
-    "callsign": "VK2TXT",
-    "expiryDate": "2025-02-27",
-    "issuedDate": "2023-01-31",
-    "effectiveDate": "2023-01-31"
-  },
-  {
-    "category": "Advanced",
     "name": "Steven Sheekey",
     "suburb": "OYSTER BAY",
     "state": "NSW",
@@ -30415,17 +30404,6 @@
     "effectiveDate": "2020-10-06"
   },
   {
-    "category": "Standard",
-    "name": "Michael Aldridge",
-    "suburb": "CRANBROOK",
-    "state": "QLD",
-    "postcode": "4814",
-    "callsign": "VK4AFW",
-    "expiryDate": "2025-02-27",
-    "issuedDate": "2024-02-29",
-    "effectiveDate": "2024-02-29"
-  },
-  {
     "category": "Advanced",
     "name": "Ronald Southworth",
     "suburb": "MOUNT MELLUM",
@@ -40414,17 +40392,6 @@
     "effectiveDate": "2020-07-28"
   },
   {
-    "category": "Foundation",
-    "name": "Stephen Cooper",
-    "suburb": "CORINGA",
-    "state": "QLD",
-    "postcode": "4621",
-    "callsign": "VK4SJC",
-    "expiryDate": "2025-02-27",
-    "issuedDate": "2024-02-28",
-    "effectiveDate": "2024-02-28"
-  },
-  {
     "category": "Advanced",
     "name": "Shane Keith Hoffmann",
     "suburb": "TOOWOOMBA",
@@ -49682,9 +49649,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RBL",
-    "expiryDate": "2025-03-14",
-    "issuedDate": "2024-04-30",
-    "effectiveDate": "2024-03-01"
+    "expiryDate": "2026-03-14",
+    "issuedDate": "2025-02-28",
+    "effectiveDate": "2025-02-28"
   },
   {
     "category": "Amateur Repeater",
@@ -49693,9 +49660,9 @@
     "state": "TAS",
     "postcode": "7250",
     "callsign": "VK7RBL",
-    "expiryDate": "2025-03-14",
-    "issuedDate": "2024-04-30",
-    "effectiveDate": "2024-03-01"
+    "expiryDate": "2026-03-14",
+    "issuedDate": "2025-02-28",
+    "effectiveDate": "2025-02-28"
   },
   {
     "category": "Amateur Repeater",
