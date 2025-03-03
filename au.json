@@ -1298,17 +1298,6 @@
     "effectiveDate": "2023-03-01"
   },
   {
-    "category": "Advanced",
-    "name": "BC Farrar",
-    "suburb": "CARDIFF SOUTH",
-    "state": "NSW",
-    "postcode": "2285",
-    "callsign": "VK2ALS",
-    "expiryDate": "2025-03-01",
-    "issuedDate": "2020-01-23",
-    "effectiveDate": "2020-01-23"
-  },
-  {
     "category": "Standard",
     "name": "Alex Calos",
     "suburb": "Hoxton Park",
@@ -1637,17 +1626,6 @@
     "expiryDate": "2026-07-29",
     "issuedDate": "2021-06-23",
     "effectiveDate": "2021-06-23"
-  },
-  {
-    "category": "Advanced",
-    "name": "Carmel Morris",
-    "suburb": "WAHROONGA",
-    "state": "NSW",
-    "postcode": "2076",
-    "callsign": "VK2CAR",
-    "expiryDate": "2025-03-01",
-    "issuedDate": "2020-02-06",
-    "effectiveDate": "2020-02-06"
   },
   {
     "category": "Advanced",
@@ -2990,17 +2968,6 @@
     "expiryDate": "2025-05-20",
     "issuedDate": "2022-06-06",
     "effectiveDate": "2022-06-06"
-  },
-  {
-    "category": "Standard",
-    "name": "Richard Malcolm Ames",
-    "suburb": "ST IVES",
-    "state": "NSW",
-    "postcode": "2075",
-    "callsign": "VK2NRA",
-    "expiryDate": "2025-03-01",
-    "issuedDate": "2020-02-28",
-    "effectiveDate": "2020-02-28"
   },
   {
     "category": "Advanced",
@@ -30303,17 +30270,6 @@
     "expiryDate": "2025-10-16",
     "issuedDate": "2020-10-19",
     "effectiveDate": "2020-10-19"
-  },
-  {
-    "category": "Advanced",
-    "name": "Ioannis Chalkiarakis",
-    "suburb": "BENTLEIGH",
-    "state": "VIC",
-    "postcode": "3204",
-    "callsign": "VK3YP",
-    "expiryDate": "2025-03-01",
-    "issuedDate": "2023-02-14",
-    "effectiveDate": "2023-02-14"
   },
   {
     "category": "Advanced",
